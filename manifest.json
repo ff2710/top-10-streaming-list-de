@@ -1,8 +1,8 @@
 {
-  "id": "de.justwatch.manifest",
+  "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
-  "name": "JustWatch Top 10 Trending DE",
-  "description": "Auto-generated 2026-03-10T16:14:22.296Z.",
+  "name": "JustWatch Top 10 Trending DE (7 Days)",
+  "description": "Auto-generated 2026-03-10T16:53:13.366Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -170,8 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-10T16:14:22.296Z",
+    "generatedAt": "2026-03-10T16:53:13.366Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
-    "country": "DE"
+    "country": "DE",
+    "tmdbMovies": [
+      "tmdb:1265609",
+      "tmdb:11975",
+      "tmdb:1162321",
+      "tmdb:948549",
+      "tmdb:12590",
+      "tmdb:293767",
+      "tmdb:1400244",
+      "tmdb:8066",
+      "tmdb:1272837"
+    ],
+    "tmdbShows": [
+      "tmdb:290856",
+      "tmdb:255661",
+      "tmdb:285739",
+      "tmdb:1411",
+      "tmdb:202411",
+      "tmdb:313298",
+      "tmdb:284974",
+      "tmdb:61431",
+      "tmdb:93794",
+      "tmdb:241854"
+    ]
   }
 }
