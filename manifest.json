@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-10T16:53:13.366Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-10T17:13:06.616Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -26,63 +26,63 @@
           "type": "movie",
           "name": "War Machine",
           "year": 2026,
-          "poster": "/poster/342792728/s592/war-machine-2026.{format}"
+          "poster": "https://images.justwatch.com/poster/342792728/s592/war-machine-2026.jpg"
         },
         {
           "id": "tmdb:11975",
           "type": "movie",
           "name": "Der Regenmacher",
           "year": 1997,
-          "poster": "/poster/32252269/s592/Der-Regenmacher.{format}"
+          "poster": "https://images.justwatch.com/poster/32252269/s592/Der-Regenmacher.jpg"
         },
         {
           "id": "tmdb:1162321",
           "type": "movie",
           "name": "Eine Million Minuten",
           "year": 2024,
-          "poster": "/poster/316913423/s592/eine-million-minuten.{format}"
+          "poster": "https://images.justwatch.com/poster/316913423/s592/eine-million-minuten.jpg"
         },
         {
           "id": "tmdb:948549",
           "type": "movie",
           "name": "Love Lies Bleeding",
           "year": 2024,
-          "poster": "/poster/322447047/s592/love-lies-bleeding-2024.{format}"
+          "poster": "https://images.justwatch.com/poster/322447047/s592/love-lies-bleeding-2024.jpg"
         },
         {
           "id": "tmdb:12590",
           "type": "movie",
           "name": "Below - Da unten hört dich niemand schreien",
           "year": 2002,
-          "poster": "/poster/193805987/s592/Below-Da-unten-hoert-dich-niemand-schreien.{format}"
+          "poster": "https://images.justwatch.com/poster/193805987/s592/Below-Da-unten-hoert-dich-niemand-schreien.jpg"
         },
         {
           "id": "tmdb:293767",
           "type": "movie",
           "name": "Die irre Heldentour des Billy Lynn",
           "year": 2017,
-          "poster": "/poster/3998224/s592/Billy-Lynns-Long-Halftime-Walk.{format}"
+          "poster": "https://images.justwatch.com/poster/3998224/s592/Billy-Lynns-Long-Halftime-Walk.jpg"
         },
         {
           "id": "tmdb:1400244",
           "type": "movie",
           "name": "Fabula",
           "year": 2025,
-          "poster": "/poster/340639415/s592/fabula.{format}"
+          "poster": "https://images.justwatch.com/poster/340639415/s592/fabula.jpg"
         },
         {
           "id": "tmdb:8066",
           "type": "movie",
           "name": "Stay",
           "year": 2005,
-          "poster": "/poster/11012155/s592/Stay.{format}"
+          "poster": "https://images.justwatch.com/poster/11012155/s592/Stay.jpg"
         },
         {
           "id": "tmdb:1272837",
           "type": "movie",
           "name": "28 Years Later: The Bone Temple",
           "year": 2026,
-          "poster": "/poster/341016836/s592/28-years-later-the-bone-temple.{format}"
+          "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
         }
       ]
     },
@@ -97,70 +97,70 @@
           "type": "series",
           "name": "Marshals",
           "year": 2026,
-          "poster": "/poster/340694966/s592/marshals.{format}"
+          "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
         },
         {
           "id": "tmdb:255661",
           "type": "series",
           "name": "Young Sherlock",
           "year": 2026,
-          "poster": "/poster/342837915/s592/young-sherlock.{format}"
+          "poster": "https://images.justwatch.com/poster/342837915/s592/young-sherlock.jpg"
         },
         {
           "id": "tmdb:285739",
           "type": "series",
           "name": "Vladimir",
           "year": 2026,
-          "poster": "/poster/341269361/s592/vladimir.{format}"
+          "poster": "https://images.justwatch.com/poster/341269361/s592/vladimir.jpg"
         },
         {
           "id": "tmdb:1411",
           "type": "series",
           "name": "Person of Interest",
           "year": 2011,
-          "poster": "/poster/123546636/s592/Person-of-Interest.{format}"
+          "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
         },
         {
           "id": "tmdb:202411",
           "type": "series",
           "name": "Monarch: Legacy of Monsters",
           "year": 2023,
-          "poster": "/poster/308824959/s592/monarch-legacy-of-monsters.{format}"
+          "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
         },
         {
           "id": "tmdb:313298",
           "type": "series",
           "name": "Die Dinosaurier",
           "year": 2026,
-          "poster": "/poster/342802855/s592/the-dinosaurs.{format}"
+          "poster": "https://images.justwatch.com/poster/342802855/s592/the-dinosaurs.jpg"
         },
         {
           "id": "tmdb:284974",
           "type": "series",
           "name": "Cold Case Files: Dead West",
           "year": 2025,
-          "poster": "/poster/326135323/s592/cold-case-files-dead-west.{format}"
+          "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
         },
         {
           "id": "tmdb:61431",
           "type": "series",
           "name": "Agatha Christie: Mörderische Spiele",
           "year": 2009,
-          "poster": "/poster/239549151/s592/Agatha-Christie-Moerderische-Spiele.{format}"
+          "poster": "https://images.justwatch.com/poster/239549151/s592/Agatha-Christie-Moerderische-Spiele.jpg"
         },
         {
           "id": "tmdb:93794",
           "type": "series",
           "name": "Die Slawen - Das Feuer der Macht",
           "year": 2021,
-          "poster": "/poster/302447177/s592/Slawen.{format}"
+          "poster": "https://images.justwatch.com/poster/302447177/s592/Slawen.jpg"
         },
         {
           "id": "tmdb:241854",
           "type": "series",
           "name": "Sex.Right.Now",
           "year": 2016,
-          "poster": "/poster/320431260/s592/sex-right-now.{format}"
+          "poster": "https://images.justwatch.com/poster/320431260/s592/sex-right-now.jpg"
         }
       ]
     }
@@ -170,7 +170,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-10T16:53:13.366Z",
+    "generatedAt": "2026-03-10T17:13:06.616Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
