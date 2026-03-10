@@ -1,4 +1,3 @@
-
 import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
@@ -7,20 +6,16 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const JUSTWATCH_GRAPHQL = "https://apis.justwatch.com/graphql";
-const COUNTRY = "DE";
+const COUNTRY  = "DE";
 const LANGUAGE = "de";
-const TOP_N = 10;
-const OUTPUT_FILE = path.join(__dirname, "manifest.json");
+const TOP_N    = 10;
 
-// ─── GraphQL Query ─────────────────────────────────────────────────────────────
-// Uses GetPopularTitles with POPULAR sort – this is what powers the JustWatch charts
-
-const POPULAR_TITLES_QUERY = `
+const QUERY = `
   query GetPopularTitles(
     $country: Country!,
     $language: Language!,
     $first: Int!,
-    $popularTitlesSortBy: PopularTitlesSorting! = POPULAR,
+    $popularTitlesSortBy: PopularTitlesSorting! = TRENDING,
     $popularAfterCursor: String,
     $popularTitlesFilter: TitleFilter,
     $sortRandomSeed: Int! = 0
@@ -59,7 +54,7 @@ function buildRequest(objectType) {
       country: COUNTRY,
       language: LANGUAGE,
       first: TOP_N,
-      popularTitlesSortBy: "POPULAR",
+      popularTitlesSortBy: "TRENDING",
       popularAfterCursor: "",
       sortRandomSeed: 0,
       popularTitlesFilter: {
@@ -74,15 +69,13 @@ function buildRequest(objectType) {
         monetizationTypes: [],
       },
     },
-    query: POPULAR_TITLES_QUERY,
+    query: QUERY,
   };
 }
 
-// ─── Fetch ─────────────────────────────────────────────────────────────────────
-
 async function fetchCharts(objectType) {
   const label = objectType === "MOVIE" ? "Movies" : "Shows";
-  console.log(`Fetching Top ${TOP_N} ${label} (DE, most popular)...`);
+  console.log(`Fetching Top ${TOP_N} trending ${label} (DE, 7 days)...`);
 
   const res = await fetch(JUSTWATCH_GRAPHQL, {
     method: "POST",
@@ -98,40 +91,49 @@ async function fetchCharts(objectType) {
 
   if (!res.ok) {
     const text = await res.text();
-    throw new Error(`JustWatch API ${res.status} for ${objectType}: ${text.slice(0, 200)}`);
+    throw new Error(`JustWatch API ${res.status} for ${objectType}: ${text.slice(0, 300)}`);
   }
 
   const json = await res.json();
-
-  if (json.errors) {
-    throw new Error(`GraphQL errors: ${JSON.stringify(json.errors)}`);
-  }
-
+  if (json.errors) throw new Error(`GraphQL errors: ${JSON.stringify(json.errors)}`);
   return json?.data?.popularTitles?.edges ?? [];
 }
 
-// ─── Transform ─────────────────────────────────────────────────────────────────
-
 function edgeToMeta(edge, stremioType) {
-  const node = edge.node;
-  const content = node.content ?? {};
-  const tmdbId = content?.externalIds?.tmdbId;
-
+  const content = edge.node.content ?? {};
+  const tmdbId  = content?.externalIds?.tmdbId;
   if (!tmdbId) {
-    console.warn(`  No TMDB ID for "${content.title}" (JW objectId: ${node.objectId}) - skipping.`);
+    console.warn(`  No TMDB ID for "${content.title}" – skipping.`);
     return null;
   }
-
   return {
-    id: `tmdb:${tmdbId}`,
-    type: stremioType,
-    name: content.title ?? "Unknown",
-    year: content.originalReleaseYear ?? null,
+    id:     `tmdb:${tmdbId}`,
+    type:   stremioType,
+    name:   content.title ?? "Unknown",
+    year:   content.originalReleaseYear ?? null,
     poster: content.posterUrl ?? undefined,
   };
 }
 
-// ─── Main ──────────────────────────────────────────────────────────────────────
+function writeManifest(filename, catalogsArray, description) {
+  const now = new Date().toISOString();
+  const manifest = {
+    id:          `de.justwatch.${filename.replace(".json", "")}`,
+    version:     "1.0.0",
+    name:        description,
+    description: `Auto-generated ${now}.`,
+    logo:        "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
+    resources:   ["catalog"],
+    types:       catalogsArray.map((c) => c.type),
+    idPrefixes:  ["tmdb:"],
+    catalogs:    catalogsArray,
+    behaviorHints: { configurable: false, adult: false },
+    _meta: { generatedAt: now, source: "https://www.justwatch.com/de/streaming-charts", country: COUNTRY },
+  };
+  const outPath = path.join(__dirname, filename);
+  fs.writeFileSync(outPath, JSON.stringify(manifest, null, 2), "utf-8");
+  console.log(`  Written: ${filename}`);
+}
 
 async function main() {
   console.log("JustWatch -> Stremio Manifest Generator\n");
@@ -144,52 +146,38 @@ async function main() {
   const movies = movieEdges.map((e) => edgeToMeta(e, "movie")).filter(Boolean).slice(0, TOP_N);
   const shows  = showEdges.map((e) => edgeToMeta(e, "series")).filter(Boolean).slice(0, TOP_N);
 
-  console.log(`\nMovies collected: ${movies.length}`);
+  console.log(`\nMovies: ${movies.length}`);
   movies.forEach((m, i) => console.log(`  ${i + 1}. ${m.name} (${m.year}) -> ${m.id}`));
-
-  console.log(`\nShows collected: ${shows.length}`);
+  console.log(`\nShows: ${shows.length}`);
   shows.forEach((s, i) => console.log(`  ${i + 1}. ${s.name} (${s.year}) -> ${s.id}`));
 
-  const now = new Date().toISOString();
-
-  const manifest = {
-    id: "de.justwatch.top10-7days",
-    version: "1.0.0",
-    name: "JustWatch Top 10 DE",
-    description: `Auto-generated ${now}. Top 10 Movies & Shows in Germany by popularity.`,
-    logo: "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
-    resources: ["catalog"],
-    types: ["movie", "series"],
-    idPrefixes: ["tmdb:"],
-    catalogs: [
-      {
-        type: "movie",
-        id: "top10-movies-de-7d",
-        name: "Top 10 Movies DE 7 Days",
-        extra: [],
-        items: movies,
-      },
-      {
-        type: "series",
-        id: "top10-shows-de-7d",
-        name: "Top 10 Shows DE 7 Days",
-        extra: [],
-        items: shows,
-      },
-    ],
-    behaviorHints: { configurable: false, adult: false },
-    _meta: {
-      generatedAt: now,
-      source: "https://www.justwatch.com/de/streaming-charts",
-      country: COUNTRY,
-      tmdbMovies: movies.map((m) => m.id),
-      tmdbShows: shows.map((s) => s.id),
-    },
+  const movieCatalog = {
+    type:  "movie",
+    id:    "top10-movies-de-trending-7d",
+    name:  "Top 10 Trending Movies DE (7 Days)",
+    extra: [],
+    items: movies,
   };
 
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(manifest, null, 2), "utf-8");
-  console.log(`\nmanifest.json written -> ${OUTPUT_FILE}`);
-  console.log("Done!\n");
+  const showCatalog = {
+    type:  "series",
+    id:    "top10-shows-de-trending-7d",
+    name:  "Top 10 Trending Shows DE (7 Days)",
+    extra: [],
+    items: shows,
+  };
+
+  console.log("\nWriting manifests...");
+  // Combined
+  writeManifest("manifest.json",        [movieCatalog, showCatalog], "JustWatch Top 10 Trending DE");
+  // Separate – use these URLs in AIOMetadata
+  writeManifest("manifest-movies.json", [movieCatalog],              "Top 10 Trending Movies DE (7 Days)");
+  writeManifest("manifest-shows.json",  [showCatalog],               "Top 10 Trending Shows DE (7 Days)");
+
+  console.log("\nDone! Your 3 manifest URLs:");
+  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest.json");
+  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest-movies.json");
+  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest-shows.json");
 }
 
 main().catch((err) => {
