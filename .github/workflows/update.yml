@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.email "bot@example.com"
           git config user.name "ManifestBot"
-          git add manifest.json
+          git add manifest.json catalog/
           git diff --cached --quiet || git commit -m "chore: update manifest $(date -u +%F)"
           git push
