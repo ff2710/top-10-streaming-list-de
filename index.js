@@ -108,7 +108,9 @@ function edgeToMeta(edge, stremioType) {
     type:   stremioType,
     name:   content.title ?? "Unknown",
     year:   content.originalReleaseYear ?? null,
-    poster: content.posterUrl ?? undefined,
+    poster: content.posterUrl
+  ? `https://images.justwatch.com${content.posterUrl.replace("{format}", "jpg")}`
+  : undefined,
   };
 }
 
