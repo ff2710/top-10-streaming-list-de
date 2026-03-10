@@ -1,0 +1,98 @@
+{
+  "id": "de.justwatch.manifest-movies",
+  "version": "1.0.0",
+  "name": "Top 10 Trending Movies DE (7 Days)",
+  "description": "Auto-generated 2026-03-10T16:14:22.297Z.",
+  "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tmdb:"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "top10-movies-de-trending-7d",
+      "name": "Top 10 Trending Movies DE (7 Days)",
+      "extra": [],
+      "items": [
+        {
+          "id": "tmdb:1265609",
+          "type": "movie",
+          "name": "War Machine",
+          "year": 2026,
+          "poster": "/poster/342792728/s592/war-machine-2026.{format}"
+        },
+        {
+          "id": "tmdb:11975",
+          "type": "movie",
+          "name": "Der Regenmacher",
+          "year": 1997,
+          "poster": "/poster/32252269/s592/Der-Regenmacher.{format}"
+        },
+        {
+          "id": "tmdb:1162321",
+          "type": "movie",
+          "name": "Eine Million Minuten",
+          "year": 2024,
+          "poster": "/poster/316913423/s592/eine-million-minuten.{format}"
+        },
+        {
+          "id": "tmdb:948549",
+          "type": "movie",
+          "name": "Love Lies Bleeding",
+          "year": 2024,
+          "poster": "/poster/322447047/s592/love-lies-bleeding-2024.{format}"
+        },
+        {
+          "id": "tmdb:12590",
+          "type": "movie",
+          "name": "Below - Da unten hört dich niemand schreien",
+          "year": 2002,
+          "poster": "/poster/193805987/s592/Below-Da-unten-hoert-dich-niemand-schreien.{format}"
+        },
+        {
+          "id": "tmdb:293767",
+          "type": "movie",
+          "name": "Die irre Heldentour des Billy Lynn",
+          "year": 2017,
+          "poster": "/poster/3998224/s592/Billy-Lynns-Long-Halftime-Walk.{format}"
+        },
+        {
+          "id": "tmdb:1400244",
+          "type": "movie",
+          "name": "Fabula",
+          "year": 2025,
+          "poster": "/poster/340639415/s592/fabula.{format}"
+        },
+        {
+          "id": "tmdb:8066",
+          "type": "movie",
+          "name": "Stay",
+          "year": 2005,
+          "poster": "/poster/11012155/s592/Stay.{format}"
+        },
+        {
+          "id": "tmdb:1272837",
+          "type": "movie",
+          "name": "28 Years Later: The Bone Temple",
+          "year": 2026,
+          "poster": "/poster/341016836/s592/28-years-later-the-bone-temple.{format}"
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "adult": false
+  },
+  "_meta": {
+    "generatedAt": "2026-03-10T16:14:22.297Z",
+    "source": "https://www.justwatch.com/de/streaming-charts",
+    "country": "DE"
+  }
+}
