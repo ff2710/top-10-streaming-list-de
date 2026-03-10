@@ -166,24 +166,21 @@ async function main() {
       tmdbShows:   shows.map((s) => s.id),
     },
   };
-
   fs.writeFileSync(OUTPUT, JSON.stringify(manifest, null, 2), "utf-8");
-  console.log(`\nmanifest.json written -> ${OUTPUT}`);
-  console.log("\nYour manifest URL:");
-  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest.json\n");
-}
 
-fs.mkdirSync(path.join(__dirname, "catalog/movie"), { recursive: true });
+  fs.mkdirSync(path.join(__dirname, "catalog/movie"), { recursive: true });
   fs.writeFileSync(
     path.join(__dirname, "catalog/movie/top10-movies-de-trending-7d.json"),
     JSON.stringify({ metas: movies }, null, 2), "utf-8"
   );
-
   fs.mkdirSync(path.join(__dirname, "catalog/series"), { recursive: true });
   fs.writeFileSync(
     path.join(__dirname, "catalog/series/top10-shows-de-trending-7d.json"),
     JSON.stringify({ metas: shows }, null, 2), "utf-8"
   );
+
+  console.log("\nDone!");
+}
 
 main().catch((err) => {
   console.error("\nError:", err.message);
