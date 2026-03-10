@@ -1,0 +1,74 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:290856",
+      "type": "series",
+      "name": "Marshals",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
+    },
+    {
+      "id": "tmdb:255661",
+      "type": "series",
+      "name": "Young Sherlock",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342837915/s592/young-sherlock.jpg"
+    },
+    {
+      "id": "tmdb:285739",
+      "type": "series",
+      "name": "Vladimir",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341269361/s592/vladimir.jpg"
+    },
+    {
+      "id": "tmdb:1411",
+      "type": "series",
+      "name": "Person of Interest",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
+    },
+    {
+      "id": "tmdb:202411",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
+    },
+    {
+      "id": "tmdb:313298",
+      "type": "series",
+      "name": "Die Dinosaurier",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342802855/s592/the-dinosaurs.jpg"
+    },
+    {
+      "id": "tmdb:284974",
+      "type": "series",
+      "name": "Cold Case Files: Dead West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
+    },
+    {
+      "id": "tmdb:61431",
+      "type": "series",
+      "name": "Agatha Christie: Mörderische Spiele",
+      "year": 2009,
+      "poster": "https://images.justwatch.com/poster/239549151/s592/Agatha-Christie-Moerderische-Spiele.jpg"
+    },
+    {
+      "id": "tmdb:93794",
+      "type": "series",
+      "name": "Die Slawen - Das Feuer der Macht",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/302447177/s592/Slawen.jpg"
+    },
+    {
+      "id": "tmdb:241854",
+      "type": "series",
+      "name": "Sex.Right.Now",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/320431260/s592/sex-right-now.jpg"
+    }
+  ]
+}

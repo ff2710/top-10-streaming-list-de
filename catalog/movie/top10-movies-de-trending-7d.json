@@ -1,0 +1,67 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1265609",
+      "type": "movie",
+      "name": "War Machine",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342792728/s592/war-machine-2026.jpg"
+    },
+    {
+      "id": "tmdb:11975",
+      "type": "movie",
+      "name": "Der Regenmacher",
+      "year": 1997,
+      "poster": "https://images.justwatch.com/poster/32252269/s592/Der-Regenmacher.jpg"
+    },
+    {
+      "id": "tmdb:1162321",
+      "type": "movie",
+      "name": "Eine Million Minuten",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316913423/s592/eine-million-minuten.jpg"
+    },
+    {
+      "id": "tmdb:948549",
+      "type": "movie",
+      "name": "Love Lies Bleeding",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322447047/s592/love-lies-bleeding-2024.jpg"
+    },
+    {
+      "id": "tmdb:12590",
+      "type": "movie",
+      "name": "Below - Da unten hört dich niemand schreien",
+      "year": 2002,
+      "poster": "https://images.justwatch.com/poster/193805987/s592/Below-Da-unten-hoert-dich-niemand-schreien.jpg"
+    },
+    {
+      "id": "tmdb:293767",
+      "type": "movie",
+      "name": "Die irre Heldentour des Billy Lynn",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/3998224/s592/Billy-Lynns-Long-Halftime-Walk.jpg"
+    },
+    {
+      "id": "tmdb:1400244",
+      "type": "movie",
+      "name": "Fabula",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/340639415/s592/fabula.jpg"
+    },
+    {
+      "id": "tmdb:8066",
+      "type": "movie",
+      "name": "Stay",
+      "year": 2005,
+      "poster": "https://images.justwatch.com/poster/11012155/s592/Stay.jpg"
+    },
+    {
+      "id": "tmdb:1272837",
+      "type": "movie",
+      "name": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
+    }
+  ]
+}
