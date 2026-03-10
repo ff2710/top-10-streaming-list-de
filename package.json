@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Scrapes JustWatch Top 10 DE (7 days) and generates a manifest.json",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "update": "node index.js",
     "start": "node index.js"
