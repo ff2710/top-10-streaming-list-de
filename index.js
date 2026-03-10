@@ -173,6 +173,18 @@ async function main() {
   console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest.json\n");
 }
 
+fs.mkdirSync(path.join(__dirname, "catalog/movie"), { recursive: true });
+  fs.writeFileSync(
+    path.join(__dirname, "catalog/movie/top10-movies-de-trending-7d.json"),
+    JSON.stringify({ metas: movies }, null, 2), "utf-8"
+  );
+
+  fs.mkdirSync(path.join(__dirname, "catalog/series"), { recursive: true });
+  fs.writeFileSync(
+    path.join(__dirname, "catalog/series/top10-shows-de-trending-7d.json"),
+    JSON.stringify({ metas: shows }, null, 2), "utf-8"
+  );
+
 main().catch((err) => {
   console.error("\nError:", err.message);
   process.exit(1);
