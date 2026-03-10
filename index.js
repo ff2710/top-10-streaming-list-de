@@ -23,7 +23,6 @@ const POPULAR_TITLES_QUERY = `
     $popularTitlesSortBy: PopularTitlesSorting! = POPULAR,
     $popularAfterCursor: String,
     $popularTitlesFilter: TitleFilter,
-    $platform: Platform! = WEB,
     $sortRandomSeed: Int! = 0
   ) {
     popularTitles(
@@ -62,7 +61,6 @@ function buildRequest(objectType) {
       first: TOP_N,
       popularTitlesSortBy: "POPULAR",
       popularAfterCursor: "",
-      platform: "WEB",
       sortRandomSeed: 0,
       popularTitlesFilter: {
         ageCertifications: [],
