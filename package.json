@@ -1,0 +1,17 @@
+{
+  "name": "justwatch-stremio-top10",
+  "version": "1.0.0",
+  "description": "Scrapes JustWatch Top 10 DE (7 days) and generates a Stremio-compatible manifest.json",
+  "main": "index.js",
+  "scripts": {
+    "update": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
