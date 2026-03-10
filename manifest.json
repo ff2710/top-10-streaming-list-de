@@ -1,0 +1,208 @@
+{
+  "id": "de.justwatch.top10-7days",
+  "version": "1.0.0",
+  "name": "JustWatch Top 10 DE",
+  "description": "Auto-generated 2026-03-10T15:58:36.649Z. Top 10 Movies & Shows in Germany by popularity.",
+  "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tmdb:"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "top10-movies-de-7d",
+      "name": "Top 10 Movies DE 7 Days",
+      "extra": [],
+      "items": [
+        {
+          "id": "tmdb:1242898",
+          "type": "movie",
+          "name": "Predator: Badlands",
+          "year": 2025,
+          "poster": "/poster/340661083/s592/predator-badlands.{format}"
+        },
+        {
+          "id": "tmdb:842924",
+          "type": "movie",
+          "name": "The Life of Chuck",
+          "year": 2025,
+          "poster": "/poster/333543206/s592/the-life-of-chuck.{format}"
+        },
+        {
+          "id": "tmdb:1054867",
+          "type": "movie",
+          "name": "One Battle After Another",
+          "year": 2025,
+          "poster": "/poster/336235472/s592/the-battle-of-baktan-cross.{format}"
+        },
+        {
+          "id": "tmdb:1226578",
+          "type": "movie",
+          "name": "Longlegs",
+          "year": 2024,
+          "poster": "/poster/319718083/s592/longlegs.{format}"
+        },
+        {
+          "id": "tmdb:799882",
+          "type": "movie",
+          "name": "The Bluff",
+          "year": 2026,
+          "poster": "/poster/342116219/s592/the-bluff-2026.{format}"
+        },
+        {
+          "id": "tmdb:1265609",
+          "type": "movie",
+          "name": "War Machine",
+          "year": 2026,
+          "poster": "/poster/342792728/s592/war-machine-2026.{format}"
+        },
+        {
+          "id": "tmdb:1151031",
+          "type": "movie",
+          "name": "Bring Her Back",
+          "year": 2025,
+          "poster": "/poster/335428187/s592/bring-her-back.{format}"
+        },
+        {
+          "id": "tmdb:575265",
+          "type": "movie",
+          "name": "Mission: Impossible – The Final Reckoning",
+          "year": 2025,
+          "poster": "/poster/334760016/s592/mission-impossible-the-final-reckoning.{format}"
+        },
+        {
+          "id": "tmdb:1233413",
+          "type": "movie",
+          "name": "Blood & Sinners",
+          "year": 2025,
+          "poster": "/poster/331456487/s592/sinners-2025.{format}"
+        },
+        {
+          "id": "tmdb:1317288",
+          "type": "movie",
+          "name": "Marty Supreme",
+          "year": 2025,
+          "poster": "/poster/338964126/s592/marty-supreme.{format}"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top10-shows-de-7d",
+      "name": "Top 10 Shows DE 7 Days",
+      "extra": [],
+      "items": [
+        {
+          "id": "tmdb:224372",
+          "type": "series",
+          "name": "A Knight of the Seven Kingdoms",
+          "year": 2026,
+          "poster": "/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.{format}"
+        },
+        {
+          "id": "tmdb:106379",
+          "type": "series",
+          "name": "Fallout",
+          "year": 2024,
+          "poster": "/poster/313866771/s592/fallout.{format}"
+        },
+        {
+          "id": "tmdb:290856",
+          "type": "series",
+          "name": "Marshals",
+          "year": 2026,
+          "poster": "/poster/340694966/s592/marshals.{format}"
+        },
+        {
+          "id": "tmdb:129552",
+          "type": "series",
+          "name": "The Night Agent",
+          "year": 2023,
+          "poster": "/poster/324479152/s592/the-night-agent.{format}"
+        },
+        {
+          "id": "tmdb:245927",
+          "type": "series",
+          "name": "Paradise",
+          "year": 2025,
+          "poster": "/poster/340670483/s592/paradise-2025.{format}"
+        },
+        {
+          "id": "tmdb:274776",
+          "type": "series",
+          "name": "Unfamiliar",
+          "year": 2026,
+          "poster": "/poster/341619593/s592/bone-palace.{format}"
+        },
+        {
+          "id": "tmdb:79744",
+          "type": "series",
+          "name": "Der Rookie",
+          "year": 2018,
+          "poster": "/poster/109005818/s592/The-Rookie.{format}"
+        },
+        {
+          "id": "tmdb:225171",
+          "type": "series",
+          "name": "Pluribus",
+          "year": 2025,
+          "poster": "/poster/338958309/s592/pluribus.{format}"
+        },
+        {
+          "id": "tmdb:213306",
+          "type": "series",
+          "name": "Alex Cross",
+          "year": 2024,
+          "poster": "/poster/322487814/s592/cross.{format}"
+        },
+        {
+          "id": "tmdb:250307",
+          "type": "series",
+          "name": " The Pitt",
+          "year": 2025,
+          "poster": "/poster/341619842/s592/the-pitt.{format}"
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "adult": false
+  },
+  "_meta": {
+    "generatedAt": "2026-03-10T15:58:36.649Z",
+    "source": "https://www.justwatch.com/de/streaming-charts",
+    "country": "DE",
+    "tmdbMovies": [
+      "tmdb:1242898",
+      "tmdb:842924",
+      "tmdb:1054867",
+      "tmdb:1226578",
+      "tmdb:799882",
+      "tmdb:1265609",
+      "tmdb:1151031",
+      "tmdb:575265",
+      "tmdb:1233413",
+      "tmdb:1317288"
+    ],
+    "tmdbShows": [
+      "tmdb:224372",
+      "tmdb:106379",
+      "tmdb:290856",
+      "tmdb:129552",
+      "tmdb:245927",
+      "tmdb:274776",
+      "tmdb:79744",
+      "tmdb:225171",
+      "tmdb:213306",
+      "tmdb:250307"
+    ]
+  }
+}
