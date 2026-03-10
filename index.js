@@ -1,13 +1,3 @@
-/**
- * JustWatch → Stremio Manifest Generator
- * ----------------------------------------
- * Fetches Top 10 Movies & Shows (Germany, last 7 days) via JustWatch GraphQL API,
- * extracts TMDB IDs, and writes a Stremio-compatible manifest.json.
- *
- * Usage:
- *   npm install
- *   npm run update   →  generates manifest.json
- */
 
 import fetch from "node-fetch";
 import fs from "fs";
