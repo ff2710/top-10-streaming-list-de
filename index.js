@@ -9,6 +9,7 @@ const JUSTWATCH_GRAPHQL = "https://apis.justwatch.com/graphql";
 const COUNTRY  = "DE";
 const LANGUAGE = "de";
 const TOP_N    = 10;
+const OUTPUT   = path.join(__dirname, "manifest.json");
 
 const QUERY = `
   query GetPopularTitles(
@@ -30,15 +31,11 @@ const QUERY = `
     ) {
       edges {
         node {
-          id
           objectId
-          objectType
           content(country: $country, language: $language) {
             title
             originalReleaseYear
-            externalIds {
-              tmdbId
-            }
+            externalIds { tmdbId }
             posterUrl(profile: S592)
           }
         }
@@ -75,16 +72,16 @@ function buildRequest(objectType) {
 
 async function fetchCharts(objectType) {
   const label = objectType === "MOVIE" ? "Movies" : "Shows";
-  console.log(`Fetching Top ${TOP_N} trending ${label} (DE, 7 days)...`);
+  console.log(`Fetching Top ${TOP_N} Trending ${label} DE (7 days)...`);
 
   const res = await fetch(JUSTWATCH_GRAPHQL, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Accept": "application/json",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "Origin": "https://www.justwatch.com",
-      "Referer": "https://www.justwatch.com/de/streaming-charts",
+      "Accept":       "application/json",
+      "User-Agent":   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "Origin":       "https://www.justwatch.com",
+      "Referer":      "https://www.justwatch.com/de/streaming-charts",
     },
     body: JSON.stringify(buildRequest(objectType)),
   });
@@ -115,26 +112,6 @@ function edgeToMeta(edge, stremioType) {
   };
 }
 
-function writeManifest(filename, catalogsArray, description) {
-  const now = new Date().toISOString();
-  const manifest = {
-    id:          `de.justwatch.${filename.replace(".json", "")}`,
-    version:     "1.0.0",
-    name:        description,
-    description: `Auto-generated ${now}.`,
-    logo:        "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
-    resources:   ["catalog"],
-    types:       catalogsArray.map((c) => c.type),
-    idPrefixes:  ["tmdb:"],
-    catalogs:    catalogsArray,
-    behaviorHints: { configurable: false, adult: false },
-    _meta: { generatedAt: now, source: "https://www.justwatch.com/de/streaming-charts", country: COUNTRY },
-  };
-  const outPath = path.join(__dirname, filename);
-  fs.writeFileSync(outPath, JSON.stringify(manifest, null, 2), "utf-8");
-  console.log(`  Written: ${filename}`);
-}
-
 async function main() {
   console.log("JustWatch -> Stremio Manifest Generator\n");
 
@@ -151,33 +128,47 @@ async function main() {
   console.log(`\nShows: ${shows.length}`);
   shows.forEach((s, i) => console.log(`  ${i + 1}. ${s.name} (${s.year}) -> ${s.id}`));
 
-  const movieCatalog = {
-    type:  "movie",
-    id:    "top10-movies-de-trending-7d",
-    name:  "Top 10 Trending Movies DE (7 Days)",
-    extra: [],
-    items: movies,
+  const now = new Date().toISOString();
+
+  const manifest = {
+    id:          "de.justwatch.top10-7days",
+    version:     "1.0.0",
+    name:        "JustWatch Top 10 Trending DE (7 Days)",
+    description: `Auto-generated ${now}. Top 10 Trending Movies & Shows in Germany – last 7 days.`,
+    logo:        "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
+    resources:   ["catalog"],
+    types:       ["movie", "series"],
+    idPrefixes:  ["tmdb:"],
+    catalogs: [
+      {
+        type:  "movie",
+        id:    "top10-movies-de-trending-7d",
+        name:  "Top 10 Trending Movies DE (7 Days)",
+        extra: [],
+        items: movies,
+      },
+      {
+        type:  "series",
+        id:    "top10-shows-de-trending-7d",
+        name:  "Top 10 Trending Shows DE (7 Days)",
+        extra: [],
+        items: shows,
+      },
+    ],
+    behaviorHints: { configurable: false, adult: false },
+    _meta: {
+      generatedAt: now,
+      source:      "https://www.justwatch.com/de/streaming-charts",
+      country:     COUNTRY,
+      tmdbMovies:  movies.map((m) => m.id),
+      tmdbShows:   shows.map((s) => s.id),
+    },
   };
 
-  const showCatalog = {
-    type:  "series",
-    id:    "top10-shows-de-trending-7d",
-    name:  "Top 10 Trending Shows DE (7 Days)",
-    extra: [],
-    items: shows,
-  };
-
-  console.log("\nWriting manifests...");
-  // Combined
-  writeManifest("manifest.json",        [movieCatalog, showCatalog], "JustWatch Top 10 Trending DE");
-  // Separate – use these URLs in AIOMetadata
-  writeManifest("manifest-movies.json", [movieCatalog],              "Top 10 Trending Movies DE (7 Days)");
-  writeManifest("manifest-shows.json",  [showCatalog],               "Top 10 Trending Shows DE (7 Days)");
-
-  console.log("\nDone! Your 3 manifest URLs:");
-  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest.json");
-  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest-movies.json");
-  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest-shows.json");
+  fs.writeFileSync(OUTPUT, JSON.stringify(manifest, null, 2), "utf-8");
+  console.log(`\nmanifest.json written -> ${OUTPUT}`);
+  console.log("\nYour manifest URL:");
+  console.log("  https://ff2710.github.io/top-10-streaming-list-de/manifest.json\n");
 }
 
 main().catch((err) => {
