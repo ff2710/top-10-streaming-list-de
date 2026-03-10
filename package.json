@@ -1,7 +1,7 @@
 {
-  "name": "justwatch-stremio-top10",
+  "name": "top-10-streaming-list-de",
   "version": "1.0.0",
-  "description": "Scrapes JustWatch Top 10 DE (7 days) and generates a Stremio-compatible manifest.json",
+  "description": "Scrapes JustWatch Top 10 DE (7 days) and generates a manifest.json",
   "main": "index.js",
   "scripts": {
     "update": "node index.js",
