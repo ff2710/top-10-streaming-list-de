@@ -8,18 +8,11 @@
       "poster": "https://images.justwatch.com/poster/342792728/s592/war-machine-2026.jpg"
     },
     {
-      "id": "tmdb:11975",
+      "id": "tmdb:586353",
       "type": "movie",
-      "name": "Der Regenmacher",
-      "year": 1997,
-      "poster": "https://images.justwatch.com/poster/32252269/s592/Der-Regenmacher.jpg"
-    },
-    {
-      "id": "tmdb:1162321",
-      "type": "movie",
-      "name": "Eine Million Minuten",
+      "name": "Der Meister und Margarita",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/316913423/s592/eine-million-minuten.jpg"
+      "poster": "https://images.justwatch.com/poster/331593752/s592/master-i-margarita.jpg"
     },
     {
       "id": "tmdb:948549",
@@ -36,11 +29,18 @@
       "poster": "https://images.justwatch.com/poster/193805987/s592/Below-Da-unten-hoert-dich-niemand-schreien.jpg"
     },
     {
-      "id": "tmdb:293767",
+      "id": "tmdb:1162321",
       "type": "movie",
-      "name": "Die irre Heldentour des Billy Lynn",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/3998224/s592/Billy-Lynns-Long-Halftime-Walk.jpg"
+      "name": "Eine Million Minuten",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316913423/s592/eine-million-minuten.jpg"
+    },
+    {
+      "id": "tmdb:1413097",
+      "type": "movie",
+      "name": "Melania",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/340300107/s592/melania.jpg"
     },
     {
       "id": "tmdb:1400244",
@@ -57,11 +57,11 @@
       "poster": "https://images.justwatch.com/poster/11012155/s592/Stay.jpg"
     },
     {
-      "id": "tmdb:1272837",
+      "id": "tmdb:283552",
       "type": "movie",
-      "name": "28 Years Later: The Bone Temple",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
+      "name": "Liebe zwischen den Meeren",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/309984199/s592/The-Light-Between-Oceans.jpg"
     }
   ]
 }

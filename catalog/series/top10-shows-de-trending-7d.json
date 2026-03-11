@@ -22,6 +22,13 @@
       "poster": "https://images.justwatch.com/poster/341269361/s592/vladimir.jpg"
     },
     {
+      "id": "tmdb:111110",
+      "type": "series",
+      "name": "One Piece",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
+    },
+    {
       "id": "tmdb:1411",
       "type": "series",
       "name": "Person of Interest",
@@ -62,13 +69,6 @@
       "name": "Die Slawen - Das Feuer der Macht",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/302447177/s592/Slawen.jpg"
-    },
-    {
-      "id": "tmdb:241854",
-      "type": "series",
-      "name": "Sex.Right.Now",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/320431260/s592/sex-right-now.jpg"
     }
   ]
 }
