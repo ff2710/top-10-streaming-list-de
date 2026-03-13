@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-12T06:47:44.281Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-13T06:44:26.435Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -64,6 +64,13 @@
           "poster": "https://images.justwatch.com/poster/340300107/s592/melania.jpg"
         },
         {
+          "id": "tmdb:1297028",
+          "type": "movie",
+          "name": "Rosario",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/337022180/s592/rosario.jpg"
+        },
+        {
           "id": "tmdb:1400244",
           "type": "movie",
           "name": "Fabula",
@@ -76,13 +83,6 @@
           "name": "Stay",
           "year": 2005,
           "poster": "https://images.justwatch.com/poster/11012155/s592/Stay.jpg"
-        },
-        {
-          "id": "tmdb:1297028",
-          "type": "movie",
-          "name": "Rosario",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/337022180/s592/rosario.jpg"
         }
       ]
     },
@@ -100,46 +100,11 @@
           "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
         },
         {
-          "id": "tmdb:255661",
-          "type": "series",
-          "name": "Young Sherlock",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342837915/s592/young-sherlock.jpg"
-        },
-        {
           "id": "tmdb:111110",
           "type": "series",
           "name": "One Piece",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
-        },
-        {
-          "id": "tmdb:285739",
-          "type": "series",
-          "name": "Vladimir",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341269361/s592/vladimir.jpg"
-        },
-        {
-          "id": "tmdb:202411",
-          "type": "series",
-          "name": "Monarch: Legacy of Monsters",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
-        },
-        {
-          "id": "tmdb:313298",
-          "type": "series",
-          "name": "Die Dinosaurier",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342802855/s592/the-dinosaurs.jpg"
-        },
-        {
-          "id": "tmdb:284974",
-          "type": "series",
-          "name": "Cold Case Files: Dead West",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
         },
         {
           "id": "tmdb:240740",
@@ -149,18 +114,53 @@
           "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
         },
         {
-          "id": "tmdb:1411",
+          "id": "tmdb:255661",
           "type": "series",
-          "name": "Person of Interest",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
+          "name": "Young Sherlock",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342837915/s592/young-sherlock.jpg"
         },
         {
-          "id": "tmdb:61431",
+          "id": "tmdb:313298",
           "type": "series",
-          "name": "Agatha Christie: Mörderische Spiele",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/239549151/s592/Agatha-Christie-Moerderische-Spiele.jpg"
+          "name": "Die Dinosaurier",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342802855/s592/the-dinosaurs.jpg"
+        },
+        {
+          "id": "tmdb:285739",
+          "type": "series",
+          "name": "Vladimir",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341269361/s592/vladimir.jpg"
+        },
+        {
+          "id": "tmdb:284974",
+          "type": "series",
+          "name": "Cold Case Files: Dead West",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
+        },
+        {
+          "id": "tmdb:202411",
+          "type": "series",
+          "name": "Monarch: Legacy of Monsters",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
+        },
+        {
+          "id": "tmdb:93794",
+          "type": "series",
+          "name": "Die Slawen - Das Feuer der Macht",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/302447177/s592/Slawen.jpg"
+        },
+        {
+          "id": "tmdb:62017",
+          "type": "series",
+          "name": "The Man in the High Castle",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
         }
       ]
     }
@@ -170,7 +170,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-12T06:47:44.281Z",
+    "generatedAt": "2026-03-13T06:44:26.435Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -180,21 +180,21 @@
       "tmdb:948549",
       "tmdb:1162321",
       "tmdb:1413097",
+      "tmdb:1297028",
       "tmdb:1400244",
-      "tmdb:8066",
-      "tmdb:1297028"
+      "tmdb:8066"
     ],
     "tmdbShows": [
       "tmdb:290856",
-      "tmdb:255661",
       "tmdb:111110",
-      "tmdb:285739",
-      "tmdb:202411",
-      "tmdb:313298",
-      "tmdb:284974",
       "tmdb:240740",
-      "tmdb:1411",
-      "tmdb:61431"
+      "tmdb:255661",
+      "tmdb:313298",
+      "tmdb:285739",
+      "tmdb:284974",
+      "tmdb:202411",
+      "tmdb:93794",
+      "tmdb:62017"
     ]
   }
 }
