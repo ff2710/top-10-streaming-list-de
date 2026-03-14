@@ -22,6 +22,27 @@
       "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
     },
     {
+      "id": "tmdb:284974",
+      "type": "series",
+      "name": "Cold Case Files: Dead West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
+    },
+    {
+      "id": "tmdb:62017",
+      "type": "series",
+      "name": "The Man in the High Castle",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
+    },
+    {
+      "id": "tmdb:285386",
+      "type": "series",
+      "name": "Day One",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
+    },
+    {
       "id": "tmdb:255661",
       "type": "series",
       "name": "Young Sherlock",
@@ -36,39 +57,18 @@
       "poster": "https://images.justwatch.com/poster/342802855/s592/the-dinosaurs.jpg"
     },
     {
-      "id": "tmdb:285739",
+      "id": "tmdb:2543",
       "type": "series",
-      "name": "Vladimir",
+      "name": "Die 2",
+      "year": 1971,
+      "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
+    },
+    {
+      "id": "tmdb:310935",
+      "type": "series",
+      "name": "Girl from Nowhere: The Reset",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341269361/s592/vladimir.jpg"
-    },
-    {
-      "id": "tmdb:284974",
-      "type": "series",
-      "name": "Cold Case Files: Dead West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
-    },
-    {
-      "id": "tmdb:93794",
-      "type": "series",
-      "name": "Die Slawen - Das Feuer der Macht",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/302447177/s592/Slawen.jpg"
-    },
-    {
-      "id": "tmdb:62017",
-      "type": "series",
-      "name": "The Man in the High Castle",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
+      "poster": "https://images.justwatch.com/poster/341017939/s592/girl-from-nowhere-the-reset.jpg"
     }
   ]
 }

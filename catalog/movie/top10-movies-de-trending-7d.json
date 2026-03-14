@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/322447047/s592/love-lies-bleeding-2024.jpg"
     },
     {
-      "id": "tmdb:1162321",
-      "type": "movie",
-      "name": "Eine Million Minuten",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/316913423/s592/eine-million-minuten.jpg"
-    },
-    {
       "id": "tmdb:1413097",
       "type": "movie",
       "name": "Melania",
@@ -50,6 +43,13 @@
       "poster": "https://images.justwatch.com/poster/337022180/s592/rosario.jpg"
     },
     {
+      "id": "tmdb:1084242",
+      "type": "movie",
+      "name": "Zoomania 2",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
+    },
+    {
       "id": "tmdb:1400244",
       "type": "movie",
       "name": "Fabula",
@@ -57,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/340639415/s592/fabula.jpg"
     },
     {
-      "id": "tmdb:8066",
+      "id": "tmdb:5424",
       "type": "movie",
-      "name": "Stay",
-      "year": 2005,
-      "poster": "https://images.justwatch.com/poster/11012155/s592/Stay.jpg"
+      "name": "Man-Eater - Der Menschenfresser",
+      "year": 1980,
+      "poster": "https://images.justwatch.com/poster/251657904/s592/man-eater-der-menschenfresser.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342103265/s592/der-astronaut.jpg"
     }
   ]
 }
