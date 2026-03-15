@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
     },
     {
-      "id": "tmdb:284974",
+      "id": "tmdb:285386",
       "type": "series",
-      "name": "Cold Case Files: Dead West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
+      "name": "Day One",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
     },
     {
       "id": "tmdb:62017",
@@ -36,25 +36,11 @@
       "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
     },
     {
-      "id": "tmdb:285386",
+      "id": "tmdb:284974",
       "type": "series",
-      "name": "Day One",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
-    },
-    {
-      "id": "tmdb:255661",
-      "type": "series",
-      "name": "Young Sherlock",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342837915/s592/young-sherlock.jpg"
-    },
-    {
-      "id": "tmdb:313298",
-      "type": "series",
-      "name": "Die Dinosaurier",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342802855/s592/the-dinosaurs.jpg"
+      "name": "Cold Case Files: Dead West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
     },
     {
       "id": "tmdb:2543",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
     },
     {
+      "id": "tmdb:283673",
+      "type": "series",
+      "name": "Jene Nacht",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
+    },
+    {
       "id": "tmdb:310935",
       "type": "series",
       "name": "Girl from Nowhere: The Reset",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/341017939/s592/girl-from-nowhere-the-reset.jpg"
+    },
+    {
+      "id": "tmdb:245927",
+      "type": "series",
+      "name": "Paradise",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
     }
   ]
 }
