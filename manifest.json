@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-15T06:50:37.171Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-16T07:09:57.135Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,6 +43,13 @@
           "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
         },
         {
+          "id": "tmdb:615457",
+          "type": "movie",
+          "name": "Nobody",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
+        },
+        {
           "id": "tmdb:1297028",
           "type": "movie",
           "name": "Rosario",
@@ -57,18 +64,18 @@
           "poster": "https://images.justwatch.com/poster/340300107/s592/melania.jpg"
         },
         {
-          "id": "tmdb:5424",
-          "type": "movie",
-          "name": "Man-Eater - Der Menschenfresser",
-          "year": 1980,
-          "poster": "https://images.justwatch.com/poster/251657904/s592/man-eater-der-menschenfresser.jpg"
-        },
-        {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/342103265/s592/der-astronaut.jpg"
+        },
+        {
+          "id": "tmdb:5424",
+          "type": "movie",
+          "name": "Man-Eater - Der Menschenfresser",
+          "year": 1980,
+          "poster": "https://images.justwatch.com/poster/251657904/s592/man-eater-der-menschenfresser.jpg"
         },
         {
           "id": "tmdb:1280450",
@@ -78,18 +85,11 @@
           "poster": "https://images.justwatch.com/poster/335840626/s592/stolen-girl.jpg"
         },
         {
-          "id": "tmdb:615457",
+          "id": "tmdb:1007734",
           "type": "movie",
-          "name": "Nobody",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
-        },
-        {
-          "id": "tmdb:1119449",
-          "type": "movie",
-          "name": "Good Luck, Have Fun, Don't Die",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
+          "name": "Nobody 2",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/335644952/s592/nobody-2.jpg"
         }
       ]
     },
@@ -99,13 +99,6 @@
       "name": "Top 10 Trending Shows DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:290856",
-          "type": "series",
-          "name": "Marshals",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
-        },
         {
           "id": "tmdb:111110",
           "type": "series",
@@ -128,25 +121,18 @@
           "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
         },
         {
+          "id": "tmdb:290856",
+          "type": "series",
+          "name": "Marshals",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
+        },
+        {
           "id": "tmdb:62017",
           "type": "series",
           "name": "The Man in the High Castle",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
-        },
-        {
-          "id": "tmdb:284974",
-          "type": "series",
-          "name": "Cold Case Files: Dead West",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
-        },
-        {
-          "id": "tmdb:2543",
-          "type": "series",
-          "name": "Die 2",
-          "year": 1971,
-          "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
         },
         {
           "id": "tmdb:283673",
@@ -156,11 +142,18 @@
           "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
         },
         {
-          "id": "tmdb:310935",
+          "id": "tmdb:284974",
           "type": "series",
-          "name": "Girl from Nowhere: The Reset",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341017939/s592/girl-from-nowhere-the-reset.jpg"
+          "name": "Cold Case Files: Dead West",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
+        },
+        {
+          "id": "tmdb:227520",
+          "type": "series",
+          "name": "Kevin Costner's The West",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
         },
         {
           "id": "tmdb:245927",
@@ -168,6 +161,13 @@
           "name": "Paradise",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
+        },
+        {
+          "id": "tmdb:2543",
+          "type": "series",
+          "name": "Die 2",
+          "year": 1971,
+          "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-15T06:50:37.171Z",
+    "generatedAt": "2026-03-16T07:09:57.135Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1265609",
       "tmdb:586353",
       "tmdb:1084242",
+      "tmdb:615457",
       "tmdb:1297028",
       "tmdb:1413097",
-      "tmdb:5424",
       "tmdb:687163",
+      "tmdb:5424",
       "tmdb:1280450",
-      "tmdb:615457",
-      "tmdb:1119449"
+      "tmdb:1007734"
     ],
     "tmdbShows": [
-      "tmdb:290856",
       "tmdb:111110",
       "tmdb:240740",
       "tmdb:285386",
+      "tmdb:290856",
       "tmdb:62017",
-      "tmdb:284974",
-      "tmdb:2543",
       "tmdb:283673",
-      "tmdb:310935",
-      "tmdb:245927"
+      "tmdb:284974",
+      "tmdb:227520",
+      "tmdb:245927",
+      "tmdb:2543"
     ]
   }
 }

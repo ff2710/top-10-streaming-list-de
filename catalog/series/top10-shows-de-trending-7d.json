@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:290856",
-      "type": "series",
-      "name": "Marshals",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
-    },
-    {
       "id": "tmdb:111110",
       "type": "series",
       "name": "One Piece",
@@ -29,25 +22,18 @@
       "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
     },
     {
+      "id": "tmdb:290856",
+      "type": "series",
+      "name": "Marshals",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
+    },
+    {
       "id": "tmdb:62017",
       "type": "series",
       "name": "The Man in the High Castle",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
-    },
-    {
-      "id": "tmdb:284974",
-      "type": "series",
-      "name": "Cold Case Files: Dead West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
-    },
-    {
-      "id": "tmdb:2543",
-      "type": "series",
-      "name": "Die 2",
-      "year": 1971,
-      "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
     },
     {
       "id": "tmdb:283673",
@@ -57,11 +43,18 @@
       "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
     },
     {
-      "id": "tmdb:310935",
+      "id": "tmdb:284974",
       "type": "series",
-      "name": "Girl from Nowhere: The Reset",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341017939/s592/girl-from-nowhere-the-reset.jpg"
+      "name": "Cold Case Files: Dead West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
+    },
+    {
+      "id": "tmdb:227520",
+      "type": "series",
+      "name": "Kevin Costner's The West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
     },
     {
       "id": "tmdb:245927",
@@ -69,6 +62,13 @@
       "name": "Paradise",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
+    },
+    {
+      "id": "tmdb:2543",
+      "type": "series",
+      "name": "Die 2",
+      "year": 1971,
+      "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
     }
   ]
 }
