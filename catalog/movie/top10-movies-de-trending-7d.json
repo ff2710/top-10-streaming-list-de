@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1265609",
-      "type": "movie",
-      "name": "War Machine",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342792728/s592/war-machine-2026.jpg"
-    },
-    {
       "id": "tmdb:586353",
       "type": "movie",
       "name": "Der Meister und Margarita",
@@ -29,18 +22,25 @@
       "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
     },
     {
+      "id": "tmdb:1054867",
+      "type": "movie",
+      "name": "One Battle After Another",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336235472/s592/the-battle-of-baktan-cross.jpg"
+    },
+    {
+      "id": "tmdb:1233413",
+      "type": "movie",
+      "name": "Blood & Sinners",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
+    },
+    {
       "id": "tmdb:1297028",
       "type": "movie",
       "name": "Rosario",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/337022180/s592/rosario.jpg"
-    },
-    {
-      "id": "tmdb:1413097",
-      "type": "movie",
-      "name": "Melania",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/340300107/s592/melania.jpg"
     },
     {
       "id": "tmdb:687163",

@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:227520",
       "type": "series",
-      "name": "Marshals",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/340694966/s592/marshals.jpg"
+      "name": "Kevin Costner's The West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
     },
     {
       "id": "tmdb:62017",
@@ -43,18 +43,11 @@
       "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
     },
     {
-      "id": "tmdb:284974",
+      "id": "tmdb:225891",
       "type": "series",
-      "name": "Cold Case Files: Dead West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326135323/s592/cold-case-files-dead-west.jpg"
-    },
-    {
-      "id": "tmdb:227520",
-      "type": "series",
-      "name": "Kevin Costner's The West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
+      "name": "The Madison",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
     },
     {
       "id": "tmdb:245927",
@@ -62,6 +55,13 @@
       "name": "Paradise",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
+    },
+    {
+      "id": "tmdb:37854",
+      "type": "series",
+      "name": "One Piece",
+      "year": 1999,
+      "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     },
     {
       "id": "tmdb:2543",
