@@ -15,6 +15,13 @@
       "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
     },
     {
+      "id": "tmdb:225891",
+      "type": "series",
+      "name": "The Madison",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
+    },
+    {
       "id": "tmdb:285386",
       "type": "series",
       "name": "Day One",
@@ -27,6 +34,13 @@
       "name": "Kevin Costner's The West",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
+    },
+    {
+      "id": "tmdb:245927",
+      "type": "series",
+      "name": "Paradise",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
     },
     {
       "id": "tmdb:62017",
@@ -43,20 +57,6 @@
       "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
     },
     {
-      "id": "tmdb:225891",
-      "type": "series",
-      "name": "The Madison",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
-    },
-    {
-      "id": "tmdb:245927",
-      "type": "series",
-      "name": "Paradise",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
-    },
-    {
       "id": "tmdb:37854",
       "type": "series",
       "name": "One Piece",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     },
     {
-      "id": "tmdb:2543",
+      "id": "tmdb:79744",
       "type": "series",
-      "name": "Die 2",
-      "year": 1971,
-      "poster": "https://images.justwatch.com/poster/272391274/s592/Die-Zwei.jpg"
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     }
   ]
 }
