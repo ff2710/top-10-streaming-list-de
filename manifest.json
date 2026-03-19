@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-18T06:56:25.455Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-19T06:52:28.500Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/336235472/s592/the-battle-of-baktan-cross.jpg"
         },
         {
-          "id": "tmdb:1084242",
-          "type": "movie",
-          "name": "Zoomania 2",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
-        },
-        {
           "id": "tmdb:1233413",
           "type": "movie",
           "name": "Blood & Sinners",
@@ -50,11 +43,11 @@
           "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
         },
         {
-          "id": "tmdb:1297028",
+          "id": "tmdb:1084242",
           "type": "movie",
-          "name": "Rosario",
+          "name": "Zoomania 2",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/337022180/s592/rosario.jpg"
+          "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
         },
         {
           "id": "tmdb:1007734",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/251657904/s592/man-eater-der-menschenfresser.jpg"
         },
         {
-          "id": "tmdb:1119449",
-          "type": "movie",
-          "name": "Good Luck, Have Fun, Don't Die",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
-        },
-        {
           "id": "tmdb:1220564",
           "type": "movie",
           "name": "The Secret Agent",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/343088491/s592/the-secret-agent-2025.jpg"
+        },
+        {
+          "id": "tmdb:1330167",
+          "type": "movie",
+          "name": "What Lurks Beneath",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
+        },
+        {
+          "id": "tmdb:1119449",
+          "type": "movie",
+          "name": "Good Luck, Have Fun, Don't Die",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
         }
       ]
     },
@@ -100,20 +100,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:111110",
-          "type": "series",
-          "name": "One Piece",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
-        },
-        {
-          "id": "tmdb:240740",
-          "type": "series",
-          "name": "Scarpetta",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
-        },
-        {
           "id": "tmdb:225891",
           "type": "series",
           "name": "The Madison",
@@ -121,11 +107,25 @@
           "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
         },
         {
+          "id": "tmdb:111110",
+          "type": "series",
+          "name": "One Piece",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
+        },
+        {
           "id": "tmdb:285386",
           "type": "series",
           "name": "Day One",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
+        },
+        {
+          "id": "tmdb:240740",
+          "type": "series",
+          "name": "Scarpetta",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
         },
         {
           "id": "tmdb:227520",
@@ -139,14 +139,7 @@
           "type": "series",
           "name": "Paradise",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
-        },
-        {
-          "id": "tmdb:62017",
-          "type": "series",
-          "name": "The Man in the High Castle",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/793141/s592/The-Man-in-the-High-Castle.jpg"
+          "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
         },
         {
           "id": "tmdb:283673",
@@ -168,6 +161,13 @@
           "name": "Der Rookie",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:66732",
+          "type": "series",
+          "name": "Stranger Things",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-18T06:56:25.455Z",
+    "generatedAt": "2026-03-19T06:52:28.500Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1054867",
-      "tmdb:1084242",
       "tmdb:1233413",
       "tmdb:615457",
-      "tmdb:1297028",
+      "tmdb:1084242",
       "tmdb:1007734",
       "tmdb:1280450",
       "tmdb:5424",
-      "tmdb:1119449",
-      "tmdb:1220564"
+      "tmdb:1220564",
+      "tmdb:1330167",
+      "tmdb:1119449"
     ],
     "tmdbShows": [
-      "tmdb:111110",
-      "tmdb:240740",
       "tmdb:225891",
+      "tmdb:111110",
       "tmdb:285386",
+      "tmdb:240740",
       "tmdb:227520",
       "tmdb:245927",
-      "tmdb:62017",
       "tmdb:283673",
       "tmdb:37854",
-      "tmdb:79744"
+      "tmdb:79744",
+      "tmdb:66732"
     ]
   }
 }
