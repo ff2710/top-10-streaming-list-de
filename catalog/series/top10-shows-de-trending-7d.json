@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
     },
     {
-      "id": "tmdb:111110",
-      "type": "series",
-      "name": "One Piece",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
-    },
-    {
       "id": "tmdb:285386",
       "type": "series",
       "name": "Day One",
@@ -22,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
     },
     {
-      "id": "tmdb:240740",
+      "id": "tmdb:111110",
       "type": "series",
-      "name": "Scarpetta",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
+      "name": "One Piece",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
     },
     {
       "id": "tmdb:227520",
@@ -43,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
     },
     {
+      "id": "tmdb:240740",
+      "type": "series",
+      "name": "Scarpetta",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
+    },
+    {
       "id": "tmdb:283673",
       "type": "series",
       "name": "Jene Nacht",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     },
     {
-      "id": "tmdb:79744",
-      "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-    },
-    {
       "id": "tmdb:66732",
       "type": "series",
       "name": "Stranger Things",
       "year": 2016,
       "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     }
   ]
 }
