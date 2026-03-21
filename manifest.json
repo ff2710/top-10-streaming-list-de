@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-20T06:48:06.695Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-21T06:36:25.754Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,6 +43,13 @@
           "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
         },
         {
+          "id": "tmdb:1330167",
+          "type": "movie",
+          "name": "What Lurks Beneath",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
+        },
+        {
           "id": "tmdb:1084242",
           "type": "movie",
           "name": "Zoomania 2",
@@ -50,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
         },
         {
-          "id": "tmdb:1330167",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "What Lurks Beneath",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:1007734",
@@ -64,18 +71,18 @@
           "poster": "https://images.justwatch.com/poster/335644952/s592/nobody-2.jpg"
         },
         {
-          "id": "tmdb:1280450",
+          "id": "tmdb:391713",
           "type": "movie",
-          "name": "Stolen Girl",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/335840626/s592/stolen-girl.jpg"
+          "name": "Lady Bird",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
         },
         {
-          "id": "tmdb:687163",
+          "id": "tmdb:875828",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
+          "name": "Peaky Blinders - The Immortal Man",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343102158/s592/der-astronaut.jpg"
+          "poster": "https://images.justwatch.com/poster/343263951/s592/peaky-blinders.jpg"
         },
         {
           "id": "tmdb:1219560",
@@ -83,13 +90,6 @@
           "name": "Alter weißer Mann",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/326331040/s592/alter-weisser-mann.jpg"
-        },
-        {
-          "id": "tmdb:353070",
-          "type": "movie",
-          "name": "Abgang mit Stil",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/13465096/s592/Going-in-Style.jpg"
         }
       ]
     },
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
         },
         {
-          "id": "tmdb:285386",
+          "id": "tmdb:227520",
           "type": "series",
-          "name": "Day One",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
+          "name": "Kevin Costner's The West",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
         },
         {
           "id": "tmdb:111110",
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
         },
         {
-          "id": "tmdb:227520",
-          "type": "series",
-          "name": "Kevin Costner's The West",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
-        },
-        {
           "id": "tmdb:245927",
           "type": "series",
           "name": "Paradise",
@@ -135,18 +128,18 @@
           "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
         },
         {
-          "id": "tmdb:240740",
+          "id": "tmdb:225780",
           "type": "series",
-          "name": "Scarpetta",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
+          "name": "Deadloch",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
         },
         {
-          "id": "tmdb:283673",
+          "id": "tmdb:212588",
           "type": "series",
-          "name": "Jene Nacht",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
+          "name": "Furies",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
         },
         {
           "id": "tmdb:37854",
@@ -156,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
         },
         {
-          "id": "tmdb:66732",
+          "id": "tmdb:285386",
           "type": "series",
-          "name": "Stranger Things",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+          "name": "Day One",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
         },
         {
           "id": "tmdb:79744",
@@ -168,6 +161,13 @@
           "name": "Der Rookie",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:66732",
+          "type": "series",
+          "name": "Stranger Things",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-20T06:48:06.695Z",
+    "generatedAt": "2026-03-21T06:36:25.754Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1054867",
       "tmdb:1233413",
       "tmdb:615457",
-      "tmdb:1084242",
       "tmdb:1330167",
-      "tmdb:1007734",
-      "tmdb:1280450",
+      "tmdb:1084242",
       "tmdb:687163",
-      "tmdb:1219560",
-      "tmdb:353070"
+      "tmdb:1007734",
+      "tmdb:391713",
+      "tmdb:875828",
+      "tmdb:1219560"
     ],
     "tmdbShows": [
       "tmdb:225891",
-      "tmdb:285386",
-      "tmdb:111110",
       "tmdb:227520",
+      "tmdb:111110",
       "tmdb:245927",
-      "tmdb:240740",
-      "tmdb:283673",
+      "tmdb:225780",
+      "tmdb:212588",
       "tmdb:37854",
-      "tmdb:66732",
-      "tmdb:79744"
+      "tmdb:285386",
+      "tmdb:79744",
+      "tmdb:66732"
     ]
   }
 }

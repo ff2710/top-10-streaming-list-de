@@ -8,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
     },
     {
-      "id": "tmdb:285386",
+      "id": "tmdb:227520",
       "type": "series",
-      "name": "Day One",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
+      "name": "Kevin Costner's The West",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
     },
     {
       "id": "tmdb:111110",
@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
     },
     {
-      "id": "tmdb:227520",
-      "type": "series",
-      "name": "Kevin Costner's The West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
-    },
-    {
       "id": "tmdb:245927",
       "type": "series",
       "name": "Paradise",
@@ -36,18 +29,18 @@
       "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
     },
     {
-      "id": "tmdb:240740",
+      "id": "tmdb:225780",
       "type": "series",
-      "name": "Scarpetta",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/339047049/s592/scarpetta.jpg"
+      "name": "Deadloch",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
     },
     {
-      "id": "tmdb:283673",
+      "id": "tmdb:212588",
       "type": "series",
-      "name": "Jene Nacht",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341296348/s592/esa-noche.jpg"
+      "name": "Furies",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
     },
     {
       "id": "tmdb:37854",
@@ -57,11 +50,11 @@
       "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     },
     {
-      "id": "tmdb:66732",
+      "id": "tmdb:285386",
       "type": "series",
-      "name": "Stranger Things",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+      "name": "Day One",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
     },
     {
       "id": "tmdb:79744",
@@ -69,6 +62,13 @@
       "name": "Der Rookie",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:66732",
+      "type": "series",
+      "name": "Stranger Things",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
     }
   ]
 }
