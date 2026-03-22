@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-21T06:36:25.754Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-22T06:43:40.293Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
         },
         {
-          "id": "tmdb:615457",
-          "type": "movie",
-          "name": "Nobody",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
-        },
-        {
           "id": "tmdb:1330167",
           "type": "movie",
           "name": "What Lurks Beneath",
@@ -50,11 +43,25 @@
           "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
         },
         {
-          "id": "tmdb:1084242",
+          "id": "tmdb:875828",
           "type": "movie",
-          "name": "Zoomania 2",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
+          "name": "Peaky Blinders - The Immortal Man",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
+        },
+        {
+          "id": "tmdb:615457",
+          "type": "movie",
+          "name": "Nobody",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
+        },
+        {
+          "id": "tmdb:570670",
+          "type": "movie",
+          "name": "Der Unsichtbare",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
           "id": "tmdb:687163",
@@ -64,13 +71,6 @@
           "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:1007734",
-          "type": "movie",
-          "name": "Nobody 2",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/335644952/s592/nobody-2.jpg"
-        },
-        {
           "id": "tmdb:391713",
           "type": "movie",
           "name": "Lady Bird",
@@ -78,18 +78,18 @@
           "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
         },
         {
-          "id": "tmdb:875828",
+          "id": "tmdb:4638",
           "type": "movie",
-          "name": "Peaky Blinders - The Immortal Man",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343263951/s592/peaky-blinders.jpg"
+          "name": "Hot Fuzz - Zwei abgewichste Profis",
+          "year": 2007,
+          "poster": "https://images.justwatch.com/poster/105139732/s592/Hot-Fuzz-Zwei-abgewichste-Profis.jpg"
         },
         {
-          "id": "tmdb:1219560",
+          "id": "tmdb:693134",
           "type": "movie",
-          "name": "Alter weißer Mann",
+          "name": "Dune: Part Two",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/326331040/s592/alter-weisser-mann.jpg"
+          "poster": "https://images.justwatch.com/poster/335919365/s592/Dune-Part-Two.jpg"
         }
       ]
     },
@@ -107,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
         },
         {
+          "id": "tmdb:225780",
+          "type": "series",
+          "name": "Deadloch",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
+        },
+        {
           "id": "tmdb:227520",
           "type": "series",
           "name": "Kevin Costner's The West",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
-        },
-        {
-          "id": "tmdb:111110",
-          "type": "series",
-          "name": "One Piece",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
         },
         {
           "id": "tmdb:245927",
@@ -128,18 +128,18 @@
           "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
         },
         {
-          "id": "tmdb:225780",
-          "type": "series",
-          "name": "Deadloch",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
-        },
-        {
           "id": "tmdb:212588",
           "type": "series",
           "name": "Furies",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
+        },
+        {
+          "id": "tmdb:111110",
+          "type": "series",
+          "name": "One Piece",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
         },
         {
           "id": "tmdb:37854",
@@ -149,18 +149,18 @@
           "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
         },
         {
-          "id": "tmdb:285386",
+          "id": "tmdb:213306",
           "type": "series",
-          "name": "Day One",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
+          "name": "Alex Cross",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/322487814/s592/cross.jpg"
         },
         {
-          "id": "tmdb:79744",
+          "id": "tmdb:95557",
           "type": "series",
-          "name": "Der Rookie",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+          "name": "Invincible",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/327081952/s592/Invincible.jpg"
         },
         {
           "id": "tmdb:66732",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-21T06:36:25.754Z",
+    "generatedAt": "2026-03-22T06:43:40.293Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1054867",
       "tmdb:1233413",
-      "tmdb:615457",
       "tmdb:1330167",
-      "tmdb:1084242",
-      "tmdb:687163",
-      "tmdb:1007734",
-      "tmdb:391713",
       "tmdb:875828",
-      "tmdb:1219560"
+      "tmdb:615457",
+      "tmdb:570670",
+      "tmdb:687163",
+      "tmdb:391713",
+      "tmdb:4638",
+      "tmdb:693134"
     ],
     "tmdbShows": [
       "tmdb:225891",
-      "tmdb:227520",
-      "tmdb:111110",
-      "tmdb:245927",
       "tmdb:225780",
+      "tmdb:227520",
+      "tmdb:245927",
       "tmdb:212588",
+      "tmdb:111110",
       "tmdb:37854",
-      "tmdb:285386",
-      "tmdb:79744",
+      "tmdb:213306",
+      "tmdb:95557",
       "tmdb:66732"
     ]
   }

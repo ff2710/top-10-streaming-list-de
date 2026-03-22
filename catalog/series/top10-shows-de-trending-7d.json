@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/343091680/s592/the-madison.jpg"
     },
     {
+      "id": "tmdb:225780",
+      "type": "series",
+      "name": "Deadloch",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
+    },
+    {
       "id": "tmdb:227520",
       "type": "series",
       "name": "Kevin Costner's The West",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
-    },
-    {
-      "id": "tmdb:111110",
-      "type": "series",
-      "name": "One Piece",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
     },
     {
       "id": "tmdb:245927",
@@ -29,18 +29,18 @@
       "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
     },
     {
-      "id": "tmdb:225780",
-      "type": "series",
-      "name": "Deadloch",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
-    },
-    {
       "id": "tmdb:212588",
       "type": "series",
       "name": "Furies",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
+    },
+    {
+      "id": "tmdb:111110",
+      "type": "series",
+      "name": "One Piece",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
     },
     {
       "id": "tmdb:37854",
@@ -50,18 +50,18 @@
       "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     },
     {
-      "id": "tmdb:285386",
+      "id": "tmdb:213306",
       "type": "series",
-      "name": "Day One",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342096629/s592/day-one.jpg"
+      "name": "Alex Cross",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322487814/s592/cross.jpg"
     },
     {
-      "id": "tmdb:79744",
+      "id": "tmdb:95557",
       "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+      "name": "Invincible",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/327081952/s592/Invincible.jpg"
     },
     {
       "id": "tmdb:66732",

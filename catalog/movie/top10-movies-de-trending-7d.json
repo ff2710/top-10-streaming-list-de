@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
     },
     {
-      "id": "tmdb:615457",
-      "type": "movie",
-      "name": "Nobody",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
-    },
-    {
       "id": "tmdb:1330167",
       "type": "movie",
       "name": "What Lurks Beneath",
@@ -29,11 +22,25 @@
       "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
     },
     {
-      "id": "tmdb:1084242",
+      "id": "tmdb:875828",
       "type": "movie",
-      "name": "Zoomania 2",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/339034559/s592/zootopia-2.jpg"
+      "name": "Peaky Blinders - The Immortal Man",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
+    },
+    {
+      "id": "tmdb:615457",
+      "type": "movie",
+      "name": "Nobody",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
+    },
+    {
+      "id": "tmdb:570670",
+      "type": "movie",
+      "name": "Der Unsichtbare",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
     },
     {
       "id": "tmdb:687163",
@@ -43,13 +50,6 @@
       "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:1007734",
-      "type": "movie",
-      "name": "Nobody 2",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/335644952/s592/nobody-2.jpg"
-    },
-    {
       "id": "tmdb:391713",
       "type": "movie",
       "name": "Lady Bird",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
     },
     {
-      "id": "tmdb:875828",
+      "id": "tmdb:4638",
       "type": "movie",
-      "name": "Peaky Blinders - The Immortal Man",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343263951/s592/peaky-blinders.jpg"
+      "name": "Hot Fuzz - Zwei abgewichste Profis",
+      "year": 2007,
+      "poster": "https://images.justwatch.com/poster/105139732/s592/Hot-Fuzz-Zwei-abgewichste-Profis.jpg"
     },
     {
-      "id": "tmdb:1219560",
+      "id": "tmdb:693134",
       "type": "movie",
-      "name": "Alter weißer Mann",
+      "name": "Dune: Part Two",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/326331040/s592/alter-weisser-mann.jpg"
+      "poster": "https://images.justwatch.com/poster/335919365/s592/Dune-Part-Two.jpg"
     }
   ]
 }
