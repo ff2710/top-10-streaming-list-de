@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-22T06:43:40.293Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-23T07:03:43.116Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
         },
         {
-          "id": "tmdb:1330167",
-          "type": "movie",
-          "name": "What Lurks Beneath",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
-        },
-        {
           "id": "tmdb:875828",
           "type": "movie",
           "name": "Peaky Blinders - The Immortal Man",
@@ -50,11 +43,11 @@
           "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
         },
         {
-          "id": "tmdb:615457",
+          "id": "tmdb:1330167",
           "type": "movie",
-          "name": "Nobody",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
+          "name": "What Lurks Beneath",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
         },
         {
           "id": "tmdb:570670",
@@ -64,18 +57,18 @@
           "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:391713",
           "type": "movie",
           "name": "Lady Bird",
           "year": 2017,
           "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:4638",
@@ -90,6 +83,13 @@
           "name": "Dune: Part Two",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/335919365/s592/Dune-Part-Two.jpg"
+        },
+        {
+          "id": "tmdb:1242372",
+          "type": "movie",
+          "name": "Escape From the 21st Century",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324734627/s592/escape-from-the-21st-century.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
         },
         {
-          "id": "tmdb:227520",
-          "type": "series",
-          "name": "Kevin Costner's The West",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
-        },
-        {
           "id": "tmdb:245927",
           "type": "series",
           "name": "Paradise",
@@ -135,27 +128,6 @@
           "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
         },
         {
-          "id": "tmdb:111110",
-          "type": "series",
-          "name": "One Piece",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
-        },
-        {
-          "id": "tmdb:37854",
-          "type": "series",
-          "name": "One Piece",
-          "year": 1999,
-          "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
-        },
-        {
-          "id": "tmdb:213306",
-          "type": "series",
-          "name": "Alex Cross",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322487814/s592/cross.jpg"
-        },
-        {
           "id": "tmdb:95557",
           "type": "series",
           "name": "Invincible",
@@ -168,6 +140,34 @@
           "name": "Stranger Things",
           "year": 2016,
           "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+        },
+        {
+          "id": "tmdb:213306",
+          "type": "series",
+          "name": "Alex Cross",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/322487814/s592/cross.jpg"
+        },
+        {
+          "id": "tmdb:64230",
+          "type": "series",
+          "name": "Preacher",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/67992766/s592/Preacher.jpg"
+        },
+        {
+          "id": "tmdb:224372",
+          "type": "series",
+          "name": "A Knight of the Seven Kingdoms",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
+        },
+        {
+          "id": "tmdb:37854",
+          "type": "series",
+          "name": "One Piece",
+          "year": 1999,
+          "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-22T06:43:40.293Z",
+    "generatedAt": "2026-03-23T07:03:43.116Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1054867",
       "tmdb:1233413",
-      "tmdb:1330167",
       "tmdb:875828",
-      "tmdb:615457",
+      "tmdb:1330167",
       "tmdb:570670",
-      "tmdb:687163",
       "tmdb:391713",
+      "tmdb:687163",
       "tmdb:4638",
-      "tmdb:693134"
+      "tmdb:693134",
+      "tmdb:1242372"
     ],
     "tmdbShows": [
       "tmdb:225891",
       "tmdb:225780",
-      "tmdb:227520",
       "tmdb:245927",
       "tmdb:212588",
-      "tmdb:111110",
-      "tmdb:37854",
-      "tmdb:213306",
       "tmdb:95557",
-      "tmdb:66732"
+      "tmdb:66732",
+      "tmdb:213306",
+      "tmdb:64230",
+      "tmdb:224372",
+      "tmdb:37854"
     ]
   }
 }

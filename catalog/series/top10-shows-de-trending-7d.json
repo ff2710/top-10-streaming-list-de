@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
     },
     {
-      "id": "tmdb:227520",
-      "type": "series",
-      "name": "Kevin Costner's The West",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/330549916/s592/kevin-costners-the-west.jpg"
-    },
-    {
       "id": "tmdb:245927",
       "type": "series",
       "name": "Paradise",
@@ -36,27 +29,6 @@
       "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
     },
     {
-      "id": "tmdb:111110",
-      "type": "series",
-      "name": "One Piece",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/314469894/s592/one-piece-2023.jpg"
-    },
-    {
-      "id": "tmdb:37854",
-      "type": "series",
-      "name": "One Piece",
-      "year": 1999,
-      "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
-    },
-    {
-      "id": "tmdb:213306",
-      "type": "series",
-      "name": "Alex Cross",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/322487814/s592/cross.jpg"
-    },
-    {
       "id": "tmdb:95557",
       "type": "series",
       "name": "Invincible",
@@ -69,6 +41,34 @@
       "name": "Stranger Things",
       "year": 2016,
       "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+    },
+    {
+      "id": "tmdb:213306",
+      "type": "series",
+      "name": "Alex Cross",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322487814/s592/cross.jpg"
+    },
+    {
+      "id": "tmdb:64230",
+      "type": "series",
+      "name": "Preacher",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/67992766/s592/Preacher.jpg"
+    },
+    {
+      "id": "tmdb:224372",
+      "type": "series",
+      "name": "A Knight of the Seven Kingdoms",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
+    },
+    {
+      "id": "tmdb:37854",
+      "type": "series",
+      "name": "One Piece",
+      "year": 1999,
+      "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     }
   ]
 }
