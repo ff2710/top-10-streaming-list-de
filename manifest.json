@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-23T07:03:43.116Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-24T06:58:14.643Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1054867",
+          "id": "tmdb:1236153",
           "type": "movie",
-          "name": "One Battle After Another",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336235472/s592/the-battle-of-baktan-cross.jpg"
-        },
-        {
-          "id": "tmdb:1233413",
-          "type": "movie",
-          "name": "Blood & Sinners",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
+          "name": "Mercy",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341001655/s592/mercy-2025.jpg"
         },
         {
           "id": "tmdb:875828",
@@ -57,11 +50,18 @@
           "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
-          "id": "tmdb:391713",
+          "id": "tmdb:1054867",
           "type": "movie",
-          "name": "Lady Bird",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
+          "name": "One Battle After Another",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336235472/s592/the-battle-of-baktan-cross.jpg"
+        },
+        {
+          "id": "tmdb:1114513",
+          "type": "movie",
+          "name": "Speak No Evil",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/320091758/s592/speak-no-evil-2024.jpg"
         },
         {
           "id": "tmdb:687163",
@@ -71,25 +71,25 @@
           "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:4638",
+          "id": "tmdb:391713",
           "type": "movie",
-          "name": "Hot Fuzz - Zwei abgewichste Profis",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/105139732/s592/Hot-Fuzz-Zwei-abgewichste-Profis.jpg"
+          "name": "Lady Bird",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
         },
         {
-          "id": "tmdb:693134",
+          "id": "tmdb:1233413",
           "type": "movie",
-          "name": "Dune: Part Two",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/335919365/s592/Dune-Part-Two.jpg"
+          "name": "Blood & Sinners",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
         },
         {
-          "id": "tmdb:1242372",
+          "id": "tmdb:351286",
           "type": "movie",
-          "name": "Escape From the 21st Century",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324734627/s592/escape-from-the-21st-century.jpg"
+          "name": "Jurassic World: Das gefallene Königreich",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/56819906/s592/Jurassic-World-Das-gefallene-Koenigreich.jpg"
         }
       ]
     },
@@ -135,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/327081952/s592/Invincible.jpg"
         },
         {
-          "id": "tmdb:66732",
+          "id": "tmdb:259056",
           "type": "series",
-          "name": "Stranger Things",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+          "name": "Wie ich ermordet wurde",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
         },
         {
           "id": "tmdb:213306",
@@ -156,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/67992766/s592/Preacher.jpg"
         },
         {
+          "id": "tmdb:66732",
+          "type": "series",
+          "name": "Stranger Things",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+        },
+        {
           "id": "tmdb:224372",
           "type": "series",
           "name": "A Knight of the Seven Kingdoms",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
-        },
-        {
-          "id": "tmdb:37854",
-          "type": "series",
-          "name": "One Piece",
-          "year": 1999,
-          "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
         }
       ]
     }
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-23T07:03:43.116Z",
+    "generatedAt": "2026-03-24T06:58:14.643Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1054867",
-      "tmdb:1233413",
+      "tmdb:1236153",
       "tmdb:875828",
       "tmdb:1330167",
       "tmdb:570670",
-      "tmdb:391713",
+      "tmdb:1054867",
+      "tmdb:1114513",
       "tmdb:687163",
-      "tmdb:4638",
-      "tmdb:693134",
-      "tmdb:1242372"
+      "tmdb:391713",
+      "tmdb:1233413",
+      "tmdb:351286"
     ],
     "tmdbShows": [
       "tmdb:225891",
@@ -198,11 +198,11 @@
       "tmdb:245927",
       "tmdb:212588",
       "tmdb:95557",
-      "tmdb:66732",
+      "tmdb:259056",
       "tmdb:213306",
       "tmdb:64230",
-      "tmdb:224372",
-      "tmdb:37854"
+      "tmdb:66732",
+      "tmdb:224372"
     ]
   }
 }

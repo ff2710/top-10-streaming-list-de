@@ -36,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/327081952/s592/Invincible.jpg"
     },
     {
-      "id": "tmdb:66732",
+      "id": "tmdb:259056",
       "type": "series",
-      "name": "Stranger Things",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+      "name": "Wie ich ermordet wurde",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
     },
     {
       "id": "tmdb:213306",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/67992766/s592/Preacher.jpg"
     },
     {
+      "id": "tmdb:66732",
+      "type": "series",
+      "name": "Stranger Things",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
+    },
+    {
       "id": "tmdb:224372",
       "type": "series",
       "name": "A Knight of the Seven Kingdoms",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
-    },
-    {
-      "id": "tmdb:37854",
-      "type": "series",
-      "name": "One Piece",
-      "year": 1999,
-      "poster": "https://images.justwatch.com/poster/306658311/s592/One-Piece.jpg"
     }
   ]
 }
