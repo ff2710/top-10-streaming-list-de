@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
     },
     {
-      "id": "tmdb:1330167",
-      "type": "movie",
-      "name": "What Lurks Beneath",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/339002057/s592/what-lurks-beneath.jpg"
-    },
-    {
       "id": "tmdb:570670",
       "type": "movie",
       "name": "Der Unsichtbare",
@@ -43,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:391713",
-      "type": "movie",
-      "name": "Lady Bird",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
-    },
-    {
       "id": "tmdb:351286",
       "type": "movie",
       "name": "Jurassic World: Das gefallene Königreich",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/324734627/s592/escape-from-the-21st-century.jpg"
     },
     {
-      "id": "tmdb:4638",
+      "id": "tmdb:1084187",
       "type": "movie",
-      "name": "Hot Fuzz - Zwei abgewichste Profis",
-      "year": 2007,
-      "poster": "https://images.justwatch.com/poster/105139732/s592/Hot-Fuzz-Zwei-abgewichste-Profis.jpg"
+      "name": "Pretty Lethal - Schön Tödlich",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343731391/s592/pretty-lethal.jpg"
+    },
+    {
+      "id": "tmdb:602269",
+      "type": "movie",
+      "name": "The Little Things",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
+    },
+    {
+      "id": "tmdb:157433",
+      "type": "movie",
+      "name": "Friedhof der Kuscheltiere",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/324527286/s592/Friedhof-der-Kuscheltiere-2019.jpg"
     }
   ]
 }
