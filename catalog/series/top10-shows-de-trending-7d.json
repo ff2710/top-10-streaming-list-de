@@ -29,11 +29,18 @@
       "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
     },
     {
-      "id": "tmdb:225891",
+      "id": "tmdb:250308",
       "type": "series",
-      "name": "The Madison",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343091683/s592/the-madison.jpg"
+      "name": "Leben ohne Ende",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/326137565/s592/earth-abides.jpg"
+    },
+    {
+      "id": "tmdb:202555",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
     },
     {
       "id": "tmdb:4556",
@@ -43,6 +50,13 @@
       "poster": "https://images.justwatch.com/poster/241435691/s592/Scrubs-Die-Anfaenger.jpg"
     },
     {
+      "id": "tmdb:259405",
+      "type": "series",
+      "name": "Lucky Luke",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+    },
+    {
       "id": "tmdb:224372",
       "type": "series",
       "name": "A Knight of the Seven Kingdoms",
@@ -50,25 +64,11 @@
       "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
     },
     {
-      "id": "tmdb:212588",
+      "id": "tmdb:275407",
       "type": "series",
-      "name": "Furies",
+      "name": "Hameln",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
-    },
-    {
-      "id": "tmdb:66732",
-      "type": "series",
-      "name": "Stranger Things",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
+      "poster": "https://images.justwatch.com/poster/334302020/s592/hameln.jpg"
     }
   ]
 }

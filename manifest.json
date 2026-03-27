@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-26T07:02:17.403Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-27T07:00:56.001Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -57,6 +57,20 @@
           "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
+          "id": "tmdb:602269",
+          "type": "movie",
+          "name": "The Little Things",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
+        },
+        {
+          "id": "tmdb:1084187",
+          "type": "movie",
+          "name": "Pretty Lethal - Schön Tödlich",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343731391/s592/pretty-lethal.jpg"
+        },
+        {
           "id": "tmdb:351286",
           "type": "movie",
           "name": "Jurassic World: Das gefallene Königreich",
@@ -71,25 +85,11 @@
           "poster": "https://images.justwatch.com/poster/324734627/s592/escape-from-the-21st-century.jpg"
         },
         {
-          "id": "tmdb:1084187",
+          "id": "tmdb:790547",
           "type": "movie",
-          "name": "Pretty Lethal - Schön Tödlich",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343731391/s592/pretty-lethal.jpg"
-        },
-        {
-          "id": "tmdb:602269",
-          "type": "movie",
-          "name": "The Little Things",
+          "name": "Legacy - Das Erbe der Menschheit",
           "year": 2021,
-          "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
-        },
-        {
-          "id": "tmdb:157433",
-          "type": "movie",
-          "name": "Friedhof der Kuscheltiere",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/324527286/s592/Friedhof-der-Kuscheltiere-2019.jpg"
+          "poster": "https://images.justwatch.com/poster/301015355/s592/Legacy-2021.jpg"
         }
       ]
     },
@@ -128,11 +128,18 @@
           "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
         },
         {
-          "id": "tmdb:225891",
+          "id": "tmdb:250308",
           "type": "series",
-          "name": "The Madison",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343091683/s592/the-madison.jpg"
+          "name": "Leben ohne Ende",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/326137565/s592/earth-abides.jpg"
+        },
+        {
+          "id": "tmdb:202555",
+          "type": "series",
+          "name": "Daredevil: Born Again",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
         },
         {
           "id": "tmdb:4556",
@@ -142,6 +149,13 @@
           "poster": "https://images.justwatch.com/poster/241435691/s592/Scrubs-Die-Anfaenger.jpg"
         },
         {
+          "id": "tmdb:259405",
+          "type": "series",
+          "name": "Lucky Luke",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+        },
+        {
           "id": "tmdb:224372",
           "type": "series",
           "name": "A Knight of the Seven Kingdoms",
@@ -149,25 +163,11 @@
           "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
         },
         {
-          "id": "tmdb:212588",
+          "id": "tmdb:275407",
           "type": "series",
-          "name": "Furies",
+          "name": "Hameln",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/317830087/s592/furies.jpg"
-        },
-        {
-          "id": "tmdb:66732",
-          "type": "series",
-          "name": "Stranger Things",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/301444843/s592/Stranger-Things.jpg"
-        },
-        {
-          "id": "tmdb:202411",
-          "type": "series",
-          "name": "Monarch: Legacy of Monsters",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
+          "poster": "https://images.justwatch.com/poster/334302020/s592/hameln.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-26T07:02:17.403Z",
+    "generatedAt": "2026-03-27T07:00:56.001Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -186,23 +186,23 @@
       "tmdb:570670",
       "tmdb:1114513",
       "tmdb:687163",
+      "tmdb:602269",
+      "tmdb:1084187",
       "tmdb:351286",
       "tmdb:1242372",
-      "tmdb:1084187",
-      "tmdb:602269",
-      "tmdb:157433"
+      "tmdb:790547"
     ],
     "tmdbShows": [
       "tmdb:225780",
       "tmdb:71694",
       "tmdb:245927",
       "tmdb:259056",
-      "tmdb:225891",
+      "tmdb:250308",
+      "tmdb:202555",
       "tmdb:4556",
+      "tmdb:259405",
       "tmdb:224372",
-      "tmdb:212588",
-      "tmdb:66732",
-      "tmdb:202411"
+      "tmdb:275407"
     ]
   }
 }
