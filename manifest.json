@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-27T07:00:56.001Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-28T06:52:36.475Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,32 +29,11 @@
           "poster": "https://images.justwatch.com/poster/341001655/s592/mercy-2025.jpg"
         },
         {
-          "id": "tmdb:875828",
-          "type": "movie",
-          "name": "Peaky Blinders - The Immortal Man",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
-        },
-        {
-          "id": "tmdb:570670",
-          "type": "movie",
-          "name": "Der Unsichtbare",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
-        },
-        {
           "id": "tmdb:1114513",
           "type": "movie",
           "name": "Speak No Evil",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/320091758/s592/speak-no-evil-2024.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:602269",
@@ -64,11 +43,25 @@
           "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
         },
         {
+          "id": "tmdb:875828",
+          "type": "movie",
+          "name": "Peaky Blinders - The Immortal Man",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
+        },
+        {
           "id": "tmdb:1084187",
           "type": "movie",
           "name": "Pretty Lethal - Schön Tödlich",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343731391/s592/pretty-lethal.jpg"
+          "poster": "https://images.justwatch.com/poster/343731392/s592/pretty-lethal.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:351286",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/56819906/s592/Jurassic-World-Das-gefallene-Koenigreich.jpg"
         },
         {
-          "id": "tmdb:1242372",
+          "id": "tmdb:570670",
           "type": "movie",
-          "name": "Escape From the 21st Century",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324734627/s592/escape-from-the-21st-century.jpg"
+          "name": "Der Unsichtbare",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
-          "id": "tmdb:790547",
+          "id": "tmdb:752623",
           "type": "movie",
-          "name": "Legacy - Das Erbe der Menschheit",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/301015355/s592/Legacy-2021.jpg"
+          "name": "The Lost City - Das Geheimnis der verlorenen Stadt",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/296812056/s592/Lost-City-of-D.jpg"
+        },
+        {
+          "id": "tmdb:840464",
+          "type": "movie",
+          "name": "Greenland 2",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343264509/s592/greenland-migration.jpg"
         }
       ]
     },
@@ -100,13 +100,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:225780",
-          "type": "series",
-          "name": "Deadloch",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
-        },
-        {
           "id": "tmdb:71694",
           "type": "series",
           "name": "Snowfall",
@@ -114,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
         },
         {
-          "id": "tmdb:245927",
+          "id": "tmdb:259265",
           "type": "series",
-          "name": "Paradise",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
+          "name": "Something Very Bad Is Going to Happen",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
         },
         {
           "id": "tmdb:259056",
@@ -126,6 +119,13 @@
           "name": "Wie ich ermordet wurde",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
+        },
+        {
+          "id": "tmdb:245927",
+          "type": "series",
+          "name": "Paradise",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
         },
         {
           "id": "tmdb:250308",
@@ -139,7 +139,7 @@
           "type": "series",
           "name": "Daredevil: Born Again",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+          "poster": "https://images.justwatch.com/poster/343797821/s592/Daredevil-Born-Again.jpg"
         },
         {
           "id": "tmdb:4556",
@@ -156,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
         },
         {
-          "id": "tmdb:224372",
+          "id": "tmdb:249597",
           "type": "series",
-          "name": "A Knight of the Seven Kingdoms",
+          "name": "Jo Nesbø's Harry Hole",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
+          "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
         },
         {
-          "id": "tmdb:275407",
+          "id": "tmdb:295778",
           "type": "series",
-          "name": "Hameln",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/334302020/s592/hameln.jpg"
+          "name": "Scrubs",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-27T07:00:56.001Z",
+    "generatedAt": "2026-03-28T06:52:36.475Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1236153",
-      "tmdb:875828",
-      "tmdb:570670",
       "tmdb:1114513",
-      "tmdb:687163",
       "tmdb:602269",
+      "tmdb:875828",
       "tmdb:1084187",
+      "tmdb:687163",
       "tmdb:351286",
-      "tmdb:1242372",
-      "tmdb:790547"
+      "tmdb:570670",
+      "tmdb:752623",
+      "tmdb:840464"
     ],
     "tmdbShows": [
-      "tmdb:225780",
       "tmdb:71694",
-      "tmdb:245927",
+      "tmdb:259265",
       "tmdb:259056",
+      "tmdb:245927",
       "tmdb:250308",
       "tmdb:202555",
       "tmdb:4556",
       "tmdb:259405",
-      "tmdb:224372",
-      "tmdb:275407"
+      "tmdb:249597",
+      "tmdb:295778"
     ]
   }
 }

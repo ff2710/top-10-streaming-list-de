@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:225780",
-      "type": "series",
-      "name": "Deadloch",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/306310416/s592/deadloch.jpg"
-    },
-    {
       "id": "tmdb:71694",
       "type": "series",
       "name": "Snowfall",
@@ -15,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
     },
     {
-      "id": "tmdb:245927",
+      "id": "tmdb:259265",
       "type": "series",
-      "name": "Paradise",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
+      "name": "Something Very Bad Is Going to Happen",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
     },
     {
       "id": "tmdb:259056",
@@ -27,6 +20,13 @@
       "name": "Wie ich ermordet wurde",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
+    },
+    {
+      "id": "tmdb:245927",
+      "type": "series",
+      "name": "Paradise",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
     },
     {
       "id": "tmdb:250308",
@@ -40,7 +40,7 @@
       "type": "series",
       "name": "Daredevil: Born Again",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+      "poster": "https://images.justwatch.com/poster/343797821/s592/Daredevil-Born-Again.jpg"
     },
     {
       "id": "tmdb:4556",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
     },
     {
-      "id": "tmdb:224372",
+      "id": "tmdb:249597",
       "type": "series",
-      "name": "A Knight of the Seven Kingdoms",
+      "name": "Jo Nesbø's Harry Hole",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341168819/s592/a-knight-of-the-seven-kingdoms-the-hedge-knight.jpg"
+      "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
     },
     {
-      "id": "tmdb:275407",
+      "id": "tmdb:295778",
       "type": "series",
-      "name": "Hameln",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/334302020/s592/hameln.jpg"
+      "name": "Scrubs",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
     }
   ]
 }
