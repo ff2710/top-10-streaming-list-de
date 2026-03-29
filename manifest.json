@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-28T06:52:36.475Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-29T06:57:17.564Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
         },
         {
-          "id": "tmdb:875828",
-          "type": "movie",
-          "name": "Peaky Blinders - The Immortal Man",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
-        },
-        {
           "id": "tmdb:1084187",
           "type": "movie",
           "name": "Pretty Lethal - Schön Tödlich",
@@ -64,18 +57,11 @@
           "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:351286",
+          "id": "tmdb:875828",
           "type": "movie",
-          "name": "Jurassic World: Das gefallene Königreich",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/56819906/s592/Jurassic-World-Das-gefallene-Koenigreich.jpg"
-        },
-        {
-          "id": "tmdb:570670",
-          "type": "movie",
-          "name": "Der Unsichtbare",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
+          "name": "Peaky Blinders - The Immortal Man",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
         },
         {
           "id": "tmdb:752623",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/296812056/s592/Lost-City-of-D.jpg"
         },
         {
-          "id": "tmdb:840464",
+          "id": "tmdb:1115544",
           "type": "movie",
-          "name": "Greenland 2",
+          "name": "Mike & Nick & Nick & Alice",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343264509/s592/greenland-migration.jpg"
+          "poster": "https://images.justwatch.com/poster/343792374/s592/mike-und-nick-und-nick-und-alice.jpg"
+        },
+        {
+          "id": "tmdb:593643",
+          "type": "movie",
+          "name": "The Menu",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/302333104/s592/The-Menu.jpg"
+        },
+        {
+          "id": "tmdb:1500099",
+          "type": "movie",
+          "name": "Versa",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343813597/s592/versa.jpg"
         }
       ]
     },
@@ -100,18 +100,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:71694",
-          "type": "series",
-          "name": "Snowfall",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
-        },
-        {
           "id": "tmdb:259265",
           "type": "series",
           "name": "Something Very Bad Is Going to Happen",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
+        },
+        {
+          "id": "tmdb:71694",
+          "type": "series",
+          "name": "Snowfall",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
         },
         {
           "id": "tmdb:259056",
@@ -121,39 +121,18 @@
           "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
         },
         {
-          "id": "tmdb:245927",
-          "type": "series",
-          "name": "Paradise",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
-        },
-        {
-          "id": "tmdb:250308",
-          "type": "series",
-          "name": "Leben ohne Ende",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/326137565/s592/earth-abides.jpg"
-        },
-        {
           "id": "tmdb:202555",
           "type": "series",
           "name": "Daredevil: Born Again",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/343797821/s592/Daredevil-Born-Again.jpg"
+          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
         },
         {
-          "id": "tmdb:4556",
+          "id": "tmdb:295778",
           "type": "series",
-          "name": "Scrubs – Die Anfänger",
-          "year": 2001,
-          "poster": "https://images.justwatch.com/poster/241435691/s592/Scrubs-Die-Anfaenger.jpg"
-        },
-        {
-          "id": "tmdb:259405",
-          "type": "series",
-          "name": "Lucky Luke",
+          "name": "Scrubs",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
         },
         {
           "id": "tmdb:249597",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
         },
         {
-          "id": "tmdb:295778",
+          "id": "tmdb:250308",
           "type": "series",
-          "name": "Scrubs",
+          "name": "Leben ohne Ende",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/326137565/s592/earth-abides.jpg"
+        },
+        {
+          "id": "tmdb:71146",
+          "type": "series",
+          "name": "Condor",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/65933872/s592/Condor.jpg"
+        },
+        {
+          "id": "tmdb:245927",
+          "type": "series",
+          "name": "Paradise",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
+        },
+        {
+          "id": "tmdb:259405",
+          "type": "series",
+          "name": "Lucky Luke",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
+          "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-28T06:52:36.475Z",
+    "generatedAt": "2026-03-29T06:57:17.564Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1236153",
       "tmdb:1114513",
       "tmdb:602269",
-      "tmdb:875828",
       "tmdb:1084187",
       "tmdb:687163",
-      "tmdb:351286",
-      "tmdb:570670",
+      "tmdb:875828",
       "tmdb:752623",
-      "tmdb:840464"
+      "tmdb:1115544",
+      "tmdb:593643",
+      "tmdb:1500099"
     ],
     "tmdbShows": [
-      "tmdb:71694",
       "tmdb:259265",
+      "tmdb:71694",
       "tmdb:259056",
-      "tmdb:245927",
-      "tmdb:250308",
       "tmdb:202555",
-      "tmdb:4556",
-      "tmdb:259405",
+      "tmdb:295778",
       "tmdb:249597",
-      "tmdb:295778"
+      "tmdb:250308",
+      "tmdb:71146",
+      "tmdb:245927",
+      "tmdb:259405"
     ]
   }
 }
