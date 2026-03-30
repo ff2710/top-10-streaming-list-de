@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-03-29T06:57:17.564Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-03-30T07:20:40.901Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/341001655/s592/mercy-2025.jpg"
         },
         {
-          "id": "tmdb:1114513",
-          "type": "movie",
-          "name": "Speak No Evil",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320091758/s592/speak-no-evil-2024.jpg"
-        },
-        {
           "id": "tmdb:602269",
           "type": "movie",
           "name": "The Little Things",
@@ -57,18 +50,11 @@
           "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:875828",
+          "id": "tmdb:593643",
           "type": "movie",
-          "name": "Peaky Blinders - The Immortal Man",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343294121/s592/peaky-blinders.jpg"
-        },
-        {
-          "id": "tmdb:752623",
-          "type": "movie",
-          "name": "The Lost City - Das Geheimnis der verlorenen Stadt",
+          "name": "The Menu",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/296812056/s592/Lost-City-of-D.jpg"
+          "poster": "https://images.justwatch.com/poster/302333104/s592/The-Menu.jpg"
         },
         {
           "id": "tmdb:1115544",
@@ -78,11 +64,18 @@
           "poster": "https://images.justwatch.com/poster/343792374/s592/mike-und-nick-und-nick-und-alice.jpg"
         },
         {
-          "id": "tmdb:593643",
+          "id": "tmdb:1114513",
           "type": "movie",
-          "name": "The Menu",
+          "name": "Speak No Evil",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/320091758/s592/speak-no-evil-2024.jpg"
+        },
+        {
+          "id": "tmdb:752623",
+          "type": "movie",
+          "name": "The Lost City - Das Geheimnis der verlorenen Stadt",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/302333104/s592/The-Menu.jpg"
+          "poster": "https://images.justwatch.com/poster/296812056/s592/Lost-City-of-D.jpg"
         },
         {
           "id": "tmdb:1500099",
@@ -90,6 +83,13 @@
           "name": "Versa",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/343813597/s592/versa.jpg"
+        },
+        {
+          "id": "tmdb:917496",
+          "type": "movie",
+          "name": "Beetlejuice Beetlejuice",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/336605871/s592/beetlejuice-2-2025.jpg"
         }
       ]
     },
@@ -114,18 +114,11 @@
           "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
         },
         {
-          "id": "tmdb:259056",
+          "id": "tmdb:249597",
           "type": "series",
-          "name": "Wie ich ermordet wurde",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
-        },
-        {
-          "id": "tmdb:202555",
-          "type": "series",
-          "name": "Daredevil: Born Again",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+          "name": "Jo Nesbø's Harry Hole",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
         },
         {
           "id": "tmdb:295778",
@@ -135,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
         },
         {
-          "id": "tmdb:249597",
+          "id": "tmdb:202555",
           "type": "series",
-          "name": "Jo Nesbø's Harry Hole",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
+          "name": "Daredevil: Born Again",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
         },
         {
           "id": "tmdb:250308",
@@ -156,6 +149,13 @@
           "poster": "https://images.justwatch.com/poster/65933872/s592/Condor.jpg"
         },
         {
+          "id": "tmdb:259405",
+          "type": "series",
+          "name": "Lucky Luke",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+        },
+        {
           "id": "tmdb:245927",
           "type": "series",
           "name": "Paradise",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
         },
         {
-          "id": "tmdb:259405",
+          "id": "tmdb:4556",
           "type": "series",
-          "name": "Lucky Luke",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+          "name": "Scrubs – Die Anfänger",
+          "year": 2001,
+          "poster": "https://images.justwatch.com/poster/241435691/s592/Scrubs-Die-Anfaenger.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-03-29T06:57:17.564Z",
+    "generatedAt": "2026-03-30T07:20:40.901Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1236153",
-      "tmdb:1114513",
       "tmdb:602269",
       "tmdb:1084187",
       "tmdb:687163",
-      "tmdb:875828",
-      "tmdb:752623",
-      "tmdb:1115544",
       "tmdb:593643",
-      "tmdb:1500099"
+      "tmdb:1115544",
+      "tmdb:1114513",
+      "tmdb:752623",
+      "tmdb:1500099",
+      "tmdb:917496"
     ],
     "tmdbShows": [
       "tmdb:259265",
       "tmdb:71694",
-      "tmdb:259056",
-      "tmdb:202555",
-      "tmdb:295778",
       "tmdb:249597",
+      "tmdb:295778",
+      "tmdb:202555",
       "tmdb:250308",
       "tmdb:71146",
+      "tmdb:259405",
       "tmdb:245927",
-      "tmdb:259405"
+      "tmdb:4556"
     ]
   }
 }

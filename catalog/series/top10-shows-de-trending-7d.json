@@ -15,18 +15,11 @@
       "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
     },
     {
-      "id": "tmdb:259056",
+      "id": "tmdb:249597",
       "type": "series",
-      "name": "Wie ich ermordet wurde",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/321046110/s592/wie-ich-ermordet-wurde.jpg"
-    },
-    {
-      "id": "tmdb:202555",
-      "type": "series",
-      "name": "Daredevil: Born Again",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+      "name": "Jo Nesbø's Harry Hole",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
     },
     {
       "id": "tmdb:295778",
@@ -36,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
     },
     {
-      "id": "tmdb:249597",
+      "id": "tmdb:202555",
       "type": "series",
-      "name": "Jo Nesbø's Harry Hole",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
+      "name": "Daredevil: Born Again",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
     },
     {
       "id": "tmdb:250308",
@@ -57,6 +50,13 @@
       "poster": "https://images.justwatch.com/poster/65933872/s592/Condor.jpg"
     },
     {
+      "id": "tmdb:259405",
+      "type": "series",
+      "name": "Lucky Luke",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+    },
+    {
       "id": "tmdb:245927",
       "type": "series",
       "name": "Paradise",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/342085271/s592/paradise-2025.jpg"
     },
     {
-      "id": "tmdb:259405",
+      "id": "tmdb:4556",
       "type": "series",
-      "name": "Lucky Luke",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343712639/s592/lucky-luke-2026.jpg"
+      "name": "Scrubs – Die Anfänger",
+      "year": 2001,
+      "poster": "https://images.justwatch.com/poster/241435691/s592/Scrubs-Die-Anfaenger.jpg"
     }
   ]
 }
