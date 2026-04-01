@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
     },
     {
-      "id": "tmdb:71694",
-      "type": "series",
-      "name": "Snowfall",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
-    },
-    {
       "id": "tmdb:249597",
       "type": "series",
       "name": "Jo Nesbø's Harry Hole",
@@ -27,6 +20,13 @@
       "name": "Scrubs",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
+    },
+    {
+      "id": "tmdb:87917",
+      "type": "series",
+      "name": "For All Mankind",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
     },
     {
       "id": "tmdb:202555",
@@ -50,13 +50,6 @@
       "poster": "https://images.justwatch.com/poster/65933872/s592/Condor.jpg"
     },
     {
-      "id": "tmdb:259405",
-      "type": "series",
-      "name": "Lucky Luke",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342844512/s592/lucky-luke-2026.jpg"
-    },
-    {
       "id": "tmdb:245927",
       "type": "series",
       "name": "Paradise",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
     },
     {
-      "id": "tmdb:4556",
+      "id": "tmdb:259405",
       "type": "series",
-      "name": "Scrubs – Die Anfänger",
-      "year": 2001,
-      "poster": "https://images.justwatch.com/poster/241435691/s592/Scrubs-Die-Anfaenger.jpg"
+      "name": "Lucky Luke",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342844512/s592/lucky-luke-2026.jpg"
+    },
+    {
+      "id": "tmdb:288747",
+      "type": "series",
+      "name": "Secrets Declassified with David Duchovny",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/335160017/s592/secrets-declassified-with-david-duchovny.jpg"
     }
   ]
 }
