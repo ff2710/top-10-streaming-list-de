@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-03T07:02:07.302Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-04T06:54:31.381Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,18 +36,11 @@
           "poster": "https://images.justwatch.com/poster/302333104/s592/The-Menu.jpg"
         },
         {
-          "id": "tmdb:1115544",
+          "id": "tmdb:567609",
           "type": "movie",
-          "name": "Mike & Nick & Nick & Alice",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343792374/s592/mike-und-nick-und-nick-und-alice.jpg"
-        },
-        {
-          "id": "tmdb:1195518",
-          "type": "movie",
-          "name": "The Unholy Trinity",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/343100227/s592/the-unholy-trinity.jpg"
+          "name": "Ready or Not - Auf die Plätze, fertig, tot",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/161569424/s592/Ready-or-Not.jpg"
         },
         {
           "id": "tmdb:917496",
@@ -57,13 +50,6 @@
           "poster": "https://images.justwatch.com/poster/336605871/s592/beetlejuice-2-2025.jpg"
         },
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:713364",
           "type": "movie",
           "name": "Clown in A Cornfield",
@@ -71,25 +57,39 @@
           "poster": "https://images.justwatch.com/poster/334275212/s592/clown-in-a-cornfield.jpg"
         },
         {
-          "id": "tmdb:1500099",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "Versa",
+          "name": "Der Astronaut – Project Hail Mary",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343813597/s592/versa.jpg"
+          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:567609",
+          "id": "tmdb:83533",
           "type": "movie",
-          "name": "Ready or Not - Auf die Plätze, fertig, tot",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/161569424/s592/Ready-or-Not.jpg"
+          "name": "Avatar: Fire and Ash",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
         },
         {
-          "id": "tmdb:126889",
+          "id": "tmdb:1195518",
           "type": "movie",
-          "name": "Alien: Covenant",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/325932789/s592/Alien-Covenant.jpg"
+          "name": "The Unholy Trinity",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/343100227/s592/the-unholy-trinity.jpg"
+        },
+        {
+          "id": "tmdb:1115544",
+          "type": "movie",
+          "name": "Mike & Nick & Nick & Alice",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343792374/s592/mike-und-nick-und-nick-und-alice.jpg"
+        },
+        {
+          "id": "tmdb:1242501",
+          "type": "movie",
+          "name": "Icefall - Bis das Eis bricht",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/339147669/s592/icefall-bis-das-eis-bricht.jpg"
         }
       ]
     },
@@ -105,6 +105,13 @@
           "name": "Something Very Bad Is Going to Happen",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
+        },
+        {
+          "id": "tmdb:245927",
+          "type": "series",
+          "name": "Paradise",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
         },
         {
           "id": "tmdb:87917",
@@ -128,20 +135,6 @@
           "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
         },
         {
-          "id": "tmdb:245927",
-          "type": "series",
-          "name": "Paradise",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
-        },
-        {
-          "id": "tmdb:243881",
-          "type": "series",
-          "name": "Das Haus David",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/343138016/s592/house-of-david.jpg"
-        },
-        {
           "id": "tmdb:288747",
           "type": "series",
           "name": "Secrets Declassified with David Duchovny",
@@ -149,25 +142,32 @@
           "poster": "https://images.justwatch.com/poster/335160017/s592/secrets-declassified-with-david-duchovny.jpg"
         },
         {
-          "id": "tmdb:74016",
+          "id": "tmdb:120998",
           "type": "series",
-          "name": "Atlanta Medical",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/237991975/s592/The-Resident.jpg"
-        },
-        {
-          "id": "tmdb:202555",
-          "type": "series",
-          "name": "Daredevil: Born Again",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+          "name": "Poker Face",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
         },
         {
           "id": "tmdb:255522",
           "type": "series",
           "name": "Dienstag bedeutet Mord",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341962328/s592/if-its-tuesday-its-murder.jpg"
+          "poster": "https://images.justwatch.com/poster/344091142/s592/if-its-tuesday-its-murder.jpg"
+        },
+        {
+          "id": "tmdb:79744",
+          "type": "series",
+          "name": "Der Rookie",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:74016",
+          "type": "series",
+          "name": "Atlanta Medical",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/237991975/s592/The-Resident.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-03T07:02:07.302Z",
+    "generatedAt": "2026-04-04T06:54:31.381Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1171145",
       "tmdb:593643",
-      "tmdb:1115544",
-      "tmdb:1195518",
-      "tmdb:917496",
-      "tmdb:687163",
-      "tmdb:713364",
-      "tmdb:1500099",
       "tmdb:567609",
-      "tmdb:126889"
+      "tmdb:917496",
+      "tmdb:713364",
+      "tmdb:687163",
+      "tmdb:83533",
+      "tmdb:1195518",
+      "tmdb:1115544",
+      "tmdb:1242501"
     ],
     "tmdbShows": [
       "tmdb:259265",
+      "tmdb:245927",
       "tmdb:87917",
       "tmdb:249597",
       "tmdb:295778",
-      "tmdb:245927",
-      "tmdb:243881",
       "tmdb:288747",
-      "tmdb:74016",
-      "tmdb:202555",
-      "tmdb:255522"
+      "tmdb:120998",
+      "tmdb:255522",
+      "tmdb:79744",
+      "tmdb:74016"
     ]
   }
 }

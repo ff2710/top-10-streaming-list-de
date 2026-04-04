@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
     },
     {
+      "id": "tmdb:245927",
+      "type": "series",
+      "name": "Paradise",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
+    },
+    {
       "id": "tmdb:87917",
       "type": "series",
       "name": "For All Mankind",
@@ -29,20 +36,6 @@
       "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
     },
     {
-      "id": "tmdb:245927",
-      "type": "series",
-      "name": "Paradise",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
-    },
-    {
-      "id": "tmdb:243881",
-      "type": "series",
-      "name": "Das Haus David",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/343138016/s592/house-of-david.jpg"
-    },
-    {
       "id": "tmdb:288747",
       "type": "series",
       "name": "Secrets Declassified with David Duchovny",
@@ -50,25 +43,32 @@
       "poster": "https://images.justwatch.com/poster/335160017/s592/secrets-declassified-with-david-duchovny.jpg"
     },
     {
-      "id": "tmdb:74016",
+      "id": "tmdb:120998",
       "type": "series",
-      "name": "Atlanta Medical",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/237991975/s592/The-Resident.jpg"
-    },
-    {
-      "id": "tmdb:202555",
-      "type": "series",
-      "name": "Daredevil: Born Again",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+      "name": "Poker Face",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
     },
     {
       "id": "tmdb:255522",
       "type": "series",
       "name": "Dienstag bedeutet Mord",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341962328/s592/if-its-tuesday-its-murder.jpg"
+      "poster": "https://images.justwatch.com/poster/344091142/s592/if-its-tuesday-its-murder.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:74016",
+      "type": "series",
+      "name": "Atlanta Medical",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/237991975/s592/The-Resident.jpg"
     }
   ]
 }
