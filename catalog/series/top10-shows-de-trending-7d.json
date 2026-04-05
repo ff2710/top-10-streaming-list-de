@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:259265",
-      "type": "series",
-      "name": "Something Very Bad Is Going to Happen",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
-    },
-    {
       "id": "tmdb:245927",
       "type": "series",
       "name": "Paradise",
@@ -20,6 +13,13 @@
       "name": "For All Mankind",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
+    },
+    {
+      "id": "tmdb:259265",
+      "type": "series",
+      "name": "Something Very Bad Is Going to Happen",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341255798/s592/something-very-bad-is-going-to-happen.jpg"
     },
     {
       "id": "tmdb:249597",
@@ -36,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
     },
     {
+      "id": "tmdb:120452",
+      "type": "series",
+      "name": "The Lost Symbol",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/250086332/s592/Dan-Browns-The-Lost-Symbol.jpg"
+    },
+    {
       "id": "tmdb:288747",
       "type": "series",
       "name": "Secrets Declassified with David Duchovny",
@@ -50,25 +57,18 @@
       "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
     },
     {
-      "id": "tmdb:255522",
+      "id": "tmdb:263346",
       "type": "series",
-      "name": "Dienstag bedeutet Mord",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344091142/s592/if-its-tuesday-its-murder.jpg"
+      "name": "Ripple",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/339567342/s592/ripple.jpg"
     },
     {
-      "id": "tmdb:79744",
+      "id": "tmdb:250307",
       "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-    },
-    {
-      "id": "tmdb:74016",
-      "type": "series",
-      "name": "Atlanta Medical",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/237991975/s592/The-Resident.jpg"
+      "name": " The Pitt",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
     }
   ]
 }
