@@ -29,6 +29,13 @@
       "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
     },
     {
+      "id": "tmdb:1235192",
+      "type": "movie",
+      "name": "Wormtown",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338995145/s592/wormtown.jpg"
+    },
+    {
       "id": "tmdb:713364",
       "type": "movie",
       "name": "Clown in A Cornfield",
@@ -36,25 +43,18 @@
       "poster": "https://images.justwatch.com/poster/334275212/s592/clown-in-a-cornfield.jpg"
     },
     {
-      "id": "tmdb:1242501",
+      "id": "tmdb:1233066",
       "type": "movie",
-      "name": "Icefall - Bis das Eis bricht",
+      "name": "Das Kanu des Manitu",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/339147669/s592/icefall-bis-das-eis-bricht.jpg"
+      "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
     },
     {
-      "id": "tmdb:687163",
+      "id": "tmdb:1400626",
       "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
-    },
-    {
-      "id": "tmdb:1235192",
-      "type": "movie",
-      "name": "Wormtown",
+      "name": "Stromberg - Wieder alles wie immer",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338995145/s592/wormtown.jpg"
+      "poster": "https://images.justwatch.com/poster/340079389/s592/stromberg-der-neue-film.jpg"
     },
     {
       "id": "tmdb:502356",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/305016118/s592/Super-Mario-Bros-The-Movie.jpg"
     },
     {
-      "id": "tmdb:28211",
+      "id": "tmdb:596161",
       "type": "movie",
-      "name": "Chloe",
-      "year": 2010,
-      "poster": "https://images.justwatch.com/poster/8692893/s592/Chloe.jpg"
+      "name": "Lass ihn gehen",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/257493842/s592/Let-Him-Go.jpg"
     }
   ]
 }

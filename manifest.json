@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-06T07:22:45.521Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-07T07:08:49.776Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,6 +50,13 @@
           "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
         },
         {
+          "id": "tmdb:1235192",
+          "type": "movie",
+          "name": "Wormtown",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338995145/s592/wormtown.jpg"
+        },
+        {
           "id": "tmdb:713364",
           "type": "movie",
           "name": "Clown in A Cornfield",
@@ -57,25 +64,18 @@
           "poster": "https://images.justwatch.com/poster/334275212/s592/clown-in-a-cornfield.jpg"
         },
         {
-          "id": "tmdb:1242501",
+          "id": "tmdb:1233066",
           "type": "movie",
-          "name": "Icefall - Bis das Eis bricht",
+          "name": "Das Kanu des Manitu",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/339147669/s592/icefall-bis-das-eis-bricht.jpg"
+          "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
         },
         {
-          "id": "tmdb:687163",
+          "id": "tmdb:1400626",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:1235192",
-          "type": "movie",
-          "name": "Wormtown",
+          "name": "Stromberg - Wieder alles wie immer",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338995145/s592/wormtown.jpg"
+          "poster": "https://images.justwatch.com/poster/340079389/s592/stromberg-der-neue-film.jpg"
         },
         {
           "id": "tmdb:502356",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/305016118/s592/Super-Mario-Bros-The-Movie.jpg"
         },
         {
-          "id": "tmdb:28211",
+          "id": "tmdb:596161",
           "type": "movie",
-          "name": "Chloe",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/8692893/s592/Chloe.jpg"
+          "name": "Lass ihn gehen",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/257493842/s592/Let-Him-Go.jpg"
         }
       ]
     },
@@ -114,6 +114,13 @@
           "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
         },
         {
+          "id": "tmdb:103302",
+          "type": "series",
+          "name": "Clarice Starling - Das Erwachen der Lämmer",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
+        },
+        {
           "id": "tmdb:120452",
           "type": "series",
           "name": "The Lost Symbol",
@@ -135,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
         },
         {
-          "id": "tmdb:288747",
+          "id": "tmdb:263346",
           "type": "series",
-          "name": "Secrets Declassified with David Duchovny",
+          "name": "Ripple",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/335160017/s592/secrets-declassified-with-david-duchovny.jpg"
+          "poster": "https://images.justwatch.com/poster/339567342/s592/ripple.jpg"
         },
         {
           "id": "tmdb:250307",
@@ -149,25 +156,18 @@
           "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         },
         {
-          "id": "tmdb:103302",
+          "id": "tmdb:79744",
           "type": "series",
-          "name": "Clarice Starling - Das Erwachen der Lämmer",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
+          "name": "Der Rookie",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
         },
         {
-          "id": "tmdb:263346",
+          "id": "tmdb:69478",
           "type": "series",
-          "name": "Ripple",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/339567342/s592/ripple.jpg"
-        },
-        {
-          "id": "tmdb:295778",
-          "type": "series",
-          "name": "Scrubs",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
+          "name": "The Handmaid's Tale - Der Report der Magd",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-06T07:22:45.521Z",
+    "generatedAt": "2026-04-07T07:08:49.776Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,24 +185,24 @@
       "tmdb:1234731",
       "tmdb:567609",
       "tmdb:83533",
-      "tmdb:713364",
-      "tmdb:1242501",
-      "tmdb:687163",
       "tmdb:1235192",
+      "tmdb:713364",
+      "tmdb:1233066",
+      "tmdb:1400626",
       "tmdb:502356",
-      "tmdb:28211"
+      "tmdb:596161"
     ],
     "tmdbShows": [
       "tmdb:245927",
       "tmdb:87917",
+      "tmdb:103302",
       "tmdb:120452",
       "tmdb:249597",
       "tmdb:120998",
-      "tmdb:288747",
-      "tmdb:250307",
-      "tmdb:103302",
       "tmdb:263346",
-      "tmdb:295778"
+      "tmdb:250307",
+      "tmdb:79744",
+      "tmdb:69478"
     ]
   }
 }
