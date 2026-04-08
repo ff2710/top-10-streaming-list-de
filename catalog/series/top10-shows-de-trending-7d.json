@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
     },
     {
-      "id": "tmdb:87917",
-      "type": "series",
-      "name": "For All Mankind",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
-    },
-    {
       "id": "tmdb:103302",
       "type": "series",
       "name": "Clarice Starling - Das Erwachen der Lämmer",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
+    },
+    {
+      "id": "tmdb:289219",
+      "type": "series",
+      "name": "Star Wars: Maul - Shadow Lord",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
       "id": "tmdb:120452",
@@ -29,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/250086332/s592/Dan-Browns-The-Lost-Symbol.jpg"
     },
     {
-      "id": "tmdb:249597",
+      "id": "tmdb:87917",
       "type": "series",
-      "name": "Jo Nesbø's Harry Hole",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
+      "name": "For All Mankind",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
     },
     {
       "id": "tmdb:120998",
@@ -43,18 +43,18 @@
       "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
     },
     {
-      "id": "tmdb:263346",
-      "type": "series",
-      "name": "Ripple",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/339567342/s592/ripple.jpg"
-    },
-    {
       "id": "tmdb:250307",
       "type": "series",
       "name": " The Pitt",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "The Handmaid's Tale - Der Report der Magd",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
     },
     {
       "id": "tmdb:79744",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     },
     {
-      "id": "tmdb:69478",
+      "id": "tmdb:249597",
       "type": "series",
-      "name": "The Handmaid's Tale - Der Report der Magd",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+      "name": "Jo Nesbø's Harry Hole",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343797976/s592/jo-nesbos-harry-hole.jpg"
     }
   ]
 }
