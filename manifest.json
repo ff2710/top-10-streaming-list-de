@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-10T07:20:13.756Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-11T06:55:15.190Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/341236959/s592/the-anaconda.jpg"
         },
         {
-          "id": "tmdb:1171145",
-          "type": "movie",
-          "name": "Crime 101",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341713616/s592/crime-101.jpg"
-        },
-        {
           "id": "tmdb:1400626",
           "type": "movie",
           "name": "Stromberg - Wieder alles wie immer",
@@ -50,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
         },
         {
-          "id": "tmdb:567609",
-          "type": "movie",
-          "name": "Ready or Not - Auf die Plätze, fertig, tot",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/161569424/s592/Ready-or-Not.jpg"
-        },
-        {
           "id": "tmdb:639933",
           "type": "movie",
           "name": "The Northman",
@@ -64,18 +50,18 @@
           "poster": "https://images.justwatch.com/poster/277336167/s592/The-Northman.jpg"
         },
         {
-          "id": "tmdb:2114",
+          "id": "tmdb:1171145",
           "type": "movie",
-          "name": "Final Fantasy - Die Mächte in dir",
-          "year": 2001,
-          "poster": "https://images.justwatch.com/poster/256209816/s592/Fial-Fantasy-DIe-Maechte-in-dir.jpg"
+          "name": "Crime 101",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341713616/s592/crime-101.jpg"
         },
         {
-          "id": "tmdb:1235192",
+          "id": "tmdb:1290417",
           "type": "movie",
-          "name": "Wormtown",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338995145/s592/wormtown.jpg"
+          "name": "Thrash",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344254057/s592/beneath-the-storm.jpg"
         },
         {
           "id": "tmdb:1041613",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
         },
         {
-          "id": "tmdb:687163",
+          "id": "tmdb:2114",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343102157/s592/der-astronaut.jpg"
+          "name": "Final Fantasy - Die Mächte in dir",
+          "year": 2001,
+          "poster": "https://images.justwatch.com/poster/256209816/s592/Fial-Fantasy-DIe-Maechte-in-dir.jpg"
+        },
+        {
+          "id": "tmdb:1526650",
+          "type": "movie",
+          "name": "Mudborn",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/343182265/s592/mudborn.jpg"
+        },
+        {
+          "id": "tmdb:305638",
+          "type": "movie",
+          "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
         }
       ]
     },
@@ -107,25 +107,18 @@
           "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
         },
         {
-          "id": "tmdb:103302",
-          "type": "series",
-          "name": "Clarice Starling - Das Erwachen der Lämmer",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
-        },
-        {
-          "id": "tmdb:69478",
-          "type": "series",
-          "name": "The Handmaid's Tale - Der Report der Magd",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
-        },
-        {
           "id": "tmdb:76479",
           "type": "series",
           "name": "The Boys",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+        },
+        {
+          "id": "tmdb:103302",
+          "type": "series",
+          "name": "Clarice Starling - Das Erwachen der Lämmer",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
         },
         {
           "id": "tmdb:125282",
@@ -135,11 +128,18 @@
           "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
         },
         {
-          "id": "tmdb:245927",
+          "id": "tmdb:69478",
           "type": "series",
-          "name": "Paradise",
+          "name": "The Handmaid's Tale - Der Report der Magd",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+        },
+        {
+          "id": "tmdb:250307",
+          "type": "series",
+          "name": " The Pitt",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
+          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         },
         {
           "id": "tmdb:87917",
@@ -149,18 +149,18 @@
           "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
         },
         {
-          "id": "tmdb:120452",
+          "id": "tmdb:61427",
           "type": "series",
-          "name": "The Lost Symbol",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/250086332/s592/Dan-Browns-The-Lost-Symbol.jpg"
+          "name": "Kingdom",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/9572442/s592/Kingdom.jpg"
         },
         {
-          "id": "tmdb:250307",
+          "id": "tmdb:19885",
           "type": "series",
-          "name": " The Pitt",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
+          "name": "Sherlock - Eine Legende kehrt zurück!",
+          "year": 2010,
+          "poster": "https://images.justwatch.com/poster/177867069/s592/Sherlock.jpg"
         },
         {
           "id": "tmdb:79744",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-10T07:20:13.756Z",
+    "generatedAt": "2026-04-11T06:55:15.190Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1234731",
-      "tmdb:1171145",
       "tmdb:1400626",
       "tmdb:1233066",
-      "tmdb:567609",
       "tmdb:639933",
-      "tmdb:2114",
-      "tmdb:1235192",
+      "tmdb:1171145",
+      "tmdb:1290417",
       "tmdb:1041613",
-      "tmdb:687163"
+      "tmdb:2114",
+      "tmdb:1526650",
+      "tmdb:305638"
     ],
     "tmdbShows": [
       "tmdb:289219",
-      "tmdb:103302",
-      "tmdb:69478",
       "tmdb:76479",
+      "tmdb:103302",
       "tmdb:125282",
-      "tmdb:245927",
-      "tmdb:87917",
-      "tmdb:120452",
+      "tmdb:69478",
       "tmdb:250307",
+      "tmdb:87917",
+      "tmdb:61427",
+      "tmdb:19885",
       "tmdb:79744"
     ]
   }

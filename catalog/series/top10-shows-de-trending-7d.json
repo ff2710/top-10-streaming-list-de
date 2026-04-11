@@ -8,25 +8,18 @@
       "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
-      "id": "tmdb:103302",
-      "type": "series",
-      "name": "Clarice Starling - Das Erwachen der Lämmer",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
-    },
-    {
-      "id": "tmdb:69478",
-      "type": "series",
-      "name": "The Handmaid's Tale - Der Report der Magd",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
-    },
-    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+    },
+    {
+      "id": "tmdb:103302",
+      "type": "series",
+      "name": "Clarice Starling - Das Erwachen der Lämmer",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
     },
     {
       "id": "tmdb:125282",
@@ -36,11 +29,18 @@
       "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
     },
     {
-      "id": "tmdb:245927",
+      "id": "tmdb:69478",
       "type": "series",
-      "name": "Paradise",
+      "name": "The Handmaid's Tale - Der Report der Magd",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+    },
+    {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": " The Pitt",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340670483/s592/paradise-2025.jpg"
+      "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
     },
     {
       "id": "tmdb:87917",
@@ -50,18 +50,18 @@
       "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
     },
     {
-      "id": "tmdb:120452",
+      "id": "tmdb:61427",
       "type": "series",
-      "name": "The Lost Symbol",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/250086332/s592/Dan-Browns-The-Lost-Symbol.jpg"
+      "name": "Kingdom",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/9572442/s592/Kingdom.jpg"
     },
     {
-      "id": "tmdb:250307",
+      "id": "tmdb:19885",
       "type": "series",
-      "name": " The Pitt",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
+      "name": "Sherlock - Eine Legende kehrt zurück!",
+      "year": 2010,
+      "poster": "https://images.justwatch.com/poster/177867069/s592/Sherlock.jpg"
     },
     {
       "id": "tmdb:79744",
