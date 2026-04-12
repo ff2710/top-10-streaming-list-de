@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/341236959/s592/the-anaconda.jpg"
     },
     {
+      "id": "tmdb:1290417",
+      "type": "movie",
+      "name": "Thrash",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343791320/s592/beneath-the-storm.jpg"
+    },
+    {
       "id": "tmdb:1400626",
       "type": "movie",
       "name": "Stromberg - Wieder alles wie immer",
@@ -29,18 +36,11 @@
       "poster": "https://images.justwatch.com/poster/277336167/s592/The-Northman.jpg"
     },
     {
-      "id": "tmdb:1171145",
+      "id": "tmdb:1526650",
       "type": "movie",
-      "name": "Crime 101",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341713616/s592/crime-101.jpg"
-    },
-    {
-      "id": "tmdb:1290417",
-      "type": "movie",
-      "name": "Thrash",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344254057/s592/beneath-the-storm.jpg"
+      "name": "Mudborn",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/343182265/s592/mudborn.jpg"
     },
     {
       "id": "tmdb:1041613",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/256209816/s592/Fial-Fantasy-DIe-Maechte-in-dir.jpg"
     },
     {
-      "id": "tmdb:1526650",
-      "type": "movie",
-      "name": "Mudborn",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/343182265/s592/mudborn.jpg"
-    },
-    {
       "id": "tmdb:305638",
       "type": "movie",
       "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
+    },
+    {
+      "id": "tmdb:1035259",
+      "type": "movie",
+      "name": "Die nackte Kanone",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/334020405/s592/die-nackte-kanone-2025.jpg"
     }
   ]
 }
