@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-12T07:07:28.435Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-13T07:55:05.897Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,32 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1234731",
-          "type": "movie",
-          "name": "Anaconda",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341236959/s592/the-anaconda.jpg"
-        },
-        {
           "id": "tmdb:1290417",
           "type": "movie",
           "name": "Thrash",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343791320/s592/beneath-the-storm.jpg"
-        },
-        {
-          "id": "tmdb:1400626",
-          "type": "movie",
-          "name": "Stromberg - Wieder alles wie immer",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340079389/s592/stromberg-der-neue-film.jpg"
-        },
-        {
-          "id": "tmdb:1233066",
-          "type": "movie",
-          "name": "Das Kanu des Manitu",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
+          "poster": "https://images.justwatch.com/poster/344280202/s592/beneath-the-storm.jpg"
         },
         {
           "id": "tmdb:639933",
@@ -55,6 +34,13 @@
           "name": "The Northman",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/277336167/s592/The-Northman.jpg"
+        },
+        {
+          "id": "tmdb:1234731",
+          "type": "movie",
+          "name": "Anaconda",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341236959/s592/the-anaconda.jpg"
         },
         {
           "id": "tmdb:1526650",
@@ -71,13 +57,6 @@
           "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
         },
         {
-          "id": "tmdb:2114",
-          "type": "movie",
-          "name": "Final Fantasy - Die Mächte in dir",
-          "year": 2001,
-          "poster": "https://images.justwatch.com/poster/256209816/s592/Fial-Fantasy-DIe-Maechte-in-dir.jpg"
-        },
-        {
           "id": "tmdb:305638",
           "type": "movie",
           "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
@@ -85,11 +64,32 @@
           "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
         },
         {
+          "id": "tmdb:1127674",
+          "type": "movie",
+          "name": "Kung Fu in Rome",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/340302116/s592/la-citta-proibita.jpg"
+        },
+        {
+          "id": "tmdb:1049471",
+          "type": "movie",
+          "name": "Outcome",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344269268/s592/outcome.jpg"
+        },
+        {
           "id": "tmdb:1035259",
           "type": "movie",
           "name": "Die nackte Kanone",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/334020405/s592/die-nackte-kanone-2025.jpg"
+        },
+        {
+          "id": "tmdb:1400626",
+          "type": "movie",
+          "name": "Stromberg - Wieder alles wie immer",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/340079389/s592/stromberg-der-neue-film.jpg"
         }
       ]
     },
@@ -121,11 +121,18 @@
           "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
         },
         {
-          "id": "tmdb:103302",
+          "id": "tmdb:279471",
           "type": "series",
-          "name": "Clarice Starling - Das Erwachen der Lämmer",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/340816748/s592/Clarice.jpg"
+          "name": "Malcolm Mittendrin: Unfair wie immer",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/340788568/s592/malcolm-in-the-middle-lifes-still-unfair.jpg"
+        },
+        {
+          "id": "tmdb:283228",
+          "type": "series",
+          "name": "Großer Star auf Kleiner Bühne",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341629176/s592/american-classic.jpg"
         },
         {
           "id": "tmdb:69478",
@@ -135,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         },
         {
-          "id": "tmdb:279471",
+          "id": "tmdb:291506",
           "type": "series",
-          "name": "Malcolm Mittendrin: Unfair wie immer",
+          "name": "Big Mistakes",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/340788568/s592/malcolm-in-the-middle-lifes-still-unfair.jpg"
+          "poster": "https://images.justwatch.com/poster/343075077/s592/big-mistakes.jpg"
         },
         {
           "id": "tmdb:61427",
@@ -149,11 +156,11 @@
           "poster": "https://images.justwatch.com/poster/9572442/s592/Kingdom.jpg"
         },
         {
-          "id": "tmdb:291506",
+          "id": "tmdb:63663",
           "type": "series",
-          "name": "Big Mistakes",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343075077/s592/big-mistakes.jpg"
+          "name": "Gate",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
         },
         {
           "id": "tmdb:19885",
@@ -161,13 +168,6 @@
           "name": "Sherlock - Eine Legende kehrt zurück!",
           "year": 2010,
           "poster": "https://images.justwatch.com/poster/177867069/s592/Sherlock.jpg"
-        },
-        {
-          "id": "tmdb:250307",
-          "type": "series",
-          "name": " The Pitt",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-12T07:07:28.435Z",
+    "generatedAt": "2026-04-13T07:55:05.897Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1234731",
       "tmdb:1290417",
-      "tmdb:1400626",
-      "tmdb:1233066",
       "tmdb:639933",
+      "tmdb:1234731",
       "tmdb:1526650",
       "tmdb:1041613",
-      "tmdb:2114",
       "tmdb:305638",
-      "tmdb:1035259"
+      "tmdb:1127674",
+      "tmdb:1049471",
+      "tmdb:1035259",
+      "tmdb:1400626"
     ],
     "tmdbShows": [
       "tmdb:76479",
       "tmdb:289219",
       "tmdb:125282",
-      "tmdb:103302",
-      "tmdb:69478",
       "tmdb:279471",
-      "tmdb:61427",
+      "tmdb:283228",
+      "tmdb:69478",
       "tmdb:291506",
-      "tmdb:19885",
-      "tmdb:250307"
+      "tmdb:61427",
+      "tmdb:63663",
+      "tmdb:19885"
     ]
   }
 }
