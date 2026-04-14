@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Thrash",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344280202/s592/beneath-the-storm.jpg"
+      "poster": "https://images.justwatch.com/poster/344254057/s592/beneath-the-storm.jpg"
     },
     {
       "id": "tmdb:639933",
@@ -15,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/277336167/s592/The-Northman.jpg"
     },
     {
-      "id": "tmdb:1234731",
+      "id": "tmdb:500664",
       "type": "movie",
-      "name": "Anaconda",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/341236959/s592/the-anaconda.jpg"
+      "name": "Upgrade",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/155159747/s592/Upgrade.jpg"
     },
     {
       "id": "tmdb:1526650",
@@ -36,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
     },
     {
-      "id": "tmdb:305638",
-      "type": "movie",
-      "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
-    },
-    {
       "id": "tmdb:1127674",
       "type": "movie",
       "name": "Kung Fu in Rome",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/344269268/s592/outcome.jpg"
     },
     {
-      "id": "tmdb:1035259",
+      "id": "tmdb:305638",
       "type": "movie",
-      "name": "Die nackte Kanone",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/334020405/s592/die-nackte-kanone-2025.jpg"
+      "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
     },
     {
-      "id": "tmdb:1400626",
+      "id": "tmdb:648579",
       "type": "movie",
-      "name": "Stromberg - Wieder alles wie immer",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340079389/s592/stromberg-der-neue-film.jpg"
+      "name": "Massive Talent",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/338486398/s592/The-Unbearable-Weight-of-Massive-Talent.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     }
   ]
 }

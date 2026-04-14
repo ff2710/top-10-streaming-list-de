@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
+      "id": "tmdb:125282",
+      "type": "series",
+      "name": "The Cleaning Lady",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
+    },
+    {
       "id": "tmdb:289219",
       "type": "series",
       "name": "Star Wars: Maul - Shadow Lord",
@@ -15,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
-      "id": "tmdb:125282",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "The Cleaning Lady",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
+      "name": "Euphoria",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
       "id": "tmdb:279471",
@@ -62,13 +69,6 @@
       "name": "Gate",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
-    },
-    {
-      "id": "tmdb:19885",
-      "type": "series",
-      "name": "Sherlock - Eine Legende kehrt zurück!",
-      "year": 2010,
-      "poster": "https://images.justwatch.com/poster/177867069/s592/Sherlock.jpg"
     }
   ]
 }

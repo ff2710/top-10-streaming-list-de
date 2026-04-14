@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-13T07:55:05.897Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-14T07:23:24.035Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -26,7 +26,7 @@
           "type": "movie",
           "name": "Thrash",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344280202/s592/beneath-the-storm.jpg"
+          "poster": "https://images.justwatch.com/poster/344254057/s592/beneath-the-storm.jpg"
         },
         {
           "id": "tmdb:639933",
@@ -36,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/277336167/s592/The-Northman.jpg"
         },
         {
-          "id": "tmdb:1234731",
+          "id": "tmdb:500664",
           "type": "movie",
-          "name": "Anaconda",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341236959/s592/the-anaconda.jpg"
+          "name": "Upgrade",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/155159747/s592/Upgrade.jpg"
         },
         {
           "id": "tmdb:1526650",
@@ -57,13 +57,6 @@
           "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
         },
         {
-          "id": "tmdb:305638",
-          "type": "movie",
-          "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
-        },
-        {
           "id": "tmdb:1127674",
           "type": "movie",
           "name": "Kung Fu in Rome",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/344269268/s592/outcome.jpg"
         },
         {
-          "id": "tmdb:1035259",
+          "id": "tmdb:305638",
           "type": "movie",
-          "name": "Die nackte Kanone",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/334020405/s592/die-nackte-kanone-2025.jpg"
+          "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
         },
         {
-          "id": "tmdb:1400626",
+          "id": "tmdb:648579",
           "type": "movie",
-          "name": "Stromberg - Wieder alles wie immer",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340079389/s592/stromberg-der-neue-film.jpg"
+          "name": "Massive Talent",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/338486398/s592/The-Unbearable-Weight-of-Massive-Talent.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         }
       ]
     },
@@ -107,6 +107,13 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
+          "id": "tmdb:125282",
+          "type": "series",
+          "name": "The Cleaning Lady",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
+        },
+        {
           "id": "tmdb:289219",
           "type": "series",
           "name": "Star Wars: Maul - Shadow Lord",
@@ -114,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
         },
         {
-          "id": "tmdb:125282",
+          "id": "tmdb:85552",
           "type": "series",
-          "name": "The Cleaning Lady",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
           "id": "tmdb:279471",
@@ -161,13 +168,6 @@
           "name": "Gate",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
-        },
-        {
-          "id": "tmdb:19885",
-          "type": "series",
-          "name": "Sherlock - Eine Legende kehrt zurück!",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/177867069/s592/Sherlock.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-13T07:55:05.897Z",
+    "generatedAt": "2026-04-14T07:23:24.035Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1290417",
       "tmdb:639933",
-      "tmdb:1234731",
+      "tmdb:500664",
       "tmdb:1526650",
       "tmdb:1041613",
-      "tmdb:305638",
       "tmdb:1127674",
       "tmdb:1049471",
-      "tmdb:1035259",
-      "tmdb:1400626"
+      "tmdb:305638",
+      "tmdb:648579",
+      "tmdb:687163"
     ],
     "tmdbShows": [
       "tmdb:76479",
-      "tmdb:289219",
       "tmdb:125282",
+      "tmdb:289219",
+      "tmdb:85552",
       "tmdb:279471",
       "tmdb:283228",
       "tmdb:69478",
       "tmdb:291506",
       "tmdb:61427",
-      "tmdb:63663",
-      "tmdb:19885"
+      "tmdb:63663"
     ]
   }
 }
