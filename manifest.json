@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-14T07:23:24.035Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-15T07:23:40.388Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/344254057/s592/beneath-the-storm.jpg"
         },
         {
-          "id": "tmdb:639933",
-          "type": "movie",
-          "name": "The Northman",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/277336167/s592/The-Northman.jpg"
-        },
-        {
           "id": "tmdb:500664",
           "type": "movie",
           "name": "Upgrade",
@@ -43,18 +36,18 @@
           "poster": "https://images.justwatch.com/poster/155159747/s592/Upgrade.jpg"
         },
         {
+          "id": "tmdb:554600",
+          "type": "movie",
+          "name": "Lethal Strike",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/147190109/s592/Uri-The-Surgical-Strike.jpg"
+        },
+        {
           "id": "tmdb:1526650",
           "type": "movie",
           "name": "Mudborn",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/343182265/s592/mudborn.jpg"
-        },
-        {
-          "id": "tmdb:1041613",
-          "type": "movie",
-          "name": "Immaculate",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
         },
         {
           "id": "tmdb:1127674",
@@ -71,6 +64,13 @@
           "poster": "https://images.justwatch.com/poster/344269268/s592/outcome.jpg"
         },
         {
+          "id": "tmdb:1041613",
+          "type": "movie",
+          "name": "Immaculate",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
+        },
+        {
           "id": "tmdb:305638",
           "type": "movie",
           "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
@@ -78,18 +78,18 @@
           "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
         },
         {
+          "id": "tmdb:996064",
+          "type": "movie",
+          "name": "Der Pfad",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
+        },
+        {
           "id": "tmdb:648579",
           "type": "movie",
           "name": "Massive Talent",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/338486398/s592/The-Unbearable-Weight-of-Massive-Talent.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         }
       ]
     },
@@ -107,25 +107,18 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:125282",
-          "type": "series",
-          "name": "The Cleaning Lady",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
-        },
-        {
-          "id": "tmdb:289219",
-          "type": "series",
-          "name": "Star Wars: Maul - Shadow Lord",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
-        },
-        {
           "id": "tmdb:85552",
           "type": "series",
           "name": "Euphoria",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+        },
+        {
+          "id": "tmdb:125282",
+          "type": "series",
+          "name": "The Cleaning Lady",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
         },
         {
           "id": "tmdb:279471",
@@ -142,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/341629176/s592/american-classic.jpg"
         },
         {
-          "id": "tmdb:69478",
+          "id": "tmdb:289219",
           "type": "series",
-          "name": "The Handmaid's Tale - Der Report der Magd",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+          "name": "Star Wars: Maul - Shadow Lord",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
         },
         {
           "id": "tmdb:291506",
@@ -156,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/343075077/s592/big-mistakes.jpg"
         },
         {
-          "id": "tmdb:61427",
+          "id": "tmdb:69478",
           "type": "series",
-          "name": "Kingdom",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/9572442/s592/Kingdom.jpg"
+          "name": "The Handmaid's Tale - Der Report der Magd",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         },
         {
           "id": "tmdb:63663",
@@ -168,6 +161,13 @@
           "name": "Gate",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
+        },
+        {
+          "id": "tmdb:287527",
+          "type": "series",
+          "name": "The Testaments - Die Zeuginnen",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342788348/s592/the-testaments-die-zeuginnen.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-14T07:23:24.035Z",
+    "generatedAt": "2026-04-15T07:23:40.388Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1290417",
-      "tmdb:639933",
       "tmdb:500664",
+      "tmdb:554600",
       "tmdb:1526650",
-      "tmdb:1041613",
       "tmdb:1127674",
       "tmdb:1049471",
+      "tmdb:1041613",
       "tmdb:305638",
-      "tmdb:648579",
-      "tmdb:687163"
+      "tmdb:996064",
+      "tmdb:648579"
     ],
     "tmdbShows": [
       "tmdb:76479",
-      "tmdb:125282",
-      "tmdb:289219",
       "tmdb:85552",
+      "tmdb:125282",
       "tmdb:279471",
       "tmdb:283228",
-      "tmdb:69478",
+      "tmdb:289219",
       "tmdb:291506",
-      "tmdb:61427",
-      "tmdb:63663"
+      "tmdb:69478",
+      "tmdb:63663",
+      "tmdb:287527"
     ]
   }
 }
