@@ -29,25 +29,11 @@
       "poster": "https://images.justwatch.com/poster/341629176/s592/american-classic.jpg"
     },
     {
-      "id": "tmdb:125282",
+      "id": "tmdb:245318",
       "type": "series",
-      "name": "The Cleaning Lady",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
-    },
-    {
-      "id": "tmdb:291506",
-      "type": "series",
-      "name": "Big Mistakes",
+      "name": "Only Margo",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343075077/s592/big-mistakes.jpg"
-    },
-    {
-      "id": "tmdb:63663",
-      "type": "series",
-      "name": "Gate",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
+      "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
     },
     {
       "id": "tmdb:246799",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
     },
     {
-      "id": "tmdb:289219",
+      "id": "tmdb:63663",
       "type": "series",
-      "name": "Star Wars: Maul - Shadow Lord",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
+      "name": "Gate",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
     },
     {
-      "id": "tmdb:287527",
+      "id": "tmdb:250307",
       "type": "series",
-      "name": "The Testaments - Die Zeuginnen",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342788348/s592/the-testaments-die-zeuginnen.jpg"
+      "name": " The Pitt",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
+    },
+    {
+      "id": "tmdb:79340",
+      "type": "series",
+      "name": "The Outpost",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/332296030/s592/The-Outpost.jpg"
+    },
+    {
+      "id": "tmdb:202577",
+      "type": "series",
+      "name": "Turn of the Tide",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/305548004/s592/turn-of-the-tide.jpg"
     }
   ]
 }

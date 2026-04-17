@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-16T07:24:28.895Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-17T07:25:09.823Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,25 +43,18 @@
           "poster": "https://images.justwatch.com/poster/147190109/s592/Uri-The-Surgical-Strike.jpg"
         },
         {
-          "id": "tmdb:1127674",
-          "type": "movie",
-          "name": "Kung Fu in Rome",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340302116/s592/la-citta-proibita.jpg"
-        },
-        {
-          "id": "tmdb:1526650",
-          "type": "movie",
-          "name": "Mudborn",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/343182265/s592/mudborn.jpg"
-        },
-        {
           "id": "tmdb:1049471",
           "type": "movie",
           "name": "Outcome",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344269268/s592/outcome.jpg"
+        },
+        {
+          "id": "tmdb:1127674",
+          "type": "movie",
+          "name": "Kung Fu in Rome",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/340302116/s592/la-citta-proibita.jpg"
         },
         {
           "id": "tmdb:996064",
@@ -71,18 +64,18 @@
           "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
         },
         {
-          "id": "tmdb:305638",
+          "id": "tmdb:1041613",
           "type": "movie",
-          "name": "Die Hüterin der Wahrheit - Dinas Bestimmung",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/12094992/s592/The-Shamers-Daughter.jpg"
+          "name": "Immaculate",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/313056545/s592/immaculate-2024.jpg"
         },
         {
-          "id": "tmdb:87502",
+          "id": "tmdb:300668",
           "type": "movie",
-          "name": "Flight",
-          "year": 2012,
-          "poster": "https://images.justwatch.com/poster/93370838/s592/Flight-2012.jpg"
+          "name": "Auslöschung",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/118817306/s592/Ausloeschung.jpg"
         },
         {
           "id": "tmdb:75674",
@@ -90,6 +83,13 @@
           "name": "Act of Valor",
           "year": 2012,
           "poster": "https://images.justwatch.com/poster/254178944/s592/Act-of-Valor.jpg"
+        },
+        {
+          "id": "tmdb:931944",
+          "type": "movie",
+          "name": "Des Teufels Bad",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
         }
       ]
     },
@@ -128,25 +128,11 @@
           "poster": "https://images.justwatch.com/poster/341629176/s592/american-classic.jpg"
         },
         {
-          "id": "tmdb:125282",
+          "id": "tmdb:245318",
           "type": "series",
-          "name": "The Cleaning Lady",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/312395192/s592/The-Cleaning-Lady.jpg"
-        },
-        {
-          "id": "tmdb:291506",
-          "type": "series",
-          "name": "Big Mistakes",
+          "name": "Only Margo",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343075077/s592/big-mistakes.jpg"
-        },
-        {
-          "id": "tmdb:63663",
-          "type": "series",
-          "name": "Gate",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
+          "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
         },
         {
           "id": "tmdb:246799",
@@ -156,18 +142,32 @@
           "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
         },
         {
-          "id": "tmdb:289219",
+          "id": "tmdb:63663",
           "type": "series",
-          "name": "Star Wars: Maul - Shadow Lord",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
+          "name": "Gate",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
         },
         {
-          "id": "tmdb:287527",
+          "id": "tmdb:250307",
           "type": "series",
-          "name": "The Testaments - Die Zeuginnen",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342788348/s592/the-testaments-die-zeuginnen.jpg"
+          "name": " The Pitt",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
+        },
+        {
+          "id": "tmdb:79340",
+          "type": "series",
+          "name": "The Outpost",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/332296030/s592/The-Outpost.jpg"
+        },
+        {
+          "id": "tmdb:202577",
+          "type": "series",
+          "name": "Turn of the Tide",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/305548004/s592/turn-of-the-tide.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-16T07:24:28.895Z",
+    "generatedAt": "2026-04-17T07:25:09.823Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1290417",
       "tmdb:500664",
       "tmdb:554600",
-      "tmdb:1127674",
-      "tmdb:1526650",
       "tmdb:1049471",
+      "tmdb:1127674",
       "tmdb:996064",
-      "tmdb:305638",
-      "tmdb:87502",
-      "tmdb:75674"
+      "tmdb:1041613",
+      "tmdb:300668",
+      "tmdb:75674",
+      "tmdb:931944"
     ],
     "tmdbShows": [
       "tmdb:85552",
       "tmdb:76479",
       "tmdb:279471",
       "tmdb:283228",
-      "tmdb:125282",
-      "tmdb:291506",
-      "tmdb:63663",
+      "tmdb:245318",
       "tmdb:246799",
-      "tmdb:289219",
-      "tmdb:287527"
+      "tmdb:63663",
+      "tmdb:250307",
+      "tmdb:79340",
+      "tmdb:202577"
     ]
   }
 }
