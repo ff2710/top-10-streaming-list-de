@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-    },
-    {
       "id": "tmdb:245318",
       "type": "series",
       "name": "Only Margo",
@@ -22,18 +15,11 @@
       "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
     },
     {
-      "id": "tmdb:283228",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Großer Star auf Kleiner Bühne",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341629176/s592/american-classic.jpg"
-    },
-    {
-      "id": "tmdb:246799",
-      "type": "series",
-      "name": "Crooks",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
+      "name": "The Boys",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
       "id": "tmdb:154385",
@@ -43,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/305468075/s592/beef.jpg"
     },
     {
-      "id": "tmdb:279471",
+      "id": "tmdb:246799",
       "type": "series",
-      "name": "Malcolm Mittendrin: Unfair wie immer",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/340788568/s592/malcolm-in-the-middle-lifes-still-unfair.jpg"
+      "name": "Crooks",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
     },
     {
       "id": "tmdb:250307",
@@ -57,18 +43,25 @@
       "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
     },
     {
-      "id": "tmdb:63663",
-      "type": "series",
-      "name": "Gate",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/311681353/s592/Gate.jpg"
-    },
-    {
       "id": "tmdb:79340",
       "type": "series",
       "name": "The Outpost",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/332296030/s592/The-Outpost.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:87917",
+      "type": "series",
+      "name": "For All Mankind",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
     }
   ]
 }
