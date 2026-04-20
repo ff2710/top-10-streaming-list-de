@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
     },
     {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-    },
-    {
       "id": "tmdb:154385",
       "type": "series",
       "name": "Beef",
@@ -36,6 +29,13 @@
       "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
     },
     {
+      "id": "tmdb:76479",
+      "type": "series",
+      "name": "The Boys",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+    },
+    {
       "id": "tmdb:250307",
       "type": "series",
       "name": " The Pitt",
@@ -43,18 +43,25 @@
       "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
     },
     {
-      "id": "tmdb:79340",
-      "type": "series",
-      "name": "The Outpost",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/332296030/s592/The-Outpost.jpg"
-    },
-    {
       "id": "tmdb:79744",
       "type": "series",
       "name": "Der Rookie",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:202555",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+    },
+    {
+      "id": "tmdb:111573",
+      "type": "series",
+      "name": "Roadkill",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/214788322/s592/Roadkill-2020.jpg"
     },
     {
       "id": "tmdb:87917",

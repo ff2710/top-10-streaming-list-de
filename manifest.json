@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-19T07:12:02.044Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-20T07:58:34.572Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -21,13 +21,6 @@
       "name": "Top 10 Trending Movies DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:500664",
-          "type": "movie",
-          "name": "Upgrade",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/155159747/s592/Upgrade.jpg"
-        },
         {
           "id": "tmdb:554600",
           "type": "movie",
@@ -50,18 +43,18 @@
           "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
         },
         {
+          "id": "tmdb:604079",
+          "type": "movie",
+          "name": "The Long Walk - Todesmarsch",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/340313945/s592/the-long-walk.jpg"
+        },
+        {
           "id": "tmdb:412656",
           "type": "movie",
           "name": "Chaos Walking",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/301599659/s592/Chaos-Walking.jpg"
-        },
-        {
-          "id": "tmdb:300668",
-          "type": "movie",
-          "name": "Auslöschung",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/118817306/s592/Ausloeschung.jpg"
         },
         {
           "id": "tmdb:1309012",
@@ -71,11 +64,11 @@
           "poster": "https://images.justwatch.com/poster/338845649/s592/altered.jpg"
         },
         {
-          "id": "tmdb:604079",
+          "id": "tmdb:300668",
           "type": "movie",
-          "name": "The Long Walk - Todesmarsch",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340313945/s592/the-long-walk.jpg"
+          "name": "Auslöschung",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/118817306/s592/Ausloeschung.jpg"
         },
         {
           "id": "tmdb:1063879",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/322366941/s592/vermin-2023.jpg"
         },
         {
-          "id": "tmdb:1032425",
+          "id": "tmdb:1084577",
           "type": "movie",
-          "name": "The Dead Don't Hurt",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322406578/s592/the-dead-dont-hurt.jpg"
+          "name": "Balls Up",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343767693/s592/balls-up.jpg"
+        },
+        {
+          "id": "tmdb:1659087",
+          "type": "movie",
+          "name": "180",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343833861/s592/180.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
         },
         {
-          "id": "tmdb:76479",
-          "type": "series",
-          "name": "The Boys",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-        },
-        {
           "id": "tmdb:154385",
           "type": "series",
           "name": "Beef",
@@ -135,6 +128,13 @@
           "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
         },
         {
+          "id": "tmdb:76479",
+          "type": "series",
+          "name": "The Boys",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+        },
+        {
           "id": "tmdb:250307",
           "type": "series",
           "name": " The Pitt",
@@ -142,18 +142,25 @@
           "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         },
         {
-          "id": "tmdb:79340",
-          "type": "series",
-          "name": "The Outpost",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/332296030/s592/The-Outpost.jpg"
-        },
-        {
           "id": "tmdb:79744",
           "type": "series",
           "name": "Der Rookie",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:202555",
+          "type": "series",
+          "name": "Daredevil: Born Again",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+        },
+        {
+          "id": "tmdb:111573",
+          "type": "series",
+          "name": "Roadkill",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/214788322/s592/Roadkill-2020.jpg"
         },
         {
           "id": "tmdb:87917",
@@ -170,30 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-19T07:12:02.044Z",
+    "generatedAt": "2026-04-20T07:58:34.572Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:500664",
       "tmdb:554600",
       "tmdb:996064",
       "tmdb:931944",
-      "tmdb:412656",
-      "tmdb:300668",
-      "tmdb:1309012",
       "tmdb:604079",
+      "tmdb:412656",
+      "tmdb:1309012",
+      "tmdb:300668",
       "tmdb:1063879",
-      "tmdb:1032425"
+      "tmdb:1084577",
+      "tmdb:1659087"
     ],
     "tmdbShows": [
       "tmdb:85552",
       "tmdb:245318",
-      "tmdb:76479",
       "tmdb:154385",
       "tmdb:246799",
+      "tmdb:76479",
       "tmdb:250307",
-      "tmdb:79340",
       "tmdb:79744",
+      "tmdb:202555",
+      "tmdb:111573",
       "tmdb:87917"
     ]
   }
