@@ -29,11 +29,25 @@
       "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+    },
+    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+    },
+    {
+      "id": "tmdb:67826",
+      "type": "series",
+      "name": "Hooten & the Lady",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/177466088/s592/Hooten-und-The-Lady.jpg"
     },
     {
       "id": "tmdb:250307",
@@ -48,20 +62,6 @@
       "name": "Der Rookie",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-    },
-    {
-      "id": "tmdb:202555",
-      "type": "series",
-      "name": "Daredevil: Born Again",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
-    },
-    {
-      "id": "tmdb:111573",
-      "type": "series",
-      "name": "Roadkill",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/214788322/s592/Roadkill-2020.jpg"
     },
     {
       "id": "tmdb:87917",

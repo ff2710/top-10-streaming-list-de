@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:554600",
-      "type": "movie",
-      "name": "Lethal Strike",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/147190109/s592/Uri-The-Surgical-Strike.jpg"
-    },
-    {
       "id": "tmdb:996064",
       "type": "movie",
       "name": "Der Pfad",
@@ -36,18 +29,18 @@
       "poster": "https://images.justwatch.com/poster/301599659/s592/Chaos-Walking.jpg"
     },
     {
-      "id": "tmdb:1309012",
-      "type": "movie",
-      "name": "Project Darwin",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338845649/s592/altered.jpg"
-    },
-    {
       "id": "tmdb:300668",
       "type": "movie",
       "name": "Auslöschung",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/118817306/s592/Ausloeschung.jpg"
+    },
+    {
+      "id": "tmdb:1309012",
+      "type": "movie",
+      "name": "Project Darwin",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338845649/s592/altered.jpg"
     },
     {
       "id": "tmdb:1063879",
@@ -62,6 +55,13 @@
       "name": "Balls Up",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/343767693/s592/balls-up.jpg"
+    },
+    {
+      "id": "tmdb:188207",
+      "type": "movie",
+      "name": "The Legend of Hercules",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/240183201/s592/The-Legend-of-Hercules.jpg"
     },
     {
       "id": "tmdb:1659087",
