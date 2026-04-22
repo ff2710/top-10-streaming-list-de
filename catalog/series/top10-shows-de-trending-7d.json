@@ -22,25 +22,11 @@
       "poster": "https://images.justwatch.com/poster/305468075/s592/beef.jpg"
     },
     {
-      "id": "tmdb:246799",
-      "type": "series",
-      "name": "Crooks",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
-    },
-    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
       "id": "tmdb:67826",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
     },
     {
-      "id": "tmdb:79744",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+      "name": "The Boys",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:87917",
+      "id": "tmdb:262848",
       "type": "series",
-      "name": "For All Mankind",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/279129270/s592/For-All-Mankind.jpg"
+      "name": "Unchosen",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343797072/s592/unchosen.jpg"
+    },
+    {
+      "id": "tmdb:246799",
+      "type": "series",
+      "name": "Crooks",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
+    },
+    {
+      "id": "tmdb:111573",
+      "type": "series",
+      "name": "Roadkill",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/214788322/s592/Roadkill-2020.jpg"
     }
   ]
 }
