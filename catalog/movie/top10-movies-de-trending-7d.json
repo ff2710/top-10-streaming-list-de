@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/311667653/s592/good-boy-2022.jpg"
     },
     {
-      "id": "tmdb:931944",
-      "type": "movie",
-      "name": "Des Teufels Bad",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
-    },
-    {
       "id": "tmdb:604079",
       "type": "movie",
       "name": "The Long Walk",
@@ -36,25 +29,18 @@
       "poster": "https://images.justwatch.com/poster/301599659/s592/Chaos-Walking.jpg"
     },
     {
-      "id": "tmdb:1084577",
-      "type": "movie",
-      "name": "Balls Up",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343767693/s592/balls-up.jpg"
-    },
-    {
-      "id": "tmdb:300668",
-      "type": "movie",
-      "name": "Auslöschung",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/118817306/s592/Ausloeschung.jpg"
-    },
-    {
       "id": "tmdb:889737",
       "type": "movie",
       "name": "Joker 2: Folie À Deux",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/327493521/s592/Joker-2.jpg"
+    },
+    {
+      "id": "tmdb:823464",
+      "type": "movie",
+      "name": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316816163/s592/godzilla-x-kong-the-new-empire.jpg"
     },
     {
       "id": "tmdb:1659087",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/343833861/s592/180.jpg"
     },
     {
-      "id": "tmdb:1063879",
+      "id": "tmdb:264660",
       "type": "movie",
-      "name": "Spiders - Ihr Biss ist der Tod",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/322366941/s592/vermin-2023.jpg"
+      "name": "Ex Machina",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
+    },
+    {
+      "id": "tmdb:931944",
+      "type": "movie",
+      "name": "Des Teufels Bad",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
+    },
+    {
+      "id": "tmdb:188207",
+      "type": "movie",
+      "name": "The Legend of Hercules",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/240183201/s592/The-Legend-of-Hercules.jpg"
     }
   ]
 }

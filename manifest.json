@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-22T07:25:09.152Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-23T07:29:17.234Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/311667653/s592/good-boy-2022.jpg"
         },
         {
-          "id": "tmdb:931944",
-          "type": "movie",
-          "name": "Des Teufels Bad",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
-        },
-        {
           "id": "tmdb:604079",
           "type": "movie",
           "name": "The Long Walk",
@@ -57,25 +50,18 @@
           "poster": "https://images.justwatch.com/poster/301599659/s592/Chaos-Walking.jpg"
         },
         {
-          "id": "tmdb:1084577",
-          "type": "movie",
-          "name": "Balls Up",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343767693/s592/balls-up.jpg"
-        },
-        {
-          "id": "tmdb:300668",
-          "type": "movie",
-          "name": "Auslöschung",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/118817306/s592/Ausloeschung.jpg"
-        },
-        {
           "id": "tmdb:889737",
           "type": "movie",
           "name": "Joker 2: Folie À Deux",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/327493521/s592/Joker-2.jpg"
+        },
+        {
+          "id": "tmdb:823464",
+          "type": "movie",
+          "name": "Godzilla x Kong: The New Empire",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/316816163/s592/godzilla-x-kong-the-new-empire.jpg"
         },
         {
           "id": "tmdb:1659087",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/343833861/s592/180.jpg"
         },
         {
-          "id": "tmdb:1063879",
+          "id": "tmdb:264660",
           "type": "movie",
-          "name": "Spiders - Ihr Biss ist der Tod",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/322366941/s592/vermin-2023.jpg"
+          "name": "Ex Machina",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
+        },
+        {
+          "id": "tmdb:931944",
+          "type": "movie",
+          "name": "Des Teufels Bad",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
+        },
+        {
+          "id": "tmdb:188207",
+          "type": "movie",
+          "name": "The Legend of Hercules",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/240183201/s592/The-Legend-of-Hercules.jpg"
         }
       ]
     },
@@ -99,20 +99,6 @@
       "name": "Top 10 Trending Shows DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:85552",
-          "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
-        },
-        {
-          "id": "tmdb:245318",
-          "type": "series",
-          "name": "Only Margo",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
-        },
         {
           "id": "tmdb:154385",
           "type": "series",
@@ -128,25 +114,11 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
-          "id": "tmdb:67826",
+          "id": "tmdb:85552",
           "type": "series",
-          "name": "Hooten & the Lady",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/177466088/s592/Hooten-und-The-Lady.jpg"
-        },
-        {
-          "id": "tmdb:250307",
-          "type": "series",
-          "name": " The Pitt",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
-        },
-        {
-          "id": "tmdb:76479",
-          "type": "series",
-          "name": "The Boys",
+          "name": "Euphoria",
           "year": 2019,
-          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
           "id": "tmdb:262848",
@@ -156,11 +128,39 @@
           "poster": "https://images.justwatch.com/poster/343797072/s592/unchosen.jpg"
         },
         {
-          "id": "tmdb:246799",
+          "id": "tmdb:245318",
           "type": "series",
-          "name": "Crooks",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/318739106/s592/crooks.jpg"
+          "name": "Only Margo",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
+        },
+        {
+          "id": "tmdb:67826",
+          "type": "series",
+          "name": "Hooten & the Lady",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/177466088/s592/Hooten-und-The-Lady.jpg"
+        },
+        {
+          "id": "tmdb:290856",
+          "type": "series",
+          "name": "Marshals",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+        },
+        {
+          "id": "tmdb:76479",
+          "type": "series",
+          "name": "The Boys",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+        },
+        {
+          "id": "tmdb:250307",
+          "type": "series",
+          "name": " The Pitt",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         },
         {
           "id": "tmdb:111573",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-22T07:25:09.152Z",
+    "generatedAt": "2026-04-23T07:29:17.234Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:983507",
-      "tmdb:931944",
       "tmdb:604079",
       "tmdb:1309012",
       "tmdb:412656",
-      "tmdb:1084577",
-      "tmdb:300668",
       "tmdb:889737",
+      "tmdb:823464",
       "tmdb:1659087",
-      "tmdb:1063879"
+      "tmdb:264660",
+      "tmdb:931944",
+      "tmdb:188207"
     ],
     "tmdbShows": [
-      "tmdb:85552",
-      "tmdb:245318",
       "tmdb:154385",
       "tmdb:124364",
-      "tmdb:67826",
-      "tmdb:250307",
-      "tmdb:76479",
+      "tmdb:85552",
       "tmdb:262848",
-      "tmdb:246799",
+      "tmdb:245318",
+      "tmdb:67826",
+      "tmdb:290856",
+      "tmdb:76479",
+      "tmdb:250307",
       "tmdb:111573"
     ]
   }
