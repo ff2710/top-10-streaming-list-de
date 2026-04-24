@@ -1,25 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:154385",
-      "type": "series",
-      "name": "Beef",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/305468075/s592/beef.jpg"
-    },
-    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
       "id": "tmdb:262848",
@@ -29,18 +15,18 @@
       "poster": "https://images.justwatch.com/poster/343797072/s592/unchosen.jpg"
     },
     {
-      "id": "tmdb:245318",
+      "id": "tmdb:154385",
       "type": "series",
-      "name": "Only Margo",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344246192/s592/margos-got-money-troubles.jpg"
+      "name": "Beef",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/305468075/s592/beef.jpg"
     },
     {
-      "id": "tmdb:67826",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Hooten & the Lady",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/177466088/s592/Hooten-und-The-Lady.jpg"
+      "name": "Euphoria",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
       "id": "tmdb:290856",
@@ -48,6 +34,13 @@
       "name": "Marshals",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+    },
+    {
+      "id": "tmdb:67826",
+      "type": "series",
+      "name": "Hooten & the Lady",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/177466088/s592/Hooten-und-The-Lady.jpg"
     },
     {
       "id": "tmdb:76479",
@@ -62,6 +55,13 @@
       "name": " The Pitt",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
+    },
+    {
+      "id": "tmdb:202555",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
     },
     {
       "id": "tmdb:111573",

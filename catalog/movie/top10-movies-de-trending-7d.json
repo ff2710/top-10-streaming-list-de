@@ -10,7 +10,7 @@
     {
       "id": "tmdb:604079",
       "type": "movie",
-      "name": "The Long Walk",
+      "name": "The Long Walk - Todesmarsch",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/340313945/s592/the-long-walk.jpg"
     },
@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/338845649/s592/altered.jpg"
     },
     {
-      "id": "tmdb:412656",
+      "id": "tmdb:823464",
       "type": "movie",
-      "name": "Chaos Walking",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/301599659/s592/Chaos-Walking.jpg"
+      "name": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316816163/s592/godzilla-x-kong-the-new-empire.jpg"
     },
     {
       "id": "tmdb:889737",
@@ -34,13 +34,6 @@
       "name": "Joker 2: Folie À Deux",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/327493521/s592/Joker-2.jpg"
-    },
-    {
-      "id": "tmdb:823464",
-      "type": "movie",
-      "name": "Godzilla x Kong: The New Empire",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/316816163/s592/godzilla-x-kong-the-new-empire.jpg"
     },
     {
       "id": "tmdb:1659087",
@@ -69,6 +62,13 @@
       "name": "The Legend of Hercules",
       "year": 2014,
       "poster": "https://images.justwatch.com/poster/240183201/s592/The-Legend-of-Hercules.jpg"
+    },
+    {
+      "id": "tmdb:897424",
+      "type": "movie",
+      "name": "Dark Cloud",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/279641079/s592/Dark-Cloud.jpg"
     }
   ]
 }
