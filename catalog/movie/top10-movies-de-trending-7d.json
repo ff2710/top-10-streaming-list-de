@@ -8,18 +8,11 @@
       "poster": "https://images.justwatch.com/poster/311667653/s592/good-boy-2022.jpg"
     },
     {
-      "id": "tmdb:604079",
+      "id": "tmdb:1318447",
       "type": "movie",
-      "name": "The Long Walk - Todesmarsch",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340313945/s592/the-long-walk.jpg"
-    },
-    {
-      "id": "tmdb:1309012",
-      "type": "movie",
-      "name": "Project Darwin",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338845649/s592/altered.jpg"
+      "name": "Apex",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
     },
     {
       "id": "tmdb:823464",
@@ -36,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/327493521/s592/Joker-2.jpg"
     },
     {
-      "id": "tmdb:1659087",
-      "type": "movie",
-      "name": "180",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343833861/s592/180.jpg"
-    },
-    {
       "id": "tmdb:264660",
       "type": "movie",
       "name": "Ex Machina",
@@ -50,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
     },
     {
-      "id": "tmdb:931944",
+      "id": "tmdb:989473",
       "type": "movie",
-      "name": "Des Teufels Bad",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/327277943/s592/des-teufels-bad.jpg"
+      "name": "Einladung zum Mord",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/337245242/s592/invitation-to-a-murder.jpg"
+    },
+    {
+      "id": "tmdb:604079",
+      "type": "movie",
+      "name": "The Long Walk - Todesmarsch",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/340313945/s592/the-long-walk.jpg"
     },
     {
       "id": "tmdb:188207",
@@ -69,6 +62,13 @@
       "name": "Dark Cloud",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/279641079/s592/Dark-Cloud.jpg"
+    },
+    {
+      "id": "tmdb:791373",
+      "type": "movie",
+      "name": "Zack Snyders Justice League",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/322604273/s592/Zack-Snyders-Justice-League.jpg"
     }
   ]
 }
