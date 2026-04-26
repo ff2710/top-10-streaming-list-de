@@ -36,18 +36,25 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:285838",
       "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+      "name": "If Wishes Could Kill",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
     },
     {
-      "id": "tmdb:154385",
+      "id": "tmdb:251597",
       "type": "series",
-      "name": "Beef",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/305468075/s592/beef.jpg"
+      "name": " Bookish",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
+    },
+    {
+      "id": "tmdb:244623",
+      "type": "series",
+      "name": "Running Point",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
     },
     {
       "id": "tmdb:295778",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
     },
     {
-      "id": "tmdb:202555",
+      "id": "tmdb:224263",
       "type": "series",
-      "name": "Daredevil: Born Again",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
-    },
-    {
-      "id": "tmdb:289424",
-      "type": "series",
-      "name": "We Are All Trying Here",
+      "name": "Stranger Things: Tales from '85",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344506550/s592/we-are-all-trying-here.jpg"
+      "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-25T07:07:23.377Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-26T07:21:51.098Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:983507",
-          "type": "movie",
-          "name": "Good Boy",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/311667653/s592/good-boy-2022.jpg"
-        },
-        {
           "id": "tmdb:1318447",
           "type": "movie",
           "name": "Apex",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
+        },
+        {
+          "id": "tmdb:983507",
+          "type": "movie",
+          "name": "Good Boy",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/311667653/s592/good-boy-2022.jpg"
         },
         {
           "id": "tmdb:823464",
@@ -43,20 +43,6 @@
           "poster": "https://images.justwatch.com/poster/316816163/s592/godzilla-x-kong-the-new-empire.jpg"
         },
         {
-          "id": "tmdb:889737",
-          "type": "movie",
-          "name": "Joker 2: Folie À Deux",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/327493521/s592/Joker-2.jpg"
-        },
-        {
-          "id": "tmdb:264660",
-          "type": "movie",
-          "name": "Ex Machina",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
-        },
-        {
           "id": "tmdb:989473",
           "type": "movie",
           "name": "Einladung zum Mord",
@@ -64,18 +50,11 @@
           "poster": "https://images.justwatch.com/poster/337245242/s592/invitation-to-a-murder.jpg"
         },
         {
-          "id": "tmdb:604079",
+          "id": "tmdb:264660",
           "type": "movie",
-          "name": "The Long Walk - Todesmarsch",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340313945/s592/the-long-walk.jpg"
-        },
-        {
-          "id": "tmdb:188207",
-          "type": "movie",
-          "name": "The Legend of Hercules",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/240183201/s592/The-Legend-of-Hercules.jpg"
+          "name": "Ex Machina",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
         },
         {
           "id": "tmdb:897424",
@@ -90,6 +69,27 @@
           "name": "Zack Snyders Justice League",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/322604273/s592/Zack-Snyders-Justice-League.jpg"
+        },
+        {
+          "id": "tmdb:570670",
+          "type": "movie",
+          "name": "Der Unsichtbare",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
+        },
+        {
+          "id": "tmdb:302349",
+          "type": "movie",
+          "name": "Iron Sky 2: The Coming Race",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/293768355/s592/Iron-Sky-The-Coming-Race.jpg"
+        },
+        {
+          "id": "tmdb:438631",
+          "type": "movie",
+          "name": "Dune",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/253886605/s592/Dune-2020.jpg"
         }
       ]
     },
@@ -135,18 +135,25 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:85552",
+          "id": "tmdb:285838",
           "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+          "name": "If Wishes Could Kill",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
         },
         {
-          "id": "tmdb:154385",
+          "id": "tmdb:251597",
           "type": "series",
-          "name": "Beef",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/305468075/s592/beef.jpg"
+          "name": " Bookish",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
+        },
+        {
+          "id": "tmdb:244623",
+          "type": "series",
+          "name": "Running Point",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
         },
         {
           "id": "tmdb:295778",
@@ -156,18 +163,11 @@
           "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
         },
         {
-          "id": "tmdb:202555",
+          "id": "tmdb:224263",
           "type": "series",
-          "name": "Daredevil: Born Again",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
-        },
-        {
-          "id": "tmdb:289424",
-          "type": "series",
-          "name": "We Are All Trying Here",
+          "name": "Stranger Things: Tales from '85",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344506550/s592/we-are-all-trying-here.jpg"
+          "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
         }
       ]
     }
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-25T07:07:23.377Z",
+    "generatedAt": "2026-04-26T07:21:51.098Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:983507",
       "tmdb:1318447",
+      "tmdb:983507",
       "tmdb:823464",
-      "tmdb:889737",
-      "tmdb:264660",
       "tmdb:989473",
-      "tmdb:604079",
-      "tmdb:188207",
+      "tmdb:264660",
       "tmdb:897424",
-      "tmdb:791373"
+      "tmdb:791373",
+      "tmdb:570670",
+      "tmdb:302349",
+      "tmdb:438631"
     ],
     "tmdbShows": [
       "tmdb:124364",
@@ -198,11 +198,11 @@
       "tmdb:290856",
       "tmdb:67826",
       "tmdb:76479",
-      "tmdb:85552",
-      "tmdb:154385",
+      "tmdb:285838",
+      "tmdb:251597",
+      "tmdb:244623",
       "tmdb:295778",
-      "tmdb:202555",
-      "tmdb:289424"
+      "tmdb:224263"
     ]
   }
 }
