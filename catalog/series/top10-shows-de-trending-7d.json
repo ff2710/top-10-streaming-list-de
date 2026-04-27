@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
     },
     {
-      "id": "tmdb:67826",
+      "id": "tmdb:285838",
       "type": "series",
-      "name": "Hooten & the Lady",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/177466088/s592/Hooten-und-The-Lady.jpg"
+      "name": "If Wishes Could Kill",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
     },
     {
       "id": "tmdb:76479",
@@ -36,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:285838",
+      "id": "tmdb:244623",
       "type": "series",
-      "name": "If Wishes Could Kill",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
+      "name": "Running Point",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
     },
     {
       "id": "tmdb:251597",
@@ -50,25 +50,25 @@
       "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
     },
     {
-      "id": "tmdb:244623",
-      "type": "series",
-      "name": "Running Point",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
-    },
-    {
-      "id": "tmdb:295778",
-      "type": "series",
-      "name": "Scrubs",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
-    },
-    {
       "id": "tmdb:224263",
       "type": "series",
       "name": "Stranger Things: Tales from '85",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
+    },
+    {
+      "id": "tmdb:48891",
+      "type": "series",
+      "name": "Brooklyn Nine-Nine",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/331775349/s592/Brooklyn-Nine-Nine.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     }
   ]
 }
