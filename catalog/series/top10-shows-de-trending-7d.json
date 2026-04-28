@@ -15,18 +15,18 @@
       "poster": "https://images.justwatch.com/poster/343797072/s592/unchosen.jpg"
     },
     {
-      "id": "tmdb:290856",
-      "type": "series",
-      "name": "Marshals",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
-    },
-    {
       "id": "tmdb:285838",
       "type": "series",
       "name": "If Wishes Could Kill",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
+    },
+    {
+      "id": "tmdb:290856",
+      "type": "series",
+      "name": "Marshals",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
     },
     {
       "id": "tmdb:76479",
@@ -43,13 +43,6 @@
       "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
     },
     {
-      "id": "tmdb:251597",
-      "type": "series",
-      "name": " Bookish",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
-    },
-    {
       "id": "tmdb:224263",
       "type": "series",
       "name": "Stranger Things: Tales from '85",
@@ -57,11 +50,18 @@
       "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
     },
     {
-      "id": "tmdb:48891",
+      "id": "tmdb:251597",
       "type": "series",
-      "name": "Brooklyn Nine-Nine",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/331775349/s592/Brooklyn-Nine-Nine.jpg"
+      "name": " Bookish",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
+    },
+    {
+      "id": "tmdb:87108",
+      "type": "series",
+      "name": "Chernobyl",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
     },
     {
       "id": "tmdb:79744",

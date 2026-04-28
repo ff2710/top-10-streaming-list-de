@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-27T08:12:58.741Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-04-28T08:15:00.509Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,11 +29,11 @@
           "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
         },
         {
-          "id": "tmdb:823464",
+          "id": "tmdb:1272837",
           "type": "movie",
-          "name": "Godzilla x Kong: The New Empire",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/316816163/s592/godzilla-x-kong-the-new-empire.jpg"
+          "name": "28 Years Later: The Bone Temple",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
         },
         {
           "id": "tmdb:989473",
@@ -43,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/337245242/s592/invitation-to-a-murder.jpg"
         },
         {
-          "id": "tmdb:264660",
-          "type": "movie",
-          "name": "Ex Machina",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
-        },
-        {
           "id": "tmdb:570670",
           "type": "movie",
           "name": "Der Unsichtbare",
@@ -57,18 +50,11 @@
           "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
-          "id": "tmdb:1272837",
+          "id": "tmdb:264660",
           "type": "movie",
-          "name": "28 Years Later: The Bone Temple",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
-        },
-        {
-          "id": "tmdb:897424",
-          "type": "movie",
-          "name": "Dark Cloud",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/279641079/s592/Dark-Cloud.jpg"
+          "name": "Ex Machina",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/301024558/s592/Ex-Machina.jpg"
         },
         {
           "id": "tmdb:1184918",
@@ -78,11 +64,25 @@
           "poster": "https://images.justwatch.com/poster/321433793/s592/the-wild-robot.jpg"
         },
         {
+          "id": "tmdb:897424",
+          "type": "movie",
+          "name": "Dark Cloud",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/279641079/s592/Dark-Cloud.jpg"
+        },
+        {
           "id": "tmdb:1641966",
           "type": "movie",
           "name": "Untold: The Shooting at Hawthorne Hill",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344534812/s592/untold-the-shooting-at-hawthorne-hill.jpg"
+        },
+        {
+          "id": "tmdb:961484",
+          "type": "movie",
+          "name": "Chase - Nichts hält ihn auf",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/302405406/s592/Chase-2022.jpg"
         },
         {
           "id": "tmdb:188207",
@@ -114,18 +114,18 @@
           "poster": "https://images.justwatch.com/poster/343797072/s592/unchosen.jpg"
         },
         {
-          "id": "tmdb:290856",
-          "type": "series",
-          "name": "Marshals",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
-        },
-        {
           "id": "tmdb:285838",
           "type": "series",
           "name": "If Wishes Could Kill",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
+        },
+        {
+          "id": "tmdb:290856",
+          "type": "series",
+          "name": "Marshals",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
         },
         {
           "id": "tmdb:76479",
@@ -142,13 +142,6 @@
           "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
         },
         {
-          "id": "tmdb:251597",
-          "type": "series",
-          "name": " Bookish",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
-        },
-        {
           "id": "tmdb:224263",
           "type": "series",
           "name": "Stranger Things: Tales from '85",
@@ -156,11 +149,18 @@
           "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
         },
         {
-          "id": "tmdb:48891",
+          "id": "tmdb:251597",
           "type": "series",
-          "name": "Brooklyn Nine-Nine",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/331775349/s592/Brooklyn-Nine-Nine.jpg"
+          "name": " Bookish",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
+        },
+        {
+          "id": "tmdb:87108",
+          "type": "series",
+          "name": "Chernobyl",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
         },
         {
           "id": "tmdb:79744",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-27T08:12:58.741Z",
+    "generatedAt": "2026-04-28T08:15:00.509Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1318447",
-      "tmdb:823464",
-      "tmdb:989473",
-      "tmdb:264660",
-      "tmdb:570670",
       "tmdb:1272837",
-      "tmdb:897424",
+      "tmdb:989473",
+      "tmdb:570670",
+      "tmdb:264660",
       "tmdb:1184918",
+      "tmdb:897424",
       "tmdb:1641966",
+      "tmdb:961484",
       "tmdb:188207"
     ],
     "tmdbShows": [
       "tmdb:124364",
       "tmdb:262848",
-      "tmdb:290856",
       "tmdb:285838",
+      "tmdb:290856",
       "tmdb:76479",
       "tmdb:244623",
-      "tmdb:251597",
       "tmdb:224263",
-      "tmdb:48891",
+      "tmdb:251597",
+      "tmdb:87108",
       "tmdb:79744"
     ]
   }
