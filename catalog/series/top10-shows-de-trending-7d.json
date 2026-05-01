@@ -29,20 +29,6 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:244623",
-      "type": "series",
-      "name": "Running Point",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
-    },
-    {
-      "id": "tmdb:224263",
-      "type": "series",
-      "name": "Stranger Things: Tales from '85",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
-    },
-    {
       "id": "tmdb:4344",
       "type": "series",
       "name": "Rescue Me",
@@ -50,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/200414109/s592/Rescue-Me.jpg"
     },
     {
-      "id": "tmdb:251597",
+      "id": "tmdb:223386",
       "type": "series",
-      "name": " Bookish",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
+      "name": "Man on Fire",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
     },
     {
       "id": "tmdb:300529",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/342835250/s592/jigoku-ni-ochiru-wa-yo.jpg"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:244623",
       "type": "series",
-      "name": "Marshals",
+      "name": "Running Point",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:224263",
+      "type": "series",
+      "name": "Stranger Things: Tales from '85",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+      "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
     }
   ]
 }

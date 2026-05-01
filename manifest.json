@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-04-30T08:11:55.216Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-01T08:06:03.608Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
         },
         {
-          "id": "tmdb:989473",
-          "type": "movie",
-          "name": "Einladung zum Mord",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/337245242/s592/invitation-to-a-murder.jpg"
-        },
-        {
           "id": "tmdb:570670",
           "type": "movie",
           "name": "Der Unsichtbare",
@@ -64,18 +57,18 @@
           "poster": "https://images.justwatch.com/poster/8810153/s592/Last-Days-on-Earth.jpg"
         },
         {
+          "id": "tmdb:350",
+          "type": "movie",
+          "name": "Der Teufel trägt Prada",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
+        },
+        {
           "id": "tmdb:97370",
           "type": "movie",
           "name": "Under the Skin - Tödliche Verführung",
           "year": 2014,
           "poster": "https://images.justwatch.com/poster/335378942/s592/Under-the-Skin-Toedliche-Verfuehrung.jpg"
-        },
-        {
-          "id": "tmdb:961484",
-          "type": "movie",
-          "name": "Chase - Nichts hält ihn auf",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/302405406/s592/Chase-2022.jpg"
         },
         {
           "id": "tmdb:548066",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/122714306/s592/Level-16.jpg"
         },
         {
-          "id": "tmdb:795774",
+          "id": "tmdb:766220",
           "type": "movie",
-          "name": "All Eyes Off Me",
+          "name": "Der Feind ist in dir",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/249482185/s592/All-Eyes-Off-Me.jpg"
+          "poster": "https://images.justwatch.com/poster/306139132/s592/Old-Man.jpg"
+        },
+        {
+          "id": "tmdb:514847",
+          "type": "movie",
+          "name": "The Hunt",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
         }
       ]
     },
@@ -128,20 +128,6 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:244623",
-          "type": "series",
-          "name": "Running Point",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
-        },
-        {
-          "id": "tmdb:224263",
-          "type": "series",
-          "name": "Stranger Things: Tales from '85",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
-        },
-        {
           "id": "tmdb:4344",
           "type": "series",
           "name": "Rescue Me",
@@ -149,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/200414109/s592/Rescue-Me.jpg"
         },
         {
-          "id": "tmdb:251597",
+          "id": "tmdb:223386",
           "type": "series",
-          "name": " Bookish",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336950042/s592/bookish.jpg"
+          "name": "Man on Fire",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
         },
         {
           "id": "tmdb:300529",
@@ -163,11 +149,25 @@
           "poster": "https://images.justwatch.com/poster/342835250/s592/jigoku-ni-ochiru-wa-yo.jpg"
         },
         {
-          "id": "tmdb:290856",
+          "id": "tmdb:244623",
           "type": "series",
-          "name": "Marshals",
+          "name": "Running Point",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
+        },
+        {
+          "id": "tmdb:79744",
+          "type": "series",
+          "name": "Der Rookie",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:224263",
+          "type": "series",
+          "name": "Stranger Things: Tales from '85",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+          "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-04-30T08:11:55.216Z",
+    "generatedAt": "2026-05-01T08:06:03.608Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1318447",
       "tmdb:1272837",
-      "tmdb:989473",
       "tmdb:570670",
       "tmdb:1184918",
       "tmdb:190847",
+      "tmdb:350",
       "tmdb:97370",
-      "tmdb:961484",
       "tmdb:548066",
-      "tmdb:795774"
+      "tmdb:766220",
+      "tmdb:514847"
     ],
     "tmdbShows": [
       "tmdb:124364",
       "tmdb:285838",
       "tmdb:87108",
       "tmdb:76479",
-      "tmdb:244623",
-      "tmdb:224263",
       "tmdb:4344",
-      "tmdb:251597",
+      "tmdb:223386",
       "tmdb:300529",
-      "tmdb:290856"
+      "tmdb:244623",
+      "tmdb:79744",
+      "tmdb:224263"
     ]
   }
 }
