@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-01T08:06:03.608Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-02T07:24:47.170Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,18 +50,25 @@
           "poster": "https://images.justwatch.com/poster/321433793/s592/the-wild-robot.jpg"
         },
         {
-          "id": "tmdb:190847",
-          "type": "movie",
-          "name": "Last Days on Mars",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/8810153/s592/Last-Days-on-Earth.jpg"
-        },
-        {
           "id": "tmdb:350",
           "type": "movie",
           "name": "Der Teufel trägt Prada",
           "year": 2006,
           "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
+        },
+        {
+          "id": "tmdb:514847",
+          "type": "movie",
+          "name": "The Hunt",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
+        },
+        {
+          "id": "tmdb:190847",
+          "type": "movie",
+          "name": "Last Days on Mars",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/8810153/s592/Last-Days-on-Earth.jpg"
         },
         {
           "id": "tmdb:97370",
@@ -71,25 +78,18 @@
           "poster": "https://images.justwatch.com/poster/335378942/s592/Under-the-Skin-Toedliche-Verfuehrung.jpg"
         },
         {
+          "id": "tmdb:45612",
+          "type": "movie",
+          "name": "Source Code",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/317202861/s592/Source-Code.jpg"
+        },
+        {
           "id": "tmdb:548066",
           "type": "movie",
           "name": "Level 16",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/122714306/s592/Level-16.jpg"
-        },
-        {
-          "id": "tmdb:766220",
-          "type": "movie",
-          "name": "Der Feind ist in dir",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/306139132/s592/Old-Man.jpg"
-        },
-        {
-          "id": "tmdb:514847",
-          "type": "movie",
-          "name": "The Hunt",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
         }
       ]
     },
@@ -107,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
-          "id": "tmdb:285838",
-          "type": "series",
-          "name": "If Wishes Could Kill",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
-        },
-        {
           "id": "tmdb:87108",
           "type": "series",
           "name": "Chernobyl",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
+        },
+        {
+          "id": "tmdb:223386",
+          "type": "series",
+          "name": "Man on Fire",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
         },
         {
           "id": "tmdb:76479",
@@ -135,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/200414109/s592/Rescue-Me.jpg"
         },
         {
-          "id": "tmdb:223386",
+          "id": "tmdb:285838",
           "type": "series",
-          "name": "Man on Fire",
+          "name": "If Wishes Could Kill",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
+          "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
         },
         {
           "id": "tmdb:300529",
@@ -149,11 +149,18 @@
           "poster": "https://images.justwatch.com/poster/342835250/s592/jigoku-ni-ochiru-wa-yo.jpg"
         },
         {
-          "id": "tmdb:244623",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "Running Point",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/344344327/s592/running-point.jpg"
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
+        },
+        {
+          "id": "tmdb:259702",
+          "type": "series",
+          "name": "La Casa de los Espíritus",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344002842/s592/the-house-of-the-spirits.jpg"
         },
         {
           "id": "tmdb:79744",
@@ -161,13 +168,6 @@
           "name": "Der Rookie",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-        },
-        {
-          "id": "tmdb:224263",
-          "type": "series",
-          "name": "Stranger Things: Tales from '85",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-01T08:06:03.608Z",
+    "generatedAt": "2026-05-02T07:24:47.170Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,24 +185,24 @@
       "tmdb:1272837",
       "tmdb:570670",
       "tmdb:1184918",
-      "tmdb:190847",
       "tmdb:350",
+      "tmdb:514847",
+      "tmdb:190847",
       "tmdb:97370",
-      "tmdb:548066",
-      "tmdb:766220",
-      "tmdb:514847"
+      "tmdb:45612",
+      "tmdb:548066"
     ],
     "tmdbShows": [
       "tmdb:124364",
-      "tmdb:285838",
       "tmdb:87108",
+      "tmdb:223386",
       "tmdb:76479",
       "tmdb:4344",
-      "tmdb:223386",
+      "tmdb:285838",
       "tmdb:300529",
-      "tmdb:244623",
-      "tmdb:79744",
-      "tmdb:224263"
+      "tmdb:270476",
+      "tmdb:259702",
+      "tmdb:79744"
     ]
   }
 }
