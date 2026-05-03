@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
     },
     {
-      "id": "tmdb:87108",
-      "type": "series",
-      "name": "Chernobyl",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
-    },
-    {
       "id": "tmdb:223386",
       "type": "series",
       "name": "Man on Fire",
@@ -22,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
     },
     {
-      "id": "tmdb:76479",
+      "id": "tmdb:87108",
       "type": "series",
-      "name": "The Boys",
+      "name": "Chernobyl",
       "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+      "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
     },
     {
       "id": "tmdb:4344",
@@ -36,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/200414109/s592/Rescue-Me.jpg"
     },
     {
-      "id": "tmdb:285838",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "If Wishes Could Kill",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343834605/s592/wish-your-death.jpg"
+      "name": "The Boys",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
       "id": "tmdb:300529",
@@ -57,6 +50,13 @@
       "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
     },
     {
+      "id": "tmdb:51019",
+      "type": "series",
+      "name": "Almost Human",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
+    },
+    {
       "id": "tmdb:259702",
       "type": "series",
       "name": "La Casa de los Espíritus",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/344002842/s592/the-house-of-the-spirits.jpg"
     },
     {
-      "id": "tmdb:79744",
+      "id": "tmdb:243875",
       "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+      "name": "Georgie & Mandy",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
     }
   ]
 }
