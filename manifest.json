@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-04T08:23:03.431Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-05T08:00:58.377Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -21,20 +21,6 @@
       "name": "Top 10 Trending Movies DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:1272837",
-          "type": "movie",
-          "name": "28 Years Later: The Bone Temple",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
-        },
-        {
-          "id": "tmdb:1318447",
-          "type": "movie",
-          "name": "Apex",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
-        },
         {
           "id": "tmdb:514847",
           "type": "movie",
@@ -57,6 +43,13 @@
           "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
         },
         {
+          "id": "tmdb:915980",
+          "type": "movie",
+          "name": "Sonne und Beton",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/304094384/s592/Sonne-und-Beton.jpg"
+        },
+        {
           "id": "tmdb:45612",
           "type": "movie",
           "name": "Source Code",
@@ -64,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/317202861/s592/Source-Code.jpg"
         },
         {
-          "id": "tmdb:97370",
+          "id": "tmdb:1318447",
           "type": "movie",
-          "name": "Under the Skin - Tödliche Verführung",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/335378942/s592/Under-the-Skin-Toedliche-Verfuehrung.jpg"
+          "name": "Apex",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
         },
         {
           "id": "tmdb:190847",
@@ -78,11 +71,18 @@
           "poster": "https://images.justwatch.com/poster/8810153/s592/Last-Days-on-Earth.jpg"
         },
         {
-          "id": "tmdb:548066",
+          "id": "tmdb:1272837",
           "type": "movie",
-          "name": "Level 16",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/122714306/s592/Level-16.jpg"
+          "name": "28 Years Later: The Bone Temple",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341016836/s592/28-years-later-the-bone-temple.jpg"
+        },
+        {
+          "id": "tmdb:97370",
+          "type": "movie",
+          "name": "Under the Skin - Tödliche Verführung",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/335378942/s592/Under-the-Skin-Toedliche-Verfuehrung.jpg"
         },
         {
           "id": "tmdb:766220",
@@ -107,13 +107,6 @@
           "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
         },
         {
-          "id": "tmdb:87108",
-          "type": "series",
-          "name": "Chernobyl",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
-        },
-        {
           "id": "tmdb:124364",
           "type": "series",
           "name": "From",
@@ -121,18 +114,18 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
+          "id": "tmdb:87108",
+          "type": "series",
+          "name": "Chernobyl",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/322143058/s592/Chernobyl.jpg"
+        },
+        {
           "id": "tmdb:76479",
           "type": "series",
           "name": "The Boys",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-        },
-        {
-          "id": "tmdb:4344",
-          "type": "series",
-          "name": "Rescue Me",
-          "year": 2004,
-          "poster": "https://images.justwatch.com/poster/200414109/s592/Rescue-Me.jpg"
         },
         {
           "id": "tmdb:243875",
@@ -156,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
         },
         {
-          "id": "tmdb:300529",
+          "id": "tmdb:201834",
           "type": "series",
-          "name": "Straight To Hell",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342835250/s592/jigoku-ni-ochiru-wa-yo.jpg"
+          "name": "Ted",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
         },
         {
           "id": "tmdb:259702",
@@ -168,6 +161,13 @@
           "name": "La Casa de los Espíritus",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344002842/s592/the-house-of-the-spirits.jpg"
+        },
+        {
+          "id": "tmdb:276117",
+          "type": "series",
+          "name": "Der Künstler",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338895106/s592/der-kuenstler.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-04T08:23:03.431Z",
+    "generatedAt": "2026-05-05T08:00:58.377Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1272837",
-      "tmdb:1318447",
       "tmdb:514847",
       "tmdb:1086260",
       "tmdb:350",
+      "tmdb:915980",
       "tmdb:45612",
-      "tmdb:97370",
+      "tmdb:1318447",
       "tmdb:190847",
-      "tmdb:548066",
+      "tmdb:1272837",
+      "tmdb:97370",
       "tmdb:766220"
     ],
     "tmdbShows": [
       "tmdb:223386",
-      "tmdb:87108",
       "tmdb:124364",
+      "tmdb:87108",
       "tmdb:76479",
-      "tmdb:4344",
       "tmdb:243875",
       "tmdb:270476",
       "tmdb:51019",
-      "tmdb:300529",
-      "tmdb:259702"
+      "tmdb:201834",
+      "tmdb:259702",
+      "tmdb:276117"
     ]
   }
 }
