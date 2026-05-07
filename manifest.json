@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-06T08:17:10.027Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-07T08:26:04.224Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,6 +50,13 @@
           "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
         },
         {
+          "id": "tmdb:45612",
+          "type": "movie",
+          "name": "Source Code",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/317202861/s592/Source-Code.jpg"
+        },
+        {
           "id": "tmdb:350",
           "type": "movie",
           "name": "Der Teufel trägt Prada",
@@ -57,11 +64,11 @@
           "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
         },
         {
-          "id": "tmdb:45612",
+          "id": "tmdb:1007757",
           "type": "movie",
-          "name": "Source Code",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/317202861/s592/Source-Code.jpg"
+          "name": "Swapped – Getauscht",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344772370/s592/pookoo.jpg"
         },
         {
           "id": "tmdb:190847",
@@ -71,18 +78,11 @@
           "poster": "https://images.justwatch.com/poster/8810153/s592/Last-Days-on-Earth.jpg"
         },
         {
-          "id": "tmdb:1318447",
+          "id": "tmdb:814889",
           "type": "movie",
-          "name": "Apex",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
-        },
-        {
-          "id": "tmdb:1007757",
-          "type": "movie",
-          "name": "Swapped – Getauscht",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344772370/s592/pookoo.jpg"
+          "name": "Never Let Go - Lass niemals los",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323309525/s592/never-let-go-2024.jpg"
         },
         {
           "id": "tmdb:641548",
@@ -128,18 +128,18 @@
           "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
         },
         {
+          "id": "tmdb:289219",
+          "type": "series",
+          "name": "Star Wars: Maul - Shadow Lord",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
+        },
+        {
           "id": "tmdb:243875",
           "type": "series",
           "name": "Georgie & Mandy",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
-        },
-        {
-          "id": "tmdb:270476",
-          "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:51019",
@@ -149,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
         },
         {
-          "id": "tmdb:289219",
+          "id": "tmdb:276117",
           "type": "series",
-          "name": "Star Wars: Maul - Shadow Lord",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
+          "name": "Der Künstler",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338895106/s592/der-kuenstler.jpg"
         },
         {
           "id": "tmdb:85552",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
-          "id": "tmdb:259702",
+          "id": "tmdb:202411",
           "type": "series",
-          "name": "La Casa de los Espíritus",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344002842/s592/the-house-of-the-spirits.jpg"
+          "name": "Monarch: Legacy of Monsters",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-06T08:17:10.027Z",
+    "generatedAt": "2026-05-07T08:26:04.224Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,11 +185,11 @@
       "tmdb:514847",
       "tmdb:1086260",
       "tmdb:848887",
-      "tmdb:350",
       "tmdb:45612",
-      "tmdb:190847",
-      "tmdb:1318447",
+      "tmdb:350",
       "tmdb:1007757",
+      "tmdb:190847",
+      "tmdb:814889",
       "tmdb:641548"
     ],
     "tmdbShows": [
@@ -197,12 +197,12 @@
       "tmdb:76479",
       "tmdb:124364",
       "tmdb:201834",
-      "tmdb:243875",
-      "tmdb:270476",
-      "tmdb:51019",
       "tmdb:289219",
+      "tmdb:243875",
+      "tmdb:51019",
+      "tmdb:276117",
       "tmdb:85552",
-      "tmdb:259702"
+      "tmdb:202411"
     ]
   }
 }
