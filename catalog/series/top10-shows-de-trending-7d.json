@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
       "id": "tmdb:201834",
       "type": "series",
       "name": "Ted",
@@ -36,6 +29,13 @@
       "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+    },
+    {
       "id": "tmdb:243875",
       "type": "series",
       "name": "Georgie & Mandy",
@@ -43,18 +43,18 @@
       "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
     },
     {
-      "id": "tmdb:51019",
-      "type": "series",
-      "name": "Almost Human",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
-    },
-    {
       "id": "tmdb:276117",
       "type": "series",
       "name": "Der Künstler",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/338895106/s592/der-kuenstler.jpg"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "The Handmaid's Tale - Der Report der Magd",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
     },
     {
       "id": "tmdb:85552",

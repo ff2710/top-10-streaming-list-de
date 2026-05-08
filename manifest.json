@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-07T08:26:04.224Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-08T07:22:03.352Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,11 +29,11 @@
           "poster": "https://images.justwatch.com/poster/304094384/s592/Sonne-und-Beton.jpg"
         },
         {
-          "id": "tmdb:514847",
+          "id": "tmdb:848887",
           "type": "movie",
-          "name": "The Hunt",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
+          "name": "Outpost - Auf verlorenem Posten",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
         },
         {
           "id": "tmdb:1086260",
@@ -43,39 +43,11 @@
           "poster": "https://images.justwatch.com/poster/340503064/s592/the-astronaut.jpg"
         },
         {
-          "id": "tmdb:848887",
-          "type": "movie",
-          "name": "Outpost - Auf verlorenem Posten",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
-        },
-        {
-          "id": "tmdb:45612",
-          "type": "movie",
-          "name": "Source Code",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/317202861/s592/Source-Code.jpg"
-        },
-        {
-          "id": "tmdb:350",
-          "type": "movie",
-          "name": "Der Teufel trägt Prada",
-          "year": 2006,
-          "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
-        },
-        {
           "id": "tmdb:1007757",
           "type": "movie",
           "name": "Swapped – Getauscht",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344772370/s592/pookoo.jpg"
-        },
-        {
-          "id": "tmdb:190847",
-          "type": "movie",
-          "name": "Last Days on Mars",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/8810153/s592/Last-Days-on-Earth.jpg"
         },
         {
           "id": "tmdb:814889",
@@ -90,6 +62,34 @@
           "name": "Roh",
           "year": 2020,
           "poster": "https://images.justwatch.com/poster/199631450/s592/Roh.jpg"
+        },
+        {
+          "id": "tmdb:350",
+          "type": "movie",
+          "name": "Der Teufel trägt Prada",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
+        },
+        {
+          "id": "tmdb:242095",
+          "type": "movie",
+          "name": "The Signal",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/241917289/s592/The-Signal.jpg"
+        },
+        {
+          "id": "tmdb:47278",
+          "type": "movie",
+          "name": "Dark Shades of Black",
+          "year": 1996,
+          "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
+        },
+        {
+          "id": "tmdb:3536",
+          "type": "movie",
+          "name": "U-571",
+          "year": 2000,
+          "poster": "https://images.justwatch.com/poster/244503872/s592/U-571.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:124364",
-          "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
           "id": "tmdb:201834",
           "type": "series",
           "name": "Ted",
@@ -135,6 +128,13 @@
           "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
         },
         {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
           "id": "tmdb:243875",
           "type": "series",
           "name": "Georgie & Mandy",
@@ -142,18 +142,18 @@
           "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
         },
         {
-          "id": "tmdb:51019",
-          "type": "series",
-          "name": "Almost Human",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
-        },
-        {
           "id": "tmdb:276117",
           "type": "series",
           "name": "Der Künstler",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/338895106/s592/der-kuenstler.jpg"
+        },
+        {
+          "id": "tmdb:69478",
+          "type": "series",
+          "name": "The Handmaid's Tale - Der Report der Magd",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         },
         {
           "id": "tmdb:85552",
@@ -177,30 +177,30 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-07T08:26:04.224Z",
+    "generatedAt": "2026-05-08T07:22:03.352Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:915980",
-      "tmdb:514847",
-      "tmdb:1086260",
       "tmdb:848887",
-      "tmdb:45612",
-      "tmdb:350",
+      "tmdb:1086260",
       "tmdb:1007757",
-      "tmdb:190847",
       "tmdb:814889",
-      "tmdb:641548"
+      "tmdb:641548",
+      "tmdb:350",
+      "tmdb:242095",
+      "tmdb:47278",
+      "tmdb:3536"
     ],
     "tmdbShows": [
       "tmdb:223386",
       "tmdb:76479",
-      "tmdb:124364",
       "tmdb:201834",
       "tmdb:289219",
+      "tmdb:124364",
       "tmdb:243875",
-      "tmdb:51019",
       "tmdb:276117",
+      "tmdb:69478",
       "tmdb:85552",
       "tmdb:202411"
     ]
