@@ -1,25 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:223386",
-      "type": "series",
-      "name": "Man on Fire",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
-    },
-    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-    },
-    {
-      "id": "tmdb:201834",
-      "type": "series",
-      "name": "Ted",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
     },
     {
       "id": "tmdb:289219",
@@ -29,25 +15,18 @@
       "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:201834",
       "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
-      "id": "tmdb:243875",
-      "type": "series",
-      "name": "Georgie & Mandy",
+      "name": "Ted",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
+      "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
     },
     {
-      "id": "tmdb:276117",
+      "id": "tmdb:223386",
       "type": "series",
-      "name": "Der Künstler",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338895106/s592/der-kuenstler.jpg"
+      "name": "Man on Fire",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345456819/s592/man-on-fire.jpg"
     },
     {
       "id": "tmdb:69478",
@@ -57,6 +36,27 @@
       "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
     },
     {
+      "id": "tmdb:243875",
+      "type": "series",
+      "name": "Georgie & Mandy",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
+    },
+    {
+      "id": "tmdb:1818",
+      "type": "series",
+      "name": "Lexx - The Dark Zone",
+      "year": 1997,
+      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+    },
+    {
+      "id": "tmdb:114922",
+      "type": "series",
+      "name": "Citadel",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
+    },
+    {
       "id": "tmdb:85552",
       "type": "series",
       "name": "Euphoria",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
-      "id": "tmdb:202411",
+      "id": "tmdb:202555",
       "type": "series",
-      "name": "Monarch: Legacy of Monsters",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
+      "name": "Daredevil: Born Again",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
     }
   ]
 }

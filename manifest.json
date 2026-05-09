@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-08T07:22:03.352Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-09T07:49:12.628Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,18 +36,11 @@
           "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
         },
         {
-          "id": "tmdb:1086260",
+          "id": "tmdb:47278",
           "type": "movie",
-          "name": "The Astronaut",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340503064/s592/the-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:1007757",
-          "type": "movie",
-          "name": "Swapped – Getauscht",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344772370/s592/pookoo.jpg"
+          "name": "Dark Shades of Black",
+          "year": 1996,
+          "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
         },
         {
           "id": "tmdb:814889",
@@ -64,32 +57,39 @@
           "poster": "https://images.justwatch.com/poster/199631450/s592/Roh.jpg"
         },
         {
-          "id": "tmdb:350",
-          "type": "movie",
-          "name": "Der Teufel trägt Prada",
-          "year": 2006,
-          "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
-        },
-        {
-          "id": "tmdb:242095",
-          "type": "movie",
-          "name": "The Signal",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/241917289/s592/The-Signal.jpg"
-        },
-        {
-          "id": "tmdb:47278",
-          "type": "movie",
-          "name": "Dark Shades of Black",
-          "year": 1996,
-          "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
-        },
-        {
           "id": "tmdb:3536",
           "type": "movie",
           "name": "U-571",
           "year": 2000,
           "poster": "https://images.justwatch.com/poster/244503872/s592/U-571.jpg"
+        },
+        {
+          "id": "tmdb:1029235",
+          "type": "movie",
+          "name": "Azrael - Angel of Death",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
+        },
+        {
+          "id": "tmdb:1318447",
+          "type": "movie",
+          "name": "Apex",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
+        },
+        {
+          "id": "tmdb:1198994",
+          "type": "movie",
+          "name": "Send Help",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
+        },
+        {
+          "id": "tmdb:279690",
+          "type": "movie",
+          "name": "He Never Died",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/215524460/s592/He-Never-Died.jpg"
         }
       ]
     },
@@ -100,25 +100,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:223386",
-          "type": "series",
-          "name": "Man on Fire",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344280194/s592/man-on-fire.jpg"
-        },
-        {
           "id": "tmdb:76479",
           "type": "series",
           "name": "The Boys",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-        },
-        {
-          "id": "tmdb:201834",
-          "type": "series",
-          "name": "Ted",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
         },
         {
           "id": "tmdb:289219",
@@ -128,25 +114,18 @@
           "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
         },
         {
-          "id": "tmdb:124364",
+          "id": "tmdb:201834",
           "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
-          "id": "tmdb:243875",
-          "type": "series",
-          "name": "Georgie & Mandy",
+          "name": "Ted",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
+          "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
         },
         {
-          "id": "tmdb:276117",
+          "id": "tmdb:223386",
           "type": "series",
-          "name": "Der Künstler",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338895106/s592/der-kuenstler.jpg"
+          "name": "Man on Fire",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345456819/s592/man-on-fire.jpg"
         },
         {
           "id": "tmdb:69478",
@@ -156,6 +135,27 @@
           "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         },
         {
+          "id": "tmdb:243875",
+          "type": "series",
+          "name": "Georgie & Mandy",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
+        },
+        {
+          "id": "tmdb:1818",
+          "type": "series",
+          "name": "Lexx - The Dark Zone",
+          "year": 1997,
+          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+        },
+        {
+          "id": "tmdb:114922",
+          "type": "series",
+          "name": "Citadel",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
+        },
+        {
           "id": "tmdb:85552",
           "type": "series",
           "name": "Euphoria",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
-          "id": "tmdb:202411",
+          "id": "tmdb:202555",
           "type": "series",
-          "name": "Monarch: Legacy of Monsters",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/308824959/s592/monarch-legacy-of-monsters.jpg"
+          "name": "Daredevil: Born Again",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-08T07:22:03.352Z",
+    "generatedAt": "2026-05-09T07:49:12.628Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:915980",
       "tmdb:848887",
-      "tmdb:1086260",
-      "tmdb:1007757",
+      "tmdb:47278",
       "tmdb:814889",
       "tmdb:641548",
-      "tmdb:350",
-      "tmdb:242095",
-      "tmdb:47278",
-      "tmdb:3536"
+      "tmdb:3536",
+      "tmdb:1029235",
+      "tmdb:1318447",
+      "tmdb:1198994",
+      "tmdb:279690"
     ],
     "tmdbShows": [
-      "tmdb:223386",
       "tmdb:76479",
-      "tmdb:201834",
       "tmdb:289219",
-      "tmdb:124364",
-      "tmdb:243875",
-      "tmdb:276117",
+      "tmdb:201834",
+      "tmdb:223386",
       "tmdb:69478",
+      "tmdb:243875",
+      "tmdb:1818",
+      "tmdb:114922",
       "tmdb:85552",
-      "tmdb:202411"
+      "tmdb:202555"
     ]
   }
 }

@@ -15,18 +15,11 @@
       "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
     },
     {
-      "id": "tmdb:1086260",
+      "id": "tmdb:47278",
       "type": "movie",
-      "name": "The Astronaut",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340503064/s592/the-astronaut.jpg"
-    },
-    {
-      "id": "tmdb:1007757",
-      "type": "movie",
-      "name": "Swapped – Getauscht",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344772370/s592/pookoo.jpg"
+      "name": "Dark Shades of Black",
+      "year": 1996,
+      "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
     },
     {
       "id": "tmdb:814889",
@@ -43,32 +36,39 @@
       "poster": "https://images.justwatch.com/poster/199631450/s592/Roh.jpg"
     },
     {
-      "id": "tmdb:350",
-      "type": "movie",
-      "name": "Der Teufel trägt Prada",
-      "year": 2006,
-      "poster": "https://images.justwatch.com/poster/170548854/s592/Der-Teufel-traegt-Prada.jpg"
-    },
-    {
-      "id": "tmdb:242095",
-      "type": "movie",
-      "name": "The Signal",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/241917289/s592/The-Signal.jpg"
-    },
-    {
-      "id": "tmdb:47278",
-      "type": "movie",
-      "name": "Dark Shades of Black",
-      "year": 1996,
-      "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
-    },
-    {
       "id": "tmdb:3536",
       "type": "movie",
       "name": "U-571",
       "year": 2000,
       "poster": "https://images.justwatch.com/poster/244503872/s592/U-571.jpg"
+    },
+    {
+      "id": "tmdb:1029235",
+      "type": "movie",
+      "name": "Azrael - Angel of Death",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
+    },
+    {
+      "id": "tmdb:1318447",
+      "type": "movie",
+      "name": "Apex",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
+    },
+    {
+      "id": "tmdb:1198994",
+      "type": "movie",
+      "name": "Send Help",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
+    },
+    {
+      "id": "tmdb:279690",
+      "type": "movie",
+      "name": "He Never Died",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/215524460/s592/He-Never-Died.jpg"
     }
   ]
 }
