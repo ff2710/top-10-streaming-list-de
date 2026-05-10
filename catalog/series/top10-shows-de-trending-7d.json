@@ -15,32 +15,11 @@
       "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
-      "id": "tmdb:201834",
-      "type": "series",
-      "name": "Ted",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
-    },
-    {
-      "id": "tmdb:223386",
-      "type": "series",
-      "name": "Man on Fire",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345456819/s592/man-on-fire.jpg"
-    },
-    {
       "id": "tmdb:69478",
       "type": "series",
       "name": "The Handmaid's Tale - Der Report der Magd",
       "year": 2017,
       "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
-    },
-    {
-      "id": "tmdb:243875",
-      "type": "series",
-      "name": "Georgie & Mandy",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/330585992/s592/georgie-und-mandys-first-marriage.jpg"
     },
     {
       "id": "tmdb:1818",
@@ -64,11 +43,32 @@
       "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
+      "id": "tmdb:262388",
+      "type": "series",
+      "name": "M.I.A.",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
+    },
+    {
+      "id": "tmdb:138251",
+      "type": "series",
+      "name": "Eve",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+    },
+    {
       "id": "tmdb:202555",
       "type": "series",
       "name": "Daredevil: Born Again",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+    },
+    {
+      "id": "tmdb:201834",
+      "type": "series",
+      "name": "Ted",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
     }
   ]
 }
