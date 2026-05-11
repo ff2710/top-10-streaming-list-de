@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-10T08:02:11.830Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-11T09:30:53.813Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:915980",
-          "type": "movie",
-          "name": "Sonne und Beton",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/304094384/s592/Sonne-und-Beton.jpg"
-        },
-        {
           "id": "tmdb:848887",
           "type": "movie",
           "name": "Outpost - Auf verlorenem Posten",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
+        },
+        {
+          "id": "tmdb:915980",
+          "type": "movie",
+          "name": "Sonne und Beton",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/304094384/s592/Sonne-und-Beton.jpg"
         },
         {
           "id": "tmdb:1198994",
@@ -57,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
         },
         {
-          "id": "tmdb:814889",
+          "id": "tmdb:1318447",
           "type": "movie",
-          "name": "Never Let Go - Lass niemals los",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323309525/s592/never-let-go-2024.jpg"
+          "name": "Apex",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
         },
         {
           "id": "tmdb:3536",
@@ -69,13 +69,6 @@
           "name": "U-571",
           "year": 2000,
           "poster": "https://images.justwatch.com/poster/244503872/s592/U-571.jpg"
-        },
-        {
-          "id": "tmdb:1318447",
-          "type": "movie",
-          "name": "Apex",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
         },
         {
           "id": "tmdb:279690",
@@ -90,6 +83,13 @@
           "name": "Predators",
           "year": 2010,
           "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
+        },
+        {
+          "id": "tmdb:19994",
+          "type": "movie",
+          "name": "Jennifer's Body - Jungs nach ihrem Geschmack",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/302001273/s592/Jennifers-Body-Jungs-nach-ihrem-Geschmack.jpg"
         }
       ]
     },
@@ -107,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:289219",
-          "type": "series",
-          "name": "Star Wars: Maul - Shadow Lord",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
-        },
-        {
           "id": "tmdb:69478",
           "type": "series",
           "name": "The Handmaid's Tale - Der Report der Magd",
           "year": 2017,
           "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+        },
+        {
+          "id": "tmdb:289219",
+          "type": "series",
+          "name": "Star Wars: Maul - Shadow Lord",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
         },
         {
           "id": "tmdb:1818",
@@ -135,11 +135,18 @@
           "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
         },
         {
-          "id": "tmdb:85552",
+          "id": "tmdb:138251",
           "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+          "name": "Eve",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+        },
+        {
+          "id": "tmdb:299167",
+          "type": "series",
+          "name": "Dutton Ranch",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343842774/s592/dutton-ranch.jpg"
         },
         {
           "id": "tmdb:262388",
@@ -149,11 +156,11 @@
           "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
         },
         {
-          "id": "tmdb:138251",
+          "id": "tmdb:85552",
           "type": "series",
-          "name": "Eve",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
           "id": "tmdb:202555",
@@ -161,13 +168,6 @@
           "name": "Daredevil: Born Again",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
-        },
-        {
-          "id": "tmdb:201834",
-          "type": "series",
-          "name": "Ted",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-10T08:02:11.830Z",
+    "generatedAt": "2026-05-11T09:30:53.813Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:915980",
       "tmdb:848887",
+      "tmdb:915980",
       "tmdb:1198994",
       "tmdb:47278",
       "tmdb:1029235",
-      "tmdb:814889",
-      "tmdb:3536",
       "tmdb:1318447",
+      "tmdb:3536",
       "tmdb:279690",
-      "tmdb:34851"
+      "tmdb:34851",
+      "tmdb:19994"
     ],
     "tmdbShows": [
       "tmdb:76479",
-      "tmdb:289219",
       "tmdb:69478",
+      "tmdb:289219",
       "tmdb:1818",
       "tmdb:114922",
-      "tmdb:85552",
-      "tmdb:262388",
       "tmdb:138251",
-      "tmdb:202555",
-      "tmdb:201834"
+      "tmdb:299167",
+      "tmdb:262388",
+      "tmdb:85552",
+      "tmdb:202555"
     ]
   }
 }

@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:289219",
-      "type": "series",
-      "name": "Star Wars: Maul - Shadow Lord",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
-    },
-    {
       "id": "tmdb:69478",
       "type": "series",
       "name": "The Handmaid's Tale - Der Report der Magd",
       "year": 2017,
       "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+    },
+    {
+      "id": "tmdb:289219",
+      "type": "series",
+      "name": "Star Wars: Maul - Shadow Lord",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344002974/s592/star-wars-maul-shadow-lord.jpg"
     },
     {
       "id": "tmdb:1818",
@@ -36,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:138251",
       "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+      "name": "Eve",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+    },
+    {
+      "id": "tmdb:299167",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343842774/s592/dutton-ranch.jpg"
     },
     {
       "id": "tmdb:262388",
@@ -50,11 +57,11 @@
       "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
     },
     {
-      "id": "tmdb:138251",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Eve",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+      "name": "Euphoria",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
       "id": "tmdb:202555",
@@ -62,13 +69,6 @@
       "name": "Daredevil: Born Again",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
-    },
-    {
-      "id": "tmdb:201834",
-      "type": "series",
-      "name": "Ted",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/310633084/s592/ted.jpg"
     }
   ]
 }
