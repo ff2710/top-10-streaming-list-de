@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
     },
     {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-    },
-    {
       "id": "tmdb:299167",
       "type": "series",
       "name": "Dutton Ranch",
@@ -22,18 +15,11 @@
       "poster": "https://images.justwatch.com/poster/343842774/s592/dutton-ranch.jpg"
     },
     {
-      "id": "tmdb:69478",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "The Handmaid's Tale - Der Report der Magd",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
-    },
-    {
-      "id": "tmdb:1818",
-      "type": "series",
-      "name": "Lexx - The Dark Zone",
-      "year": 1997,
-      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+      "name": "The Boys",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
       "id": "tmdb:114922",
@@ -43,11 +29,25 @@
       "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
     },
     {
+      "id": "tmdb:1818",
+      "type": "series",
+      "name": "Lexx - The Dark Zone",
+      "year": 1997,
+      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+    },
+    {
       "id": "tmdb:138251",
       "type": "series",
       "name": "Eve",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "The Handmaid's Tale - Der Report der Magd",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
     },
     {
       "id": "tmdb:127865",
@@ -57,11 +57,11 @@
       "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:262280",
       "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+      "name": "Legends",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
     },
     {
       "id": "tmdb:202555",

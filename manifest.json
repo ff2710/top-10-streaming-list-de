@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-12T08:32:16.001Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-13T08:37:53.248Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,18 +29,18 @@
           "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
         },
         {
-          "id": "tmdb:47278",
+          "id": "tmdb:34851",
           "type": "movie",
-          "name": "Dark Shades of Black",
-          "year": 1996,
-          "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
+          "name": "Predators",
+          "year": 2010,
+          "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
         },
         {
-          "id": "tmdb:1029235",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "Azrael - Angel of Death",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:298031",
@@ -50,25 +50,11 @@
           "poster": "https://images.justwatch.com/poster/258912009/s592/Hope-Lost.jpg"
         },
         {
-          "id": "tmdb:687163",
+          "id": "tmdb:1029235",
           "type": "movie",
-          "name": "Der Astronaut – Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:848887",
-          "type": "movie",
-          "name": "Outpost - Auf verlorenem Posten",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/311975165/s592/outpost-2023.jpg"
-        },
-        {
-          "id": "tmdb:19994",
-          "type": "movie",
-          "name": "Jennifer's Body - Jungs nach ihrem Geschmack",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/302001273/s592/Jennifers-Body-Jungs-nach-ihrem-Geschmack.jpg"
+          "name": "Azrael - Angel of Death",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
         },
         {
           "id": "tmdb:957452",
@@ -78,11 +64,25 @@
           "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
         },
         {
-          "id": "tmdb:1318447",
+          "id": "tmdb:793961",
           "type": "movie",
-          "name": "Apex",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
+          "name": "Rubikon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/289197757/s592/Rubikon.jpg"
+        },
+        {
+          "id": "tmdb:47278",
+          "type": "movie",
+          "name": "Dark Shades of Black",
+          "year": 1996,
+          "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
+        },
+        {
+          "id": "tmdb:19994",
+          "type": "movie",
+          "name": "Jennifer's Body - Jungs nach ihrem Geschmack",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/302001273/s592/Jennifers-Body-Jungs-nach-ihrem-Geschmack.jpg"
         },
         {
           "id": "tmdb:279690",
@@ -107,13 +107,6 @@
           "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
         },
         {
-          "id": "tmdb:76479",
-          "type": "series",
-          "name": "The Boys",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-        },
-        {
           "id": "tmdb:299167",
           "type": "series",
           "name": "Dutton Ranch",
@@ -121,18 +114,11 @@
           "poster": "https://images.justwatch.com/poster/343842774/s592/dutton-ranch.jpg"
         },
         {
-          "id": "tmdb:69478",
+          "id": "tmdb:76479",
           "type": "series",
-          "name": "The Handmaid's Tale - Der Report der Magd",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
-        },
-        {
-          "id": "tmdb:1818",
-          "type": "series",
-          "name": "Lexx - The Dark Zone",
-          "year": 1997,
-          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+          "name": "The Boys",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
           "id": "tmdb:114922",
@@ -142,11 +128,25 @@
           "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
         },
         {
+          "id": "tmdb:1818",
+          "type": "series",
+          "name": "Lexx - The Dark Zone",
+          "year": 1997,
+          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+        },
+        {
           "id": "tmdb:138251",
           "type": "series",
           "name": "Eve",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+        },
+        {
+          "id": "tmdb:69478",
+          "type": "series",
+          "name": "The Handmaid's Tale - Der Report der Magd",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         },
         {
           "id": "tmdb:127865",
@@ -156,11 +156,11 @@
           "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
         },
         {
-          "id": "tmdb:85552",
+          "id": "tmdb:262280",
           "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+          "name": "Legends",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
         },
         {
           "id": "tmdb:202555",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-12T08:32:16.001Z",
+    "generatedAt": "2026-05-13T08:37:53.248Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1198994",
-      "tmdb:47278",
-      "tmdb:1029235",
-      "tmdb:298031",
+      "tmdb:34851",
       "tmdb:687163",
-      "tmdb:848887",
-      "tmdb:19994",
+      "tmdb:298031",
+      "tmdb:1029235",
       "tmdb:957452",
-      "tmdb:1318447",
+      "tmdb:793961",
+      "tmdb:47278",
+      "tmdb:19994",
       "tmdb:279690"
     ],
     "tmdbShows": [
       "tmdb:262388",
-      "tmdb:76479",
       "tmdb:299167",
-      "tmdb:69478",
-      "tmdb:1818",
+      "tmdb:76479",
       "tmdb:114922",
+      "tmdb:1818",
       "tmdb:138251",
+      "tmdb:69478",
       "tmdb:127865",
-      "tmdb:85552",
+      "tmdb:262280",
       "tmdb:202555"
     ]
   }
