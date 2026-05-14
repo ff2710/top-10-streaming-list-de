@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-13T08:37:53.248Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-14T08:31:26.884Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -38,7 +38,7 @@
         {
           "id": "tmdb:687163",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
+          "name": "Der Astronaut – Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
@@ -57,13 +57,6 @@
           "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
         },
         {
-          "id": "tmdb:957452",
-          "type": "movie",
-          "name": "The Crow",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
-        },
-        {
           "id": "tmdb:793961",
           "type": "movie",
           "name": "Rubikon",
@@ -71,11 +64,11 @@
           "poster": "https://images.justwatch.com/poster/289197757/s592/Rubikon.jpg"
         },
         {
-          "id": "tmdb:47278",
+          "id": "tmdb:957452",
           "type": "movie",
-          "name": "Dark Shades of Black",
-          "year": 1996,
-          "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
+          "name": "The Crow",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
         },
         {
           "id": "tmdb:19994",
@@ -90,6 +83,13 @@
           "name": "He Never Died",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/215524460/s592/He-Never-Died.jpg"
+        },
+        {
+          "id": "tmdb:1330021",
+          "type": "movie",
+          "name": "Das Glück hat acht Arme",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345499601/s592/remarkably-bright-creatures.jpg"
         }
       ]
     },
@@ -121,32 +121,11 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:114922",
-          "type": "series",
-          "name": "Citadel",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
-        },
-        {
-          "id": "tmdb:1818",
-          "type": "series",
-          "name": "Lexx - The Dark Zone",
-          "year": 1997,
-          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
-        },
-        {
           "id": "tmdb:138251",
           "type": "series",
           "name": "Eve",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
-        },
-        {
-          "id": "tmdb:69478",
-          "type": "series",
-          "name": "The Handmaid's Tale - Der Report der Magd",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
         },
         {
           "id": "tmdb:127865",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
         },
         {
-          "id": "tmdb:202555",
+          "id": "tmdb:114922",
           "type": "series",
-          "name": "Daredevil: Born Again",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+          "name": "Citadel",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
+        },
+        {
+          "id": "tmdb:69478",
+          "type": "series",
+          "name": "The Handmaid's Tale - Der Report der Magd",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+        },
+        {
+          "id": "tmdb:1818",
+          "type": "series",
+          "name": "Lexx - The Dark Zone",
+          "year": 1997,
+          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+        },
+        {
+          "id": "tmdb:251883",
+          "type": "series",
+          "name": "Danke - Nächster!",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/316081948/s592/kimler-geldi-kimler-gecti.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-13T08:37:53.248Z",
+    "generatedAt": "2026-05-14T08:31:26.884Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -186,23 +186,23 @@
       "tmdb:687163",
       "tmdb:298031",
       "tmdb:1029235",
-      "tmdb:957452",
       "tmdb:793961",
-      "tmdb:47278",
+      "tmdb:957452",
       "tmdb:19994",
-      "tmdb:279690"
+      "tmdb:279690",
+      "tmdb:1330021"
     ],
     "tmdbShows": [
       "tmdb:262388",
       "tmdb:299167",
       "tmdb:76479",
-      "tmdb:114922",
-      "tmdb:1818",
       "tmdb:138251",
-      "tmdb:69478",
       "tmdb:127865",
       "tmdb:262280",
-      "tmdb:202555"
+      "tmdb:114922",
+      "tmdb:69478",
+      "tmdb:1818",
+      "tmdb:251883"
     ]
   }
 }

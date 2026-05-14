@@ -17,7 +17,7 @@
     {
       "id": "tmdb:687163",
       "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
+      "name": "Der Astronaut – Project Hail Mary",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
@@ -36,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
     },
     {
-      "id": "tmdb:957452",
-      "type": "movie",
-      "name": "The Crow",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
-    },
-    {
       "id": "tmdb:793961",
       "type": "movie",
       "name": "Rubikon",
@@ -50,11 +43,11 @@
       "poster": "https://images.justwatch.com/poster/289197757/s592/Rubikon.jpg"
     },
     {
-      "id": "tmdb:47278",
+      "id": "tmdb:957452",
       "type": "movie",
-      "name": "Dark Shades of Black",
-      "year": 1996,
-      "poster": "https://images.justwatch.com/poster/173543954/s592/Dark-Shades-of-Black.jpg"
+      "name": "The Crow",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
     },
     {
       "id": "tmdb:19994",
@@ -69,6 +62,13 @@
       "name": "He Never Died",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/215524460/s592/He-Never-Died.jpg"
+    },
+    {
+      "id": "tmdb:1330021",
+      "type": "movie",
+      "name": "Das Glück hat acht Arme",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345499601/s592/remarkably-bright-creatures.jpg"
     }
   ]
 }

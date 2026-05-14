@@ -22,32 +22,11 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:114922",
-      "type": "series",
-      "name": "Citadel",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
-    },
-    {
-      "id": "tmdb:1818",
-      "type": "series",
-      "name": "Lexx - The Dark Zone",
-      "year": 1997,
-      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
-    },
-    {
       "id": "tmdb:138251",
       "type": "series",
       "name": "Eve",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
-    },
-    {
-      "id": "tmdb:69478",
-      "type": "series",
-      "name": "The Handmaid's Tale - Der Report der Magd",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
     },
     {
       "id": "tmdb:127865",
@@ -64,11 +43,32 @@
       "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
     },
     {
-      "id": "tmdb:202555",
+      "id": "tmdb:114922",
       "type": "series",
-      "name": "Daredevil: Born Again",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326901759/s592/Daredevil-Born-Again.jpg"
+      "name": "Citadel",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "The Handmaid's Tale - Der Report der Magd",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
+    },
+    {
+      "id": "tmdb:1818",
+      "type": "series",
+      "name": "Lexx - The Dark Zone",
+      "year": 1997,
+      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+    },
+    {
+      "id": "tmdb:251883",
+      "type": "series",
+      "name": "Danke - Nächster!",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316081948/s592/kimler-geldi-kimler-gecti.jpg"
     }
   ]
 }
