@@ -1,18 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:299167",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+    },
+    {
       "id": "tmdb:262388",
       "type": "series",
       "name": "M.I.A.",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
-    },
-    {
-      "id": "tmdb:299167",
-      "type": "series",
-      "name": "Dutton Ranch",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343842774/s592/dutton-ranch.jpg"
     },
     {
       "id": "tmdb:76479",
@@ -22,18 +22,18 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:138251",
-      "type": "series",
-      "name": "Eve",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
-    },
-    {
       "id": "tmdb:127865",
       "type": "series",
       "name": "Der Kastanienmann",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
+    },
+    {
+      "id": "tmdb:138251",
+      "type": "series",
+      "name": "Eve",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
     },
     {
       "id": "tmdb:262280",
@@ -43,25 +43,11 @@
       "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
     },
     {
-      "id": "tmdb:114922",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Citadel",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/304447366/s592/citadel.jpg"
-    },
-    {
-      "id": "tmdb:69478",
-      "type": "series",
-      "name": "The Handmaid's Tale - Der Report der Magd",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/279007468/s592/the-handmaids-tale-der-report-der-magd.jpg"
-    },
-    {
-      "id": "tmdb:1818",
-      "type": "series",
-      "name": "Lexx - The Dark Zone",
-      "year": 1997,
-      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+      "name": "Euphoria",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
       "id": "tmdb:251883",
@@ -69,6 +55,20 @@
       "name": "Danke - Nächster!",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/316081948/s592/kimler-geldi-kimler-gecti.jpg"
+    },
+    {
+      "id": "tmdb:273240",
+      "type": "series",
+      "name": "Off Campus",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
+    },
+    {
+      "id": "tmdb:314916",
+      "type": "series",
+      "name": "Unconditional",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344851543/s592/unconditional.jpg"
     }
   ]
 }
