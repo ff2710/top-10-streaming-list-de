@@ -29,32 +29,11 @@
       "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
     },
     {
-      "id": "tmdb:138251",
+      "id": "tmdb:285807",
       "type": "series",
-      "name": "Eve",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
-    },
-    {
-      "id": "tmdb:262280",
-      "type": "series",
-      "name": "Legends",
+      "name": "Nemesis",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
-    },
-    {
-      "id": "tmdb:251883",
-      "type": "series",
-      "name": "Danke - Nächster!",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/316081948/s592/kimler-geldi-kimler-gecti.jpg"
+      "poster": "https://images.justwatch.com/poster/343681331/s592/nemesis-2026.jpg"
     },
     {
       "id": "tmdb:273240",
@@ -64,11 +43,32 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
-      "id": "tmdb:314916",
+      "id": "tmdb:138251",
       "type": "series",
-      "name": "Unconditional",
+      "name": "Eve",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+    },
+    {
+      "id": "tmdb:262280",
+      "type": "series",
+      "name": "Legends",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344851543/s592/unconditional.jpg"
+      "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
+    },
+    {
+      "id": "tmdb:71915",
+      "type": "series",
+      "name": "Good Omens",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/111254173/s592/Good-Omens.jpg"
     }
   ]
 }

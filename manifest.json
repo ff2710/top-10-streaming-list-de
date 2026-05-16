@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-15T08:43:16.456Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-16T07:56:52.503Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,13 +22,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1198994",
-          "type": "movie",
-          "name": "Send Help",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
-        },
-        {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
@@ -36,18 +29,11 @@
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:298031",
+          "id": "tmdb:1198994",
           "type": "movie",
-          "name": "Hope Lost",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/258912009/s592/Hope-Lost.jpg"
-        },
-        {
-          "id": "tmdb:34851",
-          "type": "movie",
-          "name": "Predators",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
+          "name": "Send Help",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
         },
         {
           "id": "tmdb:1439930",
@@ -57,11 +43,32 @@
           "poster": "https://images.justwatch.com/poster/343719192/s592/the-punisher-one-last-kill.jpg"
         },
         {
+          "id": "tmdb:298031",
+          "type": "movie",
+          "name": "Hope Lost",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/258912009/s592/Hope-Lost.jpg"
+        },
+        {
           "id": "tmdb:957452",
           "type": "movie",
           "name": "The Crow",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
+        },
+        {
+          "id": "tmdb:278",
+          "type": "movie",
+          "name": "Die Verurteilten",
+          "year": 1994,
+          "poster": "https://images.justwatch.com/poster/177293622/s592/Die-Verurteilten.jpg"
+        },
+        {
+          "id": "tmdb:34851",
+          "type": "movie",
+          "name": "Predators",
+          "year": 2010,
+          "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
         },
         {
           "id": "tmdb:1330021",
@@ -71,18 +78,11 @@
           "poster": "https://images.justwatch.com/poster/345499601/s592/remarkably-bright-creatures.jpg"
         },
         {
-          "id": "tmdb:19994",
+          "id": "tmdb:530915",
           "type": "movie",
-          "name": "Jennifer's Body - Jungs nach ihrem Geschmack",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/302001273/s592/Jennifers-Body-Jungs-nach-ihrem-Geschmack.jpg"
-        },
-        {
-          "id": "tmdb:278",
-          "type": "movie",
-          "name": "Die Verurteilten",
-          "year": 1994,
-          "poster": "https://images.justwatch.com/poster/177293622/s592/Die-Verurteilten.jpg"
+          "name": "1917",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/327046362/s592/1917.jpg"
         },
         {
           "id": "tmdb:1318447",
@@ -128,32 +128,11 @@
           "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
         },
         {
-          "id": "tmdb:138251",
+          "id": "tmdb:285807",
           "type": "series",
-          "name": "Eve",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
-        },
-        {
-          "id": "tmdb:262280",
-          "type": "series",
-          "name": "Legends",
+          "name": "Nemesis",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
-        },
-        {
-          "id": "tmdb:85552",
-          "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
-        },
-        {
-          "id": "tmdb:251883",
-          "type": "series",
-          "name": "Danke - Nächster!",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/316081948/s592/kimler-geldi-kimler-gecti.jpg"
+          "poster": "https://images.justwatch.com/poster/343681331/s592/nemesis-2026.jpg"
         },
         {
           "id": "tmdb:273240",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
         },
         {
-          "id": "tmdb:314916",
+          "id": "tmdb:138251",
           "type": "series",
-          "name": "Unconditional",
+          "name": "Eve",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
+        },
+        {
+          "id": "tmdb:85552",
+          "type": "series",
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+        },
+        {
+          "id": "tmdb:262280",
+          "type": "series",
+          "name": "Legends",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344851543/s592/unconditional.jpg"
+          "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
+        },
+        {
+          "id": "tmdb:71915",
+          "type": "series",
+          "name": "Good Omens",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/111254173/s592/Good-Omens.jpg"
         }
       ]
     }
@@ -177,19 +177,19 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-15T08:43:16.456Z",
+    "generatedAt": "2026-05-16T07:56:52.503Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1198994",
       "tmdb:687163",
-      "tmdb:298031",
-      "tmdb:34851",
+      "tmdb:1198994",
       "tmdb:1439930",
+      "tmdb:298031",
       "tmdb:957452",
-      "tmdb:1330021",
-      "tmdb:19994",
       "tmdb:278",
+      "tmdb:34851",
+      "tmdb:1330021",
+      "tmdb:530915",
       "tmdb:1318447"
     ],
     "tmdbShows": [
@@ -197,12 +197,12 @@
       "tmdb:262388",
       "tmdb:76479",
       "tmdb:127865",
-      "tmdb:138251",
-      "tmdb:262280",
-      "tmdb:85552",
-      "tmdb:251883",
+      "tmdb:285807",
       "tmdb:273240",
-      "tmdb:314916"
+      "tmdb:138251",
+      "tmdb:85552",
+      "tmdb:262280",
+      "tmdb:71915"
     ]
   }
 }
