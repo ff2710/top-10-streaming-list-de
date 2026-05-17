@@ -15,20 +15,6 @@
       "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
     },
     {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-    },
-    {
-      "id": "tmdb:127865",
-      "type": "series",
-      "name": "Der Kastanienmann",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
-    },
-    {
       "id": "tmdb:285807",
       "type": "series",
       "name": "Nemesis",
@@ -43,25 +29,18 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
-      "id": "tmdb:138251",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Eve",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/285620143/s592/EVE.jpg"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria",
+      "name": "The Boys",
       "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:262280",
+      "id": "tmdb:127865",
       "type": "series",
-      "name": "Legends",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344298975/s592/legends-2026.jpg"
+      "name": "Der Kastanienmann",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
     },
     {
       "id": "tmdb:71915",
@@ -69,6 +48,27 @@
       "name": "Good Omens",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/111254173/s592/Good-Omens.jpg"
+    },
+    {
+      "id": "tmdb:93166",
+      "type": "series",
+      "name": "The Capture",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
+    },
+    {
+      "id": "tmdb:235930",
+      "type": "series",
+      "name": "Devil May Cry",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/324990612/s592/devil-may-cry-0.jpg"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     }
   ]
 }
