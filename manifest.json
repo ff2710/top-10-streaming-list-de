@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-17T08:13:57.693Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-18T09:51:26.662Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,25 +43,11 @@
           "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
         },
         {
-          "id": "tmdb:957452",
+          "id": "tmdb:514847",
           "type": "movie",
-          "name": "The Crow",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
-        },
-        {
-          "id": "tmdb:278",
-          "type": "movie",
-          "name": "Die Verurteilten",
-          "year": 1994,
-          "poster": "https://images.justwatch.com/poster/177293622/s592/Die-Verurteilten.jpg"
-        },
-        {
-          "id": "tmdb:298031",
-          "type": "movie",
-          "name": "Hope Lost",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/258912009/s592/Hope-Lost.jpg"
+          "name": "The Hunt",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
         },
         {
           "id": "tmdb:34851",
@@ -71,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
         },
         {
-          "id": "tmdb:514847",
+          "id": "tmdb:957452",
           "type": "movie",
-          "name": "The Hunt",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
+          "name": "The Crow",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
         },
         {
           "id": "tmdb:1330021",
@@ -83,6 +69,20 @@
           "name": "Das Glück hat acht Arme",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/345481713/s592/remarkably-bright-creatures.jpg"
+        },
+        {
+          "id": "tmdb:446021",
+          "type": "movie",
+          "name": "Bad Times at the El Royale",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
+        },
+        {
+          "id": "tmdb:68735",
+          "type": "movie",
+          "name": "Warcraft: The Beginning",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/818275/s592/Warcraft-the-Beginning.jpg"
         },
         {
           "id": "tmdb:1318447",
@@ -107,13 +107,6 @@
           "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
         },
         {
-          "id": "tmdb:262388",
-          "type": "series",
-          "name": "M.I.A.",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
-        },
-        {
           "id": "tmdb:285807",
           "type": "series",
           "name": "Nemesis",
@@ -128,11 +121,25 @@
           "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
         },
         {
+          "id": "tmdb:262388",
+          "type": "series",
+          "name": "M.I.A.",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345639420/s592/m-i-a.jpg"
+        },
+        {
           "id": "tmdb:76479",
           "type": "series",
           "name": "The Boys",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+        },
+        {
+          "id": "tmdb:93166",
+          "type": "series",
+          "name": "The Capture",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
         },
         {
           "id": "tmdb:127865",
@@ -146,14 +153,7 @@
           "type": "series",
           "name": "Good Omens",
           "year": 2019,
-          "poster": "https://images.justwatch.com/poster/111254173/s592/Good-Omens.jpg"
-        },
-        {
-          "id": "tmdb:93166",
-          "type": "series",
-          "name": "The Capture",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
+          "poster": "https://images.justwatch.com/poster/345641164/s592/Good-Omens.jpg"
         },
         {
           "id": "tmdb:235930",
@@ -177,30 +177,30 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-17T08:13:57.693Z",
+    "generatedAt": "2026-05-18T09:51:26.662Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
       "tmdb:1439930",
       "tmdb:1198994",
-      "tmdb:957452",
-      "tmdb:278",
-      "tmdb:298031",
-      "tmdb:34851",
       "tmdb:514847",
+      "tmdb:34851",
+      "tmdb:957452",
       "tmdb:1330021",
+      "tmdb:446021",
+      "tmdb:68735",
       "tmdb:1318447"
     ],
     "tmdbShows": [
       "tmdb:299167",
-      "tmdb:262388",
       "tmdb:285807",
       "tmdb:273240",
+      "tmdb:262388",
       "tmdb:76479",
+      "tmdb:93166",
       "tmdb:127865",
       "tmdb:71915",
-      "tmdb:93166",
       "tmdb:235930",
       "tmdb:85552"
     ]

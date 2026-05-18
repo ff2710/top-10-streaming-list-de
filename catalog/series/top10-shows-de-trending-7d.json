@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
     },
     {
-      "id": "tmdb:262388",
-      "type": "series",
-      "name": "M.I.A.",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344586766/s592/m-i-a.jpg"
-    },
-    {
       "id": "tmdb:285807",
       "type": "series",
       "name": "Nemesis",
@@ -29,11 +22,25 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
+      "id": "tmdb:262388",
+      "type": "series",
+      "name": "M.I.A.",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345639420/s592/m-i-a.jpg"
+    },
+    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+    },
+    {
+      "id": "tmdb:93166",
+      "type": "series",
+      "name": "The Capture",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
     },
     {
       "id": "tmdb:127865",
@@ -47,14 +54,7 @@
       "type": "series",
       "name": "Good Omens",
       "year": 2019,
-      "poster": "https://images.justwatch.com/poster/111254173/s592/Good-Omens.jpg"
-    },
-    {
-      "id": "tmdb:93166",
-      "type": "series",
-      "name": "The Capture",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
+      "poster": "https://images.justwatch.com/poster/345641164/s592/Good-Omens.jpg"
     },
     {
       "id": "tmdb:235930",
