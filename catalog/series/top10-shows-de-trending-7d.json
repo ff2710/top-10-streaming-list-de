@@ -22,20 +22,6 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
-      "id": "tmdb:262388",
-      "type": "series",
-      "name": "M.I.A.",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345639420/s592/m-i-a.jpg"
-    },
-    {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-    },
-    {
       "id": "tmdb:93166",
       "type": "series",
       "name": "The Capture",
@@ -43,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
     },
     {
-      "id": "tmdb:127865",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Der Kastanienmann",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
+      "name": "The Boys",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
       "id": "tmdb:71915",
@@ -62,6 +48,20 @@
       "name": "Devil May Cry",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/324990612/s592/devil-may-cry-0.jpg"
+    },
+    {
+      "id": "tmdb:308014",
+      "type": "series",
+      "name": "Berlin und die Dame mit dem Hermelin",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
+    },
+    {
+      "id": "tmdb:127865",
+      "type": "series",
+      "name": "Der Kastanienmann",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
     },
     {
       "id": "tmdb:85552",

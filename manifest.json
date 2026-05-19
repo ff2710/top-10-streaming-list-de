@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-18T09:51:26.662Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-19T09:33:23.093Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,13 +22,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:1439930",
           "type": "movie",
           "name": "The Punisher - One Last Kill",
@@ -36,11 +29,11 @@
           "poster": "https://images.justwatch.com/poster/343719192/s592/the-punisher-one-last-kill.jpg"
         },
         {
-          "id": "tmdb:1198994",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "Send Help",
+          "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:514847",
@@ -50,25 +43,18 @@
           "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
         },
         {
-          "id": "tmdb:34851",
+          "id": "tmdb:516806",
           "type": "movie",
-          "name": "Predators",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
+          "name": "Last Contact",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/306652666/s592/last-sentinel.jpg"
         },
         {
-          "id": "tmdb:957452",
+          "id": "tmdb:1198994",
           "type": "movie",
-          "name": "The Crow",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320523766/s592/the-crow-2024.jpg"
-        },
-        {
-          "id": "tmdb:1330021",
-          "type": "movie",
-          "name": "Das Glück hat acht Arme",
+          "name": "Send Help",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345481713/s592/remarkably-bright-creatures.jpg"
+          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
         },
         {
           "id": "tmdb:446021",
@@ -78,18 +64,32 @@
           "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
         },
         {
-          "id": "tmdb:68735",
+          "id": "tmdb:912480",
           "type": "movie",
-          "name": "Warcraft: The Beginning",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/818275/s592/Warcraft-the-Beginning.jpg"
+          "name": "Red Rooms - Zeugin des Bösen",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/326254412/s592/les-chambres-rouges.jpg"
         },
         {
-          "id": "tmdb:1318447",
+          "id": "tmdb:34851",
           "type": "movie",
-          "name": "Apex",
+          "name": "Predators",
+          "year": 2010,
+          "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
+        },
+        {
+          "id": "tmdb:701387",
+          "type": "movie",
+          "name": "Bugonia",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
+        },
+        {
+          "id": "tmdb:1330021",
+          "type": "movie",
+          "name": "Das Glück hat acht Arme",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344599964/s592/apex-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/345481713/s592/remarkably-bright-creatures.jpg"
         }
       ]
     },
@@ -121,20 +121,6 @@
           "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
         },
         {
-          "id": "tmdb:262388",
-          "type": "series",
-          "name": "M.I.A.",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345639420/s592/m-i-a.jpg"
-        },
-        {
-          "id": "tmdb:76479",
-          "type": "series",
-          "name": "The Boys",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-        },
-        {
           "id": "tmdb:93166",
           "type": "series",
           "name": "The Capture",
@@ -142,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
         },
         {
-          "id": "tmdb:127865",
+          "id": "tmdb:76479",
           "type": "series",
-          "name": "Der Kastanienmann",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
+          "name": "The Boys",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
           "id": "tmdb:71915",
@@ -163,6 +149,20 @@
           "poster": "https://images.justwatch.com/poster/324990612/s592/devil-may-cry-0.jpg"
         },
         {
+          "id": "tmdb:308014",
+          "type": "series",
+          "name": "Berlin und die Dame mit dem Hermelin",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
+        },
+        {
+          "id": "tmdb:127865",
+          "type": "series",
+          "name": "Der Kastanienmann",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/300834792/s592/Der-Kastanienmann.jpg"
+        },
+        {
           "id": "tmdb:85552",
           "type": "series",
           "name": "Euphoria",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-18T09:51:26.662Z",
+    "generatedAt": "2026-05-19T09:33:23.093Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:687163",
       "tmdb:1439930",
-      "tmdb:1198994",
+      "tmdb:687163",
       "tmdb:514847",
-      "tmdb:34851",
-      "tmdb:957452",
-      "tmdb:1330021",
+      "tmdb:516806",
+      "tmdb:1198994",
       "tmdb:446021",
-      "tmdb:68735",
-      "tmdb:1318447"
+      "tmdb:912480",
+      "tmdb:34851",
+      "tmdb:701387",
+      "tmdb:1330021"
     ],
     "tmdbShows": [
       "tmdb:299167",
       "tmdb:285807",
       "tmdb:273240",
-      "tmdb:262388",
-      "tmdb:76479",
       "tmdb:93166",
-      "tmdb:127865",
+      "tmdb:76479",
       "tmdb:71915",
       "tmdb:235930",
+      "tmdb:308014",
+      "tmdb:127865",
       "tmdb:85552"
     ]
   }
