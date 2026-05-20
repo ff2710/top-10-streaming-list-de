@@ -15,32 +15,11 @@
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:514847",
-      "type": "movie",
-      "name": "The Hunt",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/293701697/s592/The-Hunt-2019.jpg"
-    },
-    {
       "id": "tmdb:516806",
       "type": "movie",
       "name": "Last Contact",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/306652666/s592/last-sentinel.jpg"
-    },
-    {
-      "id": "tmdb:1198994",
-      "type": "movie",
-      "name": "Send Help",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
-    },
-    {
-      "id": "tmdb:446021",
-      "type": "movie",
-      "name": "Bad Times at the El Royale",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
     },
     {
       "id": "tmdb:912480",
@@ -50,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/326254412/s592/les-chambres-rouges.jpg"
     },
     {
-      "id": "tmdb:34851",
+      "id": "tmdb:446021",
       "type": "movie",
-      "name": "Predators",
-      "year": 2010,
-      "poster": "https://images.justwatch.com/poster/333572850/s592/Predators.jpg"
+      "name": "Bad Times at the El Royale",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
     },
     {
       "id": "tmdb:701387",
@@ -64,11 +43,32 @@
       "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
     },
     {
-      "id": "tmdb:1330021",
+      "id": "tmdb:1198994",
       "type": "movie",
-      "name": "Das Glück hat acht Arme",
+      "name": "Send Help",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345481713/s592/remarkably-bright-creatures.jpg"
+      "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
+    },
+    {
+      "id": "tmdb:748230",
+      "type": "movie",
+      "name": "Salem's Lot: Brennen muss Salem",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321667082/s592/Salems-Lot.jpg"
+    },
+    {
+      "id": "tmdb:68735",
+      "type": "movie",
+      "name": "Warcraft: The Beginning",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/818275/s592/Warcraft-the-Beginning.jpg"
+    },
+    {
+      "id": "tmdb:497582",
+      "type": "movie",
+      "name": "Enola Holmes",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/206846107/s592/Enola-Holmes.jpg"
     }
   ]
 }
