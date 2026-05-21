@@ -43,13 +43,6 @@
       "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
     },
     {
-      "id": "tmdb:1198994",
-      "type": "movie",
-      "name": "Send Help",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
-    },
-    {
       "id": "tmdb:748230",
       "type": "movie",
       "name": "Salem's Lot: Brennen muss Salem",
@@ -57,11 +50,18 @@
       "poster": "https://images.justwatch.com/poster/321667082/s592/Salems-Lot.jpg"
     },
     {
-      "id": "tmdb:68735",
+      "id": "tmdb:1139106",
       "type": "movie",
-      "name": "Warcraft: The Beginning",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/818275/s592/Warcraft-the-Beginning.jpg"
+      "name": "We Are Zombies",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
+    },
+    {
+      "id": "tmdb:1198994",
+      "type": "movie",
+      "name": "Send Help",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
     },
     {
       "id": "tmdb:497582",

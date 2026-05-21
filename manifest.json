@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-20T08:58:29.417Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-21T09:29:51.709Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -64,13 +64,6 @@
           "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
         },
         {
-          "id": "tmdb:1198994",
-          "type": "movie",
-          "name": "Send Help",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
-        },
-        {
           "id": "tmdb:748230",
           "type": "movie",
           "name": "Salem's Lot: Brennen muss Salem",
@@ -78,11 +71,18 @@
           "poster": "https://images.justwatch.com/poster/321667082/s592/Salems-Lot.jpg"
         },
         {
-          "id": "tmdb:68735",
+          "id": "tmdb:1139106",
           "type": "movie",
-          "name": "Warcraft: The Beginning",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/818275/s592/Warcraft-the-Beginning.jpg"
+          "name": "We Are Zombies",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
+        },
+        {
+          "id": "tmdb:1198994",
+          "type": "movie",
+          "name": "Send Help",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
         },
         {
           "id": "tmdb:497582",
@@ -135,25 +135,11 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:71915",
-          "type": "series",
-          "name": "Good Omens",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/345641164/s592/Good-Omens.jpg"
-        },
-        {
           "id": "tmdb:308014",
           "type": "series",
           "name": "Berlin und die Dame mit dem Hermelin",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
-        },
-        {
-          "id": "tmdb:85552",
-          "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
           "id": "tmdb:124364",
@@ -163,11 +149,25 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
+          "id": "tmdb:122241",
+          "type": "series",
+          "name": "LOL: Last One Laughing",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
+        },
+        {
           "id": "tmdb:208606",
           "type": "series",
           "name": "Omerta 6/12",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/300559620/s592/Operation-Omerta.jpg"
+        },
+        {
+          "id": "tmdb:85552",
+          "type": "series",
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-20T08:58:29.417Z",
+    "generatedAt": "2026-05-21T09:29:51.709Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -187,9 +187,9 @@
       "tmdb:912480",
       "tmdb:446021",
       "tmdb:701387",
-      "tmdb:1198994",
       "tmdb:748230",
-      "tmdb:68735",
+      "tmdb:1139106",
+      "tmdb:1198994",
       "tmdb:497582"
     ],
     "tmdbShows": [
@@ -198,11 +198,11 @@
       "tmdb:273240",
       "tmdb:93166",
       "tmdb:76479",
-      "tmdb:71915",
       "tmdb:308014",
-      "tmdb:85552",
       "tmdb:124364",
-      "tmdb:208606"
+      "tmdb:122241",
+      "tmdb:208606",
+      "tmdb:85552"
     ]
   }
 }
