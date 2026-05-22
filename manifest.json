@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-21T09:29:51.709Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-22T08:53:54.551Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,25 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1439930",
-          "type": "movie",
-          "name": "The Punisher - One Last Kill",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343719192/s592/the-punisher-one-last-kill.jpg"
-        },
-        {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+        },
+        {
+          "id": "tmdb:1380291",
+          "type": "movie",
+          "name": "Tom Clancy's Jack Ryan: Ghost War",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345695946/s592/tom-clancys-jack-ryan-ghost-war.jpg"
+        },
+        {
+          "id": "tmdb:1439930",
+          "type": "movie",
+          "name": "The Punisher - One Last Kill",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343719192/s592/the-punisher-one-last-kill.jpg"
         },
         {
           "id": "tmdb:516806",
@@ -57,20 +64,6 @@
           "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
         },
         {
-          "id": "tmdb:701387",
-          "type": "movie",
-          "name": "Bugonia",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
-        },
-        {
-          "id": "tmdb:748230",
-          "type": "movie",
-          "name": "Salem's Lot: Brennen muss Salem",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321667082/s592/Salems-Lot.jpg"
-        },
-        {
           "id": "tmdb:1139106",
           "type": "movie",
           "name": "We Are Zombies",
@@ -78,18 +71,18 @@
           "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
         },
         {
-          "id": "tmdb:1198994",
-          "type": "movie",
-          "name": "Send Help",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341214671/s592/send-help.jpg"
-        },
-        {
           "id": "tmdb:497582",
           "type": "movie",
           "name": "Enola Holmes",
           "year": 2020,
           "poster": "https://images.justwatch.com/poster/206846107/s592/Enola-Holmes.jpg"
+        },
+        {
+          "id": "tmdb:701387",
+          "type": "movie",
+          "name": "Bugonia",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
         }
       ]
     },
@@ -107,11 +100,11 @@
           "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
         },
         {
-          "id": "tmdb:285807",
+          "id": "tmdb:93166",
           "type": "series",
-          "name": "Nemesis",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343681331/s592/nemesis-2026.jpg"
+          "name": "The Capture",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
         },
         {
           "id": "tmdb:273240",
@@ -121,18 +114,18 @@
           "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
         },
         {
-          "id": "tmdb:93166",
-          "type": "series",
-          "name": "The Capture",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
-        },
-        {
           "id": "tmdb:76479",
           "type": "series",
           "name": "The Boys",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+        },
+        {
+          "id": "tmdb:285807",
+          "type": "series",
+          "name": "Nemesis",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343681331/s592/nemesis-2026.jpg"
         },
         {
           "id": "tmdb:308014",
@@ -142,13 +135,6 @@
           "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
         },
         {
-          "id": "tmdb:124364",
-          "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
           "id": "tmdb:122241",
           "type": "series",
           "name": "LOL: Last One Laughing",
@@ -156,18 +142,25 @@
           "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         },
         {
-          "id": "tmdb:208606",
+          "id": "tmdb:285404",
           "type": "series",
-          "name": "Omerta 6/12",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/300559620/s592/Operation-Omerta.jpg"
+          "name": "Maximum Pleasure Guaranteed",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
         },
         {
-          "id": "tmdb:85552",
+          "id": "tmdb:124364",
           "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
+          "id": "tmdb:224941",
+          "type": "series",
+          "name": "The Boroughs",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
         }
       ]
     }
@@ -177,32 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-21T09:29:51.709Z",
+    "generatedAt": "2026-05-22T08:53:54.551Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1439930",
       "tmdb:687163",
+      "tmdb:1380291",
+      "tmdb:1439930",
       "tmdb:516806",
       "tmdb:912480",
       "tmdb:446021",
-      "tmdb:701387",
-      "tmdb:748230",
       "tmdb:1139106",
-      "tmdb:1198994",
-      "tmdb:497582"
+      "tmdb:497582",
+      "tmdb:701387"
     ],
     "tmdbShows": [
       "tmdb:299167",
-      "tmdb:285807",
-      "tmdb:273240",
       "tmdb:93166",
+      "tmdb:273240",
       "tmdb:76479",
+      "tmdb:285807",
       "tmdb:308014",
-      "tmdb:124364",
       "tmdb:122241",
-      "tmdb:208606",
-      "tmdb:85552"
+      "tmdb:285404",
+      "tmdb:124364",
+      "tmdb:224941"
     ]
   }
 }

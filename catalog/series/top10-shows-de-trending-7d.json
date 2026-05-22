@@ -8,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
     },
     {
-      "id": "tmdb:285807",
+      "id": "tmdb:93166",
       "type": "series",
-      "name": "Nemesis",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343681331/s592/nemesis-2026.jpg"
+      "name": "The Capture",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
     },
     {
       "id": "tmdb:273240",
@@ -22,18 +22,18 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
-      "id": "tmdb:93166",
-      "type": "series",
-      "name": "The Capture",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/168472442/s592/The-Capture.jpg"
-    },
-    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+    },
+    {
+      "id": "tmdb:285807",
+      "type": "series",
+      "name": "Nemesis",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343681331/s592/nemesis-2026.jpg"
     },
     {
       "id": "tmdb:308014",
@@ -43,13 +43,6 @@
       "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
     },
     {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
       "id": "tmdb:122241",
       "type": "series",
       "name": "LOL: Last One Laughing",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
     },
     {
-      "id": "tmdb:208606",
+      "id": "tmdb:285404",
       "type": "series",
-      "name": "Omerta 6/12",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/300559620/s592/Operation-Omerta.jpg"
+      "name": "Maximum Pleasure Guaranteed",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:124364",
       "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+    },
+    {
+      "id": "tmdb:224941",
+      "type": "series",
+      "name": "The Boroughs",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
     }
   ]
 }
