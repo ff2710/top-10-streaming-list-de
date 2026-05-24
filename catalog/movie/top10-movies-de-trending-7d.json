@@ -10,7 +10,7 @@
     {
       "id": "tmdb:687163",
       "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
+      "name": "Der Astronaut – Project Hail Mary",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/326254412/s592/les-chambres-rouges.jpg"
     },
     {
-      "id": "tmdb:701387",
-      "type": "movie",
-      "name": "Bugonia",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/337240140/s592/bugonia.jpg"
-    },
-    {
       "id": "tmdb:1139106",
       "type": "movie",
       "name": "We Are Zombies",
@@ -50,11 +43,18 @@
       "poster": "https://images.justwatch.com/poster/321667082/s592/Salems-Lot.jpg"
     },
     {
-      "id": "tmdb:1167271",
+      "id": "tmdb:1368881",
       "type": "movie",
-      "name": "Weekend in Taipei",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/321826857/s592/weekend-in-taipei.jpg"
+      "name": "Ladies First",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345719197/s592/ladies-first-2026.jpg"
+    },
+    {
+      "id": "tmdb:582014",
+      "type": "movie",
+      "name": "Promising Young Woman",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
     },
     {
       "id": "tmdb:1582770",
