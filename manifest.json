@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-24T08:22:26.124Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-25T09:56:06.363Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -31,37 +31,9 @@
         {
           "id": "tmdb:687163",
           "type": "movie",
-          "name": "Der Astronaut – Project Hail Mary",
+          "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:516806",
-          "type": "movie",
-          "name": "Last Contact",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/306652666/s592/last-sentinel.jpg"
-        },
-        {
-          "id": "tmdb:912480",
-          "type": "movie",
-          "name": "Red Rooms - Zeugin des Bösen",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/326254412/s592/les-chambres-rouges.jpg"
-        },
-        {
-          "id": "tmdb:1139106",
-          "type": "movie",
-          "name": "We Are Zombies",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
-        },
-        {
-          "id": "tmdb:748230",
-          "type": "movie",
-          "name": "Salem's Lot: Brennen muss Salem",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321667082/s592/Salems-Lot.jpg"
         },
         {
           "id": "tmdb:1368881",
@@ -71,6 +43,13 @@
           "poster": "https://images.justwatch.com/poster/345719197/s592/ladies-first-2026.jpg"
         },
         {
+          "id": "tmdb:1139106",
+          "type": "movie",
+          "name": "We Are Zombies",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
+        },
+        {
           "id": "tmdb:582014",
           "type": "movie",
           "name": "Promising Young Woman",
@@ -78,11 +57,32 @@
           "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
         },
         {
-          "id": "tmdb:1582770",
+          "id": "tmdb:959604",
           "type": "movie",
-          "name": "Dhurandhar: The Revenge",
+          "name": "Beating Hearts",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/332264540/s592/beating-hearts.jpg"
+        },
+        {
+          "id": "tmdb:1406657",
+          "type": "movie",
+          "name": "Scarlet",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/344008361/s592/scarlet-2025.jpg"
+        },
+        {
+          "id": "tmdb:822030",
+          "type": "movie",
+          "name": "75 Grad West",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/252204502/s592/75-Degrees-West.jpg"
+        },
+        {
+          "id": "tmdb:1228710",
+          "type": "movie",
+          "name": "The Mandalorian & Grogu",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343821815/s592/dhurandhar-the-revenge.jpg"
+          "poster": "https://images.justwatch.com/poster/336088078/s592/the-mandalorian-und-grogu.jpg"
         }
       ]
     },
@@ -92,13 +92,6 @@
       "name": "Top 10 Trending Shows DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:299167",
-          "type": "series",
-          "name": "Dutton Ranch",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
-        },
         {
           "id": "tmdb:224941",
           "type": "series",
@@ -114,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
+          "id": "tmdb:299167",
+          "type": "series",
+          "name": "Dutton Ranch",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+        },
+        {
           "id": "tmdb:273240",
           "type": "series",
           "name": "Off Campus",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
-        },
-        {
-          "id": "tmdb:122241",
-          "type": "series",
-          "name": "LOL: Last One Laughing",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         },
         {
           "id": "tmdb:285404",
@@ -135,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
         },
         {
-          "id": "tmdb:308014",
+          "id": "tmdb:122241",
           "type": "series",
-          "name": "Berlin und die Dame mit dem Hermelin",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
+          "name": "LOL: Last One Laughing",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         },
         {
           "id": "tmdb:124364",
@@ -156,11 +149,18 @@
           "poster": "https://images.justwatch.com/poster/339846214/s592/S-W-A-T-2017.jpg"
         },
         {
-          "id": "tmdb:295778",
+          "id": "tmdb:34307",
           "type": "series",
-          "name": "Scrubs",
+          "name": "Shameless - Nicht ganz nüchtern",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/178032707/s592/Shameless-Nicht-ganz-nuechtern.jpg"
+        },
+        {
+          "id": "tmdb:308014",
+          "type": "series",
+          "name": "Berlin und die Dame mit dem Hermelin",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
+          "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
         }
       ]
     }
@@ -170,31 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-24T08:22:26.124Z",
+    "generatedAt": "2026-05-25T09:56:06.363Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1380291",
       "tmdb:687163",
-      "tmdb:516806",
-      "tmdb:912480",
-      "tmdb:1139106",
-      "tmdb:748230",
       "tmdb:1368881",
+      "tmdb:1139106",
       "tmdb:582014",
-      "tmdb:1582770"
+      "tmdb:959604",
+      "tmdb:1406657",
+      "tmdb:822030",
+      "tmdb:1228710"
     ],
     "tmdbShows": [
-      "tmdb:299167",
       "tmdb:224941",
       "tmdb:76479",
+      "tmdb:299167",
       "tmdb:273240",
-      "tmdb:122241",
       "tmdb:285404",
-      "tmdb:308014",
+      "tmdb:122241",
       "tmdb:124364",
       "tmdb:71790",
-      "tmdb:295778"
+      "tmdb:34307",
+      "tmdb:308014"
     ]
   }
 }
