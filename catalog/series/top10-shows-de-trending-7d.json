@@ -15,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
     },
     {
-      "id": "tmdb:299167",
+      "id": "tmdb:285404",
       "type": "series",
-      "name": "Dutton Ranch",
+      "name": "Maximum Pleasure Guaranteed",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+      "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
     },
     {
       "id": "tmdb:273240",
@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
-      "id": "tmdb:285404",
-      "type": "series",
-      "name": "Maximum Pleasure Guaranteed",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
-    },
-    {
       "id": "tmdb:122241",
       "type": "series",
       "name": "LOL: Last One Laughing",
@@ -43,18 +36,11 @@
       "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:299167",
       "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
-      "id": "tmdb:71790",
-      "type": "series",
-      "name": "S.W.A.T.",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/339846214/s592/S-W-A-T-2017.jpg"
+      "name": "Dutton Ranch",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
     },
     {
       "id": "tmdb:34307",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/178032707/s592/Shameless-Nicht-ganz-nuechtern.jpg"
     },
     {
-      "id": "tmdb:308014",
+      "id": "tmdb:79744",
       "type": "series",
-      "name": "Berlin und die Dame mit dem Hermelin",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:295778",
+      "type": "series",
+      "name": "Scrubs",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345653035/s592/berlin-and-the-lady-with-an-ermine-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
+    },
+    {
+      "id": "tmdb:65784",
+      "type": "series",
+      "name": "Slasher",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/249473951/s592/Slasher.jpg"
     }
   ]
 }
