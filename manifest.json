@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-26T09:42:29.950Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-27T09:36:01.059Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -38,23 +38,9 @@
         {
           "id": "tmdb:687163",
           "type": "movie",
-          "name": "Der Astronaut – Project Hail Mary",
+          "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:1139106",
-          "type": "movie",
-          "name": "We Are Zombies",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
-        },
-        {
-          "id": "tmdb:582014",
-          "type": "movie",
-          "name": "Promising Young Woman",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
         },
         {
           "id": "tmdb:853387",
@@ -71,6 +57,13 @@
           "poster": "https://images.justwatch.com/poster/263279189/s592/The-Others.jpg"
         },
         {
+          "id": "tmdb:582014",
+          "type": "movie",
+          "name": "Promising Young Woman",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
+        },
+        {
           "id": "tmdb:822030",
           "type": "movie",
           "name": "75 Grad West",
@@ -78,11 +71,18 @@
           "poster": "https://images.justwatch.com/poster/252204502/s592/75-Degrees-West.jpg"
         },
         {
-          "id": "tmdb:10431",
+          "id": "tmdb:1228710",
           "type": "movie",
-          "name": "War",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/242234998/s592/War-2007.jpg"
+          "name": "The Mandalorian & Grogu",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/336088078/s592/the-mandalorian-und-grogu.jpg"
+        },
+        {
+          "id": "tmdb:1119449",
+          "type": "movie",
+          "name": "Good Luck, Have Fun, Don't Die",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
         },
         {
-          "id": "tmdb:273240",
-          "type": "series",
-          "name": "Off Campus",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
-        },
-        {
           "id": "tmdb:122241",
           "type": "series",
           "name": "LOL: Last One Laughing",
@@ -128,11 +121,18 @@
           "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         },
         {
-          "id": "tmdb:299167",
+          "id": "tmdb:220102",
           "type": "series",
-          "name": "Dutton Ranch",
+          "name": "Noir",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+          "poster": "https://images.justwatch.com/poster/341957914/s592/spider-noir.jpg"
+        },
+        {
+          "id": "tmdb:251608",
+          "type": "series",
+          "name": "Bad Thoughts",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331192060/s592/bad-thoughts.jpg"
         },
         {
           "id": "tmdb:34307",
@@ -142,6 +142,13 @@
           "poster": "https://images.justwatch.com/poster/178032707/s592/Shameless-Nicht-ganz-nuechtern.jpg"
         },
         {
+          "id": "tmdb:65784",
+          "type": "series",
+          "name": "Slasher",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/249473951/s592/Slasher.jpg"
+        },
+        {
           "id": "tmdb:79744",
           "type": "series",
           "name": "Der Rookie",
@@ -149,18 +156,11 @@
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
         },
         {
-          "id": "tmdb:295778",
+          "id": "tmdb:273240",
           "type": "series",
-          "name": "Scrubs",
+          "name": "Off Campus",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/338300263/s592/scrubs.jpg"
-        },
-        {
-          "id": "tmdb:65784",
-          "type": "series",
-          "name": "Slasher",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/249473951/s592/Slasher.jpg"
+          "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
         }
       ]
     }
@@ -170,31 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-26T09:42:29.950Z",
+    "generatedAt": "2026-05-27T09:36:01.059Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1380291",
       "tmdb:1368881",
       "tmdb:687163",
-      "tmdb:1139106",
-      "tmdb:582014",
       "tmdb:853387",
       "tmdb:1933",
+      "tmdb:582014",
       "tmdb:822030",
-      "tmdb:10431"
+      "tmdb:1228710",
+      "tmdb:1119449"
     ],
     "tmdbShows": [
       "tmdb:224941",
       "tmdb:76479",
       "tmdb:285404",
-      "tmdb:273240",
       "tmdb:122241",
-      "tmdb:299167",
+      "tmdb:220102",
+      "tmdb:251608",
       "tmdb:34307",
+      "tmdb:65784",
       "tmdb:79744",
-      "tmdb:295778",
-      "tmdb:65784"
+      "tmdb:273240"
     ]
   }
 }

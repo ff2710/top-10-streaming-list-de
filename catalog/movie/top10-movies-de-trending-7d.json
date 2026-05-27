@@ -17,23 +17,9 @@
     {
       "id": "tmdb:687163",
       "type": "movie",
-      "name": "Der Astronaut – Project Hail Mary",
+      "name": "Der Astronaut - Project Hail Mary",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-    },
-    {
-      "id": "tmdb:1139106",
-      "type": "movie",
-      "name": "We Are Zombies",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/319794643/s592/we-are-zombies.jpg"
-    },
-    {
-      "id": "tmdb:582014",
-      "type": "movie",
-      "name": "Promising Young Woman",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
     },
     {
       "id": "tmdb:853387",
@@ -50,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/263279189/s592/The-Others.jpg"
     },
     {
+      "id": "tmdb:582014",
+      "type": "movie",
+      "name": "Promising Young Woman",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
+    },
+    {
       "id": "tmdb:822030",
       "type": "movie",
       "name": "75 Grad West",
@@ -57,11 +50,18 @@
       "poster": "https://images.justwatch.com/poster/252204502/s592/75-Degrees-West.jpg"
     },
     {
-      "id": "tmdb:10431",
+      "id": "tmdb:1228710",
       "type": "movie",
-      "name": "War",
-      "year": 2007,
-      "poster": "https://images.justwatch.com/poster/242234998/s592/War-2007.jpg"
+      "name": "The Mandalorian & Grogu",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/336088078/s592/the-mandalorian-und-grogu.jpg"
+    },
+    {
+      "id": "tmdb:1119449",
+      "type": "movie",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
     }
   ]
 }
