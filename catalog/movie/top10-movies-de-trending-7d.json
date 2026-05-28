@@ -43,6 +43,13 @@
       "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
     },
     {
+      "id": "tmdb:1503003",
+      "type": "movie",
+      "name": "Mitspielen",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/321239916/s592/mitspielen.jpg"
+    },
+    {
       "id": "tmdb:822030",
       "type": "movie",
       "name": "75 Grad West",
@@ -50,18 +57,11 @@
       "poster": "https://images.justwatch.com/poster/252204502/s592/75-Degrees-West.jpg"
     },
     {
-      "id": "tmdb:1228710",
+      "id": "tmdb:753336",
       "type": "movie",
-      "name": "The Mandalorian & Grogu",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/336088078/s592/the-mandalorian-und-grogu.jpg"
-    },
-    {
-      "id": "tmdb:1119449",
-      "type": "movie",
-      "name": "Good Luck, Have Fun, Don't Die",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
+      "name": "Origin",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/317592105/s592/origin.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-27T09:36:01.059Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-28T09:52:47.799Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -64,6 +64,13 @@
           "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
         },
         {
+          "id": "tmdb:1503003",
+          "type": "movie",
+          "name": "Mitspielen",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/321239916/s592/mitspielen.jpg"
+        },
+        {
           "id": "tmdb:822030",
           "type": "movie",
           "name": "75 Grad West",
@@ -71,18 +78,11 @@
           "poster": "https://images.justwatch.com/poster/252204502/s592/75-Degrees-West.jpg"
         },
         {
-          "id": "tmdb:1228710",
+          "id": "tmdb:753336",
           "type": "movie",
-          "name": "The Mandalorian & Grogu",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/336088078/s592/the-mandalorian-und-grogu.jpg"
-        },
-        {
-          "id": "tmdb:1119449",
-          "type": "movie",
-          "name": "Good Luck, Have Fun, Don't Die",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342866641/s592/good-luck-have-fun-dont-die.jpg"
+          "name": "Origin",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/317592105/s592/origin.jpg"
         }
       ]
     },
@@ -100,6 +100,13 @@
           "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
         },
         {
+          "id": "tmdb:220102",
+          "type": "series",
+          "name": "Noir",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341957914/s592/spider-noir.jpg"
+        },
+        {
           "id": "tmdb:76479",
           "type": "series",
           "name": "The Boys",
@@ -107,25 +114,11 @@
           "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
         },
         {
-          "id": "tmdb:285404",
-          "type": "series",
-          "name": "Maximum Pleasure Guaranteed",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344166194/s592/maximum-pleasure-guaranteed.jpg"
-        },
-        {
           "id": "tmdb:122241",
           "type": "series",
           "name": "LOL: Last One Laughing",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
-        },
-        {
-          "id": "tmdb:220102",
-          "type": "series",
-          "name": "Noir",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341957914/s592/spider-noir.jpg"
         },
         {
           "id": "tmdb:251608",
@@ -142,18 +135,25 @@
           "poster": "https://images.justwatch.com/poster/178032707/s592/Shameless-Nicht-ganz-nuechtern.jpg"
         },
         {
-          "id": "tmdb:65784",
-          "type": "series",
-          "name": "Slasher",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/249473951/s592/Slasher.jpg"
-        },
-        {
           "id": "tmdb:79744",
           "type": "series",
           "name": "Der Rookie",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:85552",
+          "type": "series",
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+        },
+        {
+          "id": "tmdb:62286",
+          "type": "series",
+          "name": "Fear the Walking Dead",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/308429837/s592/Fear-the-Walking-Dead.jpg"
         },
         {
           "id": "tmdb:273240",
@@ -170,7 +170,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-27T09:36:01.059Z",
+    "generatedAt": "2026-05-28T09:52:47.799Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -180,20 +180,20 @@
       "tmdb:853387",
       "tmdb:1933",
       "tmdb:582014",
+      "tmdb:1503003",
       "tmdb:822030",
-      "tmdb:1228710",
-      "tmdb:1119449"
+      "tmdb:753336"
     ],
     "tmdbShows": [
       "tmdb:224941",
-      "tmdb:76479",
-      "tmdb:285404",
-      "tmdb:122241",
       "tmdb:220102",
+      "tmdb:76479",
+      "tmdb:122241",
       "tmdb:251608",
       "tmdb:34307",
-      "tmdb:65784",
       "tmdb:79744",
+      "tmdb:85552",
+      "tmdb:62286",
       "tmdb:273240"
     ]
   }
