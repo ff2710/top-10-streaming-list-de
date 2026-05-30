@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-05-29T09:43:14.612Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-05-30T08:21:53.405Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -71,6 +71,13 @@
           "poster": "https://images.justwatch.com/poster/317592105/s592/origin.jpg"
         },
         {
+          "id": "tmdb:298312",
+          "type": "movie",
+          "name": "The Visit",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/272313727/s592/The-Visit.jpg"
+        },
+        {
           "id": "tmdb:1297842",
           "type": "movie",
           "name": "G.O.A.T. - Bock auf grosse Sprünge",
@@ -83,13 +90,6 @@
           "name": "75 Grad West",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/252204502/s592/75-Degrees-West.jpg"
-        },
-        {
-          "id": "tmdb:843380",
-          "type": "movie",
-          "name": "Dead for a Dollar",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/300341301/s592/Dead-for-A-Dollar.jpg"
         }
       ]
     },
@@ -100,13 +100,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:224941",
-          "type": "series",
-          "name": "The Boroughs",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
-        },
-        {
           "id": "tmdb:220102",
           "type": "series",
           "name": "Spider-Noir",
@@ -114,18 +107,11 @@
           "poster": "https://images.justwatch.com/poster/345837805/s592/spider-noir.jpg"
         },
         {
-          "id": "tmdb:76479",
+          "id": "tmdb:224941",
           "type": "series",
-          "name": "The Boys",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
-        },
-        {
-          "id": "tmdb:251608",
-          "type": "series",
-          "name": "Bad Thoughts",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331192060/s592/bad-thoughts.jpg"
+          "name": "The Boroughs",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
         },
         {
           "id": "tmdb:252372",
@@ -135,11 +121,18 @@
           "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
         },
         {
-          "id": "tmdb:122241",
+          "id": "tmdb:251608",
           "type": "series",
-          "name": "LOL: Last One Laughing",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
+          "name": "Bad Thoughts",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331192060/s592/bad-thoughts.jpg"
+        },
+        {
+          "id": "tmdb:62286",
+          "type": "series",
+          "name": "Fear the Walking Dead",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/308429837/s592/Fear-the-Walking-Dead.jpg"
         },
         {
           "id": "tmdb:79744",
@@ -149,25 +142,32 @@
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
         },
         {
-          "id": "tmdb:34307",
-          "type": "series",
-          "name": "Shameless - Nicht ganz nüchtern",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/178032707/s592/Shameless-Nicht-ganz-nuechtern.jpg"
-        },
-        {
           "id": "tmdb:85552",
           "type": "series",
           "name": "Euphoria",
           "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+          "poster": "https://images.justwatch.com/poster/128560279/s592/Euphoria.jpg"
         },
         {
-          "id": "tmdb:62286",
+          "id": "tmdb:60625",
           "type": "series",
-          "name": "Fear the Walking Dead",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/308429837/s592/Fear-the-Walking-Dead.jpg"
+          "name": "Rick and Morty",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/300655827/s592/Rick-and-Morty.jpg"
+        },
+        {
+          "id": "tmdb:76479",
+          "type": "series",
+          "name": "The Boys",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/336260324/s592/The-Boys.jpg"
+        },
+        {
+          "id": "tmdb:122241",
+          "type": "series",
+          "name": "LOL: Last One Laughing",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-05-29T09:43:14.612Z",
+    "generatedAt": "2026-05-30T08:21:53.405Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -188,21 +188,21 @@
       "tmdb:687163",
       "tmdb:1380291",
       "tmdb:753336",
+      "tmdb:298312",
       "tmdb:1297842",
-      "tmdb:822030",
-      "tmdb:843380"
+      "tmdb:822030"
     ],
     "tmdbShows": [
-      "tmdb:224941",
       "tmdb:220102",
-      "tmdb:76479",
-      "tmdb:251608",
+      "tmdb:224941",
       "tmdb:252372",
-      "tmdb:122241",
+      "tmdb:251608",
+      "tmdb:62286",
       "tmdb:79744",
-      "tmdb:34307",
       "tmdb:85552",
-      "tmdb:62286"
+      "tmdb:60625",
+      "tmdb:76479",
+      "tmdb:122241"
     ]
   }
 }
