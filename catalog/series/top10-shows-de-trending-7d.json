@@ -5,14 +5,7 @@
       "type": "series",
       "name": "Spider-Noir",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345837805/s592/spider-noir.jpg"
-    },
-    {
-      "id": "tmdb:224941",
-      "type": "series",
-      "name": "The Boroughs",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
+      "poster": "https://images.justwatch.com/poster/345900203/s592/spider-noir.jpg"
     },
     {
       "id": "tmdb:252372",
@@ -22,18 +15,11 @@
       "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
     },
     {
-      "id": "tmdb:251608",
+      "id": "tmdb:224941",
       "type": "series",
-      "name": "Bad Thoughts",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331192060/s592/bad-thoughts.jpg"
-    },
-    {
-      "id": "tmdb:62286",
-      "type": "series",
-      "name": "Fear the Walking Dead",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/308429837/s592/Fear-the-Walking-Dead.jpg"
+      "name": "The Boroughs",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
     },
     {
       "id": "tmdb:252107",
@@ -41,6 +27,20 @@
       "name": "Star City",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344791567/s592/star-city.jpg"
+    },
+    {
+      "id": "tmdb:243316",
+      "type": "series",
+      "name": "The Four Seasons",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
+    },
+    {
+      "id": "tmdb:62286",
+      "type": "series",
+      "name": "Fear the Walking Dead",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/308429837/s592/Fear-the-Walking-Dead.jpg"
     },
     {
       "id": "tmdb:122241",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/300655827/s592/Rick-and-Morty.jpg"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:251608",
       "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/128560279/s592/Euphoria.jpg"
+      "name": "Bad Thoughts",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331192060/s592/bad-thoughts.jpg"
     },
     {
-      "id": "tmdb:243316",
+      "id": "tmdb:87917",
       "type": "series",
-      "name": "The Four Seasons",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
+      "name": "For All Mankind",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/345823498/s592/For-All-Mankind.jpg"
     }
   ]
 }
