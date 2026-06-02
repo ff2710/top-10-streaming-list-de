@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-01T11:21:48.772Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-02T10:13:05.320Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,6 +22,13 @@
       "extra": [],
       "items": [
         {
+          "id": "tmdb:558449",
+          "type": "movie",
+          "name": "Gladiator II",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
+        },
+        {
           "id": "tmdb:798645",
           "type": "movie",
           "name": "The Running Man",
@@ -34,13 +41,6 @@
           "name": "Die Faust im Nacken",
           "year": 1954,
           "poster": "https://images.justwatch.com/poster/327551565/s592/Die-Faust-im-Nacken.jpg"
-        },
-        {
-          "id": "tmdb:558449",
-          "type": "movie",
-          "name": "Gladiator II",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
         },
         {
           "id": "tmdb:7512",
@@ -71,13 +71,6 @@
           "poster": "https://images.justwatch.com/poster/343010761/s592/goat-2026.jpg"
         },
         {
-          "id": "tmdb:843380",
-          "type": "movie",
-          "name": "Dead for a Dollar",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/300341301/s592/Dead-for-A-Dollar.jpg"
-        },
-        {
           "id": "tmdb:298312",
           "type": "movie",
           "name": "The Visit",
@@ -90,6 +83,13 @@
           "name": "Body Cam - Unsichtbares Grauen",
           "year": 2020,
           "poster": "https://images.justwatch.com/poster/201897879/s592/Body-Cam.jpg"
+        },
+        {
+          "id": "tmdb:9610",
+          "type": "movie",
+          "name": "Conan der Zerstörer",
+          "year": 1984,
+          "poster": "https://images.justwatch.com/poster/48618524/s592/Conan-der-Zerstoerer.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
         },
         {
-          "id": "tmdb:224941",
-          "type": "series",
-          "name": "The Boroughs",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
-        },
-        {
           "id": "tmdb:252107",
           "type": "series",
           "name": "Star City",
@@ -135,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
         },
         {
-          "id": "tmdb:62286",
+          "id": "tmdb:85552",
           "type": "series",
-          "name": "Fear the Walking Dead",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/308429837/s592/Fear-the-Walking-Dead.jpg"
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/128560279/s592/Euphoria.jpg"
         },
         {
           "id": "tmdb:122241",
@@ -149,25 +142,32 @@
           "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         },
         {
-          "id": "tmdb:60625",
-          "type": "series",
-          "name": "Rick and Morty",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/300655827/s592/Rick-and-Morty.jpg"
-        },
-        {
-          "id": "tmdb:251608",
-          "type": "series",
-          "name": "Bad Thoughts",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331192060/s592/bad-thoughts.jpg"
-        },
-        {
           "id": "tmdb:87917",
           "type": "series",
           "name": "For All Mankind",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/345823498/s592/For-All-Mankind.jpg"
+        },
+        {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
+          "id": "tmdb:236072",
+          "type": "series",
+          "name": "Itxaso and the Sea",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/309893067/s592/itxaso-and-the-sea.jpg"
+        },
+        {
+          "id": "tmdb:279884",
+          "type": "series",
+          "name": "Rafa",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344324301/s592/rafa.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-01T11:21:48.772Z",
+    "generatedAt": "2026-06-02T10:13:05.320Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
+      "tmdb:558449",
       "tmdb:798645",
       "tmdb:654",
-      "tmdb:558449",
       "tmdb:7512",
       "tmdb:753336",
       "tmdb:923667",
       "tmdb:1297842",
-      "tmdb:843380",
       "tmdb:298312",
-      "tmdb:513268"
+      "tmdb:513268",
+      "tmdb:9610"
     ],
     "tmdbShows": [
       "tmdb:220102",
       "tmdb:252372",
-      "tmdb:224941",
       "tmdb:252107",
       "tmdb:243316",
-      "tmdb:62286",
+      "tmdb:85552",
       "tmdb:122241",
-      "tmdb:60625",
-      "tmdb:251608",
-      "tmdb:87917"
+      "tmdb:87917",
+      "tmdb:124364",
+      "tmdb:236072",
+      "tmdb:279884"
     ]
   }
 }
