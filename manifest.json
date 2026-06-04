@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-02T10:13:05.320Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-04T09:48:44.484Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:558449",
-          "type": "movie",
-          "name": "Gladiator II",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
-        },
-        {
           "id": "tmdb:798645",
           "type": "movie",
           "name": "The Running Man",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/340395090/s592/the-running-man.jpg"
+        },
+        {
+          "id": "tmdb:558449",
+          "type": "movie",
+          "name": "Gladiator II",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
         },
         {
           "id": "tmdb:654",
@@ -50,13 +50,6 @@
           "poster": "https://images.justwatch.com/poster/9349383/s592/Idiocracy-Irrsinn-stirbt-nie.jpg"
         },
         {
-          "id": "tmdb:753336",
-          "type": "movie",
-          "name": "Origin",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/317592105/s592/origin.jpg"
-        },
-        {
           "id": "tmdb:923667",
           "type": "movie",
           "name": "City of Darkness",
@@ -64,32 +57,39 @@
           "poster": "https://images.justwatch.com/poster/322502303/s592/twilight-of-the-warriors-walled-in.jpg"
         },
         {
-          "id": "tmdb:1297842",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "G.O.A.T. - Bock auf grosse Sprünge",
+          "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343010761/s592/goat-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:298312",
+          "id": "tmdb:1083381",
           "type": "movie",
-          "name": "The Visit",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/272313727/s592/The-Visit.jpg"
+          "name": "Backrooms",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
         },
         {
-          "id": "tmdb:513268",
+          "id": "tmdb:11649",
           "type": "movie",
-          "name": "Body Cam - Unsichtbares Grauen",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/201897879/s592/Body-Cam.jpg"
+          "name": "Masters of the Universe - Kämpfer im Weltraum",
+          "year": 1987,
+          "poster": "https://images.justwatch.com/poster/214688161/s592/Masters-of-the-Universe.jpg"
         },
         {
-          "id": "tmdb:9610",
+          "id": "tmdb:1476740",
           "type": "movie",
-          "name": "Conan der Zerstörer",
-          "year": 1984,
-          "poster": "https://images.justwatch.com/poster/48618524/s592/Conan-der-Zerstoerer.jpg"
+          "name": "Influencer 2",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341161878/s592/influencer-2.jpg"
+        },
+        {
+          "id": "tmdb:361743",
+          "type": "movie",
+          "name": "Top Gun Maverick",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/344731582/s592/Top-Gun-Maverick.jpg"
         }
       ]
     },
@@ -121,25 +121,18 @@
           "poster": "https://images.justwatch.com/poster/344791567/s592/star-city.jpg"
         },
         {
+          "id": "tmdb:85552",
+          "type": "series",
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+        },
+        {
           "id": "tmdb:243316",
           "type": "series",
           "name": "The Four Seasons",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
-        },
-        {
-          "id": "tmdb:85552",
-          "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/128560279/s592/Euphoria.jpg"
-        },
-        {
-          "id": "tmdb:122241",
-          "type": "series",
-          "name": "LOL: Last One Laughing",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
         },
         {
           "id": "tmdb:87917",
@@ -156,18 +149,25 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
-          "id": "tmdb:236072",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "Itxaso and the Sea",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/309893067/s592/itxaso-and-the-sea.jpg"
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
-          "id": "tmdb:279884",
+          "id": "tmdb:122241",
           "type": "series",
-          "name": "Rafa",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344324301/s592/rafa.jpg"
+          "name": "LOL: Last One Laughing",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
+        },
+        {
+          "id": "tmdb:51019",
+          "type": "series",
+          "name": "Almost Human",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-02T10:13:05.320Z",
+    "generatedAt": "2026-06-04T09:48:44.484Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:558449",
       "tmdb:798645",
+      "tmdb:558449",
       "tmdb:654",
       "tmdb:7512",
-      "tmdb:753336",
       "tmdb:923667",
-      "tmdb:1297842",
-      "tmdb:298312",
-      "tmdb:513268",
-      "tmdb:9610"
+      "tmdb:687163",
+      "tmdb:1083381",
+      "tmdb:11649",
+      "tmdb:1476740",
+      "tmdb:361743"
     ],
     "tmdbShows": [
       "tmdb:220102",
       "tmdb:252372",
       "tmdb:252107",
-      "tmdb:243316",
       "tmdb:85552",
-      "tmdb:122241",
+      "tmdb:243316",
       "tmdb:87917",
       "tmdb:124364",
-      "tmdb:236072",
-      "tmdb:279884"
+      "tmdb:270476",
+      "tmdb:122241",
+      "tmdb:51019"
     ]
   }
 }
