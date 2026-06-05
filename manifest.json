@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-04T09:48:44.484Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-05T09:37:07.768Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:798645",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "The Running Man",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340395090/s592/the-running-man.jpg"
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:558449",
+          "id": "tmdb:1327819",
           "type": "movie",
-          "name": "Gladiator II",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
+          "name": "Hoppers",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/339033476/s592/hoppers.jpg"
         },
         {
           "id": "tmdb:654",
@@ -57,18 +57,18 @@
           "poster": "https://images.justwatch.com/poster/322502303/s592/twilight-of-the-warriors-walled-in.jpg"
         },
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:1083381",
           "type": "movie",
           "name": "Backrooms",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+        },
+        {
+          "id": "tmdb:558449",
+          "type": "movie",
+          "name": "Gladiator II",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
         },
         {
           "id": "tmdb:11649",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/341161878/s592/influencer-2.jpg"
         },
         {
-          "id": "tmdb:361743",
+          "id": "tmdb:798645",
           "type": "movie",
-          "name": "Top Gun Maverick",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/344731582/s592/Top-Gun-Maverick.jpg"
+          "name": "The Running Man",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/340395090/s592/the-running-man.jpg"
         }
       ]
     },
@@ -128,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
-          "id": "tmdb:243316",
+          "id": "tmdb:124364",
           "type": "series",
-          "name": "The Four Seasons",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
           "id": "tmdb:87917",
@@ -142,13 +142,6 @@
           "poster": "https://images.justwatch.com/poster/345823498/s592/For-All-Mankind.jpg"
         },
         {
-          "id": "tmdb:124364",
-          "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
           "id": "tmdb:270476",
           "type": "series",
           "name": "Widow's Bay",
@@ -156,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
-          "id": "tmdb:122241",
+          "id": "tmdb:243316",
           "type": "series",
-          "name": "LOL: Last One Laughing",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/345609929/s592/LOL-Last-One-Laughing-Germany.jpg"
+          "name": "The Four Seasons",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
         },
         {
           "id": "tmdb:51019",
@@ -168,6 +161,13 @@
           "name": "Almost Human",
           "year": 2013,
           "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
+        },
+        {
+          "id": "tmdb:2942",
+          "type": "series",
+          "name": "Die Tudors",
+          "year": 2007,
+          "poster": "https://images.justwatch.com/poster/335318115/s592/The-Tudors.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-04T09:48:44.484Z",
+    "generatedAt": "2026-06-05T09:37:07.768Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:798645",
-      "tmdb:558449",
+      "tmdb:687163",
+      "tmdb:1327819",
       "tmdb:654",
       "tmdb:7512",
       "tmdb:923667",
-      "tmdb:687163",
       "tmdb:1083381",
+      "tmdb:558449",
       "tmdb:11649",
       "tmdb:1476740",
-      "tmdb:361743"
+      "tmdb:798645"
     ],
     "tmdbShows": [
       "tmdb:220102",
       "tmdb:252372",
       "tmdb:252107",
       "tmdb:85552",
-      "tmdb:243316",
-      "tmdb:87917",
       "tmdb:124364",
+      "tmdb:87917",
       "tmdb:270476",
-      "tmdb:122241",
-      "tmdb:51019"
+      "tmdb:243316",
+      "tmdb:51019",
+      "tmdb:2942"
     ]
   }
 }
