@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-05T09:37:07.768Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-06T08:27:36.345Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/339033476/s592/hoppers.jpg"
         },
         {
-          "id": "tmdb:654",
-          "type": "movie",
-          "name": "Die Faust im Nacken",
-          "year": 1954,
-          "poster": "https://images.justwatch.com/poster/327551565/s592/Die-Faust-im-Nacken.jpg"
-        },
-        {
           "id": "tmdb:7512",
           "type": "movie",
           "name": "Idiocracy",
@@ -64,13 +57,6 @@
           "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
         },
         {
-          "id": "tmdb:558449",
-          "type": "movie",
-          "name": "Gladiator II",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
-        },
-        {
           "id": "tmdb:11649",
           "type": "movie",
           "name": "Masters of the Universe - Kämpfer im Weltraum",
@@ -78,18 +64,32 @@
           "poster": "https://images.justwatch.com/poster/214688161/s592/Masters-of-the-Universe.jpg"
         },
         {
-          "id": "tmdb:1476740",
+          "id": "tmdb:1903",
           "type": "movie",
-          "name": "Influencer 2",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341161878/s592/influencer-2.jpg"
+          "name": "Vanilla Sky",
+          "year": 2001,
+          "poster": "https://images.justwatch.com/poster/258134398/s592/Vanilla-Sky.jpg"
         },
         {
-          "id": "tmdb:798645",
+          "id": "tmdb:1097549",
           "type": "movie",
-          "name": "The Running Man",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/340395090/s592/the-running-man.jpg"
+          "name": "Babygirl",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/329990789/s592/babygirl-2024.jpg"
+        },
+        {
+          "id": "tmdb:572802",
+          "type": "movie",
+          "name": "Aquaman: Lost Kingdom",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/316497995/s592/aquaman-lost-kingdom.jpg"
+        },
+        {
+          "id": "tmdb:654",
+          "type": "movie",
+          "name": "Die Faust im Nacken",
+          "year": 1954,
+          "poster": "https://images.justwatch.com/poster/327551565/s592/Die-Faust-im-Nacken.jpg"
         }
       ]
     },
@@ -114,11 +114,11 @@
           "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
         },
         {
-          "id": "tmdb:252107",
+          "id": "tmdb:124364",
           "type": "series",
-          "name": "Star City",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344791567/s592/star-city.jpg"
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
           "id": "tmdb:85552",
@@ -128,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
-          "id": "tmdb:124364",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:87917",
@@ -142,32 +142,32 @@
           "poster": "https://images.justwatch.com/poster/345823498/s592/For-All-Mankind.jpg"
         },
         {
-          "id": "tmdb:270476",
+          "id": "tmdb:70618",
           "type": "series",
-          "name": "Widow's Bay",
+          "name": "Elven - Fluss aus der Kälte",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/199900628/s592/Elven-Fluss-aus-der-Kaelte.jpg"
+        },
+        {
+          "id": "tmdb:252107",
+          "type": "series",
+          "name": "Star City",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
+          "poster": "https://images.justwatch.com/poster/344791567/s592/star-city.jpg"
         },
         {
-          "id": "tmdb:243316",
+          "id": "tmdb:117648",
           "type": "series",
-          "name": "The Four Seasons",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/328584803/s592/the-four-seasons.jpg"
+          "name": "Clarkson's Farm",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
         },
         {
-          "id": "tmdb:51019",
+          "id": "tmdb:99494",
           "type": "series",
-          "name": "Almost Human",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/177903444/s592/Almost-Human.jpg"
-        },
-        {
-          "id": "tmdb:2942",
-          "type": "series",
-          "name": "Die Tudors",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/335318115/s592/The-Tudors.jpg"
+          "name": "Flower of Evil",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-05T09:37:07.768Z",
+    "generatedAt": "2026-06-06T08:27:36.345Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
       "tmdb:1327819",
-      "tmdb:654",
       "tmdb:7512",
       "tmdb:923667",
       "tmdb:1083381",
-      "tmdb:558449",
       "tmdb:11649",
-      "tmdb:1476740",
-      "tmdb:798645"
+      "tmdb:1903",
+      "tmdb:1097549",
+      "tmdb:572802",
+      "tmdb:654"
     ],
     "tmdbShows": [
       "tmdb:220102",
       "tmdb:252372",
-      "tmdb:252107",
-      "tmdb:85552",
       "tmdb:124364",
-      "tmdb:87917",
+      "tmdb:85552",
       "tmdb:270476",
-      "tmdb:243316",
-      "tmdb:51019",
-      "tmdb:2942"
+      "tmdb:87917",
+      "tmdb:70618",
+      "tmdb:252107",
+      "tmdb:117648",
+      "tmdb:99494"
     ]
   }
 }

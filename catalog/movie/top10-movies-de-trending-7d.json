@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/339033476/s592/hoppers.jpg"
     },
     {
-      "id": "tmdb:654",
-      "type": "movie",
-      "name": "Die Faust im Nacken",
-      "year": 1954,
-      "poster": "https://images.justwatch.com/poster/327551565/s592/Die-Faust-im-Nacken.jpg"
-    },
-    {
       "id": "tmdb:7512",
       "type": "movie",
       "name": "Idiocracy",
@@ -43,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
     },
     {
-      "id": "tmdb:558449",
-      "type": "movie",
-      "name": "Gladiator II",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/323651998/s592/gladiator-ii.jpg"
-    },
-    {
       "id": "tmdb:11649",
       "type": "movie",
       "name": "Masters of the Universe - Kämpfer im Weltraum",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/214688161/s592/Masters-of-the-Universe.jpg"
     },
     {
-      "id": "tmdb:1476740",
+      "id": "tmdb:1903",
       "type": "movie",
-      "name": "Influencer 2",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/341161878/s592/influencer-2.jpg"
+      "name": "Vanilla Sky",
+      "year": 2001,
+      "poster": "https://images.justwatch.com/poster/258134398/s592/Vanilla-Sky.jpg"
     },
     {
-      "id": "tmdb:798645",
+      "id": "tmdb:1097549",
       "type": "movie",
-      "name": "The Running Man",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/340395090/s592/the-running-man.jpg"
+      "name": "Babygirl",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/329990789/s592/babygirl-2024.jpg"
+    },
+    {
+      "id": "tmdb:572802",
+      "type": "movie",
+      "name": "Aquaman: Lost Kingdom",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/316497995/s592/aquaman-lost-kingdom.jpg"
+    },
+    {
+      "id": "tmdb:654",
+      "type": "movie",
+      "name": "Die Faust im Nacken",
+      "year": 1954,
+      "poster": "https://images.justwatch.com/poster/327551565/s592/Die-Faust-im-Nacken.jpg"
     }
   ]
 }
