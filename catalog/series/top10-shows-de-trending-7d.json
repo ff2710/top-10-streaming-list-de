@@ -29,11 +29,32 @@
       "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
     },
     {
+      "id": "tmdb:70618",
+      "type": "series",
+      "name": "Elven - Fluss aus der Kälte",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/199900628/s592/Elven-Fluss-aus-der-Kaelte.jpg"
+    },
+    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
+    },
+    {
+      "id": "tmdb:99494",
+      "type": "series",
+      "name": "Flower of Evil",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
+    },
+    {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Kap der Angst",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
     },
     {
       "id": "tmdb:87917",
@@ -43,32 +64,11 @@
       "poster": "https://images.justwatch.com/poster/345823498/s592/For-All-Mankind.jpg"
     },
     {
-      "id": "tmdb:70618",
-      "type": "series",
-      "name": "Elven - Fluss aus der Kälte",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/199900628/s592/Elven-Fluss-aus-der-Kaelte.jpg"
-    },
-    {
-      "id": "tmdb:252107",
-      "type": "series",
-      "name": "Star City",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344791567/s592/star-city.jpg"
-    },
-    {
       "id": "tmdb:117648",
       "type": "series",
       "name": "Clarkson's Farm",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
-    },
-    {
-      "id": "tmdb:99494",
-      "type": "series",
-      "name": "Flower of Evil",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
     }
   ]
 }
