@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-08T10:26:25.690Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-09T09:31:54.175Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -24,7 +24,7 @@
         {
           "id": "tmdb:687163",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
+          "name": "Der Astronaut – Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
@@ -36,18 +36,18 @@
           "poster": "https://images.justwatch.com/poster/339033476/s592/hoppers.jpg"
         },
         {
-          "id": "tmdb:11649",
-          "type": "movie",
-          "name": "Masters of the Universe - Kämpfer im Weltraum",
-          "year": 1987,
-          "poster": "https://images.justwatch.com/poster/214688161/s592/Masters-of-the-Universe.jpg"
-        },
-        {
           "id": "tmdb:1083381",
           "type": "movie",
           "name": "Backrooms",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+        },
+        {
+          "id": "tmdb:13183",
+          "type": "movie",
+          "name": "Watchmen – Die Wächter",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
         },
         {
           "id": "tmdb:572802",
@@ -71,25 +71,25 @@
           "poster": "https://images.justwatch.com/poster/23277910/s592/Happy-Hunting.jpg"
         },
         {
-          "id": "tmdb:13183",
-          "type": "movie",
-          "name": "Watchmen – Die Wächter",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
-        },
-        {
-          "id": "tmdb:228150",
-          "type": "movie",
-          "name": "Herz aus Stahl",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/191765792/s592/Herz-Aus-Stahl.jpg"
-        },
-        {
           "id": "tmdb:73",
           "type": "movie",
           "name": "American History X",
           "year": 1998,
           "poster": "https://images.justwatch.com/poster/8724044/s592/American-History-X.jpg"
+        },
+        {
+          "id": "tmdb:274855",
+          "type": "movie",
+          "name": "Geostorm",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/86636469/s592/Geostorm.jpg"
+        },
+        {
+          "id": "tmdb:1358005",
+          "type": "movie",
+          "name": "Office Romance",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344758882/s592/office-romance.jpg"
         }
       ]
     },
@@ -100,18 +100,18 @@
       "extra": [],
       "items": [
         {
+          "id": "tmdb:47665",
+          "type": "series",
+          "name": "Black Sails",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
+        },
+        {
           "id": "tmdb:124364",
           "type": "series",
           "name": "From",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
-          "id": "tmdb:85552",
-          "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
         },
         {
           "id": "tmdb:70618",
@@ -121,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/199900628/s592/Elven-Fluss-aus-der-Kaelte.jpg"
         },
         {
-          "id": "tmdb:252372",
+          "id": "tmdb:277439",
           "type": "series",
-          "name": "Achtsam Morden",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
+          "name": "Kap der Angst",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
         },
         {
           "id": "tmdb:270476",
@@ -135,20 +135,6 @@
           "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
-          "id": "tmdb:220102",
-          "type": "series",
-          "name": "Spider-Noir",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345900203/s592/spider-noir.jpg"
-        },
-        {
-          "id": "tmdb:277439",
-          "type": "series",
-          "name": "Kap der Angst",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
-        },
-        {
           "id": "tmdb:99494",
           "type": "series",
           "name": "Flower of Evil",
@@ -156,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
         },
         {
-          "id": "tmdb:47665",
+          "id": "tmdb:252372",
           "type": "series",
-          "name": "Black Sails",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
+          "name": "Achtsam Morden",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
         },
         {
           "id": "tmdb:117648",
@@ -168,6 +154,20 @@
           "name": "Clarkson's Farm",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
+        },
+        {
+          "id": "tmdb:85552",
+          "type": "series",
+          "name": "Euphoria",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
+        },
+        {
+          "id": "tmdb:135934",
+          "type": "series",
+          "name": "The Legend of Vox Machina",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/259433335/s592/Critical-Role-The-Legend-of-Vox-Machina.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-08T10:26:25.690Z",
+    "generatedAt": "2026-06-09T09:31:54.175Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
       "tmdb:1327819",
-      "tmdb:11649",
       "tmdb:1083381",
+      "tmdb:13183",
       "tmdb:572802",
       "tmdb:1097549",
       "tmdb:412762",
-      "tmdb:13183",
-      "tmdb:228150",
-      "tmdb:73"
+      "tmdb:73",
+      "tmdb:274855",
+      "tmdb:1358005"
     ],
     "tmdbShows": [
-      "tmdb:124364",
-      "tmdb:85552",
-      "tmdb:70618",
-      "tmdb:252372",
-      "tmdb:270476",
-      "tmdb:220102",
-      "tmdb:277439",
-      "tmdb:99494",
       "tmdb:47665",
-      "tmdb:117648"
+      "tmdb:124364",
+      "tmdb:70618",
+      "tmdb:277439",
+      "tmdb:270476",
+      "tmdb:99494",
+      "tmdb:252372",
+      "tmdb:117648",
+      "tmdb:85552",
+      "tmdb:135934"
     ]
   }
 }

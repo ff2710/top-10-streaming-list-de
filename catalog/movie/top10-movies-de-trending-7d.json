@@ -3,7 +3,7 @@
     {
       "id": "tmdb:687163",
       "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
+      "name": "Der Astronaut – Project Hail Mary",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
@@ -15,18 +15,18 @@
       "poster": "https://images.justwatch.com/poster/339033476/s592/hoppers.jpg"
     },
     {
-      "id": "tmdb:11649",
-      "type": "movie",
-      "name": "Masters of the Universe - Kämpfer im Weltraum",
-      "year": 1987,
-      "poster": "https://images.justwatch.com/poster/214688161/s592/Masters-of-the-Universe.jpg"
-    },
-    {
       "id": "tmdb:1083381",
       "type": "movie",
       "name": "Backrooms",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+    },
+    {
+      "id": "tmdb:13183",
+      "type": "movie",
+      "name": "Watchmen – Die Wächter",
+      "year": 2009,
+      "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
     },
     {
       "id": "tmdb:572802",
@@ -50,25 +50,25 @@
       "poster": "https://images.justwatch.com/poster/23277910/s592/Happy-Hunting.jpg"
     },
     {
-      "id": "tmdb:13183",
-      "type": "movie",
-      "name": "Watchmen – Die Wächter",
-      "year": 2009,
-      "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
-    },
-    {
-      "id": "tmdb:228150",
-      "type": "movie",
-      "name": "Herz aus Stahl",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/191765792/s592/Herz-Aus-Stahl.jpg"
-    },
-    {
       "id": "tmdb:73",
       "type": "movie",
       "name": "American History X",
       "year": 1998,
       "poster": "https://images.justwatch.com/poster/8724044/s592/American-History-X.jpg"
+    },
+    {
+      "id": "tmdb:274855",
+      "type": "movie",
+      "name": "Geostorm",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/86636469/s592/Geostorm.jpg"
+    },
+    {
+      "id": "tmdb:1358005",
+      "type": "movie",
+      "name": "Office Romance",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344758882/s592/office-romance.jpg"
     }
   ]
 }
