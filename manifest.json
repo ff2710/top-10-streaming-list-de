@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-09T09:31:54.175Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-10T09:48:25.356Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -24,7 +24,7 @@
         {
           "id": "tmdb:687163",
           "type": "movie",
-          "name": "Der Astronaut – Project Hail Mary",
+          "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
@@ -34,13 +34,6 @@
           "name": "Hoppers",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/339033476/s592/hoppers.jpg"
-        },
-        {
-          "id": "tmdb:1083381",
-          "type": "movie",
-          "name": "Backrooms",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
         },
         {
           "id": "tmdb:13183",
@@ -57,18 +50,18 @@
           "poster": "https://images.justwatch.com/poster/316497995/s592/aquaman-lost-kingdom.jpg"
         },
         {
-          "id": "tmdb:1097549",
+          "id": "tmdb:937393",
           "type": "movie",
-          "name": "Babygirl",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/329990789/s592/babygirl-2024.jpg"
+          "name": "Fluch aus der Tiefe",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/329802926/s592/fluch-aus-der-tiefe-2025.jpg"
         },
         {
-          "id": "tmdb:412762",
+          "id": "tmdb:1205648",
           "type": "movie",
-          "name": "Happy Hunting",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/23277910/s592/Happy-Hunting.jpg"
+          "name": "No One Will Know",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/335589862/s592/no-one-will-know-2025.jpg"
         },
         {
           "id": "tmdb:73",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/8724044/s592/American-History-X.jpg"
         },
         {
-          "id": "tmdb:274855",
-          "type": "movie",
-          "name": "Geostorm",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/86636469/s592/Geostorm.jpg"
-        },
-        {
           "id": "tmdb:1358005",
           "type": "movie",
           "name": "Office Romance",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344758882/s592/office-romance.jpg"
+        },
+        {
+          "id": "tmdb:1083381",
+          "type": "movie",
+          "name": "Backrooms",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+        },
+        {
+          "id": "tmdb:1148708",
+          "type": "movie",
+          "name": "RUB",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/306390218/s592/rub.jpg"
         }
       ]
     },
@@ -128,13 +128,6 @@
           "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
         },
         {
-          "id": "tmdb:270476",
-          "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
-        },
-        {
           "id": "tmdb:99494",
           "type": "series",
           "name": "Flower of Evil",
@@ -142,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
         },
         {
-          "id": "tmdb:252372",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "Achtsam Morden",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:117648",
@@ -156,18 +149,25 @@
           "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
         },
         {
-          "id": "tmdb:85552",
-          "type": "series",
-          "name": "Euphoria",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
-        },
-        {
           "id": "tmdb:135934",
           "type": "series",
           "name": "The Legend of Vox Machina",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/259433335/s592/Critical-Role-The-Legend-of-Vox-Machina.jpg"
+        },
+        {
+          "id": "tmdb:273240",
+          "type": "series",
+          "name": "Off Campus",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
+        },
+        {
+          "id": "tmdb:252372",
+          "type": "series",
+          "name": "Achtsam Morden",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-09T09:31:54.175Z",
+    "generatedAt": "2026-06-10T09:48:25.356Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
       "tmdb:1327819",
-      "tmdb:1083381",
       "tmdb:13183",
       "tmdb:572802",
-      "tmdb:1097549",
-      "tmdb:412762",
+      "tmdb:937393",
+      "tmdb:1205648",
       "tmdb:73",
-      "tmdb:274855",
-      "tmdb:1358005"
+      "tmdb:1358005",
+      "tmdb:1083381",
+      "tmdb:1148708"
     ],
     "tmdbShows": [
       "tmdb:47665",
       "tmdb:124364",
       "tmdb:70618",
       "tmdb:277439",
-      "tmdb:270476",
       "tmdb:99494",
-      "tmdb:252372",
+      "tmdb:270476",
       "tmdb:117648",
-      "tmdb:85552",
-      "tmdb:135934"
+      "tmdb:135934",
+      "tmdb:273240",
+      "tmdb:252372"
     ]
   }
 }

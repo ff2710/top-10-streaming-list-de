@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
     },
     {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
-    },
-    {
       "id": "tmdb:99494",
       "type": "series",
       "name": "Flower of Evil",
@@ -43,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
     },
     {
-      "id": "tmdb:252372",
+      "id": "tmdb:270476",
       "type": "series",
-      "name": "Achtsam Morden",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
+      "name": "Widow's Bay",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
     },
     {
       "id": "tmdb:117648",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
     },
     {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/343699808/s592/Euphoria.jpg"
-    },
-    {
       "id": "tmdb:135934",
       "type": "series",
       "name": "The Legend of Vox Machina",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/259433335/s592/Critical-Role-The-Legend-of-Vox-Machina.jpg"
+    },
+    {
+      "id": "tmdb:273240",
+      "type": "series",
+      "name": "Off Campus",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
+    },
+    {
+      "id": "tmdb:252372",
+      "type": "series",
+      "name": "Achtsam Morden",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
     }
   ]
 }
