@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-10T09:48:25.356Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-11T10:14:22.239Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,32 +43,11 @@
           "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
         },
         {
-          "id": "tmdb:572802",
+          "id": "tmdb:1390300",
           "type": "movie",
-          "name": "Aquaman: Lost Kingdom",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/316497995/s592/aquaman-lost-kingdom.jpg"
-        },
-        {
-          "id": "tmdb:937393",
-          "type": "movie",
-          "name": "Fluch aus der Tiefe",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/329802926/s592/fluch-aus-der-tiefe-2025.jpg"
-        },
-        {
-          "id": "tmdb:1205648",
-          "type": "movie",
-          "name": "No One Will Know",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/335589862/s592/no-one-will-know-2025.jpg"
-        },
-        {
-          "id": "tmdb:73",
-          "type": "movie",
-          "name": "American History X",
-          "year": 1998,
-          "poster": "https://images.justwatch.com/poster/8724044/s592/American-History-X.jpg"
+          "name": "Over Your Dead Body",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
         },
         {
           "id": "tmdb:1358005",
@@ -78,11 +57,18 @@
           "poster": "https://images.justwatch.com/poster/344758882/s592/office-romance.jpg"
         },
         {
-          "id": "tmdb:1083381",
+          "id": "tmdb:73",
           "type": "movie",
-          "name": "Backrooms",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+          "name": "American History X",
+          "year": 1998,
+          "poster": "https://images.justwatch.com/poster/8724044/s592/American-History-X.jpg"
+        },
+        {
+          "id": "tmdb:1205648",
+          "type": "movie",
+          "name": "No One Will Know",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/335589862/s592/no-one-will-know-2025.jpg"
         },
         {
           "id": "tmdb:1148708",
@@ -90,6 +76,20 @@
           "name": "RUB",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/306390218/s592/rub.jpg"
+        },
+        {
+          "id": "tmdb:274855",
+          "type": "movie",
+          "name": "Geostorm",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/86636469/s592/Geostorm.jpg"
+        },
+        {
+          "id": "tmdb:57876",
+          "type": "movie",
+          "name": "Area 51",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/180998113/s592/Area-51.jpg"
         }
       ]
     },
@@ -128,13 +128,6 @@
           "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
         },
         {
-          "id": "tmdb:99494",
-          "type": "series",
-          "name": "Flower of Evil",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
-        },
-        {
           "id": "tmdb:270476",
           "type": "series",
           "name": "Widow's Bay",
@@ -142,18 +135,11 @@
           "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
         },
         {
-          "id": "tmdb:117648",
+          "id": "tmdb:99494",
           "type": "series",
-          "name": "Clarkson's Farm",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
-        },
-        {
-          "id": "tmdb:135934",
-          "type": "series",
-          "name": "The Legend of Vox Machina",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/259433335/s592/Critical-Role-The-Legend-of-Vox-Machina.jpg"
+          "name": "Flower of Evil",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
         },
         {
           "id": "tmdb:273240",
@@ -163,11 +149,25 @@
           "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
         },
         {
-          "id": "tmdb:252372",
+          "id": "tmdb:62264",
           "type": "series",
-          "name": "Achtsam Morden",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
+          "name": "Ash vs Evil Dead",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/63655304/s592/Ash-vs-Evil-Dead.jpg"
+        },
+        {
+          "id": "tmdb:1401",
+          "type": "series",
+          "name": "Hell on Wheels",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/293977216/s592/Hell-on-Wheels.jpg"
+        },
+        {
+          "id": "tmdb:224941",
+          "type": "series",
+          "name": "The Boroughs",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-10T09:48:25.356Z",
+    "generatedAt": "2026-06-11T10:14:22.239Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
       "tmdb:1327819",
       "tmdb:13183",
-      "tmdb:572802",
-      "tmdb:937393",
-      "tmdb:1205648",
-      "tmdb:73",
+      "tmdb:1390300",
       "tmdb:1358005",
-      "tmdb:1083381",
-      "tmdb:1148708"
+      "tmdb:73",
+      "tmdb:1205648",
+      "tmdb:1148708",
+      "tmdb:274855",
+      "tmdb:57876"
     ],
     "tmdbShows": [
       "tmdb:47665",
       "tmdb:124364",
       "tmdb:70618",
       "tmdb:277439",
-      "tmdb:99494",
       "tmdb:270476",
-      "tmdb:117648",
-      "tmdb:135934",
+      "tmdb:99494",
       "tmdb:273240",
-      "tmdb:252372"
+      "tmdb:62264",
+      "tmdb:1401",
+      "tmdb:224941"
     ]
   }
 }

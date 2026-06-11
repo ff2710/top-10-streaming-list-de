@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
     },
     {
-      "id": "tmdb:99494",
-      "type": "series",
-      "name": "Flower of Evil",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
-    },
-    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay",
@@ -43,18 +36,11 @@
       "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
     },
     {
-      "id": "tmdb:117648",
+      "id": "tmdb:99494",
       "type": "series",
-      "name": "Clarkson's Farm",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/247276200/s592/Clarksons-Farm.jpg"
-    },
-    {
-      "id": "tmdb:135934",
-      "type": "series",
-      "name": "The Legend of Vox Machina",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/259433335/s592/Critical-Role-The-Legend-of-Vox-Machina.jpg"
+      "name": "Flower of Evil",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/197451680/s592/agyi-ggoc.jpg"
     },
     {
       "id": "tmdb:273240",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
     },
     {
-      "id": "tmdb:252372",
+      "id": "tmdb:62264",
       "type": "series",
-      "name": "Achtsam Morden",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/322751036/s592/achtsam-morden.jpg"
+      "name": "Ash vs Evil Dead",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/63655304/s592/Ash-vs-Evil-Dead.jpg"
+    },
+    {
+      "id": "tmdb:1401",
+      "type": "series",
+      "name": "Hell on Wheels",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/293977216/s592/Hell-on-Wheels.jpg"
+    },
+    {
+      "id": "tmdb:224941",
+      "type": "series",
+      "name": "The Boroughs",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345686958/s592/the-boroughs.jpg"
     }
   ]
 }
