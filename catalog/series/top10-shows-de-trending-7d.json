@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
     },
     {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
-    },
-    {
       "id": "tmdb:99494",
       "type": "series",
       "name": "Flower of Evil",
@@ -62,6 +55,13 @@
       "name": "Hell on Wheels",
       "year": 2011,
       "poster": "https://images.justwatch.com/poster/293977216/s592/Hell-on-Wheels.jpg"
+    },
+    {
+      "id": "tmdb:270476",
+      "type": "series",
+      "name": "Widow's Bay",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344532089/s592/widows-bay.jpg"
     },
     {
       "id": "tmdb:224941",
