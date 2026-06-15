@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
     },
     {
+      "id": "tmdb:46786",
+      "type": "series",
+      "name": "Bates Motel",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/49104618/s592/Bates-Motel.jpg"
+    },
+    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
-      "id": "tmdb:277439",
-      "type": "series",
-      "name": "Kap der Angst",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
     },
     {
       "id": "tmdb:64506",
@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/75353061/s592/Z-The-Beginning-of-Everything.jpg"
     },
     {
-      "id": "tmdb:71694",
-      "type": "series",
-      "name": "Snowfall",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
-    },
-    {
       "id": "tmdb:17611",
       "type": "series",
       "name": "Southland",
@@ -43,32 +36,39 @@
       "poster": "https://images.justwatch.com/poster/306863577/s592/Southland.jpg"
     },
     {
-      "id": "tmdb:62264",
+      "id": "tmdb:15819",
       "type": "series",
-      "name": "Ash vs Evil Dead",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/63655304/s592/Ash-vs-Evil-Dead.jpg"
+      "name": "Warehouse 13",
+      "year": 2009,
+      "poster": "https://images.justwatch.com/poster/309105074/s592/Warehouse-13.jpg"
     },
     {
-      "id": "tmdb:1401",
+      "id": "tmdb:71694",
       "type": "series",
-      "name": "Hell on Wheels",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/293977216/s592/Hell-on-Wheels.jpg"
-    },
-    {
-      "id": "tmdb:70618",
-      "type": "series",
-      "name": "Elven - Fluss aus der Kälte",
+      "name": "Snowfall",
       "year": 2017,
-      "poster": "https://images.justwatch.com/poster/199900628/s592/Elven-Fluss-aus-der-Kaelte.jpg"
+      "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
     },
     {
-      "id": "tmdb:273240",
+      "id": "tmdb:324115",
       "type": "series",
-      "name": "Off Campus",
+      "name": "The Evil Lawyer",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
+      "poster": "https://images.justwatch.com/poster/345695284/s592/thanai-pisat.jpg"
+    },
+    {
+      "id": "tmdb:260592",
+      "type": "series",
+      "name": "Every Year After",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/333348443/s592/every-year-after.jpg"
+    },
+    {
+      "id": "tmdb:67486",
+      "type": "series",
+      "name": "I Love Dick",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/8170533/s592/I-Love-Dick.jpg"
     }
   ]
 }

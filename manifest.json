@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-13T08:51:05.101Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-15T11:53:30.927Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,39 +29,11 @@
           "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
         },
         {
-          "id": "tmdb:13183",
-          "type": "movie",
-          "name": "Watchmen – Die Wächter",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
-        },
-        {
-          "id": "tmdb:1205648",
-          "type": "movie",
-          "name": "No One Will Know",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/335589862/s592/no-one-will-know-2025.jpg"
-        },
-        {
           "id": "tmdb:1560681",
           "type": "movie",
           "name": "Farben des Bösen: Schwarz",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-        },
-        {
-          "id": "tmdb:274855",
-          "type": "movie",
-          "name": "Geostorm",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/86636469/s592/Geostorm.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:734002",
@@ -71,11 +43,39 @@
           "poster": "https://images.justwatch.com/poster/324571925/s592/The-Peasants.jpg"
         },
         {
-          "id": "tmdb:57876",
+          "id": "tmdb:13494",
           "type": "movie",
-          "name": "Area 51",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/180998113/s592/Area-51.jpg"
+          "name": "Red Sonja",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341774192/s592/red-sonja-2025.jpg"
+        },
+        {
+          "id": "tmdb:298618",
+          "type": "movie",
+          "name": "The Flash",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
+        },
+        {
+          "id": "tmdb:13183",
+          "type": "movie",
+          "name": "Watchmen – Die Wächter",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
+        },
+        {
+          "id": "tmdb:1275779",
+          "type": "movie",
+          "name": "Disclosure Day - Der Tag der Wahrheit",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
+        },
+        {
+          "id": "tmdb:36647",
+          "type": "movie",
+          "name": "Blade",
+          "year": 1998,
+          "poster": "https://images.justwatch.com/poster/327091368/s592/Blade.jpg"
         },
         {
           "id": "tmdb:1148708",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/306390218/s592/rub.jpg"
         },
         {
-          "id": "tmdb:298618",
+          "id": "tmdb:529106",
           "type": "movie",
-          "name": "The Flash",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
+          "name": "Major Grom: Der Pestdoktor",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/314783940/s592/Maior-Grom-Chumnoi-Doktor.jpg"
         }
       ]
     },
@@ -107,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
         },
         {
+          "id": "tmdb:46786",
+          "type": "series",
+          "name": "Bates Motel",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/49104618/s592/Bates-Motel.jpg"
+        },
+        {
           "id": "tmdb:124364",
           "type": "series",
           "name": "From",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
-          "id": "tmdb:277439",
-          "type": "series",
-          "name": "Kap der Angst",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345857890/s592/cape-fear.jpg"
         },
         {
           "id": "tmdb:64506",
@@ -128,13 +128,6 @@
           "poster": "https://images.justwatch.com/poster/75353061/s592/Z-The-Beginning-of-Everything.jpg"
         },
         {
-          "id": "tmdb:71694",
-          "type": "series",
-          "name": "Snowfall",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
-        },
-        {
           "id": "tmdb:17611",
           "type": "series",
           "name": "Southland",
@@ -142,32 +135,39 @@
           "poster": "https://images.justwatch.com/poster/306863577/s592/Southland.jpg"
         },
         {
-          "id": "tmdb:62264",
+          "id": "tmdb:15819",
           "type": "series",
-          "name": "Ash vs Evil Dead",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/63655304/s592/Ash-vs-Evil-Dead.jpg"
+          "name": "Warehouse 13",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/309105074/s592/Warehouse-13.jpg"
         },
         {
-          "id": "tmdb:1401",
+          "id": "tmdb:71694",
           "type": "series",
-          "name": "Hell on Wheels",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/293977216/s592/Hell-on-Wheels.jpg"
-        },
-        {
-          "id": "tmdb:70618",
-          "type": "series",
-          "name": "Elven - Fluss aus der Kälte",
+          "name": "Snowfall",
           "year": 2017,
-          "poster": "https://images.justwatch.com/poster/199900628/s592/Elven-Fluss-aus-der-Kaelte.jpg"
+          "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
         },
         {
-          "id": "tmdb:273240",
+          "id": "tmdb:324115",
           "type": "series",
-          "name": "Off Campus",
+          "name": "The Evil Lawyer",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342690321/s592/off-campus.jpg"
+          "poster": "https://images.justwatch.com/poster/345695284/s592/thanai-pisat.jpg"
+        },
+        {
+          "id": "tmdb:260592",
+          "type": "series",
+          "name": "Every Year After",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/333348443/s592/every-year-after.jpg"
+        },
+        {
+          "id": "tmdb:67486",
+          "type": "series",
+          "name": "I Love Dick",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/8170533/s592/I-Love-Dick.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-13T08:51:05.101Z",
+    "generatedAt": "2026-06-15T11:53:30.927Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1390300",
-      "tmdb:13183",
-      "tmdb:1205648",
       "tmdb:1560681",
-      "tmdb:274855",
-      "tmdb:687163",
       "tmdb:734002",
-      "tmdb:57876",
+      "tmdb:13494",
+      "tmdb:298618",
+      "tmdb:13183",
+      "tmdb:1275779",
+      "tmdb:36647",
       "tmdb:1148708",
-      "tmdb:298618"
+      "tmdb:529106"
     ],
     "tmdbShows": [
       "tmdb:47665",
+      "tmdb:46786",
       "tmdb:124364",
-      "tmdb:277439",
       "tmdb:64506",
-      "tmdb:71694",
       "tmdb:17611",
-      "tmdb:62264",
-      "tmdb:1401",
-      "tmdb:70618",
-      "tmdb:273240"
+      "tmdb:15819",
+      "tmdb:71694",
+      "tmdb:324115",
+      "tmdb:260592",
+      "tmdb:67486"
     ]
   }
 }

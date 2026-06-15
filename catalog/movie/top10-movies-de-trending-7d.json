@@ -8,39 +8,11 @@
       "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
     },
     {
-      "id": "tmdb:13183",
-      "type": "movie",
-      "name": "Watchmen – Die Wächter",
-      "year": 2009,
-      "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
-    },
-    {
-      "id": "tmdb:1205648",
-      "type": "movie",
-      "name": "No One Will Know",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/335589862/s592/no-one-will-know-2025.jpg"
-    },
-    {
       "id": "tmdb:1560681",
       "type": "movie",
       "name": "Farben des Bösen: Schwarz",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-    },
-    {
-      "id": "tmdb:274855",
-      "type": "movie",
-      "name": "Geostorm",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/86636469/s592/Geostorm.jpg"
-    },
-    {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
       "id": "tmdb:734002",
@@ -50,11 +22,39 @@
       "poster": "https://images.justwatch.com/poster/324571925/s592/The-Peasants.jpg"
     },
     {
-      "id": "tmdb:57876",
+      "id": "tmdb:13494",
       "type": "movie",
-      "name": "Area 51",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/180998113/s592/Area-51.jpg"
+      "name": "Red Sonja",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/341774192/s592/red-sonja-2025.jpg"
+    },
+    {
+      "id": "tmdb:298618",
+      "type": "movie",
+      "name": "The Flash",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
+    },
+    {
+      "id": "tmdb:13183",
+      "type": "movie",
+      "name": "Watchmen – Die Wächter",
+      "year": 2009,
+      "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
+    },
+    {
+      "id": "tmdb:1275779",
+      "type": "movie",
+      "name": "Disclosure Day - Der Tag der Wahrheit",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
+    },
+    {
+      "id": "tmdb:36647",
+      "type": "movie",
+      "name": "Blade",
+      "year": 1998,
+      "poster": "https://images.justwatch.com/poster/327091368/s592/Blade.jpg"
     },
     {
       "id": "tmdb:1148708",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/306390218/s592/rub.jpg"
     },
     {
-      "id": "tmdb:298618",
+      "id": "tmdb:529106",
       "type": "movie",
-      "name": "The Flash",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
+      "name": "Major Grom: Der Pestdoktor",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/314783940/s592/Maior-Grom-Chumnoi-Doktor.jpg"
     }
   ]
 }
