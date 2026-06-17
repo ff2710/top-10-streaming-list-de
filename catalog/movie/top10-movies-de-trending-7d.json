@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
     },
     {
+      "id": "tmdb:863873",
+      "type": "movie",
+      "name": "Caddo Lake",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
+    },
+    {
       "id": "tmdb:1560681",
       "type": "movie",
       "name": "Farben des Bösen: Schwarz",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-    },
-    {
-      "id": "tmdb:734002",
-      "type": "movie",
-      "name": "Das Flüstern der Felder",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/324571925/s592/The-Peasants.jpg"
     },
     {
       "id": "tmdb:13494",
@@ -36,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
     },
     {
-      "id": "tmdb:13183",
+      "id": "tmdb:1064213",
       "type": "movie",
-      "name": "Watchmen – Die Wächter",
-      "year": 2009,
-      "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
+      "name": "Anora",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
     },
     {
       "id": "tmdb:1275779",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/327091368/s592/Blade.jpg"
     },
     {
-      "id": "tmdb:1148708",
+      "id": "tmdb:1246049",
       "type": "movie",
-      "name": "RUB",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/306390218/s592/rub.jpg"
+      "name": "Dracula - Die Auferstehung",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
     },
     {
-      "id": "tmdb:529106",
+      "id": "tmdb:1119090",
       "type": "movie",
-      "name": "Major Grom: Der Pestdoktor",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/314783940/s592/Maior-Grom-Chumnoi-Doktor.jpg"
+      "name": "Frankelda y el príncipe de los sustos",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/345967585/s592/frankelda-y-el-principe-de-los-sustos.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-15T11:53:30.927Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-17T10:45:16.190Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,18 +29,18 @@
           "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
         },
         {
+          "id": "tmdb:863873",
+          "type": "movie",
+          "name": "Caddo Lake",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
+        },
+        {
           "id": "tmdb:1560681",
           "type": "movie",
           "name": "Farben des Bösen: Schwarz",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-        },
-        {
-          "id": "tmdb:734002",
-          "type": "movie",
-          "name": "Das Flüstern der Felder",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/324571925/s592/The-Peasants.jpg"
         },
         {
           "id": "tmdb:13494",
@@ -57,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
         },
         {
-          "id": "tmdb:13183",
+          "id": "tmdb:1064213",
           "type": "movie",
-          "name": "Watchmen – Die Wächter",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/181826051/s592/Watchmen-Die-Waechter.jpg"
+          "name": "Anora",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
         },
         {
           "id": "tmdb:1275779",
@@ -78,18 +78,18 @@
           "poster": "https://images.justwatch.com/poster/327091368/s592/Blade.jpg"
         },
         {
-          "id": "tmdb:1148708",
+          "id": "tmdb:1246049",
           "type": "movie",
-          "name": "RUB",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/306390218/s592/rub.jpg"
+          "name": "Dracula - Die Auferstehung",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
         },
         {
-          "id": "tmdb:529106",
+          "id": "tmdb:1119090",
           "type": "movie",
-          "name": "Major Grom: Der Pestdoktor",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/314783940/s592/Maior-Grom-Chumnoi-Doktor.jpg"
+          "name": "Frankelda y el príncipe de los sustos",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/345967585/s592/frankelda-y-el-principe-de-los-sustos.jpg"
         }
       ]
     },
@@ -100,18 +100,25 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:47665",
-          "type": "series",
-          "name": "Black Sails",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
-        },
-        {
           "id": "tmdb:46786",
           "type": "series",
           "name": "Bates Motel",
           "year": 2013,
           "poster": "https://images.justwatch.com/poster/49104618/s592/Bates-Motel.jpg"
+        },
+        {
+          "id": "tmdb:70485",
+          "type": "series",
+          "name": "Mr. Mercedes",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/329310711/s592/Mr-Mercedes.jpg"
+        },
+        {
+          "id": "tmdb:47665",
+          "type": "series",
+          "name": "Black Sails",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
         },
         {
           "id": "tmdb:124364",
@@ -121,20 +128,6 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
-          "id": "tmdb:64506",
-          "type": "series",
-          "name": "Z: The Beginning of Everything",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/75353061/s592/Z-The-Beginning-of-Everything.jpg"
-        },
-        {
-          "id": "tmdb:17611",
-          "type": "series",
-          "name": "Southland",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/306863577/s592/Southland.jpg"
-        },
-        {
           "id": "tmdb:15819",
           "type": "series",
           "name": "Warehouse 13",
@@ -142,18 +135,18 @@
           "poster": "https://images.justwatch.com/poster/309105074/s592/Warehouse-13.jpg"
         },
         {
-          "id": "tmdb:71694",
+          "id": "tmdb:108284",
           "type": "series",
-          "name": "Snowfall",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/241848598/s592/Snowfall.jpg"
+          "name": "Die Erzählung des Neunschwänzigen",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/211396492/s592/gumihodyeon.jpg"
         },
         {
           "id": "tmdb:324115",
           "type": "series",
           "name": "The Evil Lawyer",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345695284/s592/thanai-pisat.jpg"
+          "poster": "https://images.justwatch.com/poster/346382901/s592/thanai-pisat.jpg"
         },
         {
           "id": "tmdb:260592",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/333348443/s592/every-year-after.jpg"
         },
         {
-          "id": "tmdb:67486",
+          "id": "tmdb:17611",
           "type": "series",
-          "name": "I Love Dick",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/8170533/s592/I-Love-Dick.jpg"
+          "name": "Southland",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/306863577/s592/Southland.jpg"
+        },
+        {
+          "id": "tmdb:270476",
+          "type": "series",
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-15T11:53:30.927Z",
+    "generatedAt": "2026-06-17T10:45:16.190Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1390300",
+      "tmdb:863873",
       "tmdb:1560681",
-      "tmdb:734002",
       "tmdb:13494",
       "tmdb:298618",
-      "tmdb:13183",
+      "tmdb:1064213",
       "tmdb:1275779",
       "tmdb:36647",
-      "tmdb:1148708",
-      "tmdb:529106"
+      "tmdb:1246049",
+      "tmdb:1119090"
     ],
     "tmdbShows": [
-      "tmdb:47665",
       "tmdb:46786",
+      "tmdb:70485",
+      "tmdb:47665",
       "tmdb:124364",
-      "tmdb:64506",
-      "tmdb:17611",
       "tmdb:15819",
-      "tmdb:71694",
+      "tmdb:108284",
       "tmdb:324115",
       "tmdb:260592",
-      "tmdb:67486"
+      "tmdb:17611",
+      "tmdb:270476"
     ]
   }
 }
