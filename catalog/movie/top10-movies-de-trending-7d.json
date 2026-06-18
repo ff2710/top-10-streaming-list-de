@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
     },
     {
-      "id": "tmdb:1560681",
-      "type": "movie",
-      "name": "Farben des Bösen: Schwarz",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-    },
-    {
       "id": "tmdb:13494",
       "type": "movie",
       "name": "Red Sonja",
@@ -43,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
     },
     {
+      "id": "tmdb:1560681",
+      "type": "movie",
+      "name": "Farben des Bösen: Schwarz",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
+    },
+    {
       "id": "tmdb:1275779",
       "type": "movie",
       "name": "Disclosure Day - Der Tag der Wahrheit",
@@ -50,11 +50,11 @@
       "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
     },
     {
-      "id": "tmdb:36647",
+      "id": "tmdb:1233066",
       "type": "movie",
-      "name": "Blade",
-      "year": 1998,
-      "poster": "https://images.justwatch.com/poster/327091368/s592/Blade.jpg"
+      "name": "Das Kanu des Manitu",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
     },
     {
       "id": "tmdb:1246049",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
     },
     {
-      "id": "tmdb:1119090",
+      "id": "tmdb:1339713",
       "type": "movie",
-      "name": "Frankelda y el príncipe de los sustos",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/345967585/s592/frankelda-y-el-principe-de-los-sustos.jpg"
+      "name": "Obsession - Du sollst mich lieben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
     }
   ]
 }

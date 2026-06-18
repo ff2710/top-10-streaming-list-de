@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-17T10:45:16.190Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-18T10:13:31.421Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
         },
         {
-          "id": "tmdb:1560681",
-          "type": "movie",
-          "name": "Farben des Bösen: Schwarz",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-        },
-        {
           "id": "tmdb:13494",
           "type": "movie",
           "name": "Red Sonja",
@@ -64,6 +57,13 @@
           "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
         },
         {
+          "id": "tmdb:1560681",
+          "type": "movie",
+          "name": "Farben des Bösen: Schwarz",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
+        },
+        {
           "id": "tmdb:1275779",
           "type": "movie",
           "name": "Disclosure Day - Der Tag der Wahrheit",
@@ -71,11 +71,11 @@
           "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
         },
         {
-          "id": "tmdb:36647",
+          "id": "tmdb:1233066",
           "type": "movie",
-          "name": "Blade",
-          "year": 1998,
-          "poster": "https://images.justwatch.com/poster/327091368/s592/Blade.jpg"
+          "name": "Das Kanu des Manitu",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
         },
         {
           "id": "tmdb:1246049",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
         },
         {
-          "id": "tmdb:1119090",
+          "id": "tmdb:1339713",
           "type": "movie",
-          "name": "Frankelda y el príncipe de los sustos",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/345967585/s592/frankelda-y-el-principe-de-los-sustos.jpg"
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
         }
       ]
     },
@@ -114,25 +114,11 @@
           "poster": "https://images.justwatch.com/poster/329310711/s592/Mr-Mercedes.jpg"
         },
         {
-          "id": "tmdb:47665",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "Black Sails",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
-        },
-        {
-          "id": "tmdb:124364",
-          "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
-          "id": "tmdb:15819",
-          "type": "series",
-          "name": "Warehouse 13",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/309105074/s592/Warehouse-13.jpg"
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:108284",
@@ -142,6 +128,20 @@
           "poster": "https://images.justwatch.com/poster/211396492/s592/gumihodyeon.jpg"
         },
         {
+          "id": "tmdb:15819",
+          "type": "series",
+          "name": "Warehouse 13",
+          "year": 2009,
+          "poster": "https://images.justwatch.com/poster/309105074/s592/Warehouse-13.jpg"
+        },
+        {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
           "id": "tmdb:324115",
           "type": "series",
           "name": "The Evil Lawyer",
@@ -149,25 +149,25 @@
           "poster": "https://images.justwatch.com/poster/346382901/s592/thanai-pisat.jpg"
         },
         {
-          "id": "tmdb:260592",
+          "id": "tmdb:322430",
           "type": "series",
-          "name": "Every Year After",
+          "name": "The Polygamist",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/333348443/s592/every-year-after.jpg"
+          "poster": "https://images.justwatch.com/poster/346498946/s592/the-polygamist.jpg"
         },
         {
-          "id": "tmdb:17611",
+          "id": "tmdb:218589",
           "type": "series",
-          "name": "Southland",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/306863577/s592/Southland.jpg"
+          "name": "Those About to Die",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/318831959/s592/those-about-to-die.jpg"
         },
         {
-          "id": "tmdb:270476",
+          "id": "tmdb:94997",
           "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-17T10:45:16.190Z",
+    "generatedAt": "2026-06-18T10:13:31.421Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1390300",
       "tmdb:863873",
-      "tmdb:1560681",
       "tmdb:13494",
       "tmdb:298618",
       "tmdb:1064213",
+      "tmdb:1560681",
       "tmdb:1275779",
-      "tmdb:36647",
+      "tmdb:1233066",
       "tmdb:1246049",
-      "tmdb:1119090"
+      "tmdb:1339713"
     ],
     "tmdbShows": [
       "tmdb:46786",
       "tmdb:70485",
-      "tmdb:47665",
-      "tmdb:124364",
-      "tmdb:15819",
+      "tmdb:270476",
       "tmdb:108284",
+      "tmdb:15819",
+      "tmdb:124364",
       "tmdb:324115",
-      "tmdb:260592",
-      "tmdb:17611",
-      "tmdb:270476"
+      "tmdb:322430",
+      "tmdb:218589",
+      "tmdb:94997"
     ]
   }
 }
