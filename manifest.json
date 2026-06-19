@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-18T10:13:31.421Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-19T10:18:00.935Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,13 +22,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1390300",
-          "type": "movie",
-          "name": "Over Your Dead Body",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
-        },
-        {
           "id": "tmdb:863873",
           "type": "movie",
           "name": "Caddo Lake",
@@ -43,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/341774192/s592/red-sonja-2025.jpg"
         },
         {
-          "id": "tmdb:298618",
+          "id": "tmdb:1390300",
           "type": "movie",
-          "name": "The Flash",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/305646782/s592/The-Flash.jpg"
+          "name": "Over Your Dead Body",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
         },
         {
           "id": "tmdb:1064213",
@@ -55,20 +48,6 @@
           "name": "Anora",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
-        },
-        {
-          "id": "tmdb:1560681",
-          "type": "movie",
-          "name": "Farben des Bösen: Schwarz",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346264015/s592/colors-of-evil-black.jpg"
-        },
-        {
-          "id": "tmdb:1275779",
-          "type": "movie",
-          "name": "Disclosure Day - Der Tag der Wahrheit",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
         },
         {
           "id": "tmdb:1233066",
@@ -85,11 +64,32 @@
           "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
         },
         {
+          "id": "tmdb:1088514",
+          "type": "movie",
+          "name": "The Room Next Door",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/322430131/s592/the-room-next-door.jpg"
+        },
+        {
           "id": "tmdb:1339713",
           "type": "movie",
           "name": "Obsession - Du sollst mich lieben",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
+        },
+        {
+          "id": "tmdb:1280738",
+          "type": "movie",
+          "name": "The Furious",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344855332/s592/the-furious.jpg"
+        },
+        {
+          "id": "tmdb:1217483",
+          "type": "movie",
+          "name": "Die Jagd nach der Mumie von Paris",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336166202/s592/le-secret-de-kheops.jpg"
         }
       ]
     },
@@ -142,18 +142,18 @@
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
-          "id": "tmdb:324115",
-          "type": "series",
-          "name": "The Evil Lawyer",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346382901/s592/thanai-pisat.jpg"
-        },
-        {
           "id": "tmdb:322430",
           "type": "series",
           "name": "The Polygamist",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346498946/s592/the-polygamist.jpg"
+        },
+        {
+          "id": "tmdb:94997",
+          "type": "series",
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
           "id": "tmdb:218589",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/318831959/s592/those-about-to-die.jpg"
         },
         {
-          "id": "tmdb:94997",
+          "id": "tmdb:299167",
           "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+          "name": "Dutton Ranch",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
         }
       ]
     }
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-18T10:13:31.421Z",
+    "generatedAt": "2026-06-19T10:18:00.935Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1390300",
       "tmdb:863873",
       "tmdb:13494",
-      "tmdb:298618",
+      "tmdb:1390300",
       "tmdb:1064213",
-      "tmdb:1560681",
-      "tmdb:1275779",
       "tmdb:1233066",
       "tmdb:1246049",
-      "tmdb:1339713"
+      "tmdb:1088514",
+      "tmdb:1339713",
+      "tmdb:1280738",
+      "tmdb:1217483"
     ],
     "tmdbShows": [
       "tmdb:46786",
@@ -199,10 +199,10 @@
       "tmdb:108284",
       "tmdb:15819",
       "tmdb:124364",
-      "tmdb:324115",
       "tmdb:322430",
+      "tmdb:94997",
       "tmdb:218589",
-      "tmdb:94997"
+      "tmdb:299167"
     ]
   }
 }
