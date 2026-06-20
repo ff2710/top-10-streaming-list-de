@@ -8,20 +8,6 @@
       "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
     },
     {
-      "id": "tmdb:13494",
-      "type": "movie",
-      "name": "Red Sonja",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/341774192/s592/red-sonja-2025.jpg"
-    },
-    {
-      "id": "tmdb:1390300",
-      "type": "movie",
-      "name": "Over Your Dead Body",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
-    },
-    {
       "id": "tmdb:1064213",
       "type": "movie",
       "name": "Anora",
@@ -36,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
     },
     {
-      "id": "tmdb:1246049",
-      "type": "movie",
-      "name": "Dracula - Die Auferstehung",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
-    },
-    {
       "id": "tmdb:1088514",
       "type": "movie",
       "name": "The Room Next Door",
@@ -54,14 +33,7 @@
       "type": "movie",
       "name": "Obsession - Du sollst mich lieben",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
-    },
-    {
-      "id": "tmdb:1280738",
-      "type": "movie",
-      "name": "The Furious",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344855332/s592/the-furious.jpg"
+      "poster": "https://images.justwatch.com/poster/346552769/s592/obsession-2026.jpg"
     },
     {
       "id": "tmdb:1217483",
@@ -69,6 +41,34 @@
       "name": "Die Jagd nach der Mumie von Paris",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/336166202/s592/le-secret-de-kheops.jpg"
+    },
+    {
+      "id": "tmdb:1390300",
+      "type": "movie",
+      "name": "Over Your Dead Body",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
+    },
+    {
+      "id": "tmdb:1270125",
+      "type": "movie",
+      "name": "Monster on a Plane",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/345449918/s592/monster-on-a-plane-2024.jpg"
+    },
+    {
+      "id": "tmdb:1083381",
+      "type": "movie",
+      "name": "Backrooms",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+    },
+    {
+      "id": "tmdb:296099",
+      "type": "movie",
+      "name": "Vacation - Wir sind die Griswolds",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/60167507/s592/Vacation.jpg"
     }
   ]
 }

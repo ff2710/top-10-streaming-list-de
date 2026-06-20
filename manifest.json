@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-19T10:18:00.935Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-20T08:46:36.112Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,20 +29,6 @@
           "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
         },
         {
-          "id": "tmdb:13494",
-          "type": "movie",
-          "name": "Red Sonja",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341774192/s592/red-sonja-2025.jpg"
-        },
-        {
-          "id": "tmdb:1390300",
-          "type": "movie",
-          "name": "Over Your Dead Body",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
-        },
-        {
           "id": "tmdb:1064213",
           "type": "movie",
           "name": "Anora",
@@ -57,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/338807722/s592/das-kanu-des-manitu.jpg"
         },
         {
-          "id": "tmdb:1246049",
-          "type": "movie",
-          "name": "Dracula - Die Auferstehung",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341611466/s592/dracula-a-love-tale.jpg"
-        },
-        {
           "id": "tmdb:1088514",
           "type": "movie",
           "name": "The Room Next Door",
@@ -75,14 +54,7 @@
           "type": "movie",
           "name": "Obsession - Du sollst mich lieben",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
-        },
-        {
-          "id": "tmdb:1280738",
-          "type": "movie",
-          "name": "The Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344855332/s592/the-furious.jpg"
+          "poster": "https://images.justwatch.com/poster/346552769/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:1217483",
@@ -90,6 +62,34 @@
           "name": "Die Jagd nach der Mumie von Paris",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/336166202/s592/le-secret-de-kheops.jpg"
+        },
+        {
+          "id": "tmdb:1390300",
+          "type": "movie",
+          "name": "Over Your Dead Body",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346268715/s592/over-your-dead-body.jpg"
+        },
+        {
+          "id": "tmdb:1270125",
+          "type": "movie",
+          "name": "Monster on a Plane",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/345449918/s592/monster-on-a-plane-2024.jpg"
+        },
+        {
+          "id": "tmdb:1083381",
+          "type": "movie",
+          "name": "Backrooms",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+        },
+        {
+          "id": "tmdb:296099",
+          "type": "movie",
+          "name": "Vacation - Wir sind die Griswolds",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/60167507/s592/Vacation.jpg"
         }
       ]
     },
@@ -99,13 +99,6 @@
       "name": "Top 10 Trending Shows DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:46786",
-          "type": "series",
-          "name": "Bates Motel",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/49104618/s592/Bates-Motel.jpg"
-        },
         {
           "id": "tmdb:70485",
           "type": "series",
@@ -128,32 +121,11 @@
           "poster": "https://images.justwatch.com/poster/211396492/s592/gumihodyeon.jpg"
         },
         {
-          "id": "tmdb:15819",
+          "id": "tmdb:46786",
           "type": "series",
-          "name": "Warehouse 13",
-          "year": 2009,
-          "poster": "https://images.justwatch.com/poster/309105074/s592/Warehouse-13.jpg"
-        },
-        {
-          "id": "tmdb:124364",
-          "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
-          "id": "tmdb:322430",
-          "type": "series",
-          "name": "The Polygamist",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346498946/s592/the-polygamist.jpg"
-        },
-        {
-          "id": "tmdb:94997",
-          "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+          "name": "Bates Motel",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/49104618/s592/Bates-Motel.jpg"
         },
         {
           "id": "tmdb:218589",
@@ -163,11 +135,39 @@
           "poster": "https://images.justwatch.com/poster/318831959/s592/those-about-to-die.jpg"
         },
         {
-          "id": "tmdb:299167",
+          "id": "tmdb:124364",
           "type": "series",
-          "name": "Dutton Ranch",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
+          "id": "tmdb:94997",
+          "type": "series",
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
+          "id": "tmdb:278178",
+          "type": "series",
+          "name": "Nur für dein Leben",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+          "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
+        },
+        {
+          "id": "tmdb:65988",
+          "type": "series",
+          "name": "Wynonna Earp",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/311682768/s592/Wynonna-Earp.jpg"
+        },
+        {
+          "id": "tmdb:220102",
+          "type": "series",
+          "name": "Spider-Noir",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345900203/s592/spider-noir.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-19T10:18:00.935Z",
+    "generatedAt": "2026-06-20T08:46:36.112Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:863873",
-      "tmdb:13494",
-      "tmdb:1390300",
       "tmdb:1064213",
       "tmdb:1233066",
-      "tmdb:1246049",
       "tmdb:1088514",
       "tmdb:1339713",
-      "tmdb:1280738",
-      "tmdb:1217483"
+      "tmdb:1217483",
+      "tmdb:1390300",
+      "tmdb:1270125",
+      "tmdb:1083381",
+      "tmdb:296099"
     ],
     "tmdbShows": [
-      "tmdb:46786",
       "tmdb:70485",
       "tmdb:270476",
       "tmdb:108284",
-      "tmdb:15819",
-      "tmdb:124364",
-      "tmdb:322430",
-      "tmdb:94997",
+      "tmdb:46786",
       "tmdb:218589",
-      "tmdb:299167"
+      "tmdb:124364",
+      "tmdb:94997",
+      "tmdb:278178",
+      "tmdb:65988",
+      "tmdb:220102"
     ]
   }
 }
