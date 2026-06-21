@@ -22,18 +22,11 @@
       "poster": "https://images.justwatch.com/poster/211396492/s592/gumihodyeon.jpg"
     },
     {
-      "id": "tmdb:46786",
+      "id": "tmdb:278178",
       "type": "series",
-      "name": "Bates Motel",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/49104618/s592/Bates-Motel.jpg"
-    },
-    {
-      "id": "tmdb:218589",
-      "type": "series",
-      "name": "Those About to Die",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/318831959/s592/those-about-to-die.jpg"
+      "name": "Nur für dein Leben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
     },
     {
       "id": "tmdb:124364",
@@ -50,18 +43,11 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:218589",
       "type": "series",
-      "name": "Nur für dein Leben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
-    },
-    {
-      "id": "tmdb:65988",
-      "type": "series",
-      "name": "Wynonna Earp",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/311682768/s592/Wynonna-Earp.jpg"
+      "name": "Those About to Die",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/318831959/s592/those-about-to-die.jpg"
     },
     {
       "id": "tmdb:220102",
@@ -69,6 +55,20 @@
       "name": "Spider-Noir",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/345900203/s592/spider-noir.jpg"
+    },
+    {
+      "id": "tmdb:286709",
+      "type": "series",
+      "name": "The Westies",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
+    },
+    {
+      "id": "tmdb:203744",
+      "type": "series",
+      "name": "John Sugar",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316549760/s592/sugar-0.jpg"
     }
   ]
 }
