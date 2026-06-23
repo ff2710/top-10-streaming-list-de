@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-22T11:43:05.008Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-23T09:28:54.488Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
         },
         {
-          "id": "tmdb:1064213",
-          "type": "movie",
-          "name": "Anora",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
-        },
-        {
           "id": "tmdb:1233066",
           "type": "movie",
           "name": "Das Kanu des Manitu",
@@ -50,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/322430131/s592/the-room-next-door.jpg"
         },
         {
-          "id": "tmdb:1083381",
-          "type": "movie",
-          "name": "Backrooms",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
-        },
-        {
           "id": "tmdb:974576",
           "type": "movie",
           "name": "Konklave",
@@ -64,25 +50,18 @@
           "poster": "https://images.justwatch.com/poster/322496307/s592/konklave.jpg"
         },
         {
-          "id": "tmdb:1270125",
+          "id": "tmdb:1083381",
           "type": "movie",
-          "name": "Monster on a Plane",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/345449918/s592/monster-on-a-plane-2024.jpg"
-        },
-        {
-          "id": "tmdb:1477317",
-          "type": "movie",
-          "name": "Deine Schuld: London",
+          "name": "Backrooms",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346531507/s592/your-fault-london.jpg"
+          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
         },
         {
-          "id": "tmdb:296099",
+          "id": "tmdb:614945",
           "type": "movie",
-          "name": "Vacation - Wir sind die Griswolds",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/60167507/s592/Vacation.jpg"
+          "name": "Voicemails for Isabelle",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346592771/s592/voicemails-for-isabelle.jpg"
         },
         {
           "id": "tmdb:1339713",
@@ -90,6 +69,27 @@
           "name": "Obsession - Du sollst mich lieben",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346552769/s592/obsession-2026.jpg"
+        },
+        {
+          "id": "tmdb:1064213",
+          "type": "movie",
+          "name": "Anora",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324493218/s592/anora.jpg"
+        },
+        {
+          "id": "tmdb:419709",
+          "type": "movie",
+          "name": "Last Flag Flying",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/20223114/s592/Last-Flag-Flying.jpg"
+        },
+        {
+          "id": "tmdb:1270125",
+          "type": "movie",
+          "name": "Monster on a Plane",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/345449918/s592/monster-on-a-plane-2024.jpg"
         }
       ]
     },
@@ -107,32 +107,18 @@
           "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
         },
         {
-          "id": "tmdb:270476",
-          "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
-        },
-        {
-          "id": "tmdb:70485",
-          "type": "series",
-          "name": "Mr. Mercedes",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/329310711/s592/Mr-Mercedes.jpg"
-        },
-        {
-          "id": "tmdb:108284",
-          "type": "series",
-          "name": "Die Erzählung des Neunschwänzigen",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/211396492/s592/gumihodyeon.jpg"
-        },
-        {
           "id": "tmdb:94997",
           "type": "series",
           "name": "House of the Dragon",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
+          "id": "tmdb:270476",
+          "type": "series",
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:286709",
@@ -142,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
         },
         {
-          "id": "tmdb:124364",
+          "id": "tmdb:108284",
           "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+          "name": "Die Erzählung des Neunschwänzigen",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/211396492/s592/gumihodyeon.jpg"
         },
         {
           "id": "tmdb:203744",
@@ -156,11 +142,25 @@
           "poster": "https://images.justwatch.com/poster/316549760/s592/sugar-0.jpg"
         },
         {
-          "id": "tmdb:220102",
+          "id": "tmdb:296285",
           "type": "series",
-          "name": "Spider-Noir",
+          "name": "Oasis",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345900203/s592/spider-noir.jpg"
+          "poster": "https://images.justwatch.com/poster/346578366/s592/oasis-2026.jpg"
+        },
+        {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
+          "id": "tmdb:1818",
+          "type": "series",
+          "name": "Lexx - The Dark Zone",
+          "year": 1997,
+          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
         },
         {
           "id": "tmdb:79744",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-22T11:43:05.008Z",
+    "generatedAt": "2026-06-23T09:28:54.488Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:863873",
-      "tmdb:1064213",
       "tmdb:1233066",
       "tmdb:1088514",
-      "tmdb:1083381",
       "tmdb:974576",
-      "tmdb:1270125",
-      "tmdb:1477317",
-      "tmdb:296099",
-      "tmdb:1339713"
+      "tmdb:1083381",
+      "tmdb:614945",
+      "tmdb:1339713",
+      "tmdb:1064213",
+      "tmdb:419709",
+      "tmdb:1270125"
     ],
     "tmdbShows": [
       "tmdb:278178",
-      "tmdb:270476",
-      "tmdb:70485",
-      "tmdb:108284",
       "tmdb:94997",
+      "tmdb:270476",
       "tmdb:286709",
-      "tmdb:124364",
+      "tmdb:108284",
       "tmdb:203744",
-      "tmdb:220102",
+      "tmdb:296285",
+      "tmdb:124364",
+      "tmdb:1818",
       "tmdb:79744"
     ]
   }
