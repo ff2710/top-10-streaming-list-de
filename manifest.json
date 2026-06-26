@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-25T08:52:29.237Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-26T08:55:24.836Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/322496307/s592/konklave.jpg"
         },
         {
-          "id": "tmdb:1083381",
+          "id": "tmdb:1413976",
           "type": "movie",
-          "name": "Backrooms",
+          "name": "Citizen Vigilante",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+          "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
         },
         {
           "id": "tmdb:1102493",
@@ -50,6 +50,13 @@
           "poster": "https://images.justwatch.com/poster/336166296/s592/small-things-like-these.jpg"
         },
         {
+          "id": "tmdb:1083381",
+          "type": "movie",
+          "name": "Backrooms",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+        },
+        {
           "id": "tmdb:419709",
           "type": "movie",
           "name": "Last Flag Flying",
@@ -57,18 +64,18 @@
           "poster": "https://images.justwatch.com/poster/20223114/s592/Last-Flag-Flying.jpg"
         },
         {
-          "id": "tmdb:687163",
+          "id": "tmdb:83533",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+          "name": "Avatar: Fire and Ash",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
         },
         {
-          "id": "tmdb:863873",
+          "id": "tmdb:1086747",
           "type": "movie",
-          "name": "Caddo Lake",
+          "name": "They See You",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
+          "poster": "https://images.justwatch.com/poster/331358639/s592/the-watchers-2024.jpg"
         },
         {
           "id": "tmdb:1949",
@@ -78,18 +85,11 @@
           "poster": "https://images.justwatch.com/poster/323613811/s592/Zodiac-Die-Spur-des-Killers.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:996064",
           "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346552769/s592/obsession-2026.jpg"
-        },
-        {
-          "id": "tmdb:83533",
-          "type": "movie",
-          "name": "Avatar: Fire and Ash",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
+          "name": "Der Pfad",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
         }
       ]
     },
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
         },
         {
-          "id": "tmdb:203744",
-          "type": "series",
-          "name": "John Sugar",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/316549760/s592/sugar-0.jpg"
-        },
-        {
           "id": "tmdb:296285",
           "type": "series",
           "name": "Oasis",
@@ -142,6 +135,20 @@
           "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
         },
         {
+          "id": "tmdb:322427",
+          "type": "series",
+          "name": "The American Experiment",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
+        },
+        {
+          "id": "tmdb:203744",
+          "type": "series",
+          "name": "John Sugar",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/316549760/s592/sugar-0.jpg"
+        },
+        {
           "id": "tmdb:286709",
           "type": "series",
           "name": "The Westies",
@@ -149,18 +156,11 @@
           "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
         },
         {
-          "id": "tmdb:270476",
+          "id": "tmdb:82452",
           "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
-        },
-        {
-          "id": "tmdb:1818",
-          "type": "series",
-          "name": "Lexx - The Dark Zone",
-          "year": 1997,
-          "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+          "name": "Avatar – Der Herr der Elemente",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
         },
         {
           "id": "tmdb:219971",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-25T08:52:29.237Z",
+    "generatedAt": "2026-06-26T08:55:24.836Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:614945",
       "tmdb:974576",
-      "tmdb:1083381",
+      "tmdb:1413976",
       "tmdb:1102493",
+      "tmdb:1083381",
       "tmdb:419709",
-      "tmdb:687163",
-      "tmdb:863873",
+      "tmdb:83533",
+      "tmdb:1086747",
       "tmdb:1949",
-      "tmdb:1339713",
-      "tmdb:83533"
+      "tmdb:996064"
     ],
     "tmdbShows": [
       "tmdb:278178",
       "tmdb:94997",
       "tmdb:34967",
-      "tmdb:203744",
       "tmdb:296285",
       "tmdb:66786",
+      "tmdb:322427",
+      "tmdb:203744",
       "tmdb:286709",
-      "tmdb:270476",
-      "tmdb:1818",
+      "tmdb:82452",
       "tmdb:219971"
     ]
   }

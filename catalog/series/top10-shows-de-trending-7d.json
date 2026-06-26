@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
     },
     {
-      "id": "tmdb:203744",
-      "type": "series",
-      "name": "John Sugar",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/316549760/s592/sugar-0.jpg"
-    },
-    {
       "id": "tmdb:296285",
       "type": "series",
       "name": "Oasis",
@@ -43,6 +36,20 @@
       "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
     },
     {
+      "id": "tmdb:322427",
+      "type": "series",
+      "name": "The American Experiment",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
+    },
+    {
+      "id": "tmdb:203744",
+      "type": "series",
+      "name": "John Sugar",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/316549760/s592/sugar-0.jpg"
+    },
+    {
       "id": "tmdb:286709",
       "type": "series",
       "name": "The Westies",
@@ -50,18 +57,11 @@
       "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
     },
     {
-      "id": "tmdb:270476",
+      "id": "tmdb:82452",
       "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
-    },
-    {
-      "id": "tmdb:1818",
-      "type": "series",
-      "name": "Lexx - The Dark Zone",
-      "year": 1997,
-      "poster": "https://images.justwatch.com/poster/175492094/s592/Lexx-The-Darkzone.jpg"
+      "name": "Avatar – Der Herr der Elemente",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
     },
     {
       "id": "tmdb:219971",

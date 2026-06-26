@@ -15,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/322496307/s592/konklave.jpg"
     },
     {
-      "id": "tmdb:1083381",
+      "id": "tmdb:1413976",
       "type": "movie",
-      "name": "Backrooms",
+      "name": "Citizen Vigilante",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+      "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
     },
     {
       "id": "tmdb:1102493",
@@ -29,6 +29,13 @@
       "poster": "https://images.justwatch.com/poster/336166296/s592/small-things-like-these.jpg"
     },
     {
+      "id": "tmdb:1083381",
+      "type": "movie",
+      "name": "Backrooms",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344567612/s592/backrooms.jpg"
+    },
+    {
       "id": "tmdb:419709",
       "type": "movie",
       "name": "Last Flag Flying",
@@ -36,18 +43,18 @@
       "poster": "https://images.justwatch.com/poster/20223114/s592/Last-Flag-Flying.jpg"
     },
     {
-      "id": "tmdb:687163",
+      "id": "tmdb:83533",
       "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+      "name": "Avatar: Fire and Ash",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
     },
     {
-      "id": "tmdb:863873",
+      "id": "tmdb:1086747",
       "type": "movie",
-      "name": "Caddo Lake",
+      "name": "They See You",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/323229929/s592/caddo-lake.jpg"
+      "poster": "https://images.justwatch.com/poster/331358639/s592/the-watchers-2024.jpg"
     },
     {
       "id": "tmdb:1949",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/323613811/s592/Zodiac-Die-Spur-des-Killers.jpg"
     },
     {
-      "id": "tmdb:1339713",
+      "id": "tmdb:996064",
       "type": "movie",
-      "name": "Obsession - Du sollst mich lieben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346552769/s592/obsession-2026.jpg"
-    },
-    {
-      "id": "tmdb:83533",
-      "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
+      "name": "Der Pfad",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
     }
   ]
 }
