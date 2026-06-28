@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:278178",
-      "type": "series",
-      "name": "Nur für dein Leben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
-    },
-    {
       "id": "tmdb:34967",
       "type": "series",
       "name": "Falling Skies",
       "year": 2011,
       "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
+    },
+    {
+      "id": "tmdb:278178",
+      "type": "series",
+      "name": "Nur für dein Leben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
     },
     {
       "id": "tmdb:322427",
@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
     },
     {
-      "id": "tmdb:66786",
-      "type": "series",
-      "name": "Timeless",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
-    },
-    {
       "id": "tmdb:82452",
       "type": "series",
       "name": "Avatar – Der Herr der Elemente",
@@ -43,25 +36,11 @@
       "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
     },
     {
-      "id": "tmdb:219971",
+      "id": "tmdb:66786",
       "type": "series",
-      "name": "The Agency",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
-    },
-    {
-      "id": "tmdb:286709",
-      "type": "series",
-      "name": "The Westies",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
-    },
-    {
-      "id": "tmdb:296285",
-      "type": "series",
-      "name": "Oasis",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346578366/s592/oasis-2026.jpg"
+      "name": "Timeless",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
     },
     {
       "id": "tmdb:125988",
@@ -69,6 +48,27 @@
       "name": "Silo",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+    },
+    {
+      "id": "tmdb:270476",
+      "type": "series",
+      "name": "Widow's Bay",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+    },
+    {
+      "id": "tmdb:60948",
+      "type": "series",
+      "name": "12 Monkeys",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/177845949/s592/12-Monkeys.jpg"
+    },
+    {
+      "id": "tmdb:219971",
+      "type": "series",
+      "name": "The Agency",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
     }
   ]
 }
