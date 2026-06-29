@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-28T08:44:43.553Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-29T10:46:17.464Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
         },
         {
-          "id": "tmdb:614945",
-          "type": "movie",
-          "name": "Voicemails for Isabelle",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346592771/s592/voicemails-for-isabelle.jpg"
-        },
-        {
           "id": "tmdb:1102493",
           "type": "movie",
           "name": "Kleine Dinge wie diese",
@@ -57,11 +50,25 @@
           "poster": "https://images.justwatch.com/poster/331358639/s592/the-watchers-2024.jpg"
         },
         {
+          "id": "tmdb:614945",
+          "type": "movie",
+          "name": "Voicemails for Isabelle",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346592771/s592/voicemails-for-isabelle.jpg"
+        },
+        {
           "id": "tmdb:1232546",
           "type": "movie",
           "name": "Until Dawn",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/331418869/s592/until-dawn.jpg"
+        },
+        {
+          "id": "tmdb:23168",
+          "type": "movie",
+          "name": "The Town - Stadt ohne Gnade",
+          "year": 2010,
+          "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
         },
         {
           "id": "tmdb:402431",
@@ -83,13 +90,6 @@
           "name": "Obsession - Du sollst mich lieben",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346625663/s592/obsession-2026.jpg"
-        },
-        {
-          "id": "tmdb:23168",
-          "type": "movie",
-          "name": "The Town - Stadt ohne Gnade",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
         }
       ]
     },
@@ -114,11 +114,18 @@
           "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
         },
         {
-          "id": "tmdb:278178",
+          "id": "tmdb:82452",
           "type": "series",
-          "name": "Nur für dein Leben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
+          "name": "Avatar – Der Herr der Elemente",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:322427",
@@ -128,25 +135,11 @@
           "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
         },
         {
-          "id": "tmdb:82452",
-          "type": "series",
-          "name": "Avatar – Der Herr der Elemente",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
-        },
-        {
           "id": "tmdb:66786",
           "type": "series",
           "name": "Timeless",
           "year": 2016,
           "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
-        },
-        {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:270476",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/177845949/s592/12-Monkeys.jpg"
         },
         {
-          "id": "tmdb:219971",
+          "id": "tmdb:225171",
           "type": "series",
-          "name": "The Agency",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
+          "name": "Pluribus",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
+        },
+        {
+          "id": "tmdb:286709",
+          "type": "series",
+          "name": "The Westies",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-28T08:44:43.553Z",
+    "generatedAt": "2026-06-29T10:46:17.464Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1413976",
       "tmdb:83533",
-      "tmdb:614945",
       "tmdb:1102493",
       "tmdb:1086747",
+      "tmdb:614945",
       "tmdb:1232546",
+      "tmdb:23168",
       "tmdb:402431",
       "tmdb:974576",
-      "tmdb:1339713",
-      "tmdb:23168"
+      "tmdb:1339713"
     ],
     "tmdbShows": [
       "tmdb:94997",
       "tmdb:34967",
-      "tmdb:278178",
-      "tmdb:322427",
       "tmdb:82452",
-      "tmdb:66786",
       "tmdb:125988",
+      "tmdb:322427",
+      "tmdb:66786",
       "tmdb:270476",
       "tmdb:60948",
-      "tmdb:219971"
+      "tmdb:225171",
+      "tmdb:286709"
     ]
   }
 }

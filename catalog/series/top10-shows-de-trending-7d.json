@@ -15,11 +15,18 @@
       "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:82452",
       "type": "series",
-      "name": "Nur für dein Leben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346499080/s592/i-will-find-you.jpg"
+      "name": "Avatar – Der Herr der Elemente",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
       "id": "tmdb:322427",
@@ -29,25 +36,11 @@
       "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
     },
     {
-      "id": "tmdb:82452",
-      "type": "series",
-      "name": "Avatar – Der Herr der Elemente",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
-    },
-    {
       "id": "tmdb:66786",
       "type": "series",
       "name": "Timeless",
       "year": 2016,
       "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
-    },
-    {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
       "id": "tmdb:270476",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/177845949/s592/12-Monkeys.jpg"
     },
     {
-      "id": "tmdb:219971",
+      "id": "tmdb:225171",
       "type": "series",
-      "name": "The Agency",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
+      "name": "Pluribus",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
+    },
+    {
+      "id": "tmdb:286709",
+      "type": "series",
+      "name": "The Westies",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
     }
   ]
 }
