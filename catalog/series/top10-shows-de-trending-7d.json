@@ -8,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:34967",
+      "id": "tmdb:125988",
       "type": "series",
-      "name": "Falling Skies",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
       "id": "tmdb:82452",
@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
     },
     {
-      "id": "tmdb:125988",
+      "id": "tmdb:270476",
       "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+      "name": "Widow's Bay",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
     },
     {
       "id": "tmdb:322427",
@@ -34,20 +34,6 @@
       "name": "The American Experiment",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
-    },
-    {
-      "id": "tmdb:66786",
-      "type": "series",
-      "name": "Timeless",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
-    },
-    {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
     },
     {
       "id": "tmdb:60948",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
     },
     {
-      "id": "tmdb:286709",
+      "id": "tmdb:237964",
       "type": "series",
-      "name": "The Westies",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
+      "name": "Death Inc.",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/334855130/s592/muertos-s-l.jpg"
+    },
+    {
+      "id": "tmdb:136315",
+      "type": "series",
+      "name": "The Bear",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/332382456/s592/The-Bear.jpg"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-29T10:46:17.464Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-06-30T09:24:12.019Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/331358639/s592/the-watchers-2024.jpg"
         },
         {
-          "id": "tmdb:614945",
+          "id": "tmdb:402431",
           "type": "movie",
-          "name": "Voicemails for Isabelle",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346592771/s592/voicemails-for-isabelle.jpg"
+          "name": "Wicked",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323331186/s592/wicked-2024.jpg"
         },
         {
           "id": "tmdb:1232546",
@@ -71,25 +71,25 @@
           "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
         },
         {
-          "id": "tmdb:402431",
+          "id": "tmdb:1515729",
           "type": "movie",
-          "name": "Wicked",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323331186/s592/wicked-2024.jpg"
-        },
-        {
-          "id": "tmdb:974576",
-          "type": "movie",
-          "name": "Konklave",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322496307/s592/konklave.jpg"
-        },
-        {
-          "id": "tmdb:1339713",
-          "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
+          "name": "Blast",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346625663/s592/obsession-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/346639727/s592/blast-2026.jpg"
+        },
+        {
+          "id": "tmdb:996064",
+          "type": "movie",
+          "name": "Der Pfad",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
+        },
+        {
+          "id": "tmdb:82682",
+          "type": "movie",
+          "name": "Gangster Squad",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
         }
       ]
     },
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
-          "id": "tmdb:34967",
+          "id": "tmdb:125988",
           "type": "series",
-          "name": "Falling Skies",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/337908774/s592/Falling-Skies.jpg"
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:82452",
@@ -121,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
         },
         {
-          "id": "tmdb:125988",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:322427",
@@ -133,20 +133,6 @@
           "name": "The American Experiment",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
-        },
-        {
-          "id": "tmdb:66786",
-          "type": "series",
-          "name": "Timeless",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/46451309/s592/Timeless.jpg"
-        },
-        {
-          "id": "tmdb:270476",
-          "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:60948",
@@ -163,11 +149,25 @@
           "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
         },
         {
-          "id": "tmdb:286709",
+          "id": "tmdb:237964",
           "type": "series",
-          "name": "The Westies",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346356995/s592/the-westies.jpg"
+          "name": "Death Inc.",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/334855130/s592/muertos-s-l.jpg"
+        },
+        {
+          "id": "tmdb:136315",
+          "type": "series",
+          "name": "The Bear",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/332382456/s592/The-Bear.jpg"
+        },
+        {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-29T10:46:17.464Z",
+    "generatedAt": "2026-06-30T09:24:12.019Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,24 +185,24 @@
       "tmdb:83533",
       "tmdb:1102493",
       "tmdb:1086747",
-      "tmdb:614945",
+      "tmdb:402431",
       "tmdb:1232546",
       "tmdb:23168",
-      "tmdb:402431",
-      "tmdb:974576",
-      "tmdb:1339713"
+      "tmdb:1515729",
+      "tmdb:996064",
+      "tmdb:82682"
     ],
     "tmdbShows": [
       "tmdb:94997",
-      "tmdb:34967",
-      "tmdb:82452",
       "tmdb:125988",
-      "tmdb:322427",
-      "tmdb:66786",
+      "tmdb:82452",
       "tmdb:270476",
+      "tmdb:322427",
       "tmdb:60948",
       "tmdb:225171",
-      "tmdb:286709"
+      "tmdb:237964",
+      "tmdb:136315",
+      "tmdb:124364"
     ]
   }
 }
