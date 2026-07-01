@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-06-30T09:24:12.019Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-01T09:36:37.659Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -57,6 +57,13 @@
           "poster": "https://images.justwatch.com/poster/323331186/s592/wicked-2024.jpg"
         },
         {
+          "id": "tmdb:23168",
+          "type": "movie",
+          "name": "The Town - Stadt ohne Gnade",
+          "year": 2010,
+          "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
+        },
+        {
           "id": "tmdb:1232546",
           "type": "movie",
           "name": "Until Dawn",
@@ -64,11 +71,11 @@
           "poster": "https://images.justwatch.com/poster/331418869/s592/until-dawn.jpg"
         },
         {
-          "id": "tmdb:23168",
+          "id": "tmdb:82682",
           "type": "movie",
-          "name": "The Town - Stadt ohne Gnade",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
+          "name": "Gangster Squad",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
         },
         {
           "id": "tmdb:1515729",
@@ -78,18 +85,11 @@
           "poster": "https://images.justwatch.com/poster/346639727/s592/blast-2026.jpg"
         },
         {
-          "id": "tmdb:996064",
+          "id": "tmdb:335787",
           "type": "movie",
-          "name": "Der Pfad",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
-        },
-        {
-          "id": "tmdb:82682",
-          "type": "movie",
-          "name": "Gangster Squad",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
+          "name": "Uncharted",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
         }
       ]
     },
@@ -99,13 +99,6 @@
       "name": "Top 10 Trending Shows DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:94997",
-          "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-        },
         {
           "id": "tmdb:125988",
           "type": "series",
@@ -119,6 +112,13 @@
           "name": "Avatar – Der Herr der Elemente",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
+        },
+        {
+          "id": "tmdb:94997",
+          "type": "series",
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
           "id": "tmdb:270476",
@@ -149,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
         },
         {
-          "id": "tmdb:237964",
+          "id": "tmdb:219971",
           "type": "series",
-          "name": "Death Inc.",
+          "name": "The Agency",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/334855130/s592/muertos-s-l.jpg"
+          "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
         },
         {
           "id": "tmdb:136315",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/332382456/s592/The-Bear.jpg"
         },
         {
-          "id": "tmdb:124364",
+          "id": "tmdb:237964",
           "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+          "name": "Death Inc.",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/334855130/s592/muertos-s-l.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-06-30T09:24:12.019Z",
+    "generatedAt": "2026-07-01T09:36:37.659Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -186,23 +186,23 @@
       "tmdb:1102493",
       "tmdb:1086747",
       "tmdb:402431",
-      "tmdb:1232546",
       "tmdb:23168",
+      "tmdb:1232546",
+      "tmdb:82682",
       "tmdb:1515729",
-      "tmdb:996064",
-      "tmdb:82682"
+      "tmdb:335787"
     ],
     "tmdbShows": [
-      "tmdb:94997",
       "tmdb:125988",
       "tmdb:82452",
+      "tmdb:94997",
       "tmdb:270476",
       "tmdb:322427",
       "tmdb:60948",
       "tmdb:225171",
-      "tmdb:237964",
+      "tmdb:219971",
       "tmdb:136315",
-      "tmdb:124364"
+      "tmdb:237964"
     ]
   }
 }
