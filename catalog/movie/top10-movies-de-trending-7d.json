@@ -8,32 +8,25 @@
       "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
     },
     {
-      "id": "tmdb:83533",
+      "id": "tmdb:996064",
       "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
+      "name": "Der Pfad",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321439150/s592/the-trail-2024.jpg"
     },
     {
-      "id": "tmdb:1102493",
+      "id": "tmdb:1339713",
       "type": "movie",
-      "name": "Kleine Dinge wie diese",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/336166296/s592/small-things-like-these.jpg"
+      "name": "Obsession - Du sollst mich lieben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346625663/s592/obsession-2026.jpg"
     },
     {
-      "id": "tmdb:1086747",
+      "id": "tmdb:335787",
       "type": "movie",
-      "name": "They See You",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/331358639/s592/the-watchers-2024.jpg"
-    },
-    {
-      "id": "tmdb:402431",
-      "type": "movie",
-      "name": "Wicked",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/323331186/s592/wicked-2024.jpg"
+      "name": "Uncharted",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
     },
     {
       "id": "tmdb:23168",
@@ -43,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
     },
     {
-      "id": "tmdb:1232546",
+      "id": "tmdb:1515729",
       "type": "movie",
-      "name": "Until Dawn",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331418869/s592/until-dawn.jpg"
+      "name": "Blast",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346639727/s592/blast-2026.jpg"
+    },
+    {
+      "id": "tmdb:839033",
+      "type": "movie",
+      "name": "Der Herr der Ringe: Die Schlacht der Rohirrim",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322978540/s592/The-Lord-of-the-Rings-The-War-of-the-Rohirrim.jpg"
     },
     {
       "id": "tmdb:82682",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
     },
     {
-      "id": "tmdb:1515729",
+      "id": "tmdb:83533",
       "type": "movie",
-      "name": "Blast",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346639727/s592/blast-2026.jpg"
+      "name": "Avatar: Fire and Ash",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
     },
     {
-      "id": "tmdb:335787",
+      "id": "tmdb:1397385",
       "type": "movie",
-      "name": "Uncharted",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
+      "name": "Little Brother",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345687152/s592/little-brother-2026.jpg"
     }
   ]
 }
