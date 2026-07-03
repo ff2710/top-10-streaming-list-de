@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
     },
     {
+      "id": "tmdb:335787",
+      "type": "movie",
+      "name": "Uncharted",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
+    },
+    {
       "id": "tmdb:996064",
       "type": "movie",
       "name": "Der Pfad",
@@ -22,18 +29,18 @@
       "poster": "https://images.justwatch.com/poster/346625663/s592/obsession-2026.jpg"
     },
     {
-      "id": "tmdb:335787",
-      "type": "movie",
-      "name": "Uncharted",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
-    },
-    {
       "id": "tmdb:23168",
       "type": "movie",
       "name": "The Town - Stadt ohne Gnade",
       "year": 2010,
       "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
+    },
+    {
+      "id": "tmdb:82682",
+      "type": "movie",
+      "name": "Gangster Squad",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
     },
     {
       "id": "tmdb:1515729",
@@ -50,18 +57,11 @@
       "poster": "https://images.justwatch.com/poster/322978540/s592/The-Lord-of-the-Rings-The-War-of-the-Rohirrim.jpg"
     },
     {
-      "id": "tmdb:82682",
+      "id": "tmdb:1946",
       "type": "movie",
-      "name": "Gangster Squad",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
-    },
-    {
-      "id": "tmdb:83533",
-      "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
+      "name": "eXistenZ",
+      "year": 1999,
+      "poster": "https://images.justwatch.com/poster/26099652/s592/EXistenZ-Du-bist-das-Spiel.jpg"
     },
     {
       "id": "tmdb:1397385",

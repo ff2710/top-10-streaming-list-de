@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-02T08:47:31.712Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-03T08:54:28.089Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,6 +29,13 @@
           "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
         },
         {
+          "id": "tmdb:335787",
+          "type": "movie",
+          "name": "Uncharted",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
+        },
+        {
           "id": "tmdb:996064",
           "type": "movie",
           "name": "Der Pfad",
@@ -43,18 +50,18 @@
           "poster": "https://images.justwatch.com/poster/346625663/s592/obsession-2026.jpg"
         },
         {
-          "id": "tmdb:335787",
-          "type": "movie",
-          "name": "Uncharted",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
-        },
-        {
           "id": "tmdb:23168",
           "type": "movie",
           "name": "The Town - Stadt ohne Gnade",
           "year": 2010,
           "poster": "https://images.justwatch.com/poster/241918495/s592/The-Town-Stadt-ohne-Gnade.jpg"
+        },
+        {
+          "id": "tmdb:82682",
+          "type": "movie",
+          "name": "Gangster Squad",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
         },
         {
           "id": "tmdb:1515729",
@@ -71,18 +78,11 @@
           "poster": "https://images.justwatch.com/poster/322978540/s592/The-Lord-of-the-Rings-The-War-of-the-Rohirrim.jpg"
         },
         {
-          "id": "tmdb:82682",
+          "id": "tmdb:1946",
           "type": "movie",
-          "name": "Gangster Squad",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
-        },
-        {
-          "id": "tmdb:83533",
-          "type": "movie",
-          "name": "Avatar: Fire and Ash",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336228233/s592/Avatar-3.jpg"
+          "name": "eXistenZ",
+          "year": 1999,
+          "poster": "https://images.justwatch.com/poster/26099652/s592/EXistenZ-Du-bist-das-Spiel.jpg"
         },
         {
           "id": "tmdb:1397385",
@@ -107,13 +107,6 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:82452",
-          "type": "series",
-          "name": "Avatar – Der Herr der Elemente",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
-        },
-        {
           "id": "tmdb:270476",
           "type": "series",
           "name": "Widow's Bay",
@@ -126,13 +119,6 @@
           "name": "12 Monkeys",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/177845949/s592/12-Monkeys.jpg"
-        },
-        {
-          "id": "tmdb:94997",
-          "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
           "id": "tmdb:225171",
@@ -149,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
         },
         {
-          "id": "tmdb:322427",
+          "id": "tmdb:82452",
           "type": "series",
-          "name": "The American Experiment",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
+          "name": "Avatar – Der Herr der Elemente",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
         },
         {
           "id": "tmdb:124364",
@@ -161,6 +147,20 @@
           "name": "From",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
+          "id": "tmdb:94997",
+          "type": "series",
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
+          "id": "tmdb:1639",
+          "type": "series",
+          "name": "Heroes",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
         },
         {
           "id": "tmdb:136315",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-02T08:47:31.712Z",
+    "generatedAt": "2026-07-03T08:54:28.089Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1413976",
+      "tmdb:335787",
       "tmdb:996064",
       "tmdb:1339713",
-      "tmdb:335787",
       "tmdb:23168",
+      "tmdb:82682",
       "tmdb:1515729",
       "tmdb:839033",
-      "tmdb:82682",
-      "tmdb:83533",
+      "tmdb:1946",
       "tmdb:1397385"
     ],
     "tmdbShows": [
       "tmdb:125988",
-      "tmdb:82452",
       "tmdb:270476",
       "tmdb:60948",
-      "tmdb:94997",
       "tmdb:225171",
       "tmdb:219971",
-      "tmdb:322427",
+      "tmdb:82452",
       "tmdb:124364",
+      "tmdb:94997",
+      "tmdb:1639",
       "tmdb:136315"
     ]
   }

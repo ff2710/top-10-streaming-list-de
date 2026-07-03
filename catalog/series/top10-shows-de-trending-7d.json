@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:82452",
-      "type": "series",
-      "name": "Avatar – Der Herr der Elemente",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
-    },
-    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay",
@@ -27,13 +20,6 @@
       "name": "12 Monkeys",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/177845949/s592/12-Monkeys.jpg"
-    },
-    {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
       "id": "tmdb:225171",
@@ -50,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/332075008/s592/the-agency.jpg"
     },
     {
-      "id": "tmdb:322427",
+      "id": "tmdb:82452",
       "type": "series",
-      "name": "The American Experiment",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346623186/s592/the-american-experiment.jpg"
+      "name": "Avatar – Der Herr der Elemente",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
     },
     {
       "id": "tmdb:124364",
@@ -62,6 +48,20 @@
       "name": "From",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+    },
+    {
+      "id": "tmdb:1639",
+      "type": "series",
+      "name": "Heroes",
+      "year": 2006,
+      "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
     },
     {
       "id": "tmdb:136315",
