@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-04T08:29:04.725Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-05T08:45:22.684Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:1413976",
-          "type": "movie",
-          "name": "Citizen Vigilante",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
-        },
-        {
           "id": "tmdb:335787",
           "type": "movie",
           "name": "Uncharted",
@@ -43,18 +36,18 @@
           "poster": "https://images.justwatch.com/poster/296953838/s592/Uncharted.jpg"
         },
         {
-          "id": "tmdb:1339713",
-          "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346625663/s592/obsession-2026.jpg"
-        },
-        {
           "id": "tmdb:1202033",
           "type": "movie",
           "name": "Enola Holmes 3",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345811005/s592/enola-holmes-3.jpg"
+          "poster": "https://images.justwatch.com/poster/346930493/s592/enola-holmes-3.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:839033",
@@ -64,18 +57,11 @@
           "poster": "https://images.justwatch.com/poster/322978540/s592/The-Lord-of-the-Rings-The-War-of-the-Rohirrim.jpg"
         },
         {
-          "id": "tmdb:82682",
+          "id": "tmdb:1413976",
           "type": "movie",
-          "name": "Gangster Squad",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/243724983/s592/Gangster-Squad.jpg"
-        },
-        {
-          "id": "tmdb:1946",
-          "type": "movie",
-          "name": "eXistenZ",
-          "year": 1999,
-          "poster": "https://images.justwatch.com/poster/26099652/s592/EXistenZ-Du-bist-das-Spiel.jpg"
+          "name": "Citizen Vigilante",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346566877/s592/citizen-vigilante.jpg"
         },
         {
           "id": "tmdb:1266127",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/344810687/s592/ready-or-not-2.jpg"
         },
         {
+          "id": "tmdb:1946",
+          "type": "movie",
+          "name": "eXistenZ",
+          "year": 1999,
+          "poster": "https://images.justwatch.com/poster/26099652/s592/EXistenZ-Du-bist-das-Spiel.jpg"
+        },
+        {
           "id": "tmdb:1304313",
           "type": "movie",
           "name": "Lee Cronin's the Mummy",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/345643421/s592/the-mummy-2026.jpg"
+        },
+        {
+          "id": "tmdb:443791",
+          "type": "movie",
+          "name": "Underwater - Es ist erwacht",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/334020040/s592/Underwater.jpg"
         }
       ]
     },
@@ -105,13 +105,6 @@
           "name": "Silo",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-        },
-        {
-          "id": "tmdb:270476",
-          "type": "series",
-          "name": "Widow's Bay",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:124364",
@@ -135,6 +128,27 @@
           "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
         },
         {
+          "id": "tmdb:270476",
+          "type": "series",
+          "name": "Widow's Bay",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+        },
+        {
+          "id": "tmdb:79744",
+          "type": "series",
+          "name": "Der Rookie",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+        },
+        {
+          "id": "tmdb:296206",
+          "type": "series",
+          "name": "Agent Kim Reactivated",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
+        },
+        {
           "id": "tmdb:82452",
           "type": "series",
           "name": "Avatar – Der Herr der Elemente",
@@ -142,11 +156,11 @@
           "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
         },
         {
-          "id": "tmdb:94997",
+          "id": "tmdb:88358",
           "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+          "name": "Kommissar Wisting",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/320893768/s592/Kommissar-Wisting.jpg"
         },
         {
           "id": "tmdb:136315",
@@ -154,20 +168,6 @@
           "name": "The Bear",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/332382456/s592/The-Bear.jpg"
-        },
-        {
-          "id": "tmdb:237964",
-          "type": "series",
-          "name": "Death Inc.",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/334855130/s592/muertos-s-l.jpg"
-        },
-        {
-          "id": "tmdb:225171",
-          "type": "series",
-          "name": "Pluribus",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-04T08:29:04.725Z",
+    "generatedAt": "2026-07-05T08:45:22.684Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
-      "tmdb:1413976",
       "tmdb:335787",
-      "tmdb:1339713",
       "tmdb:1202033",
+      "tmdb:1339713",
       "tmdb:839033",
-      "tmdb:82682",
-      "tmdb:1946",
+      "tmdb:1413976",
       "tmdb:1266127",
-      "tmdb:1304313"
+      "tmdb:1946",
+      "tmdb:1304313",
+      "tmdb:443791"
     ],
     "tmdbShows": [
       "tmdb:125988",
-      "tmdb:270476",
       "tmdb:124364",
       "tmdb:219971",
       "tmdb:1639",
+      "tmdb:270476",
+      "tmdb:79744",
+      "tmdb:296206",
       "tmdb:82452",
-      "tmdb:94997",
-      "tmdb:136315",
-      "tmdb:237964",
-      "tmdb:225171"
+      "tmdb:88358",
+      "tmdb:136315"
     ]
   }
 }

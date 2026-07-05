@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
-    },
-    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From",
@@ -36,6 +29,27 @@
       "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
     },
     {
+      "id": "tmdb:270476",
+      "type": "series",
+      "name": "Widow's Bay",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:296206",
+      "type": "series",
+      "name": "Agent Kim Reactivated",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
+    },
+    {
       "id": "tmdb:82452",
       "type": "series",
       "name": "Avatar – Der Herr der Elemente",
@@ -43,11 +57,11 @@
       "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:88358",
       "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+      "name": "Kommissar Wisting",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/320893768/s592/Kommissar-Wisting.jpg"
     },
     {
       "id": "tmdb:136315",
@@ -55,20 +69,6 @@
       "name": "The Bear",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/332382456/s592/The-Bear.jpg"
-    },
-    {
-      "id": "tmdb:237964",
-      "type": "series",
-      "name": "Death Inc.",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/334855130/s592/muertos-s-l.jpg"
-    },
-    {
-      "id": "tmdb:225171",
-      "type": "series",
-      "name": "Pluribus",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338958309/s592/pluribus.jpg"
     }
   ]
 }
