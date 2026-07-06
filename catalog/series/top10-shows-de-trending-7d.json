@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
       "id": "tmdb:219971",
       "type": "series",
       "name": "The Agency",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/346889710/s592/the-agency.jpg"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
     },
     {
       "id": "tmdb:1639",
@@ -29,32 +29,11 @@
       "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
     },
     {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
-    },
-    {
       "id": "tmdb:79744",
       "type": "series",
       "name": "Der Rookie",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-    },
-    {
-      "id": "tmdb:296206",
-      "type": "series",
-      "name": "Agent Kim Reactivated",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
-    },
-    {
-      "id": "tmdb:82452",
-      "type": "series",
-      "name": "Avatar – Der Herr der Elemente",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/338473200/s592/Avatar-The-Last-Airbender-0.jpg"
     },
     {
       "id": "tmdb:88358",
@@ -64,11 +43,32 @@
       "poster": "https://images.justwatch.com/poster/320893768/s592/Kommissar-Wisting.jpg"
     },
     {
-      "id": "tmdb:136315",
+      "id": "tmdb:296206",
       "type": "series",
-      "name": "The Bear",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/332382456/s592/The-Bear.jpg"
+      "name": "Agent Kim Reactivated",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
+    },
+    {
+      "id": "tmdb:270476",
+      "type": "series",
+      "name": "Widow's Bay",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+    },
+    {
+      "id": "tmdb:299167",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+    },
+    {
+      "id": "tmdb:120998",
+      "type": "series",
+      "name": "Poker Face",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
     }
   ]
 }
