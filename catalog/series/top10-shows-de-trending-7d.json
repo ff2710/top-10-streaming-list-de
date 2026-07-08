@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:219971",
-      "type": "series",
-      "name": "The Agency",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/346889710/s592/the-agency.jpg"
-    },
-    {
       "id": "tmdb:1639",
       "type": "series",
       "name": "Heroes",
@@ -29,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/320893768/s592/Kommissar-Wisting.jpg"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:95057",
       "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+      "name": "Superman and Lois",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
     },
     {
       "id": "tmdb:79744",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
     },
     {
+      "id": "tmdb:2566",
+      "type": "series",
+      "name": "Dead Like Me - So gut wie tot",
+      "year": 2003,
+      "poster": "https://images.justwatch.com/poster/280016496/s592/Dead-Like-Me.jpg"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+    },
+    {
       "id": "tmdb:254420",
       "type": "series",
       "name": "Elle",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/341057660/s592/elle.jpg"
-    },
-    {
-      "id": "tmdb:120998",
-      "type": "series",
-      "name": "Poker Face",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/302371017/s592/Poker-Face.jpg"
     }
   ]
 }
