@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-08T08:16:55.280Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-09T09:28:29.321Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:1202033",
-          "type": "movie",
-          "name": "Enola Holmes 3",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346930493/s592/enola-holmes-3.jpg"
-        },
-        {
           "id": "tmdb:1266127",
           "type": "movie",
           "name": "Ready or Not 2",
@@ -43,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/344810687/s592/ready-or-not-2.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1301421",
           "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
+          "name": "Glennkill: Ein Schafskrimi",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
         },
         {
           "id": "tmdb:426063",
@@ -55,13 +48,6 @@
           "name": "Nosferatu - Der Untote",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/323464919/s592/nosferatu-der-untote.jpg"
-        },
-        {
-          "id": "tmdb:1242265",
-          "type": "movie",
-          "name": "Fuze",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347090389/s592/fuze.jpg"
         },
         {
           "id": "tmdb:443791",
@@ -78,11 +64,18 @@
           "poster": "https://images.justwatch.com/poster/305373860/s592/Ghost-Ship-Das-Geisterschiff.jpg"
         },
         {
-          "id": "tmdb:9846",
+          "id": "tmdb:1202033",
           "type": "movie",
-          "name": "Leben und Sterben in L.A.",
-          "year": 1985,
-          "poster": "https://images.justwatch.com/poster/302253592/s592/Leben-und-Sterben-in-L-A.jpg"
+          "name": "Enola Holmes 3",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346930493/s592/enola-holmes-3.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:619730",
@@ -90,6 +83,13 @@
           "name": "Don't Worry Darling",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/300981151/s592/Dont-Worry-Darling.jpg"
+        },
+        {
+          "id": "tmdb:4858",
+          "type": "movie",
+          "name": "Invasion",
+          "year": 2007,
+          "poster": "https://images.justwatch.com/poster/194377303/s592/Invasion.jpg"
         }
       ]
     },
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:1639",
+          "id": "tmdb:95057",
           "type": "series",
-          "name": "Heroes",
-          "year": 2006,
-          "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
+          "name": "Superman and Lois",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
         },
         {
           "id": "tmdb:88358",
@@ -121,32 +121,11 @@
           "poster": "https://images.justwatch.com/poster/320893768/s592/Kommissar-Wisting.jpg"
         },
         {
-          "id": "tmdb:95057",
-          "type": "series",
-          "name": "Superman and Lois",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
-        },
-        {
           "id": "tmdb:79744",
           "type": "series",
           "name": "Der Rookie",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-        },
-        {
-          "id": "tmdb:296206",
-          "type": "series",
-          "name": "Agent Kim Reactivated",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
-        },
-        {
-          "id": "tmdb:299167",
-          "type": "series",
-          "name": "Dutton Ranch",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
         },
         {
           "id": "tmdb:2566",
@@ -156,18 +135,39 @@
           "poster": "https://images.justwatch.com/poster/280016496/s592/Dead-Like-Me.jpg"
         },
         {
+          "id": "tmdb:299167",
+          "type": "series",
+          "name": "Dutton Ranch",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+        },
+        {
+          "id": "tmdb:1639",
+          "type": "series",
+          "name": "Heroes",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/177811108/s592/Heroes.jpg"
+        },
+        {
+          "id": "tmdb:296206",
+          "type": "series",
+          "name": "Agent Kim Reactivated",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
+        },
+        {
+          "id": "tmdb:94997",
+          "type": "series",
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
           "id": "tmdb:124364",
           "type": "series",
           "name": "From",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
-          "id": "tmdb:254420",
-          "type": "series",
-          "name": "Elle",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341057660/s592/elle.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-08T08:16:55.280Z",
+    "generatedAt": "2026-07-09T09:28:29.321Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:687163",
-      "tmdb:1202033",
       "tmdb:1266127",
-      "tmdb:1339713",
+      "tmdb:1301421",
       "tmdb:426063",
-      "tmdb:1242265",
       "tmdb:443791",
       "tmdb:9645",
-      "tmdb:9846",
-      "tmdb:619730"
+      "tmdb:1202033",
+      "tmdb:1339713",
+      "tmdb:619730",
+      "tmdb:4858"
     ],
     "tmdbShows": [
       "tmdb:125988",
-      "tmdb:1639",
-      "tmdb:88358",
       "tmdb:95057",
+      "tmdb:88358",
       "tmdb:79744",
-      "tmdb:296206",
-      "tmdb:299167",
       "tmdb:2566",
-      "tmdb:124364",
-      "tmdb:254420"
+      "tmdb:299167",
+      "tmdb:1639",
+      "tmdb:296206",
+      "tmdb:94997",
+      "tmdb:124364"
     ]
   }
 }
