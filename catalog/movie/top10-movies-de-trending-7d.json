@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:1266127",
-      "type": "movie",
-      "name": "Ready or Not 2",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344810687/s592/ready-or-not-2.jpg"
-    },
-    {
       "id": "tmdb:1301421",
       "type": "movie",
       "name": "Glennkill: Ein Schafskrimi",
@@ -29,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/323464919/s592/nosferatu-der-untote.jpg"
     },
     {
-      "id": "tmdb:443791",
-      "type": "movie",
-      "name": "Underwater - Es ist erwacht",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/334020040/s592/Underwater.jpg"
-    },
-    {
       "id": "tmdb:9645",
       "type": "movie",
       "name": "Ghost Ship",
@@ -43,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/305373860/s592/Ghost-Ship-Das-Geisterschiff.jpg"
     },
     {
-      "id": "tmdb:1202033",
+      "id": "tmdb:1266127",
       "type": "movie",
-      "name": "Enola Holmes 3",
+      "name": "Ready or Not 2",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346930493/s592/enola-holmes-3.jpg"
+      "poster": "https://images.justwatch.com/poster/344810687/s592/ready-or-not-2.jpg"
     },
     {
       "id": "tmdb:1339713",
@@ -69,6 +55,20 @@
       "name": "Invasion",
       "year": 2007,
       "poster": "https://images.justwatch.com/poster/194377303/s592/Invasion.jpg"
+    },
+    {
+      "id": "tmdb:1380070",
+      "type": "movie",
+      "name": "22 Bahnen",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336809114/s592/22-bahnen.jpg"
+    },
+    {
+      "id": "tmdb:1391047",
+      "type": "movie",
+      "name": "Control Room",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/333584006/s592/control-room-2025.jpg"
     }
   ]
 }
