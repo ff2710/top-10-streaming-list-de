@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-10T09:24:56.300Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-11T07:46:15.091Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/305373860/s592/Ghost-Ship-Das-Geisterschiff.jpg"
         },
         {
-          "id": "tmdb:1266127",
+          "id": "tmdb:617653",
           "type": "movie",
-          "name": "Ready or Not 2",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344810687/s592/ready-or-not-2.jpg"
+          "name": "The Last Duel",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/256524883/s592/The-Last-Duel.jpg"
         },
         {
           "id": "tmdb:1339713",
@@ -71,11 +71,11 @@
           "poster": "https://images.justwatch.com/poster/300981151/s592/Dont-Worry-Darling.jpg"
         },
         {
-          "id": "tmdb:4858",
+          "id": "tmdb:577922",
           "type": "movie",
-          "name": "Invasion",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/194377303/s592/Invasion.jpg"
+          "name": "Tenet",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/239195311/s592/Tenet.jpg"
         },
         {
           "id": "tmdb:1380070",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/336809114/s592/22-bahnen.jpg"
         },
         {
-          "id": "tmdb:1391047",
+          "id": "tmdb:4858",
           "type": "movie",
-          "name": "Control Room",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/333584006/s592/control-room-2025.jpg"
+          "name": "Invasion",
+          "year": 2007,
+          "poster": "https://images.justwatch.com/poster/194377303/s592/Invasion.jpg"
         }
       ]
     },
@@ -114,11 +114,11 @@
           "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
         },
         {
-          "id": "tmdb:88358",
+          "id": "tmdb:255358",
           "type": "series",
-          "name": "Kommissar Wisting",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/320893768/s592/Kommissar-Wisting.jpg"
+          "name": "THE GHOST IN THE SHELL",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341840793/s592/the-ghost-in-the-shell.jpg"
         },
         {
           "id": "tmdb:2566",
@@ -135,27 +135,6 @@
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
         },
         {
-          "id": "tmdb:299167",
-          "type": "series",
-          "name": "Dutton Ranch",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
-        },
-        {
-          "id": "tmdb:255358",
-          "type": "series",
-          "name": "THE GHOST IN THE SHELL",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341840793/s592/the-ghost-in-the-shell.jpg"
-        },
-        {
-          "id": "tmdb:296206",
-          "type": "series",
-          "name": "Agent Kim Reactivated",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
-        },
-        {
           "id": "tmdb:94997",
           "type": "series",
           "name": "House of the Dragon",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
+          "id": "tmdb:299167",
+          "type": "series",
+          "name": "Dutton Ranch",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
+        },
+        {
           "id": "tmdb:128113",
           "type": "series",
           "name": "The Winchesters",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/300652911/s592/The-Winchesters.jpg"
+        },
+        {
+          "id": "tmdb:290232",
+          "type": "series",
+          "name": "I'm Not Afraid",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346426203/s592/im-not-afraid.jpg"
+        },
+        {
+          "id": "tmdb:296206",
+          "type": "series",
+          "name": "Agent Kim Reactivated",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-10T09:24:56.300Z",
+    "generatedAt": "2026-07-11T07:46:15.091Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,24 +185,24 @@
       "tmdb:1301421",
       "tmdb:426063",
       "tmdb:9645",
-      "tmdb:1266127",
+      "tmdb:617653",
       "tmdb:1339713",
       "tmdb:619730",
-      "tmdb:4858",
+      "tmdb:577922",
       "tmdb:1380070",
-      "tmdb:1391047"
+      "tmdb:4858"
     ],
     "tmdbShows": [
       "tmdb:125988",
       "tmdb:95057",
-      "tmdb:88358",
+      "tmdb:255358",
       "tmdb:2566",
       "tmdb:79744",
-      "tmdb:299167",
-      "tmdb:255358",
-      "tmdb:296206",
       "tmdb:94997",
-      "tmdb:128113"
+      "tmdb:299167",
+      "tmdb:128113",
+      "tmdb:290232",
+      "tmdb:296206"
     ]
   }
 }
