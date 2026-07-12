@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-11T07:46:15.091Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-12T08:07:30.155Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:1301421",
           "type": "movie",
           "name": "Glennkill: Ein Schafskrimi",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:426063",
@@ -43,11 +43,11 @@
           "poster": "https://images.justwatch.com/poster/323464919/s592/nosferatu-der-untote.jpg"
         },
         {
-          "id": "tmdb:9645",
+          "id": "tmdb:577922",
           "type": "movie",
-          "name": "Ghost Ship",
-          "year": 2002,
-          "poster": "https://images.justwatch.com/poster/305373860/s592/Ghost-Ship-Das-Geisterschiff.jpg"
+          "name": "Tenet",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/239195311/s592/Tenet.jpg"
         },
         {
           "id": "tmdb:617653",
@@ -64,20 +64,6 @@
           "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
         },
         {
-          "id": "tmdb:619730",
-          "type": "movie",
-          "name": "Don't Worry Darling",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/300981151/s592/Dont-Worry-Darling.jpg"
-        },
-        {
-          "id": "tmdb:577922",
-          "type": "movie",
-          "name": "Tenet",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/239195311/s592/Tenet.jpg"
-        },
-        {
           "id": "tmdb:1380070",
           "type": "movie",
           "name": "22 Bahnen",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/336809114/s592/22-bahnen.jpg"
         },
         {
-          "id": "tmdb:4858",
+          "id": "tmdb:374720",
           "type": "movie",
-          "name": "Invasion",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/194377303/s592/Invasion.jpg"
+          "name": "Dunkirk",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/35911786/s592/Dunkirk.jpg"
+        },
+        {
+          "id": "tmdb:1226578",
+          "type": "movie",
+          "name": "Longlegs",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
+        },
+        {
+          "id": "tmdb:1391047",
+          "type": "movie",
+          "name": "Control Room",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/333584006/s592/control-room-2025.jpg"
         }
       ]
     },
@@ -100,18 +100,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-        },
-        {
           "id": "tmdb:95057",
           "type": "series",
           "name": "Superman and Lois",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:255358",
@@ -149,13 +149,6 @@
           "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
         },
         {
-          "id": "tmdb:128113",
-          "type": "series",
-          "name": "The Winchesters",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/300652911/s592/The-Winchesters.jpg"
-        },
-        {
           "id": "tmdb:290232",
           "type": "series",
           "name": "I'm Not Afraid",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/346426203/s592/im-not-afraid.jpg"
         },
         {
-          "id": "tmdb:296206",
+          "id": "tmdb:128113",
           "type": "series",
-          "name": "Agent Kim Reactivated",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
+          "name": "The Winchesters",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/300652911/s592/The-Winchesters.jpg"
+        },
+        {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-11T07:46:15.091Z",
+    "generatedAt": "2026-07-12T08:07:30.155Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:687163",
       "tmdb:1301421",
+      "tmdb:687163",
       "tmdb:426063",
-      "tmdb:9645",
+      "tmdb:577922",
       "tmdb:617653",
       "tmdb:1339713",
-      "tmdb:619730",
-      "tmdb:577922",
       "tmdb:1380070",
-      "tmdb:4858"
+      "tmdb:374720",
+      "tmdb:1226578",
+      "tmdb:1391047"
     ],
     "tmdbShows": [
-      "tmdb:125988",
       "tmdb:95057",
+      "tmdb:125988",
       "tmdb:255358",
       "tmdb:2566",
       "tmdb:79744",
       "tmdb:94997",
       "tmdb:299167",
-      "tmdb:128113",
       "tmdb:290232",
-      "tmdb:296206"
+      "tmdb:128113",
+      "tmdb:124364"
     ]
   }
 }

@@ -1,18 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-    },
-    {
       "id": "tmdb:95057",
       "type": "series",
       "name": "Superman and Lois",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
       "id": "tmdb:255358",
@@ -50,13 +50,6 @@
       "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
     },
     {
-      "id": "tmdb:128113",
-      "type": "series",
-      "name": "The Winchesters",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/300652911/s592/The-Winchesters.jpg"
-    },
-    {
       "id": "tmdb:290232",
       "type": "series",
       "name": "I'm Not Afraid",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/346426203/s592/im-not-afraid.jpg"
     },
     {
-      "id": "tmdb:296206",
+      "id": "tmdb:128113",
       "type": "series",
-      "name": "Agent Kim Reactivated",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
+      "name": "The Winchesters",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/300652911/s592/The-Winchesters.jpg"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
     }
   ]
 }
