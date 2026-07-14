@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:95057",
+      "id": "tmdb:286709",
       "type": "series",
-      "name": "Superman and Lois",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
+      "name": "Die Westies",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
     },
     {
       "id": "tmdb:255358",
@@ -22,25 +22,11 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:286709",
+      "id": "tmdb:95057",
       "type": "series",
-      "name": "Die Westies",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
-    },
-    {
-      "id": "tmdb:79744",
-      "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-    },
-    {
-      "id": "tmdb:2566",
-      "type": "series",
-      "name": "Dead Like Me - So gut wie tot",
-      "year": 2003,
-      "poster": "https://images.justwatch.com/poster/280016496/s592/Dead-Like-Me.jpg"
+      "name": "Superman and Lois",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
     },
     {
       "id": "tmdb:94997",
@@ -50,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
       "id": "tmdb:290232",
       "type": "series",
       "name": "I'm Not Afraid",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/346426203/s592/im-not-afraid.jpg"
     },
     {
+      "id": "tmdb:278178",
+      "type": "series",
+      "name": "Nur für dein Leben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
+    },
+    {
+      "id": "tmdb:1781",
+      "type": "series",
+      "name": "Unsere kleine Farm",
+      "year": 1974,
+      "poster": "https://images.justwatch.com/poster/338297789/s592/Unsere-kleine-Farm.jpg"
+    },
+    {
       "id": "tmdb:299167",
       "type": "series",
       "name": "Dutton Ranch",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/345582809/s592/dutton-ranch.jpg"
-    },
-    {
-      "id": "tmdb:128113",
-      "type": "series",
-      "name": "The Winchesters",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/300652911/s592/The-Winchesters.jpg"
     }
   ]
 }
