@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-15T07:57:25.356Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-16T08:02:48.630Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,32 +43,11 @@
           "poster": "https://images.justwatch.com/poster/256524883/s592/The-Last-Duel.jpg"
         },
         {
-          "id": "tmdb:500904",
-          "type": "movie",
-          "name": "Vigilante - Bis zum letzten Atemzug",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/134485675/s592/A-Vigilante.jpg"
-        },
-        {
-          "id": "tmdb:157336",
-          "type": "movie",
-          "name": "Interstellar",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/301601738/s592/Interstellar.jpg"
-        },
-        {
           "id": "tmdb:1480387",
           "type": "movie",
           "name": "Undertone",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
-        },
-        {
-          "id": "tmdb:1226578",
-          "type": "movie",
-          "name": "Longlegs",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
         },
         {
           "id": "tmdb:1285965",
@@ -78,11 +57,32 @@
           "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
         },
         {
-          "id": "tmdb:286217",
+          "id": "tmdb:157336",
           "type": "movie",
-          "name": "Der Marsianer - Rettet Mark Watney",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/178407326/s592/Der-Marsianer-Rettet-Mark-Watney.jpg"
+          "name": "Interstellar",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/301601738/s592/Interstellar.jpg"
+        },
+        {
+          "id": "tmdb:1226578",
+          "type": "movie",
+          "name": "Longlegs",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
+        },
+        {
+          "id": "tmdb:713704",
+          "type": "movie",
+          "name": "Evil Dead Rise",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/341840793/s592/the-ghost-in-the-shell.jpg"
         },
         {
-          "id": "tmdb:94997",
-          "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-        },
-        {
           "id": "tmdb:79744",
           "type": "series",
           "name": "Der Rookie",
@@ -128,18 +121,11 @@
           "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
         },
         {
-          "id": "tmdb:290232",
+          "id": "tmdb:94997",
           "type": "series",
-          "name": "No tengo miedo",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346426203/s592/im-not-afraid.jpg"
-        },
-        {
-          "id": "tmdb:278178",
-          "type": "series",
-          "name": "Nur für dein Leben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
           "id": "tmdb:1781",
@@ -149,11 +135,25 @@
           "poster": "https://images.justwatch.com/poster/338297789/s592/Unsere-kleine-Farm.jpg"
         },
         {
-          "id": "tmdb:95057",
+          "id": "tmdb:278178",
           "type": "series",
-          "name": "Superman and Lois",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
+          "name": "Nur für dein Leben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
+        },
+        {
+          "id": "tmdb:302074",
+          "type": "series",
+          "name": "RJ Decker",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
+        },
+        {
+          "id": "tmdb:278624",
+          "type": "series",
+          "name": "Lucky",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
         },
         {
           "id": "tmdb:283304",
@@ -170,30 +170,30 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-15T07:57:25.356Z",
+    "generatedAt": "2026-07-16T08:02:48.630Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1301421",
       "tmdb:577922",
       "tmdb:617653",
-      "tmdb:500904",
-      "tmdb:157336",
       "tmdb:1480387",
-      "tmdb:1226578",
       "tmdb:1285965",
-      "tmdb:286217"
+      "tmdb:157336",
+      "tmdb:1226578",
+      "tmdb:713704",
+      "tmdb:1339713"
     ],
     "tmdbShows": [
       "tmdb:286709",
       "tmdb:125988",
       "tmdb:255358",
-      "tmdb:94997",
       "tmdb:79744",
-      "tmdb:290232",
-      "tmdb:278178",
+      "tmdb:94997",
       "tmdb:1781",
-      "tmdb:95057",
+      "tmdb:278178",
+      "tmdb:302074",
+      "tmdb:278624",
       "tmdb:283304"
     ]
   }

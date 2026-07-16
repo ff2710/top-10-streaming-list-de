@@ -22,32 +22,11 @@
       "poster": "https://images.justwatch.com/poster/256524883/s592/The-Last-Duel.jpg"
     },
     {
-      "id": "tmdb:500904",
-      "type": "movie",
-      "name": "Vigilante - Bis zum letzten Atemzug",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/134485675/s592/A-Vigilante.jpg"
-    },
-    {
-      "id": "tmdb:157336",
-      "type": "movie",
-      "name": "Interstellar",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/301601738/s592/Interstellar.jpg"
-    },
-    {
       "id": "tmdb:1480387",
       "type": "movie",
       "name": "Undertone",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
-    },
-    {
-      "id": "tmdb:1226578",
-      "type": "movie",
-      "name": "Longlegs",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
     },
     {
       "id": "tmdb:1285965",
@@ -57,11 +36,32 @@
       "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
     },
     {
-      "id": "tmdb:286217",
+      "id": "tmdb:157336",
       "type": "movie",
-      "name": "Der Marsianer - Rettet Mark Watney",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/178407326/s592/Der-Marsianer-Rettet-Mark-Watney.jpg"
+      "name": "Interstellar",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/301601738/s592/Interstellar.jpg"
+    },
+    {
+      "id": "tmdb:1226578",
+      "type": "movie",
+      "name": "Longlegs",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
+    },
+    {
+      "id": "tmdb:713704",
+      "type": "movie",
+      "name": "Evil Dead Rise",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
+    },
+    {
+      "id": "tmdb:1339713",
+      "type": "movie",
+      "name": "Obsession - Du sollst mich lieben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
     }
   ]
 }
