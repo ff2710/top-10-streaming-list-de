@@ -15,46 +15,11 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:255358",
+      "id": "tmdb:241882",
       "type": "series",
-      "name": "THE GHOST IN THE SHELL",
+      "name": "Ride or Die",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341840793/s592/the-ghost-in-the-shell.jpg"
-    },
-    {
-      "id": "tmdb:79744",
-      "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
-    },
-    {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-    },
-    {
-      "id": "tmdb:1781",
-      "type": "series",
-      "name": "Unsere kleine Farm",
-      "year": 1974,
-      "poster": "https://images.justwatch.com/poster/338297789/s592/Unsere-kleine-Farm.jpg"
-    },
-    {
-      "id": "tmdb:278178",
-      "type": "series",
-      "name": "Nur für dein Leben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
-    },
-    {
-      "id": "tmdb:302074",
-      "type": "series",
-      "name": "RJ Decker",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
+      "poster": "https://images.justwatch.com/poster/346372629/s592/ride-or-die.jpg"
     },
     {
       "id": "tmdb:278624",
@@ -64,11 +29,46 @@
       "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
     },
     {
-      "id": "tmdb:283304",
+      "id": "tmdb:94997",
       "type": "series",
-      "name": "Unsere kleine Farm",
+      "name": "House of the Dragon",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:302074",
+      "type": "series",
+      "name": "RJ Decker",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345783068/s592/little-house-on-the-prairie.jpg"
+      "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
+    },
+    {
+      "id": "tmdb:278178",
+      "type": "series",
+      "name": "Nur für dein Leben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
+    },
+    {
+      "id": "tmdb:255358",
+      "type": "series",
+      "name": "THE GHOST IN THE SHELL",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341840793/s592/the-ghost-in-the-shell.jpg"
+    },
+    {
+      "id": "tmdb:254528",
+      "type": "series",
+      "name": "The Hawk",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345822179/s592/golf.jpg"
     }
   ]
 }

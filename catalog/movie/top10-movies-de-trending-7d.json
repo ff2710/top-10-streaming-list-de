@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
     },
     {
-      "id": "tmdb:577922",
+      "id": "tmdb:1285965",
       "type": "movie",
-      "name": "Tenet",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/239195311/s592/Tenet.jpg"
+      "name": "Dangerous Animals",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
     },
     {
-      "id": "tmdb:617653",
+      "id": "tmdb:713704",
       "type": "movie",
-      "name": "The Last Duel",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/256524883/s592/The-Last-Duel.jpg"
+      "name": "Evil Dead Rise",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
     },
     {
       "id": "tmdb:1480387",
@@ -29,11 +29,18 @@
       "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
     },
     {
-      "id": "tmdb:1285965",
+      "id": "tmdb:652",
       "type": "movie",
-      "name": "Dangerous Animals",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
+      "name": "Troja",
+      "year": 2004,
+      "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
+    },
+    {
+      "id": "tmdb:577922",
+      "type": "movie",
+      "name": "Tenet",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/239195311/s592/Tenet.jpg"
     },
     {
       "id": "tmdb:157336",
@@ -43,18 +50,11 @@
       "poster": "https://images.justwatch.com/poster/301601738/s592/Interstellar.jpg"
     },
     {
-      "id": "tmdb:1226578",
+      "id": "tmdb:1368337",
       "type": "movie",
-      "name": "Longlegs",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
-    },
-    {
-      "id": "tmdb:713704",
-      "type": "movie",
-      "name": "Evil Dead Rise",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
+      "name": "Die Odyssee",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     },
     {
       "id": "tmdb:1339713",
