@@ -29,18 +29,11 @@
       "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:254528",
       "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-    },
-    {
-      "id": "tmdb:79744",
-      "type": "series",
-      "name": "Der Rookie",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+      "name": "The Hawk",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345822179/s592/golf.jpg"
     },
     {
       "id": "tmdb:302074",
@@ -50,6 +43,20 @@
       "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
     },
     {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+    },
+    {
+      "id": "tmdb:43879",
+      "type": "series",
+      "name": "Braunschlag",
+      "year": 2012,
+      "poster": "https://images.justwatch.com/poster/38152563/s592/Braunschlag.jpg"
+    },
+    {
       "id": "tmdb:278178",
       "type": "series",
       "name": "Nur für dein Leben",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
     },
     {
-      "id": "tmdb:255358",
+      "id": "tmdb:79744",
       "type": "series",
-      "name": "THE GHOST IN THE SHELL",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341840793/s592/the-ghost-in-the-shell.jpg"
-    },
-    {
-      "id": "tmdb:254528",
-      "type": "series",
-      "name": "The Hawk",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345822179/s592/golf.jpg"
+      "name": "Der Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     }
   ]
 }
