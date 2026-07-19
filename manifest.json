@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-18T07:39:57.203Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-19T08:06:47.002Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1285965",
+          "id": "tmdb:1368337",
           "type": "movie",
-          "name": "Dangerous Animals",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
-        },
-        {
-          "id": "tmdb:1301421",
-          "type": "movie",
-          "name": "Glennkill: Ein Schafskrimi",
+          "name": "Die Odyssee",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
+          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         },
         {
           "id": "tmdb:652",
@@ -43,18 +36,11 @@
           "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
         },
         {
-          "id": "tmdb:1368337",
+          "id": "tmdb:1285965",
           "type": "movie",
-          "name": "Die Odyssee",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-        },
-        {
-          "id": "tmdb:1480387",
-          "type": "movie",
-          "name": "Undertone",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
+          "name": "Dangerous Animals",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
         },
         {
           "id": "tmdb:713704",
@@ -64,11 +50,18 @@
           "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
         },
         {
-          "id": "tmdb:286217",
+          "id": "tmdb:1480387",
           "type": "movie",
-          "name": "Der Marsianer - Rettet Mark Watney",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/178407326/s592/Der-Marsianer-Rettet-Mark-Watney.jpg"
+          "name": "Undertone",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
+        },
+        {
+          "id": "tmdb:1301421",
+          "type": "movie",
+          "name": "Glennkill: Ein Schafskrimi",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
         },
         {
           "id": "tmdb:395834",
@@ -83,6 +76,13 @@
           "name": "Obsession - Du sollst mich lieben",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         }
       ]
     },
@@ -100,25 +100,11 @@
           "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
         },
         {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-        },
-        {
           "id": "tmdb:241882",
           "type": "series",
           "name": "Ride or Die",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346372629/s592/ride-or-die.jpg"
-        },
-        {
-          "id": "tmdb:278624",
-          "type": "series",
-          "name": "Lucky",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
         },
         {
           "id": "tmdb:254528",
@@ -128,6 +114,20 @@
           "poster": "https://images.justwatch.com/poster/345822179/s592/golf.jpg"
         },
         {
+          "id": "tmdb:278624",
+          "type": "series",
+          "name": "Lucky",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+        },
+        {
           "id": "tmdb:302074",
           "type": "series",
           "name": "RJ Decker",
@@ -135,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
         },
         {
-          "id": "tmdb:94997",
+          "id": "tmdb:84052",
           "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+          "name": "Parfum",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/92550894/s592/Parfum.jpg"
         },
         {
           "id": "tmdb:43879",
@@ -149,18 +149,18 @@
           "poster": "https://images.justwatch.com/poster/38152563/s592/Braunschlag.jpg"
         },
         {
-          "id": "tmdb:278178",
+          "id": "tmdb:62097",
           "type": "series",
-          "name": "Nur für dein Leben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346948690/s592/i-will-find-you.jpg"
+          "name": "Jordskott - Die Rache des Waldes",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/307170236/s592/Jordskott.jpg"
         },
         {
-          "id": "tmdb:79744",
+          "id": "tmdb:94997",
           "type": "series",
-          "name": "Der Rookie",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         }
       ]
     }
@@ -170,31 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-18T07:39:57.203Z",
+    "generatedAt": "2026-07-19T08:06:47.002Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1285965",
-      "tmdb:1301421",
-      "tmdb:652",
       "tmdb:1368337",
-      "tmdb:1480387",
+      "tmdb:652",
+      "tmdb:1285965",
       "tmdb:713704",
-      "tmdb:286217",
+      "tmdb:1480387",
+      "tmdb:1301421",
       "tmdb:395834",
-      "tmdb:1339713"
+      "tmdb:1339713",
+      "tmdb:687163"
     ],
     "tmdbShows": [
       "tmdb:286709",
-      "tmdb:125988",
       "tmdb:241882",
-      "tmdb:278624",
       "tmdb:254528",
+      "tmdb:278624",
+      "tmdb:125988",
       "tmdb:302074",
-      "tmdb:94997",
+      "tmdb:84052",
       "tmdb:43879",
-      "tmdb:278178",
-      "tmdb:79744"
+      "tmdb:62097",
+      "tmdb:94997"
     ]
   }
 }
