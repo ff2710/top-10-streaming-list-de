@@ -36,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
     },
     {
-      "id": "tmdb:1301421",
-      "type": "movie",
-      "name": "Glennkill: Ein Schafskrimi",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
-    },
-    {
       "id": "tmdb:395834",
       "type": "movie",
       "name": "Wind River - Tod im Schnee",
@@ -50,18 +43,25 @@
       "poster": "https://images.justwatch.com/poster/320086489/s592/Wind-River.jpg"
     },
     {
-      "id": "tmdb:1339713",
+      "id": "tmdb:1656220",
       "type": "movie",
-      "name": "Obsession - Du sollst mich lieben",
+      "name": "23.000 Leben",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
     },
     {
-      "id": "tmdb:687163",
+      "id": "tmdb:1002158",
       "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+      "name": "Vultures",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
+    },
+    {
+      "id": "tmdb:1448560",
+      "type": "movie",
+      "name": "Wildcat",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/347378997/s592/wildcat-2025.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-19T08:06:47.002Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-20T08:48:10.913Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -57,13 +57,6 @@
           "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
         },
         {
-          "id": "tmdb:1301421",
-          "type": "movie",
-          "name": "Glennkill: Ein Schafskrimi",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346646512/s592/glennkill-ein-schafskrimi.jpg"
-        },
-        {
           "id": "tmdb:395834",
           "type": "movie",
           "name": "Wind River - Tod im Schnee",
@@ -71,18 +64,25 @@
           "poster": "https://images.justwatch.com/poster/320086489/s592/Wind-River.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1656220",
           "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
+          "name": "23.000 Leben",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344600379/s592/obsession-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
         },
         {
-          "id": "tmdb:687163",
+          "id": "tmdb:1002158",
           "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+          "name": "Vultures",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
+        },
+        {
+          "id": "tmdb:1448560",
+          "type": "movie",
+          "name": "Wildcat",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/347378997/s592/wildcat-2025.jpg"
         }
       ]
     },
@@ -92,20 +92,6 @@
       "name": "Top 10 Trending Shows DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:286709",
-          "type": "series",
-          "name": "Die Westies",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
-        },
-        {
-          "id": "tmdb:241882",
-          "type": "series",
-          "name": "Ride or Die",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346372629/s592/ride-or-die.jpg"
-        },
         {
           "id": "tmdb:254528",
           "type": "series",
@@ -121,18 +107,25 @@
           "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
         },
         {
+          "id": "tmdb:241882",
+          "type": "series",
+          "name": "Ride or Die",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346372629/s592/ride-or-die.jpg"
+        },
+        {
+          "id": "tmdb:286709",
+          "type": "series",
+          "name": "Die Westies",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
+        },
+        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-        },
-        {
-          "id": "tmdb:302074",
-          "type": "series",
-          "name": "RJ Decker",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
         },
         {
           "id": "tmdb:84052",
@@ -142,6 +135,13 @@
           "poster": "https://images.justwatch.com/poster/92550894/s592/Parfum.jpg"
         },
         {
+          "id": "tmdb:302074",
+          "type": "series",
+          "name": "RJ Decker",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
+        },
+        {
           "id": "tmdb:43879",
           "type": "series",
           "name": "Braunschlag",
@@ -149,18 +149,18 @@
           "poster": "https://images.justwatch.com/poster/38152563/s592/Braunschlag.jpg"
         },
         {
-          "id": "tmdb:62097",
-          "type": "series",
-          "name": "Jordskott - Die Rache des Waldes",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/307170236/s592/Jordskott.jpg"
-        },
-        {
           "id": "tmdb:94997",
           "type": "series",
           "name": "House of the Dragon",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
+          "id": "tmdb:62097",
+          "type": "series",
+          "name": "Jordskott - Die Rache des Waldes",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/307170236/s592/Jordskott.jpg"
         }
       ]
     }
@@ -170,7 +170,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-19T08:06:47.002Z",
+    "generatedAt": "2026-07-20T08:48:10.913Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -179,22 +179,22 @@
       "tmdb:1285965",
       "tmdb:713704",
       "tmdb:1480387",
-      "tmdb:1301421",
       "tmdb:395834",
-      "tmdb:1339713",
-      "tmdb:687163"
+      "tmdb:1656220",
+      "tmdb:1002158",
+      "tmdb:1448560"
     ],
     "tmdbShows": [
-      "tmdb:286709",
-      "tmdb:241882",
       "tmdb:254528",
       "tmdb:278624",
+      "tmdb:241882",
+      "tmdb:286709",
       "tmdb:125988",
-      "tmdb:302074",
       "tmdb:84052",
+      "tmdb:302074",
       "tmdb:43879",
-      "tmdb:62097",
-      "tmdb:94997"
+      "tmdb:94997",
+      "tmdb:62097"
     ]
   }
 }
