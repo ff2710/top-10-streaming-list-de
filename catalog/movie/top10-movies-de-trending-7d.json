@@ -29,18 +29,11 @@
       "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
     },
     {
-      "id": "tmdb:1480387",
+      "id": "tmdb:1002158",
       "type": "movie",
-      "name": "Undertone",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/340813644/s592/undertone.jpg"
-    },
-    {
-      "id": "tmdb:395834",
-      "type": "movie",
-      "name": "Wind River - Tod im Schnee",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/320086489/s592/Wind-River.jpg"
+      "name": "Vultures",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
     },
     {
       "id": "tmdb:1656220",
@@ -50,11 +43,18 @@
       "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
     },
     {
-      "id": "tmdb:1002158",
+      "id": "tmdb:840464",
       "type": "movie",
-      "name": "Vultures",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
+      "name": "Greenland 2",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341236946/s592/greenland-migration.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
       "id": "tmdb:1448560",
