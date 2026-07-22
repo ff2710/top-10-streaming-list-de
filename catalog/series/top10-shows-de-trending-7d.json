@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/92550894/s592/Parfum.jpg"
     },
     {
-      "id": "tmdb:302074",
-      "type": "series",
-      "name": "RJ Decker",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
@@ -50,11 +43,11 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:286709",
+      "id": "tmdb:1411",
       "type": "series",
-      "name": "Die Westies",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
+      "name": "Person of Interest",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
     },
     {
       "id": "tmdb:43879",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/38152563/s592/Braunschlag.jpg"
     },
     {
-      "id": "tmdb:1411",
+      "id": "tmdb:302074",
       "type": "series",
-      "name": "Person of Interest",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
+      "name": "RJ Decker",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
+    },
+    {
+      "id": "tmdb:296206",
+      "type": "series",
+      "name": "Agent Kim Reactivated",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
     }
   ]
 }

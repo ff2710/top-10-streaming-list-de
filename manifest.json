@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-21T08:16:19.078Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-22T08:17:13.839Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
         },
         {
-          "id": "tmdb:1285965",
+          "id": "tmdb:840464",
           "type": "movie",
-          "name": "Dangerous Animals",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338843624/s592/dangerous-animals.jpg"
+          "name": "Greenland 2",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341236946/s592/greenland-migration.jpg"
         },
         {
           "id": "tmdb:713704",
@@ -57,25 +57,25 @@
           "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
         },
         {
-          "id": "tmdb:1656220",
-          "type": "movie",
-          "name": "23.000 Leben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
-        },
-        {
-          "id": "tmdb:840464",
-          "type": "movie",
-          "name": "Greenland 2",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341236946/s592/greenland-migration.jpg"
-        },
-        {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+        },
+        {
+          "id": "tmdb:1656220",
+          "type": "movie",
+          "name": "23 000 Leben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
+        },
+        {
+          "id": "tmdb:1138194",
+          "type": "movie",
+          "name": "Heretic",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/328961722/s592/heretic-2024.jpg"
         },
         {
           "id": "tmdb:1448560",
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/92550894/s592/Parfum.jpg"
         },
         {
-          "id": "tmdb:302074",
-          "type": "series",
-          "name": "RJ Decker",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
-        },
-        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
@@ -142,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
-          "id": "tmdb:286709",
+          "id": "tmdb:1411",
           "type": "series",
-          "name": "Die Westies",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346524761/s592/the-westies.jpg"
+          "name": "Person of Interest",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
         },
         {
           "id": "tmdb:43879",
@@ -156,11 +149,18 @@
           "poster": "https://images.justwatch.com/poster/38152563/s592/Braunschlag.jpg"
         },
         {
-          "id": "tmdb:1411",
+          "id": "tmdb:302074",
           "type": "series",
-          "name": "Person of Interest",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
+          "name": "RJ Decker",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/341674039/s592/r-j-decker.jpg"
+        },
+        {
+          "id": "tmdb:296206",
+          "type": "series",
+          "name": "Agent Kim Reactivated",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346702648/s592/agent-kim-reactivated.jpg"
         }
       ]
     }
@@ -170,18 +170,18 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-21T08:16:19.078Z",
+    "generatedAt": "2026-07-22T08:17:13.839Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1368337",
       "tmdb:652",
-      "tmdb:1285965",
+      "tmdb:840464",
       "tmdb:713704",
       "tmdb:1002158",
-      "tmdb:1656220",
-      "tmdb:840464",
       "tmdb:687163",
+      "tmdb:1656220",
+      "tmdb:1138194",
       "tmdb:1448560"
     ],
     "tmdbShows": [
@@ -189,12 +189,12 @@
       "tmdb:278624",
       "tmdb:241882",
       "tmdb:84052",
-      "tmdb:302074",
       "tmdb:125988",
       "tmdb:94997",
-      "tmdb:286709",
+      "tmdb:1411",
       "tmdb:43879",
-      "tmdb:1411"
+      "tmdb:302074",
+      "tmdb:296206"
     ]
   }
 }
