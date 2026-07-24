@@ -1,25 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:1368337",
-      "type": "movie",
-      "name": "Die Odyssee",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-    },
-    {
-      "id": "tmdb:652",
-      "type": "movie",
-      "name": "Troja",
-      "year": 2004,
-      "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
-    },
-    {
       "id": "tmdb:454639",
       "type": "movie",
       "name": "Masters of the Universe",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
+    },
+    {
+      "id": "tmdb:1368337",
+      "type": "movie",
+      "name": "Die Odyssee",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     },
     {
       "id": "tmdb:840464",
@@ -36,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
     },
     {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-    },
-    {
       "id": "tmdb:1138194",
       "type": "movie",
       "name": "Heretic",
@@ -55,6 +41,20 @@
       "name": "23 000 Leben",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+    },
+    {
+      "id": "tmdb:652",
+      "type": "movie",
+      "name": "Troja",
+      "year": 2004,
+      "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
     },
     {
       "id": "tmdb:1448560",
