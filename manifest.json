@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-24T08:15:39.931Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-25T07:58:06.138Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,18 +29,18 @@
           "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
         },
         {
-          "id": "tmdb:1368337",
-          "type": "movie",
-          "name": "Die Odyssee",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-        },
-        {
           "id": "tmdb:840464",
           "type": "movie",
           "name": "Greenland 2",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/341236946/s592/greenland-migration.jpg"
+        },
+        {
+          "id": "tmdb:1368337",
+          "type": "movie",
+          "name": "Die Odyssee",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         },
         {
           "id": "tmdb:1002158",
@@ -57,11 +57,18 @@
           "poster": "https://images.justwatch.com/poster/328961722/s592/heretic-2024.jpg"
         },
         {
-          "id": "tmdb:1656220",
+          "id": "tmdb:931285",
           "type": "movie",
-          "name": "23 000 Leben",
+          "name": "Mortal Kombat II",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
+          "poster": "https://images.justwatch.com/poster/346234428/s592/mortal-kombat-2.jpg"
+        },
+        {
+          "id": "tmdb:1024721",
+          "type": "movie",
+          "name": "Monolith - Die Alien-Verschwörung",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
         },
         {
           "id": "tmdb:687163",
@@ -71,25 +78,18 @@
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:652",
+          "id": "tmdb:92398",
           "type": "movie",
-          "name": "Troja",
-          "year": 2004,
-          "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
+          "name": "Cassadaga - Hier lebt der Teufel",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/268660604/s592/Cassadaga.jpg"
         },
         {
-          "id": "tmdb:1448560",
+          "id": "tmdb:1228710",
           "type": "movie",
-          "name": "Wildcat",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/347378997/s592/wildcat-2025.jpg"
-        },
-        {
-          "id": "tmdb:1201753",
-          "type": "movie",
-          "name": "Get Away",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322720066/s592/get-away.jpg"
+          "name": "The Mandalorian and Grogu",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345955930/s592/the-mandalorian-und-grogu.jpg"
         }
       ]
     },
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/92550894/s592/Parfum.jpg"
         },
         {
-          "id": "tmdb:254528",
+          "id": "tmdb:125988",
           "type": "series",
-          "name": "The Hawk",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345822179/s592/golf.jpg"
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:278624",
@@ -119,13 +119,6 @@
           "name": "Lucky",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
-        },
-        {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:94997",
@@ -142,18 +135,18 @@
           "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
         },
         {
-          "id": "tmdb:124364",
-          "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-        },
-        {
           "id": "tmdb:281281",
           "type": "series",
           "name": "GIGN",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346666921/s592/elite-force.jpg"
+        },
+        {
+          "id": "tmdb:254528",
+          "type": "series",
+          "name": "The Hawk",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345822179/s592/golf.jpg"
         },
         {
           "id": "tmdb:67487",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/114829466/s592/The-Tick-2016.jpg"
         },
         {
-          "id": "tmdb:241882",
+          "id": "tmdb:124364",
           "type": "series",
-          "name": "Ride or Die",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346372629/s592/ride-or-die.jpg"
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+        },
+        {
+          "id": "tmdb:240993",
+          "type": "series",
+          "name": "Ransom Canyon",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331241161/s592/ransom-canyon.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-24T08:15:39.931Z",
+    "generatedAt": "2026-07-25T07:58:06.138Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:454639",
-      "tmdb:1368337",
       "tmdb:840464",
+      "tmdb:1368337",
       "tmdb:1002158",
       "tmdb:1138194",
-      "tmdb:1656220",
+      "tmdb:931285",
+      "tmdb:1024721",
       "tmdb:687163",
-      "tmdb:652",
-      "tmdb:1448560",
-      "tmdb:1201753"
+      "tmdb:92398",
+      "tmdb:1228710"
     ],
     "tmdbShows": [
       "tmdb:84052",
-      "tmdb:254528",
-      "tmdb:278624",
       "tmdb:125988",
+      "tmdb:278624",
       "tmdb:94997",
       "tmdb:1411",
-      "tmdb:124364",
       "tmdb:281281",
+      "tmdb:254528",
       "tmdb:67487",
-      "tmdb:241882"
+      "tmdb:124364",
+      "tmdb:240993"
     ]
   }
 }

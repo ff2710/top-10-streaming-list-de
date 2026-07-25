@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
     },
     {
-      "id": "tmdb:1368337",
-      "type": "movie",
-      "name": "Die Odyssee",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-    },
-    {
       "id": "tmdb:840464",
       "type": "movie",
       "name": "Greenland 2",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/341236946/s592/greenland-migration.jpg"
+    },
+    {
+      "id": "tmdb:1368337",
+      "type": "movie",
+      "name": "Die Odyssee",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     },
     {
       "id": "tmdb:1002158",
@@ -36,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/328961722/s592/heretic-2024.jpg"
     },
     {
-      "id": "tmdb:1656220",
+      "id": "tmdb:931285",
       "type": "movie",
-      "name": "23 000 Leben",
+      "name": "Mortal Kombat II",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346684392/s592/23000-leben.jpg"
+      "poster": "https://images.justwatch.com/poster/346234428/s592/mortal-kombat-2.jpg"
+    },
+    {
+      "id": "tmdb:1024721",
+      "type": "movie",
+      "name": "Monolith - Die Alien-Verschwörung",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
     },
     {
       "id": "tmdb:687163",
@@ -50,25 +57,18 @@
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:652",
+      "id": "tmdb:92398",
       "type": "movie",
-      "name": "Troja",
-      "year": 2004,
-      "poster": "https://images.justwatch.com/poster/54474992/s592/Troja.jpg"
+      "name": "Cassadaga - Hier lebt der Teufel",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/268660604/s592/Cassadaga.jpg"
     },
     {
-      "id": "tmdb:1448560",
+      "id": "tmdb:1228710",
       "type": "movie",
-      "name": "Wildcat",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/347378997/s592/wildcat-2025.jpg"
-    },
-    {
-      "id": "tmdb:1201753",
-      "type": "movie",
-      "name": "Get Away",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/322720066/s592/get-away.jpg"
+      "name": "The Mandalorian and Grogu",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345955930/s592/the-mandalorian-und-grogu.jpg"
     }
   ]
 }
