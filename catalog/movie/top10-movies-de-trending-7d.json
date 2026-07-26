@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/341236946/s592/greenland-migration.jpg"
     },
     {
-      "id": "tmdb:1368337",
-      "type": "movie",
-      "name": "Die Odyssee",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-    },
-    {
       "id": "tmdb:1002158",
       "type": "movie",
       "name": "Vultures",
@@ -36,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/328961722/s592/heretic-2024.jpg"
     },
     {
-      "id": "tmdb:931285",
+      "id": "tmdb:1368337",
       "type": "movie",
-      "name": "Mortal Kombat II",
+      "name": "Die Odyssee",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346234428/s592/mortal-kombat-2.jpg"
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     },
     {
       "id": "tmdb:1024721",
@@ -48,13 +41,6 @@
       "name": "Monolith - Die Alien-Verschwörung",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
-    },
-    {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
       "id": "tmdb:92398",
@@ -69,6 +55,20 @@
       "name": "The Mandalorian and Grogu",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/345955930/s592/the-mandalorian-und-grogu.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+    },
+    {
+      "id": "tmdb:1211483",
+      "type": "movie",
+      "name": "Skal: Fight for Survival",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/309917152/s592/skal-fight-for-survival.jpg"
     }
   ]
 }
