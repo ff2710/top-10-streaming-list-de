@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/346666921/s592/elite-force.jpg"
     },
     {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-    },
-    {
       "id": "tmdb:287620",
       "type": "series",
       "name": "Stuart Fails to Save the Universe",
@@ -29,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/345561171/s592/stuart-fails-to-save-the-universe.jpg"
     },
     {
-      "id": "tmdb:1411",
+      "id": "tmdb:94997",
       "type": "series",
-      "name": "Person of Interest",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/123546636/s592/Person-of-Interest.jpg"
+      "name": "House of the Dragon",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
       "id": "tmdb:240993",
@@ -50,13 +43,6 @@
       "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
     },
     {
-      "id": "tmdb:278624",
-      "type": "series",
-      "name": "Lucky",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
-    },
-    {
       "id": "tmdb:277640",
       "type": "series",
       "name": "Pompeji mit Tom Hiddleston",
@@ -69,6 +55,20 @@
       "name": "The Tick",
       "year": 2016,
       "poster": "https://images.justwatch.com/poster/114829466/s592/The-Tick-2016.jpg"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
+    },
+    {
+      "id": "tmdb:287238",
+      "type": "series",
+      "name": "Furious",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
     }
   ]
 }

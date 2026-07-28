@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
     },
     {
+      "id": "tmdb:1024721",
+      "type": "movie",
+      "name": "Monolith - Die Alien-Verschwörung",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
+    },
+    {
       "id": "tmdb:840464",
       "type": "movie",
       "name": "Greenland 2",
@@ -22,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/328961722/s592/heretic-2024.jpg"
     },
     {
-      "id": "tmdb:1024721",
+      "id": "tmdb:1211483",
       "type": "movie",
-      "name": "Monolith - Die Alien-Verschwörung",
+      "name": "Skal: Fight for Survival",
       "year": 2023,
-      "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
+      "poster": "https://images.justwatch.com/poster/309917152/s592/skal-fight-for-survival.jpg"
     },
     {
       "id": "tmdb:687163",
@@ -43,11 +50,11 @@
       "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
     },
     {
-      "id": "tmdb:1368337",
+      "id": "tmdb:980431",
       "type": "movie",
-      "name": "Die Odyssee",
+      "name": "Die Legende von Aang: Der Herr der Elemente",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/347581603/s592/aang-the-last-airbender-2026.jpg"
     },
     {
       "id": "tmdb:1228710",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/345955930/s592/the-mandalorian-und-grogu.jpg"
     },
     {
-      "id": "tmdb:1211483",
+      "id": "tmdb:1368337",
       "type": "movie",
-      "name": "Skal: Fight for Survival",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/309917152/s592/skal-fight-for-survival.jpg"
-    },
-    {
-      "id": "tmdb:1405765",
-      "type": "movie",
-      "name": "Complicated",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/347234155/s592/complicated.jpg"
+      "name": "Die Odyssee",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     }
   ]
 }
