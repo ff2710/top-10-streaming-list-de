@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/309917152/s592/skal-fight-for-survival.jpg"
     },
     {
-      "id": "tmdb:949838",
-      "type": "movie",
-      "name": "72 Hours",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
-    },
-    {
       "id": "tmdb:980431",
       "type": "movie",
       "name": "Die Legende von Aang: Der Herr der Elemente",
@@ -43,11 +36,25 @@
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
+      "id": "tmdb:949838",
+      "type": "movie",
+      "name": "72 Hours",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
+    },
+    {
       "id": "tmdb:1175174",
       "type": "movie",
       "name": "Fackham Hall",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
+    },
+    {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
     },
     {
       "id": "tmdb:1368337",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     },
     {
-      "id": "tmdb:1138194",
+      "id": "tmdb:6479",
       "type": "movie",
-      "name": "Heretic",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/328961722/s592/heretic-2024.jpg"
-    },
-    {
-      "id": "tmdb:1405765",
-      "type": "movie",
-      "name": "Complicated",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/347234155/s592/complicated.jpg"
+      "name": "I Am Legend",
+      "year": 2007,
+      "poster": "https://images.justwatch.com/poster/178047140/s592/I-Am-Legend.jpg"
     }
   ]
 }
