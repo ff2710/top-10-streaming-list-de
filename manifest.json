@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-07-30T08:14:15.151Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-07-31T08:40:40.709Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
         },
         {
-          "id": "tmdb:1024721",
-          "type": "movie",
-          "name": "Monolith - Die Alien-Verschwörung",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
-        },
-        {
           "id": "tmdb:1211483",
           "type": "movie",
           "name": "Skal: Fight for Survival",
@@ -50,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/347581603/s592/aang-the-last-airbender-2026.jpg"
         },
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:949838",
           "type": "movie",
           "name": "72 Hours",
@@ -64,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
         },
         {
-          "id": "tmdb:1175174",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "Fackham Hall",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:634649",
@@ -78,18 +64,32 @@
           "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         },
         {
-          "id": "tmdb:1368337",
-          "type": "movie",
-          "name": "Die Odyssee",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-        },
-        {
           "id": "tmdb:6479",
           "type": "movie",
           "name": "I Am Legend",
           "year": 2007,
           "poster": "https://images.justwatch.com/poster/178047140/s592/I-Am-Legend.jpg"
+        },
+        {
+          "id": "tmdb:290250",
+          "type": "movie",
+          "name": "The Nice Guys",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/818307/s592/The-Nice-Guys.jpg"
+        },
+        {
+          "id": "tmdb:1175174",
+          "type": "movie",
+          "name": "Fackham Hall",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
+        },
+        {
+          "id": "tmdb:341013",
+          "type": "movie",
+          "name": "Atomic Blonde",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/188186616/s592/Atomic-Blonde.jpg"
         }
       ]
     },
@@ -100,11 +100,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:281281",
+          "id": "tmdb:287238",
           "type": "series",
-          "name": "Elite Force",
+          "name": "Furious",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346666921/s592/elite-force.jpg"
+          "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -114,11 +114,11 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:287238",
+          "id": "tmdb:281281",
           "type": "series",
-          "name": "Furious",
+          "name": "Elite Force",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
+          "poster": "https://images.justwatch.com/poster/346666921/s592/elite-force.jpg"
         },
         {
           "id": "tmdb:287620",
@@ -128,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/345561171/s592/stuart-fails-to-save-the-universe.jpg"
         },
         {
-          "id": "tmdb:240993",
+          "id": "tmdb:94997",
           "type": "series",
-          "name": "Ransom Canyon",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331241161/s592/ransom-canyon.jpg"
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
           "id": "tmdb:103516",
@@ -142,18 +142,11 @@
           "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
         },
         {
-          "id": "tmdb:94997",
+          "id": "tmdb:240993",
           "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-        },
-        {
-          "id": "tmdb:277640",
-          "type": "series",
-          "name": "Pompeji mit Tom Hiddleston",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346512667/s592/surviving-pompeii-with-tom-hiddleston.jpg"
+          "name": "Ransom Canyon",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331241161/s592/ransom-canyon.jpg"
         },
         {
           "id": "tmdb:300727",
@@ -161,6 +154,13 @@
           "name": "The Apartment Job",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347470646/s592/the-apartment-job.jpg"
+        },
+        {
+          "id": "tmdb:124364",
+          "type": "series",
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
           "id": "tmdb:254721",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-07-30T08:14:15.151Z",
+    "generatedAt": "2026-07-31T08:40:40.709Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:454639",
-      "tmdb:1024721",
       "tmdb:1211483",
       "tmdb:980431",
-      "tmdb:687163",
       "tmdb:949838",
-      "tmdb:1175174",
+      "tmdb:687163",
       "tmdb:634649",
-      "tmdb:1368337",
-      "tmdb:6479"
+      "tmdb:6479",
+      "tmdb:290250",
+      "tmdb:1175174",
+      "tmdb:341013"
     ],
     "tmdbShows": [
-      "tmdb:281281",
-      "tmdb:125988",
       "tmdb:287238",
+      "tmdb:125988",
+      "tmdb:281281",
       "tmdb:287620",
-      "tmdb:240993",
-      "tmdb:103516",
       "tmdb:94997",
-      "tmdb:277640",
+      "tmdb:103516",
+      "tmdb:240993",
       "tmdb:300727",
+      "tmdb:124364",
       "tmdb:254721"
     ]
   }

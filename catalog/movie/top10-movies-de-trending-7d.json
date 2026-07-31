@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
     },
     {
-      "id": "tmdb:1024721",
-      "type": "movie",
-      "name": "Monolith - Die Alien-Verschwörung",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/319863235/s592/monolith.jpg"
-    },
-    {
       "id": "tmdb:1211483",
       "type": "movie",
       "name": "Skal: Fight for Survival",
@@ -29,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/347581603/s592/aang-the-last-airbender-2026.jpg"
     },
     {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-    },
-    {
       "id": "tmdb:949838",
       "type": "movie",
       "name": "72 Hours",
@@ -43,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
     },
     {
-      "id": "tmdb:1175174",
+      "id": "tmdb:687163",
       "type": "movie",
-      "name": "Fackham Hall",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
       "id": "tmdb:634649",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
     },
     {
-      "id": "tmdb:1368337",
-      "type": "movie",
-      "name": "Die Odyssee",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-    },
-    {
       "id": "tmdb:6479",
       "type": "movie",
       "name": "I Am Legend",
       "year": 2007,
       "poster": "https://images.justwatch.com/poster/178047140/s592/I-Am-Legend.jpg"
+    },
+    {
+      "id": "tmdb:290250",
+      "type": "movie",
+      "name": "The Nice Guys",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/818307/s592/The-Nice-Guys.jpg"
+    },
+    {
+      "id": "tmdb:1175174",
+      "type": "movie",
+      "name": "Fackham Hall",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
+    },
+    {
+      "id": "tmdb:341013",
+      "type": "movie",
+      "name": "Atomic Blonde",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/188186616/s592/Atomic-Blonde.jpg"
     }
   ]
 }
