@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/346666921/s592/elite-force.jpg"
     },
     {
-      "id": "tmdb:287620",
-      "type": "series",
-      "name": "Stuart Fails to Save the Universe",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345561171/s592/stuart-fails-to-save-the-universe.jpg"
-    },
-    {
       "id": "tmdb:94997",
       "type": "series",
       "name": "House of the Dragon",
@@ -36,18 +29,11 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:103516",
+      "id": "tmdb:287620",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
-    },
-    {
-      "id": "tmdb:240993",
-      "type": "series",
-      "name": "Ransom Canyon",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331241161/s592/ransom-canyon.jpg"
+      "name": "Stuart Fails to Save the Universe",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345561171/s592/stuart-fails-to-save-the-universe.jpg"
     },
     {
       "id": "tmdb:300727",
@@ -57,6 +43,20 @@
       "poster": "https://images.justwatch.com/poster/347470646/s592/the-apartment-job.jpg"
     },
     {
+      "id": "tmdb:103516",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
+    },
+    {
+      "id": "tmdb:328735",
+      "type": "series",
+      "name": "The Idaho Murders: Ein College-Albtraum",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347455000/s592/the-idaho-murders-college-nightmare.jpg"
+    },
+    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
     },
     {
-      "id": "tmdb:254721",
+      "id": "tmdb:32692",
       "type": "series",
-      "name": "Kaulitz & Kaulitz",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/318530932/s592/kaulitz-und-kaulitz.jpg"
+      "name": "Blue Bloods: Crime Scene New York",
+      "year": 2010,
+      "poster": "https://images.justwatch.com/poster/302457869/s592/Blue-Bloods.jpg"
     }
   ]
 }
