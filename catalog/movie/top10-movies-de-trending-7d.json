@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:454639",
-      "type": "movie",
-      "name": "Masters of the Universe",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346268392/s592/Masters-of-the-Universe-2021.jpg"
-    },
-    {
       "id": "tmdb:980431",
       "type": "movie",
       "name": "Die Legende von Aang: Der Herr der Elemente",
@@ -29,6 +22,13 @@
       "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
     },
     {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
+    },
+    {
       "id": "tmdb:1481343",
       "type": "movie",
       "name": "The Devil's Mouth - Der Teufelsschlund",
@@ -43,18 +43,11 @@
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:634649",
+      "id": "tmdb:969681",
       "type": "movie",
-      "name": "Spider-Man: No Way Home",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
-    },
-    {
-      "id": "tmdb:6479",
-      "type": "movie",
-      "name": "I Am Legend",
-      "year": 2007,
-      "poster": "https://images.justwatch.com/poster/178047140/s592/I-Am-Legend.jpg"
+      "name": "Spider-Man 4",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346462674/s592/spider-man-4.jpg"
     },
     {
       "id": "tmdb:1175174",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
     },
     {
-      "id": "tmdb:290250",
+      "id": "tmdb:6479",
       "type": "movie",
-      "name": "The Nice Guys",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/818307/s592/The-Nice-Guys.jpg"
+      "name": "I Am Legend",
+      "year": 2007,
+      "poster": "https://images.justwatch.com/poster/178047140/s592/I-Am-Legend.jpg"
+    },
+    {
+      "id": "tmdb:1314481",
+      "type": "movie",
+      "name": "Der Teufel trägt Prada 2",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344653703/s592/der-teufel-traegt-prada-2.jpg"
     }
   ]
 }
