@@ -1,39 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:980431",
-      "type": "movie",
-      "name": "Die Legende von Aang: Der Herr der Elemente",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347581603/s592/aang-the-last-airbender-2026.jpg"
-    },
-    {
-      "id": "tmdb:1211483",
-      "type": "movie",
-      "name": "Skal: Fight for Survival",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/309917152/s592/skal-fight-for-survival.jpg"
-    },
-    {
-      "id": "tmdb:949838",
-      "type": "movie",
-      "name": "72 Hours",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
-    },
-    {
       "id": "tmdb:634649",
       "type": "movie",
       "name": "Spider-Man: No Way Home",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
-    },
-    {
-      "id": "tmdb:1481343",
-      "type": "movie",
-      "name": "The Devil's Mouth - Der Teufelsschlund",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346740369/s592/the-devils-mouth-2026.jpg"
     },
     {
       "id": "tmdb:687163",
@@ -43,11 +15,32 @@
       "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
+      "id": "tmdb:949838",
+      "type": "movie",
+      "name": "72 Hours",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347532165/s592/72-hours-2026.jpg"
+    },
+    {
       "id": "tmdb:969681",
       "type": "movie",
       "name": "Spider-Man 4",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346462674/s592/spider-man-4.jpg"
+      "poster": "https://images.justwatch.com/poster/347820126/s592/spider-man-4.jpg"
+    },
+    {
+      "id": "tmdb:1481343",
+      "type": "movie",
+      "name": "The Devil's Mouth - Der Teufelsschlund",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346740369/s592/the-devils-mouth-2026.jpg"
+    },
+    {
+      "id": "tmdb:980431",
+      "type": "movie",
+      "name": "Die Legende von Aang: Der Herr der Elemente",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347826101/s592/aang-the-last-airbender-2026.jpg"
     },
     {
       "id": "tmdb:1175174",
@@ -69,6 +62,13 @@
       "name": "Der Teufel trägt Prada 2",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/344653703/s592/der-teufel-traegt-prada-2.jpg"
+    },
+    {
+      "id": "tmdb:1368337",
+      "type": "movie",
+      "name": "Die Odyssee",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     }
   ]
 }
