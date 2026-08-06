@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-05T08:26:22.253Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-06T08:24:37.726Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,20 +43,6 @@
           "poster": "https://images.justwatch.com/poster/344653703/s592/der-teufel-traegt-prada-2.jpg"
         },
         {
-          "id": "tmdb:1481343",
-          "type": "movie",
-          "name": "The Devil's Mouth - Der Teufelsschlund",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346740369/s592/the-devils-mouth-2026.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:609181",
           "type": "movie",
           "name": "Golden Arm",
@@ -64,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
         },
         {
-          "id": "tmdb:341013",
+          "id": "tmdb:1481343",
           "type": "movie",
-          "name": "Atomic Blonde",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/188186616/s592/Atomic-Blonde.jpg"
+          "name": "The Devil's Mouth - Der Teufelsschlund",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346740369/s592/the-devils-mouth-2026.jpg"
         },
         {
           "id": "tmdb:14636",
@@ -78,18 +64,32 @@
           "poster": "https://images.justwatch.com/poster/195048269/s592/Die-Todeskandidaten.jpg"
         },
         {
+          "id": "tmdb:341013",
+          "type": "movie",
+          "name": "Atomic Blonde",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/188186616/s592/Atomic-Blonde.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+        },
+        {
+          "id": "tmdb:315635",
+          "type": "movie",
+          "name": "Spider-Man: Homecoming",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/302706001/s592/Spider-Man-Homecoming.jpg"
+        },
+        {
           "id": "tmdb:1275779",
           "type": "movie",
           "name": "Disclosure Day - Der Tag der Wahrheit",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
-        },
-        {
-          "id": "tmdb:1368337",
-          "type": "movie",
-          "name": "Die Odyssee",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         }
       ]
     },
@@ -107,13 +107,6 @@
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
-          "id": "tmdb:287238",
-          "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
-        },
-        {
           "id": "tmdb:241549",
           "type": "series",
           "name": "Murder in a Small Town",
@@ -128,25 +121,11 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:262967",
+          "id": "tmdb:120452",
           "type": "series",
-          "name": "Titanic - Die Nacht der Katastrophe",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/344334562/s592/titanic-die-nacht-der-katastrophe.jpg"
-        },
-        {
-          "id": "tmdb:328735",
-          "type": "series",
-          "name": "The Idaho Murders: Ein College-Albtraum",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347455000/s592/the-idaho-murders-college-nightmare.jpg"
-        },
-        {
-          "id": "tmdb:94997",
-          "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+          "name": "The Lost Symbol",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/320892693/s592/Dan-Browns-The-Lost-Symbol.jpg"
         },
         {
           "id": "tmdb:113962",
@@ -156,6 +135,27 @@
           "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
         },
         {
+          "id": "tmdb:262967",
+          "type": "series",
+          "name": "Titanic - Die Nacht der Katastrophe",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/344334562/s592/titanic-die-nacht-der-katastrophe.jpg"
+        },
+        {
+          "id": "tmdb:287238",
+          "type": "series",
+          "name": "Furious",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
+        },
+        {
+          "id": "tmdb:94997",
+          "type": "series",
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
           "id": "tmdb:125909",
           "type": "series",
           "name": "Batman: Caped Crusader",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/347590903/s592/batman-caped-crusader.jpg"
         },
         {
-          "id": "tmdb:120452",
+          "id": "tmdb:80748",
           "type": "series",
-          "name": "The Lost Symbol",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/320892693/s592/Dan-Browns-The-Lost-Symbol.jpg"
+          "name": "FBI: Special Crime Unit",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/242007139/s592/FBI-2018.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-05T08:26:22.253Z",
+    "generatedAt": "2026-08-06T08:24:37.726Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:969681",
       "tmdb:634649",
       "tmdb:1314481",
-      "tmdb:1481343",
-      "tmdb:687163",
       "tmdb:609181",
-      "tmdb:341013",
+      "tmdb:1481343",
       "tmdb:14636",
-      "tmdb:1275779",
-      "tmdb:1368337"
+      "tmdb:341013",
+      "tmdb:687163",
+      "tmdb:315635",
+      "tmdb:1275779"
     ],
     "tmdbShows": [
       "tmdb:97546",
-      "tmdb:287238",
       "tmdb:241549",
       "tmdb:125988",
-      "tmdb:262967",
-      "tmdb:328735",
-      "tmdb:94997",
+      "tmdb:120452",
       "tmdb:113962",
+      "tmdb:262967",
+      "tmdb:287238",
+      "tmdb:94997",
       "tmdb:125909",
-      "tmdb:120452"
+      "tmdb:80748"
     ]
   }
 }
