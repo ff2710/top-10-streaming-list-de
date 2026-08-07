@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-06T08:24:37.726Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-07T07:05:30.619Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,6 +22,13 @@
       "extra": [],
       "items": [
         {
+          "id": "tmdb:609181",
+          "type": "movie",
+          "name": "Golden Arm",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
+        },
+        {
           "id": "tmdb:969681",
           "type": "movie",
           "name": "Spider-Man 4",
@@ -36,27 +43,6 @@
           "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         },
         {
-          "id": "tmdb:1314481",
-          "type": "movie",
-          "name": "Der Teufel trägt Prada 2",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344653703/s592/der-teufel-traegt-prada-2.jpg"
-        },
-        {
-          "id": "tmdb:609181",
-          "type": "movie",
-          "name": "Golden Arm",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
-        },
-        {
-          "id": "tmdb:1481343",
-          "type": "movie",
-          "name": "The Devil's Mouth - Der Teufelsschlund",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346740369/s592/the-devils-mouth-2026.jpg"
-        },
-        {
           "id": "tmdb:14636",
           "type": "movie",
           "name": "Die Todeskandidaten",
@@ -64,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/195048269/s592/Die-Todeskandidaten.jpg"
         },
         {
-          "id": "tmdb:341013",
+          "id": "tmdb:1106739",
           "type": "movie",
-          "name": "Atomic Blonde",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/188186616/s592/Atomic-Blonde.jpg"
+          "name": "Juror #2",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324079882/s592/juror-2.jpg"
         },
         {
           "id": "tmdb:687163",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/302706001/s592/Spider-Man-Homecoming.jpg"
         },
         {
-          "id": "tmdb:1275779",
+          "id": "tmdb:882251",
           "type": "movie",
-          "name": "Disclosure Day - Der Tag der Wahrheit",
+          "name": "Silent Hours",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/253035765/s592/Silent-Hours.jpg"
+        },
+        {
+          "id": "tmdb:514921",
+          "type": "movie",
+          "name": "The Aeronauts",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/327434307/s592/The-Aeronauts.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession – Du sollst mich lieben",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345883747/s592/the-dish.jpg"
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/320594208/s592/murder-in-a-small-town.jpg"
         },
         {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-        },
-        {
           "id": "tmdb:120452",
           "type": "series",
           "name": "The Lost Symbol",
@@ -142,11 +135,18 @@
           "poster": "https://images.justwatch.com/poster/344334562/s592/titanic-die-nacht-der-katastrophe.jpg"
         },
         {
-          "id": "tmdb:287238",
+          "id": "tmdb:125909",
           "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
+          "name": "Batman: Caped Crusader",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/347590903/s592/batman-caped-crusader.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
           "id": "tmdb:94997",
@@ -156,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
-          "id": "tmdb:125909",
-          "type": "series",
-          "name": "Batman: Caped Crusader",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/347590903/s592/batman-caped-crusader.jpg"
-        },
-        {
           "id": "tmdb:80748",
           "type": "series",
           "name": "FBI: Special Crime Unit",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/242007139/s592/FBI-2018.jpg"
+        },
+        {
+          "id": "tmdb:248226",
+          "type": "series",
+          "name": "Lockerbie",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/333693627/s592/lockerbie-2025.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-06T08:24:37.726Z",
+    "generatedAt": "2026-08-07T07:05:30.619Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
+      "tmdb:609181",
       "tmdb:969681",
       "tmdb:634649",
-      "tmdb:1314481",
-      "tmdb:609181",
-      "tmdb:1481343",
       "tmdb:14636",
-      "tmdb:341013",
+      "tmdb:1106739",
       "tmdb:687163",
       "tmdb:315635",
-      "tmdb:1275779"
+      "tmdb:882251",
+      "tmdb:514921",
+      "tmdb:1339713"
     ],
     "tmdbShows": [
       "tmdb:97546",
       "tmdb:241549",
-      "tmdb:125988",
       "tmdb:120452",
       "tmdb:113962",
       "tmdb:262967",
-      "tmdb:287238",
-      "tmdb:94997",
       "tmdb:125909",
-      "tmdb:80748"
+      "tmdb:125988",
+      "tmdb:94997",
+      "tmdb:80748",
+      "tmdb:248226"
     ]
   }
 }

@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/320594208/s592/murder-in-a-small-town.jpg"
     },
     {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-    },
-    {
       "id": "tmdb:120452",
       "type": "series",
       "name": "The Lost Symbol",
@@ -43,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/344334562/s592/titanic-die-nacht-der-katastrophe.jpg"
     },
     {
-      "id": "tmdb:287238",
+      "id": "tmdb:125909",
       "type": "series",
-      "name": "Furious",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346726357/s592/furious.jpg"
+      "name": "Batman: Caped Crusader",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/347590903/s592/batman-caped-crusader.jpg"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
       "id": "tmdb:94997",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:125909",
-      "type": "series",
-      "name": "Batman: Caped Crusader",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/347590903/s592/batman-caped-crusader.jpg"
-    },
-    {
       "id": "tmdb:80748",
       "type": "series",
       "name": "FBI: Special Crime Unit",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/242007139/s592/FBI-2018.jpg"
+    },
+    {
+      "id": "tmdb:248226",
+      "type": "series",
+      "name": "Lockerbie",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/333693627/s592/lockerbie-2025.jpg"
     }
   ]
 }
