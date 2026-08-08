@@ -36,25 +36,18 @@
       "poster": "https://images.justwatch.com/poster/344334562/s592/titanic-die-nacht-der-katastrophe.jpg"
     },
     {
-      "id": "tmdb:125909",
-      "type": "series",
-      "name": "Batman: Caped Crusader",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/347590903/s592/batman-caped-crusader.jpg"
-    },
-    {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-    },
-    {
       "id": "tmdb:94997",
       "type": "series",
       "name": "House of the Dragon",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+    },
+    {
+      "id": "tmdb:207333",
+      "type": "series",
+      "name": "Hundert Jahre Einsamkeit",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
     },
     {
       "id": "tmdb:80748",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/242007139/s592/FBI-2018.jpg"
     },
     {
-      "id": "tmdb:248226",
+      "id": "tmdb:125988",
       "type": "series",
-      "name": "Lockerbie",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/333693627/s592/lockerbie-2025.jpg"
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+    },
+    {
+      "id": "tmdb:283297",
+      "type": "series",
+      "name": "Sterling Point",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
     }
   ]
 }
