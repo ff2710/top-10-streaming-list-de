@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-08T06:41:12.095Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-09T06:45:12.816Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
         },
         {
-          "id": "tmdb:969681",
-          "type": "movie",
-          "name": "Spider-Man 4",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347820126/s592/spider-man-4.jpg"
-        },
-        {
           "id": "tmdb:1106739",
           "type": "movie",
           "name": "Juror #2",
@@ -43,18 +36,18 @@
           "poster": "https://images.justwatch.com/poster/324079882/s592/juror-2.jpg"
         },
         {
-          "id": "tmdb:634649",
+          "id": "tmdb:969681",
           "type": "movie",
-          "name": "Spider-Man: No Way Home",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
+          "name": "Spider-Man 4",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347820126/s592/spider-man-4.jpg"
         },
         {
-          "id": "tmdb:14636",
+          "id": "tmdb:1284041",
           "type": "movie",
-          "name": "Die Todeskandidaten",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/195048269/s592/Die-Todeskandidaten.jpg"
+          "name": "The Last House",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
         },
         {
           "id": "tmdb:882251",
@@ -71,11 +64,11 @@
           "poster": "https://images.justwatch.com/poster/327434307/s592/The-Aeronauts.jpg"
         },
         {
-          "id": "tmdb:315635",
+          "id": "tmdb:634649",
           "type": "movie",
-          "name": "Spider-Man: Homecoming",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/302706001/s592/Spider-Man-Homecoming.jpg"
+          "name": "Spider-Man: No Way Home",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         },
         {
           "id": "tmdb:347548",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/340816829/s592/Containment-2015.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1381",
           "type": "movie",
-          "name": "Obsession – Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+          "name": "The Fountain",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/58308/s592/The-Fountain-Quell-des-Lebens.jpg"
+        },
+        {
+          "id": "tmdb:348060",
+          "type": "movie",
+          "name": "Antigang - Im Schatten des Verbrechens",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
         }
       ]
     },
@@ -128,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
         },
         {
-          "id": "tmdb:262967",
+          "id": "tmdb:207333",
           "type": "series",
-          "name": "Titanic - Die Nacht der Katastrophe",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/344334562/s592/titanic-die-nacht-der-katastrophe.jpg"
+          "name": "Hundert Jahre Einsamkeit",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
         },
         {
           "id": "tmdb:94997",
@@ -142,13 +142,6 @@
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
-          "id": "tmdb:207333",
-          "type": "series",
-          "name": "Hundert Jahre Einsamkeit",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
-        },
-        {
           "id": "tmdb:80748",
           "type": "series",
           "name": "FBI: Special Crime Unit",
@@ -156,18 +149,25 @@
           "poster": "https://images.justwatch.com/poster/242007139/s592/FBI-2018.jpg"
         },
         {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-        },
-        {
           "id": "tmdb:283297",
           "type": "series",
           "name": "Sterling Point",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
+        },
+        {
+          "id": "tmdb:72061",
+          "type": "series",
+          "name": "Loch Ness",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-08T06:41:12.095Z",
+    "generatedAt": "2026-08-09T06:45:12.816Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:609181",
-      "tmdb:969681",
       "tmdb:1106739",
-      "tmdb:634649",
-      "tmdb:14636",
+      "tmdb:969681",
+      "tmdb:1284041",
       "tmdb:882251",
       "tmdb:514921",
-      "tmdb:315635",
+      "tmdb:634649",
       "tmdb:347548",
-      "tmdb:1339713"
+      "tmdb:1381",
+      "tmdb:348060"
     ],
     "tmdbShows": [
       "tmdb:97546",
       "tmdb:241549",
       "tmdb:120452",
       "tmdb:113962",
-      "tmdb:262967",
-      "tmdb:94997",
       "tmdb:207333",
+      "tmdb:94997",
       "tmdb:80748",
-      "tmdb:125988",
-      "tmdb:283297"
+      "tmdb:283297",
+      "tmdb:72061",
+      "tmdb:125988"
     ]
   }
 }
