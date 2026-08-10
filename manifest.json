@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-09T06:45:12.816Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-10T07:19:53.112Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,25 +29,18 @@
           "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
         },
         {
-          "id": "tmdb:1106739",
-          "type": "movie",
-          "name": "Juror #2",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324079882/s592/juror-2.jpg"
-        },
-        {
-          "id": "tmdb:969681",
-          "type": "movie",
-          "name": "Spider-Man 4",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347820126/s592/spider-man-4.jpg"
-        },
-        {
           "id": "tmdb:1284041",
           "type": "movie",
           "name": "The Last House",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
+        },
+        {
+          "id": "tmdb:1106739",
+          "type": "movie",
+          "name": "Juror #2",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324079882/s592/juror-2.jpg"
         },
         {
           "id": "tmdb:882251",
@@ -57,25 +50,11 @@
           "poster": "https://images.justwatch.com/poster/253035765/s592/Silent-Hours.jpg"
         },
         {
-          "id": "tmdb:514921",
+          "id": "tmdb:969681",
           "type": "movie",
-          "name": "The Aeronauts",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/327434307/s592/The-Aeronauts.jpg"
-        },
-        {
-          "id": "tmdb:634649",
-          "type": "movie",
-          "name": "Spider-Man: No Way Home",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
-        },
-        {
-          "id": "tmdb:347548",
-          "type": "movie",
-          "name": "Containment",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/340816829/s592/Containment-2015.jpg"
+          "name": "Spider-Man 4",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347820126/s592/spider-man-4.jpg"
         },
         {
           "id": "tmdb:1381",
@@ -85,11 +64,32 @@
           "poster": "https://images.justwatch.com/poster/58308/s592/The-Fountain-Quell-des-Lebens.jpg"
         },
         {
+          "id": "tmdb:347548",
+          "type": "movie",
+          "name": "Containment",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/340816829/s592/Containment-2015.jpg"
+        },
+        {
           "id": "tmdb:348060",
           "type": "movie",
           "name": "Antigang - Im Schatten des Verbrechens",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
+        },
+        {
+          "id": "tmdb:396774",
+          "type": "movie",
+          "name": "Bomb City",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/43778451/s592/Bomb-City.jpg"
+        },
+        {
+          "id": "tmdb:634649",
+          "type": "movie",
+          "name": "Spider-Man: No Way Home",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         }
       ]
     },
@@ -107,18 +107,32 @@
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
-          "id": "tmdb:241549",
-          "type": "series",
-          "name": "Murder in a Small Town",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320594208/s592/murder-in-a-small-town.jpg"
-        },
-        {
           "id": "tmdb:120452",
           "type": "series",
           "name": "The Lost Symbol",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/320892693/s592/Dan-Browns-The-Lost-Symbol.jpg"
+        },
+        {
+          "id": "tmdb:207333",
+          "type": "series",
+          "name": "Hundert Jahre Einsamkeit",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
+        },
+        {
+          "id": "tmdb:72061",
+          "type": "series",
+          "name": "Loch Ness",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
+        },
+        {
+          "id": "tmdb:241549",
+          "type": "series",
+          "name": "Murder in a Small Town",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/320594208/s592/murder-in-a-small-town.jpg"
         },
         {
           "id": "tmdb:113962",
@@ -128,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
         },
         {
-          "id": "tmdb:207333",
+          "id": "tmdb:283297",
           "type": "series",
-          "name": "Hundert Jahre Einsamkeit",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
+          "name": "Sterling Point",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
         },
         {
           "id": "tmdb:94997",
@@ -149,20 +163,6 @@
           "poster": "https://images.justwatch.com/poster/242007139/s592/FBI-2018.jpg"
         },
         {
-          "id": "tmdb:283297",
-          "type": "series",
-          "name": "Sterling Point",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
-        },
-        {
-          "id": "tmdb:72061",
-          "type": "series",
-          "name": "Loch Ness",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
-        },
-        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-09T06:45:12.816Z",
+    "generatedAt": "2026-08-10T07:19:53.112Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:609181",
-      "tmdb:1106739",
-      "tmdb:969681",
       "tmdb:1284041",
+      "tmdb:1106739",
       "tmdb:882251",
-      "tmdb:514921",
-      "tmdb:634649",
-      "tmdb:347548",
+      "tmdb:969681",
       "tmdb:1381",
-      "tmdb:348060"
+      "tmdb:347548",
+      "tmdb:348060",
+      "tmdb:396774",
+      "tmdb:634649"
     ],
     "tmdbShows": [
       "tmdb:97546",
-      "tmdb:241549",
       "tmdb:120452",
-      "tmdb:113962",
       "tmdb:207333",
+      "tmdb:72061",
+      "tmdb:241549",
+      "tmdb:113962",
+      "tmdb:283297",
       "tmdb:94997",
       "tmdb:80748",
-      "tmdb:283297",
-      "tmdb:72061",
       "tmdb:125988"
     ]
   }
