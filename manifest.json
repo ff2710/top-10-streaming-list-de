@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-12T07:15:29.074Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-13T07:17:34.668Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
         },
         {
-          "id": "tmdb:609181",
-          "type": "movie",
-          "name": "Golden Arm",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
-        },
-        {
           "id": "tmdb:1106739",
           "type": "movie",
           "name": "Juror #2",
@@ -48,6 +41,13 @@
           "name": "The Fountain",
           "year": 2006,
           "poster": "https://images.justwatch.com/poster/58308/s592/The-Fountain-Quell-des-Lebens.jpg"
+        },
+        {
+          "id": "tmdb:609181",
+          "type": "movie",
+          "name": "Golden Arm",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
         },
         {
           "id": "tmdb:616",
@@ -64,11 +64,18 @@
           "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
         },
         {
-          "id": "tmdb:396774",
+          "id": "tmdb:713704",
           "type": "movie",
-          "name": "Bomb City",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/43778451/s592/Bomb-City.jpg"
+          "name": "Evil Dead Rise",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
+        },
+        {
+          "id": "tmdb:49517",
+          "type": "movie",
+          "name": "Dame, König, As, Spion",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/189833319/s592/Dame-Koenig-As-Spion.jpg"
         },
         {
           "id": "tmdb:1401778",
@@ -76,13 +83,6 @@
           "name": "Turbulence",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/343196206/s592/turbulence-2025.jpg"
-        },
-        {
-          "id": "tmdb:713704",
-          "type": "movie",
-          "name": "Evil Dead Rise",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
         },
         {
           "id": "tmdb:76757",
@@ -107,25 +107,18 @@
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
-          "id": "tmdb:72061",
-          "type": "series",
-          "name": "Loch Ness",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
-        },
-        {
-          "id": "tmdb:207333",
-          "type": "series",
-          "name": "Hundert Jahre Einsamkeit",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
-        },
-        {
           "id": "tmdb:94997",
           "type": "series",
           "name": "House of the Dragon",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+        },
+        {
+          "id": "tmdb:72061",
+          "type": "series",
+          "name": "Loch Ness",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
         },
         {
           "id": "tmdb:283297",
@@ -135,18 +128,11 @@
           "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
         },
         {
-          "id": "tmdb:120452",
+          "id": "tmdb:207333",
           "type": "series",
-          "name": "The Lost Symbol",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/320892693/s592/Dan-Browns-The-Lost-Symbol.jpg"
-        },
-        {
-          "id": "tmdb:113962",
-          "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+          "name": "Hundert Jahre Einsamkeit",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -156,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:241549",
+          "id": "tmdb:100604",
           "type": "series",
-          "name": "Murder in a Small Town",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320594208/s592/murder-in-a-small-town.jpg"
+          "name": "Stalk",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
         },
         {
           "id": "tmdb:199001",
@@ -168,6 +154,20 @@
           "name": "Ich und die Walter Boys",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/326379288/s592/ich-und-die-walter-boys.jpg"
+        },
+        {
+          "id": "tmdb:113962",
+          "type": "series",
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+        },
+        {
+          "id": "tmdb:71769",
+          "type": "series",
+          "name": "Die Einkreisung",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/301043260/s592/Die-Einkreisung.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-12T07:15:29.074Z",
+    "generatedAt": "2026-08-13T07:17:34.668Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1284041",
-      "tmdb:609181",
       "tmdb:1106739",
       "tmdb:1381",
+      "tmdb:609181",
       "tmdb:616",
       "tmdb:348060",
-      "tmdb:396774",
-      "tmdb:1401778",
       "tmdb:713704",
+      "tmdb:49517",
+      "tmdb:1401778",
       "tmdb:76757"
     ],
     "tmdbShows": [
       "tmdb:97546",
-      "tmdb:72061",
-      "tmdb:207333",
       "tmdb:94997",
+      "tmdb:72061",
       "tmdb:283297",
-      "tmdb:120452",
-      "tmdb:113962",
+      "tmdb:207333",
       "tmdb:125988",
-      "tmdb:241549",
-      "tmdb:199001"
+      "tmdb:100604",
+      "tmdb:199001",
+      "tmdb:113962",
+      "tmdb:71769"
     ]
   }
 }
