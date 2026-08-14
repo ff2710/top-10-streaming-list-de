@@ -8,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
     },
     {
-      "id": "tmdb:1106739",
+      "id": "tmdb:549509",
       "type": "movie",
-      "name": "Juror #2",
+      "name": "Der Brutalist",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/324079882/s592/juror-2.jpg"
+      "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
     },
     {
       "id": "tmdb:1381",
@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/58308/s592/The-Fountain-Quell-des-Lebens.jpg"
     },
     {
-      "id": "tmdb:609181",
+      "id": "tmdb:1101383",
       "type": "movie",
-      "name": "Golden Arm",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347995523/s592/flowervale-street.jpg"
     },
     {
       "id": "tmdb:616",
@@ -36,18 +36,18 @@
       "poster": "https://images.justwatch.com/poster/302309075/s592/Last-Samurai.jpg"
     },
     {
+      "id": "tmdb:1339713",
+      "type": "movie",
+      "name": "Obsession – Du sollst mich lieben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+    },
+    {
       "id": "tmdb:348060",
       "type": "movie",
       "name": "Antigang - Im Schatten des Verbrechens",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
-    },
-    {
-      "id": "tmdb:713704",
-      "type": "movie",
-      "name": "Evil Dead Rise",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
     },
     {
       "id": "tmdb:49517",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/343196206/s592/turbulence-2025.jpg"
     },
     {
-      "id": "tmdb:76757",
+      "id": "tmdb:713704",
       "type": "movie",
-      "name": "Jupiter Ascending",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/301643852/s592/Jupiter-Ascending.jpg"
+      "name": "Evil Dead Rise",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
     }
   ]
 }

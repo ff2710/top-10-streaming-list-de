@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-13T07:17:34.668Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-14T07:15:30.526Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,11 +29,11 @@
           "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
         },
         {
-          "id": "tmdb:1106739",
+          "id": "tmdb:549509",
           "type": "movie",
-          "name": "Juror #2",
+          "name": "Der Brutalist",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324079882/s592/juror-2.jpg"
+          "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
         },
         {
           "id": "tmdb:1381",
@@ -43,11 +43,11 @@
           "poster": "https://images.justwatch.com/poster/58308/s592/The-Fountain-Quell-des-Lebens.jpg"
         },
         {
-          "id": "tmdb:609181",
+          "id": "tmdb:1101383",
           "type": "movie",
-          "name": "Golden Arm",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/244658357/s592/golden-arm.jpg"
+          "name": "The End of Oak Street",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347995523/s592/flowervale-street.jpg"
         },
         {
           "id": "tmdb:616",
@@ -57,18 +57,18 @@
           "poster": "https://images.justwatch.com/poster/302309075/s592/Last-Samurai.jpg"
         },
         {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession – Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+        },
+        {
           "id": "tmdb:348060",
           "type": "movie",
           "name": "Antigang - Im Schatten des Verbrechens",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
-        },
-        {
-          "id": "tmdb:713704",
-          "type": "movie",
-          "name": "Evil Dead Rise",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
         },
         {
           "id": "tmdb:49517",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/343196206/s592/turbulence-2025.jpg"
         },
         {
-          "id": "tmdb:76757",
+          "id": "tmdb:713704",
           "type": "movie",
-          "name": "Jupiter Ascending",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/301643852/s592/Jupiter-Ascending.jpg"
+          "name": "Evil Dead Rise",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
         }
       ]
     },
@@ -100,11 +100,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:97546",
+          "id": "tmdb:108978",
           "type": "series",
-          "name": "Ted Lasso",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+          "name": "Reacher",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:94997",
@@ -121,18 +121,18 @@
           "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
         },
         {
+          "id": "tmdb:100604",
+          "type": "series",
+          "name": "Stalk",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
+        },
+        {
           "id": "tmdb:283297",
           "type": "series",
           "name": "Sterling Point",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
-        },
-        {
-          "id": "tmdb:207333",
-          "type": "series",
-          "name": "Hundert Jahre Einsamkeit",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -142,18 +142,25 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:100604",
+          "id": "tmdb:2391",
           "type": "series",
-          "name": "Stalk",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
+          "name": "Geschichten aus der Gruft",
+          "year": 1989,
+          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
         },
         {
-          "id": "tmdb:199001",
+          "id": "tmdb:298168",
           "type": "series",
-          "name": "Ich und die Walter Boys",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/326379288/s592/ich-und-die-walter-boys.jpg"
+          "name": "The Shards",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347382936/s592/the-shards.jpg"
+        },
+        {
+          "id": "tmdb:97546",
+          "type": "series",
+          "name": "Ted Lasso",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
           "id": "tmdb:113962",
@@ -161,13 +168,6 @@
           "name": "Special Ops: Lioness",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-        },
-        {
-          "id": "tmdb:71769",
-          "type": "series",
-          "name": "Die Einkreisung",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/301043260/s592/Die-Einkreisung.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-13T07:17:34.668Z",
+    "generatedAt": "2026-08-14T07:15:30.526Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1284041",
-      "tmdb:1106739",
+      "tmdb:549509",
       "tmdb:1381",
-      "tmdb:609181",
+      "tmdb:1101383",
       "tmdb:616",
+      "tmdb:1339713",
       "tmdb:348060",
-      "tmdb:713704",
       "tmdb:49517",
       "tmdb:1401778",
-      "tmdb:76757"
+      "tmdb:713704"
     ],
     "tmdbShows": [
-      "tmdb:97546",
+      "tmdb:108978",
       "tmdb:94997",
       "tmdb:72061",
-      "tmdb:283297",
-      "tmdb:207333",
-      "tmdb:125988",
       "tmdb:100604",
-      "tmdb:199001",
-      "tmdb:113962",
-      "tmdb:71769"
+      "tmdb:283297",
+      "tmdb:125988",
+      "tmdb:2391",
+      "tmdb:298168",
+      "tmdb:97546",
+      "tmdb:113962"
     ]
   }
 }
