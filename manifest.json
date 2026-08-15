@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-14T07:15:30.526Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-15T06:27:11.697Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,25 +36,11 @@
           "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
         },
         {
-          "id": "tmdb:1381",
-          "type": "movie",
-          "name": "The Fountain",
-          "year": 2006,
-          "poster": "https://images.justwatch.com/poster/58308/s592/The-Fountain-Quell-des-Lebens.jpg"
-        },
-        {
           "id": "tmdb:1101383",
           "type": "movie",
           "name": "The End of Oak Street",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347995523/s592/flowervale-street.jpg"
-        },
-        {
-          "id": "tmdb:616",
-          "type": "movie",
-          "name": "Last Samurai",
-          "year": 2003,
-          "poster": "https://images.justwatch.com/poster/302309075/s592/Last-Samurai.jpg"
         },
         {
           "id": "tmdb:1339713",
@@ -64,11 +50,18 @@
           "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
-          "id": "tmdb:348060",
+          "id": "tmdb:616",
           "type": "movie",
-          "name": "Antigang - Im Schatten des Verbrechens",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
+          "name": "Last Samurai",
+          "year": 2003,
+          "poster": "https://images.justwatch.com/poster/302309075/s592/Last-Samurai.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:49517",
@@ -78,6 +71,13 @@
           "poster": "https://images.justwatch.com/poster/189833319/s592/Dame-Koenig-As-Spion.jpg"
         },
         {
+          "id": "tmdb:369972",
+          "type": "movie",
+          "name": "Aufbruch zum Mond",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/89634049/s592/Aufbruch-zum-Mond.jpg"
+        },
+        {
           "id": "tmdb:1401778",
           "type": "movie",
           "name": "Turbulence",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/343196206/s592/turbulence-2025.jpg"
         },
         {
-          "id": "tmdb:713704",
+          "id": "tmdb:348060",
           "type": "movie",
-          "name": "Evil Dead Rise",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/305015893/s592/Evil-Dead-Rise.jpg"
+          "name": "Antigang - Im Schatten des Verbrechens",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
         }
       ]
     },
@@ -128,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
         },
         {
-          "id": "tmdb:283297",
+          "id": "tmdb:2391",
           "type": "series",
-          "name": "Sterling Point",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
+          "name": "Geschichten aus der Gruft",
+          "year": 1989,
+          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -142,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:2391",
+          "id": "tmdb:283297",
           "type": "series",
-          "name": "Geschichten aus der Gruft",
-          "year": 1989,
-          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
+          "name": "Sterling Point",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
         },
         {
           "id": "tmdb:298168",
@@ -156,11 +156,11 @@
           "poster": "https://images.justwatch.com/poster/347382936/s592/the-shards.jpg"
         },
         {
-          "id": "tmdb:97546",
+          "id": "tmdb:112738",
           "type": "series",
-          "name": "Ted Lasso",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+          "name": "HIP: Ermittlerin mit Mords-IQ",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
         },
         {
           "id": "tmdb:113962",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-14T07:15:30.526Z",
+    "generatedAt": "2026-08-15T06:27:11.697Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1284041",
       "tmdb:549509",
-      "tmdb:1381",
       "tmdb:1101383",
-      "tmdb:616",
       "tmdb:1339713",
-      "tmdb:348060",
+      "tmdb:616",
+      "tmdb:687163",
       "tmdb:49517",
+      "tmdb:369972",
       "tmdb:1401778",
-      "tmdb:713704"
+      "tmdb:348060"
     ],
     "tmdbShows": [
       "tmdb:108978",
       "tmdb:94997",
       "tmdb:72061",
       "tmdb:100604",
-      "tmdb:283297",
-      "tmdb:125988",
       "tmdb:2391",
+      "tmdb:125988",
+      "tmdb:283297",
       "tmdb:298168",
-      "tmdb:97546",
+      "tmdb:112738",
       "tmdb:113962"
     ]
   }
