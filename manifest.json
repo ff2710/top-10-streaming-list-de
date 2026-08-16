@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-15T06:27:11.697Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-16T06:29:30.240Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1284041",
-          "type": "movie",
-          "name": "The Last House",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
-        },
-        {
           "id": "tmdb:549509",
           "type": "movie",
           "name": "Der Brutalist",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
+        },
+        {
+          "id": "tmdb:1284041",
+          "type": "movie",
+          "name": "The Last House",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
         },
         {
           "id": "tmdb:1101383",
@@ -50,25 +50,11 @@
           "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
-          "id": "tmdb:616",
+          "id": "tmdb:513310",
           "type": "movie",
-          "name": "Last Samurai",
-          "year": 2003,
-          "poster": "https://images.justwatch.com/poster/302309075/s592/Last-Samurai.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:49517",
-          "type": "movie",
-          "name": "Dame, König, As, Spion",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/189833319/s592/Dame-Koenig-As-Spion.jpg"
+          "name": "Boss Level",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/293701735/s592/Boss-Level.jpg"
         },
         {
           "id": "tmdb:369972",
@@ -78,18 +64,32 @@
           "poster": "https://images.justwatch.com/poster/89634049/s592/Aufbruch-zum-Mond.jpg"
         },
         {
-          "id": "tmdb:1401778",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "Turbulence",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/343196206/s592/turbulence-2025.jpg"
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:348060",
+          "id": "tmdb:602269",
           "type": "movie",
-          "name": "Antigang - Im Schatten des Verbrechens",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/277494120/s592/Antigang.jpg"
+          "name": "The Little Things",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
+        },
+        {
+          "id": "tmdb:634492",
+          "type": "movie",
+          "name": "Madame Web",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/312736116/s592/Madame-Web.jpg"
+        },
+        {
+          "id": "tmdb:1002158",
+          "type": "movie",
+          "name": "Vultures",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
         }
       ]
     },
@@ -114,11 +114,11 @@
           "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
-          "id": "tmdb:72061",
+          "id": "tmdb:2391",
           "type": "series",
-          "name": "Loch Ness",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
+          "name": "Geschichten aus der Gruft",
+          "year": 1989,
+          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
         },
         {
           "id": "tmdb:100604",
@@ -128,13 +128,6 @@
           "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
         },
         {
-          "id": "tmdb:2391",
-          "type": "series",
-          "name": "Geschichten aus der Gruft",
-          "year": 1989,
-          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
-        },
-        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
@@ -142,18 +135,11 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:283297",
+          "id": "tmdb:72061",
           "type": "series",
-          "name": "Sterling Point",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
-        },
-        {
-          "id": "tmdb:298168",
-          "type": "series",
-          "name": "The Shards",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347382936/s592/the-shards.jpg"
+          "name": "Loch Ness",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
         },
         {
           "id": "tmdb:112738",
@@ -163,11 +149,25 @@
           "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
         },
         {
+          "id": "tmdb:283297",
+          "type": "series",
+          "name": "Sterling Point",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
+        },
+        {
           "id": "tmdb:113962",
           "type": "series",
           "name": "Special Ops: Lioness",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+        },
+        {
+          "id": "tmdb:71769",
+          "type": "series",
+          "name": "Die Einkreisung",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/301043260/s592/Die-Einkreisung.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-15T06:27:11.697Z",
+    "generatedAt": "2026-08-16T06:29:30.240Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1284041",
       "tmdb:549509",
+      "tmdb:1284041",
       "tmdb:1101383",
       "tmdb:1339713",
-      "tmdb:616",
-      "tmdb:687163",
-      "tmdb:49517",
+      "tmdb:513310",
       "tmdb:369972",
-      "tmdb:1401778",
-      "tmdb:348060"
+      "tmdb:687163",
+      "tmdb:602269",
+      "tmdb:634492",
+      "tmdb:1002158"
     ],
     "tmdbShows": [
       "tmdb:108978",
       "tmdb:94997",
-      "tmdb:72061",
-      "tmdb:100604",
       "tmdb:2391",
+      "tmdb:100604",
       "tmdb:125988",
-      "tmdb:283297",
-      "tmdb:298168",
+      "tmdb:72061",
       "tmdb:112738",
-      "tmdb:113962"
+      "tmdb:283297",
+      "tmdb:113962",
+      "tmdb:71769"
     ]
   }
 }
