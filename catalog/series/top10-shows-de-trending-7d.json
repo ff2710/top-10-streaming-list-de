@@ -36,27 +36,6 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
-      "id": "tmdb:72061",
-      "type": "series",
-      "name": "Loch Ness",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
-    },
-    {
-      "id": "tmdb:112738",
-      "type": "series",
-      "name": "HIP: Ermittlerin mit Mords-IQ",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
-    },
-    {
-      "id": "tmdb:283297",
-      "type": "series",
-      "name": "Sterling Point",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
-    },
-    {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Special Ops: Lioness",
@@ -69,6 +48,20 @@
       "name": "Die Einkreisung",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/301043260/s592/Die-Einkreisung.jpg"
+    },
+    {
+      "id": "tmdb:112738",
+      "type": "series",
+      "name": "HIP: Ermittlerin mit Mords-IQ",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
+    },
+    {
+      "id": "tmdb:278624",
+      "type": "series",
+      "name": "Lucky",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
     }
   ]
 }

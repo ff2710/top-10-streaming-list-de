@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-16T06:29:30.240Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-17T06:41:18.912Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
         },
         {
-          "id": "tmdb:1284041",
-          "type": "movie",
-          "name": "The Last House",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
-        },
-        {
           "id": "tmdb:1101383",
           "type": "movie",
           "name": "The End of Oak Street",
@@ -48,6 +41,13 @@
           "name": "Obsession – Du sollst mich lieben",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+        },
+        {
+          "id": "tmdb:602269",
+          "type": "movie",
+          "name": "The Little Things",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
         },
         {
           "id": "tmdb:513310",
@@ -71,11 +71,18 @@
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:602269",
+          "id": "tmdb:1196067",
           "type": "movie",
-          "name": "The Little Things",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
+          "name": "Worldbreaker",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/342839734/s592/worldbreaker.jpg"
+        },
+        {
+          "id": "tmdb:1284041",
+          "type": "movie",
+          "name": "The Last House",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
         },
         {
           "id": "tmdb:634492",
@@ -83,13 +90,6 @@
           "name": "Madame Web",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/312736116/s592/Madame-Web.jpg"
-        },
-        {
-          "id": "tmdb:1002158",
-          "type": "movie",
-          "name": "Vultures",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336085860/s592/vultures.jpg"
         }
       ]
     },
@@ -135,27 +135,6 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:72061",
-          "type": "series",
-          "name": "Loch Ness",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/9632173/s592/The-Loch.jpg"
-        },
-        {
-          "id": "tmdb:112738",
-          "type": "series",
-          "name": "HIP: Ermittlerin mit Mords-IQ",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
-        },
-        {
-          "id": "tmdb:283297",
-          "type": "series",
-          "name": "Sterling Point",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347373626/s592/sterling-point.jpg"
-        },
-        {
           "id": "tmdb:113962",
           "type": "series",
           "name": "Special Ops: Lioness",
@@ -168,6 +147,20 @@
           "name": "Die Einkreisung",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/301043260/s592/Die-Einkreisung.jpg"
+        },
+        {
+          "id": "tmdb:112738",
+          "type": "series",
+          "name": "HIP: Ermittlerin mit Mords-IQ",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
+        },
+        {
+          "id": "tmdb:278624",
+          "type": "series",
+          "name": "Lucky",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
         }
       ]
     }
@@ -177,20 +170,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-16T06:29:30.240Z",
+    "generatedAt": "2026-08-17T06:41:18.912Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:549509",
-      "tmdb:1284041",
       "tmdb:1101383",
       "tmdb:1339713",
+      "tmdb:602269",
       "tmdb:513310",
       "tmdb:369972",
       "tmdb:687163",
-      "tmdb:602269",
-      "tmdb:634492",
-      "tmdb:1002158"
+      "tmdb:1196067",
+      "tmdb:1284041",
+      "tmdb:634492"
     ],
     "tmdbShows": [
       "tmdb:108978",
@@ -198,11 +191,10 @@
       "tmdb:2391",
       "tmdb:100604",
       "tmdb:125988",
-      "tmdb:72061",
-      "tmdb:112738",
-      "tmdb:283297",
       "tmdb:113962",
-      "tmdb:71769"
+      "tmdb:71769",
+      "tmdb:112738",
+      "tmdb:278624"
     ]
   }
 }
