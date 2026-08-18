@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-17T06:41:18.912Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-18T06:32:40.228Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,25 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:549509",
-          "type": "movie",
-          "name": "Der Brutalist",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
-        },
-        {
           "id": "tmdb:1101383",
           "type": "movie",
           "name": "The End of Oak Street",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347995523/s592/flowervale-street.jpg"
-        },
-        {
-          "id": "tmdb:1339713",
-          "type": "movie",
-          "name": "Obsession – Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:602269",
@@ -50,11 +36,25 @@
           "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
         },
         {
+          "id": "tmdb:549509",
+          "type": "movie",
+          "name": "Der Brutalist",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
+        },
+        {
           "id": "tmdb:513310",
           "type": "movie",
           "name": "Boss Level",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/293701735/s592/Boss-Level.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession – Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:369972",
@@ -64,13 +64,6 @@
           "poster": "https://images.justwatch.com/poster/89634049/s592/Aufbruch-zum-Mond.jpg"
         },
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:1196067",
           "type": "movie",
           "name": "Worldbreaker",
@@ -78,11 +71,11 @@
           "poster": "https://images.justwatch.com/poster/342839734/s592/worldbreaker.jpg"
         },
         {
-          "id": "tmdb:1284041",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "The Last House",
+          "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347571635/s592/the-last-house-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:634492",
@@ -90,6 +83,13 @@
           "name": "Madame Web",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/312736116/s592/Madame-Web.jpg"
+        },
+        {
+          "id": "tmdb:75612",
+          "type": "movie",
+          "name": "Oblivion",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/311495086/s592/Oblivion.jpg"
         }
       ]
     },
@@ -104,7 +104,7 @@
           "type": "series",
           "name": "Reacher",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:94997",
@@ -121,11 +121,25 @@
           "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
         },
         {
+          "id": "tmdb:113962",
+          "type": "series",
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+        },
+        {
           "id": "tmdb:100604",
           "type": "series",
           "name": "Stalk",
           "year": 2020,
           "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
+        },
+        {
+          "id": "tmdb:95350",
+          "type": "series",
+          "name": "Lanterns",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347103106/s592/lanterns.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -135,32 +149,18 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
-          "id": "tmdb:113962",
+          "id": "tmdb:90972",
           "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-        },
-        {
-          "id": "tmdb:71769",
-          "type": "series",
-          "name": "Die Einkreisung",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/301043260/s592/Die-Einkreisung.jpg"
-        },
-        {
-          "id": "tmdb:112738",
-          "type": "series",
-          "name": "HIP: Ermittlerin mit Mords-IQ",
+          "name": "Station Eleven",
           "year": 2021,
-          "poster": "https://images.justwatch.com/poster/305418016/s592/HIP-Ermittlerin-mit-Mords-IQ.jpg"
+          "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
         },
         {
-          "id": "tmdb:278624",
+          "id": "tmdb:287238",
           "type": "series",
-          "name": "Lucky",
+          "name": "Furious",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
+          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
         }
       ]
     }
@@ -170,31 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-17T06:41:18.912Z",
+    "generatedAt": "2026-08-18T06:32:40.228Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:549509",
       "tmdb:1101383",
-      "tmdb:1339713",
       "tmdb:602269",
+      "tmdb:549509",
       "tmdb:513310",
+      "tmdb:1339713",
       "tmdb:369972",
-      "tmdb:687163",
       "tmdb:1196067",
-      "tmdb:1284041",
-      "tmdb:634492"
+      "tmdb:687163",
+      "tmdb:634492",
+      "tmdb:75612"
     ],
     "tmdbShows": [
       "tmdb:108978",
       "tmdb:94997",
       "tmdb:2391",
-      "tmdb:100604",
-      "tmdb:125988",
       "tmdb:113962",
-      "tmdb:71769",
-      "tmdb:112738",
-      "tmdb:278624"
+      "tmdb:100604",
+      "tmdb:95350",
+      "tmdb:125988",
+      "tmdb:90972",
+      "tmdb:287238"
     ]
   }
 }
