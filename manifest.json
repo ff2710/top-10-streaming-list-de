@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-18T06:32:40.228Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-19T06:33:29.776Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -26,7 +26,7 @@
           "type": "movie",
           "name": "The End of Oak Street",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347995523/s592/flowervale-street.jpg"
+          "poster": "https://images.justwatch.com/poster/348413683/s592/flowervale-street.jpg"
         },
         {
           "id": "tmdb:602269",
@@ -34,27 +34,6 @@
           "name": "The Little Things",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
-        },
-        {
-          "id": "tmdb:549509",
-          "type": "movie",
-          "name": "Der Brutalist",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
-        },
-        {
-          "id": "tmdb:513310",
-          "type": "movie",
-          "name": "Boss Level",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/293701735/s592/Boss-Level.jpg"
-        },
-        {
-          "id": "tmdb:1339713",
-          "type": "movie",
-          "name": "Obsession – Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:369972",
@@ -78,6 +57,27 @@
           "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession – Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+        },
+        {
+          "id": "tmdb:624860",
+          "type": "movie",
+          "name": "Matrix Resurrections",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/256913896/s592/Matrix-Resurrections.jpg"
+        },
+        {
+          "id": "tmdb:549509",
+          "type": "movie",
+          "name": "Der Brutalist",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/324736945/s592/the-brutalist.jpg"
+        },
+        {
           "id": "tmdb:634492",
           "type": "movie",
           "name": "Madame Web",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/312736116/s592/Madame-Web.jpg"
         },
         {
-          "id": "tmdb:75612",
+          "id": "tmdb:980026",
           "type": "movie",
-          "name": "Oblivion",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/311495086/s592/Oblivion.jpg"
+          "name": "King's Land",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/321517539/s592/kings-land.jpg"
         }
       ]
     },
@@ -107,32 +107,11 @@
           "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
-          "id": "tmdb:94997",
+          "id": "tmdb:90972",
           "type": "series",
-          "name": "House of the Dragon",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-        },
-        {
-          "id": "tmdb:2391",
-          "type": "series",
-          "name": "Geschichten aus der Gruft",
-          "year": 1989,
-          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
-        },
-        {
-          "id": "tmdb:113962",
-          "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-        },
-        {
-          "id": "tmdb:100604",
-          "type": "series",
-          "name": "Stalk",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
+          "name": "Station Eleven",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
         },
         {
           "id": "tmdb:95350",
@@ -142,18 +121,25 @@
           "poster": "https://images.justwatch.com/poster/347103106/s592/lanterns.jpg"
         },
         {
-          "id": "tmdb:125988",
+          "id": "tmdb:94997",
           "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+          "name": "House of the Dragon",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
         },
         {
-          "id": "tmdb:90972",
+          "id": "tmdb:113962",
           "type": "series",
-          "name": "Station Eleven",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+        },
+        {
+          "id": "tmdb:2391",
+          "type": "series",
+          "name": "Geschichten aus der Gruft",
+          "year": 1989,
+          "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
         },
         {
           "id": "tmdb:287238",
@@ -161,6 +147,20 @@
           "name": "Furious",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+        },
+        {
+          "id": "tmdb:309798",
+          "type": "series",
+          "name": "Meine brillante Karriere",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348314373/s592/my-brilliant-career.jpg"
         }
       ]
     }
@@ -170,31 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-18T06:32:40.228Z",
+    "generatedAt": "2026-08-19T06:33:29.776Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1101383",
       "tmdb:602269",
-      "tmdb:549509",
-      "tmdb:513310",
-      "tmdb:1339713",
       "tmdb:369972",
       "tmdb:1196067",
       "tmdb:687163",
+      "tmdb:1339713",
+      "tmdb:624860",
+      "tmdb:549509",
       "tmdb:634492",
-      "tmdb:75612"
+      "tmdb:980026"
     ],
     "tmdbShows": [
       "tmdb:108978",
-      "tmdb:94997",
-      "tmdb:2391",
-      "tmdb:113962",
-      "tmdb:100604",
-      "tmdb:95350",
-      "tmdb:125988",
       "tmdb:90972",
-      "tmdb:287238"
+      "tmdb:95350",
+      "tmdb:94997",
+      "tmdb:113962",
+      "tmdb:2391",
+      "tmdb:287238",
+      "tmdb:125988",
+      "tmdb:309798"
     ]
   }
 }

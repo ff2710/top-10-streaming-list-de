@@ -8,32 +8,11 @@
       "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:90972",
       "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
-    },
-    {
-      "id": "tmdb:2391",
-      "type": "series",
-      "name": "Geschichten aus der Gruft",
-      "year": 1989,
-      "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
-    },
-    {
-      "id": "tmdb:113962",
-      "type": "series",
-      "name": "Special Ops: Lioness",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-    },
-    {
-      "id": "tmdb:100604",
-      "type": "series",
-      "name": "Stalk",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/173118368/s592/Stalk.jpg"
+      "name": "Station Eleven",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
     },
     {
       "id": "tmdb:95350",
@@ -43,18 +22,25 @@
       "poster": "https://images.justwatch.com/poster/347103106/s592/lanterns.jpg"
     },
     {
-      "id": "tmdb:125988",
+      "id": "tmdb:94997",
       "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+      "name": "House of the Dragon",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
     },
     {
-      "id": "tmdb:90972",
+      "id": "tmdb:113962",
       "type": "series",
-      "name": "Station Eleven",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+    },
+    {
+      "id": "tmdb:2391",
+      "type": "series",
+      "name": "Geschichten aus der Gruft",
+      "year": 1989,
+      "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
     },
     {
       "id": "tmdb:287238",
@@ -62,6 +48,20 @@
       "name": "Furious",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+    },
+    {
+      "id": "tmdb:309798",
+      "type": "series",
+      "name": "Meine brillante Karriere",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348314373/s592/my-brilliant-career.jpg"
     }
   ]
 }
