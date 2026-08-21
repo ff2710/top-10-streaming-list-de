@@ -19,14 +19,7 @@
       "type": "series",
       "name": "Lanterns",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347103106/s592/lanterns.jpg"
-    },
-    {
-      "id": "tmdb:113962",
-      "type": "series",
-      "name": "Special Ops: Lioness",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
     },
     {
       "id": "tmdb:287238",
@@ -36,25 +29,18 @@
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:113962",
       "type": "series",
-      "name": "House of the Dragon",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/301444667/s592/House-of-the-Dragon.jpg"
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
     },
     {
-      "id": "tmdb:2391",
+      "id": "tmdb:278624",
       "type": "series",
-      "name": "Geschichten aus der Gruft",
-      "year": 1989,
-      "poster": "https://images.justwatch.com/poster/250617577/s592/Geschichten-aus-der-Gruft.jpg"
-    },
-    {
-      "id": "tmdb:309798",
-      "type": "series",
-      "name": "Meine brillante Karriere",
+      "name": "Lucky",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348314373/s592/my-brilliant-career.jpg"
+      "poster": "https://images.justwatch.com/poster/346889722/s592/lucky.jpg"
     },
     {
       "id": "tmdb:125988",
@@ -62,6 +48,20 @@
       "name": "Silo",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
+    },
+    {
+      "id": "tmdb:67486",
+      "type": "series",
+      "name": "I Love Dick",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/8170533/s592/I-Love-Dick.jpg"
+    },
+    {
+      "id": "tmdb:97546",
+      "type": "series",
+      "name": "Ted Lasso",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     }
   ]
 }
