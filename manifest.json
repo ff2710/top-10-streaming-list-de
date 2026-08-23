@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-22T06:29:18.378Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-23T06:30:54.278Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,25 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1196067",
-          "type": "movie",
-          "name": "Worldbreaker",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/342839734/s592/worldbreaker.jpg"
-        },
-        {
           "id": "tmdb:414906",
           "type": "movie",
           "name": "Der Batman",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/253599997/s592/The-Batman.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342918190/s592/der-astronaut.jpg"
+          "poster": "https://images.justwatch.com/poster/219348475/s592/The-Batman.jpg"
         },
         {
           "id": "tmdb:866346",
@@ -50,11 +36,25 @@
           "poster": "https://images.justwatch.com/poster/329945019/s592/the-retirement-plan.jpg"
         },
         {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342918190/s592/der-astronaut.jpg"
+        },
+        {
           "id": "tmdb:1380316",
           "type": "movie",
           "name": "Is God Is",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345624458/s592/is-god-is.jpg"
+          "poster": "https://images.justwatch.com/poster/347461268/s592/is-god-is.jpg"
+        },
+        {
+          "id": "tmdb:570670",
+          "type": "movie",
+          "name": "Der Unsichtbare",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
           "id": "tmdb:624860",
@@ -64,13 +64,6 @@
           "poster": "https://images.justwatch.com/poster/257943908/s592/Matrix-Resurrections.jpg"
         },
         {
-          "id": "tmdb:602269",
-          "type": "movie",
-          "name": "The Little Things",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/243667029/s592/The-Little-Things-2021.jpg"
-        },
-        {
           "id": "tmdb:446021",
           "type": "movie",
           "name": "Bad Times at the El Royale",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
         },
         {
-          "id": "tmdb:980026",
+          "id": "tmdb:484247",
           "type": "movie",
-          "name": "King's Land",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/321517539/s592/kings-land.jpg"
+          "name": "Nur ein kleiner Gefallen",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/91784295/s592/Nur-ein-kleiner-Gefallen.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1196067",
           "type": "movie",
-          "name": "Obsession – Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343088830/s592/obsession-2026.jpg"
+          "name": "Worldbreaker",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/342839734/s592/worldbreaker.jpg"
+        },
+        {
+          "id": "tmdb:391713",
+          "type": "movie",
+          "name": "Lady Bird",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
         }
       ]
     },
@@ -118,21 +118,7 @@
           "type": "series",
           "name": "Reacher",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
-        },
-        {
-          "id": "tmdb:113962",
-          "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-        },
-        {
-          "id": "tmdb:287238",
-          "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:303351",
@@ -149,6 +135,13 @@
           "poster": "https://images.justwatch.com/poster/346538938/s592/Outer-Banks.jpg"
         },
         {
+          "id": "tmdb:113962",
+          "type": "series",
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+        },
+        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
@@ -156,18 +149,25 @@
           "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
         },
         {
+          "id": "tmdb:287238",
+          "type": "series",
+          "name": "Furious",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+        },
+        {
+          "id": "tmdb:97546",
+          "type": "series",
+          "name": "Ted Lasso",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+        },
+        {
           "id": "tmdb:278624",
           "type": "series",
           "name": "Lucky",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/341456365/s592/lucky.jpg"
-        },
-        {
-          "id": "tmdb:67486",
-          "type": "series",
-          "name": "I Love Dick",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/8170533/s592/I-Love-Dick.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-22T06:29:18.378Z",
+    "generatedAt": "2026-08-23T06:30:54.278Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1196067",
       "tmdb:414906",
-      "tmdb:687163",
       "tmdb:866346",
+      "tmdb:687163",
       "tmdb:1380316",
+      "tmdb:570670",
       "tmdb:624860",
-      "tmdb:602269",
       "tmdb:446021",
-      "tmdb:980026",
-      "tmdb:1339713"
+      "tmdb:484247",
+      "tmdb:1196067",
+      "tmdb:391713"
     ],
     "tmdbShows": [
       "tmdb:90972",
       "tmdb:95350",
       "tmdb:108978",
-      "tmdb:113962",
-      "tmdb:287238",
       "tmdb:303351",
       "tmdb:100757",
+      "tmdb:113962",
       "tmdb:125988",
-      "tmdb:278624",
-      "tmdb:67486"
+      "tmdb:287238",
+      "tmdb:97546",
+      "tmdb:278624"
     ]
   }
 }

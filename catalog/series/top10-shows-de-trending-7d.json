@@ -19,21 +19,7 @@
       "type": "series",
       "name": "Reacher",
       "year": 2022,
-      "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
-    },
-    {
-      "id": "tmdb:113962",
-      "type": "series",
-      "name": "Special Ops: Lioness",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-    },
-    {
-      "id": "tmdb:287238",
-      "type": "series",
-      "name": "Furious",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
       "id": "tmdb:303351",
@@ -50,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/346538938/s592/Outer-Banks.jpg"
     },
     {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+    },
+    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
     },
     {
+      "id": "tmdb:287238",
+      "type": "series",
+      "name": "Furious",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+    },
+    {
+      "id": "tmdb:97546",
+      "type": "series",
+      "name": "Ted Lasso",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+    },
+    {
       "id": "tmdb:278624",
       "type": "series",
       "name": "Lucky",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/341456365/s592/lucky.jpg"
-    },
-    {
-      "id": "tmdb:67486",
-      "type": "series",
-      "name": "I Love Dick",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/8170533/s592/I-Love-Dick.jpg"
     }
   ]
 }
