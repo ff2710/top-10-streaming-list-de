@@ -29,25 +29,11 @@
       "poster": "https://images.justwatch.com/poster/346538938/s592/Outer-Banks.jpg"
     },
     {
-      "id": "tmdb:108978",
-      "type": "series",
-      "name": "Reacher",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
       "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346257609/s592/silo.jpg"
-    },
-    {
-      "id": "tmdb:113962",
-      "type": "series",
-      "name": "Special Ops: Lioness",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+      "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
     },
     {
       "id": "tmdb:97546",
@@ -55,6 +41,20 @@
       "name": "Ted Lasso",
       "year": 2020,
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+    },
+    {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
+    },
+    {
+      "id": "tmdb:108978",
+      "type": "series",
+      "name": "Reacher",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
       "id": "tmdb:253391",
