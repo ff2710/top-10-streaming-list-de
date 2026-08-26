@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/348909471/s592/lanterns.jpg"
     },
     {
-      "id": "tmdb:90972",
-      "type": "series",
-      "name": "Station Eleven",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
-    },
-    {
       "id": "tmdb:303351",
       "type": "series",
       "name": "Blutopfer",
@@ -26,7 +19,14 @@
       "type": "series",
       "name": "Outer Banks",
       "year": 2020,
-      "poster": "https://images.justwatch.com/poster/346538938/s592/Outer-Banks.jpg"
+      "poster": "https://images.justwatch.com/poster/321319025/s592/Outer-Banks.jpg"
+    },
+    {
+      "id": "tmdb:90972",
+      "type": "series",
+      "name": "Station Eleven",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
     },
     {
       "id": "tmdb:125988",
@@ -36,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
     },
     {
-      "id": "tmdb:97546",
-      "type": "series",
-      "name": "Ted Lasso",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
-    },
-    {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Special Ops: Lioness",
@@ -50,11 +43,11 @@
       "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
     },
     {
-      "id": "tmdb:108978",
+      "id": "tmdb:97546",
       "type": "series",
-      "name": "Reacher",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+      "name": "Ted Lasso",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     },
     {
       "id": "tmdb:253391",
@@ -69,6 +62,13 @@
       "name": "Furious",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+    },
+    {
+      "id": "tmdb:108978",
+      "type": "series",
+      "name": "Reacher",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     }
   ]
 }
