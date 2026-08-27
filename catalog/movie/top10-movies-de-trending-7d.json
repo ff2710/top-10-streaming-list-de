@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "Der Batman",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/219348475/s592/The-Batman.jpg"
-    },
-    {
-      "id": "tmdb:1380316",
-      "type": "movie",
-      "name": "Is God Is",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345624458/s592/is-god-is.jpg"
-    },
-    {
       "id": "tmdb:97367",
       "type": "movie",
       "name": "The Place Beyond the Pines",
@@ -36,25 +22,11 @@
       "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
     },
     {
-      "id": "tmdb:446021",
-      "type": "movie",
-      "name": "Bad Times at the El Royale",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
-    },
-    {
       "id": "tmdb:687163",
       "type": "movie",
       "name": "Der Astronaut - Project Hail Mary",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342918190/s592/der-astronaut.jpg"
-    },
-    {
-      "id": "tmdb:391713",
-      "type": "movie",
-      "name": "Lady Bird",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
+      "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
     },
     {
       "id": "tmdb:273481",
@@ -69,6 +41,27 @@
       "name": "Die Festnahme",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348171183/s592/facing-el-chapo.jpg"
+    },
+    {
+      "id": "tmdb:1242419",
+      "type": "movie",
+      "name": "Der Hochstapler - Roofman",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/346695482/s592/roofman.jpg"
+    },
+    {
+      "id": "tmdb:49521",
+      "type": "movie",
+      "name": "Man of Steel",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/181568587/s592/Man-of-Steel.jpg"
+    },
+    {
+      "id": "tmdb:739405",
+      "type": "movie",
+      "name": "Operation Fortune",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/304006786/s592/Five-Eyes.jpg"
     }
   ]
 }

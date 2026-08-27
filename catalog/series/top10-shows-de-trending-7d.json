@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/321319025/s592/Outer-Banks.jpg"
     },
     {
-      "id": "tmdb:90972",
-      "type": "series",
-      "name": "Station Eleven",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
@@ -50,11 +43,11 @@
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     },
     {
-      "id": "tmdb:253391",
+      "id": "tmdb:108978",
       "type": "series",
-      "name": "Sheriff Country",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/336775625/s592/sheriff-country.jpg"
+      "name": "Reacher",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
       "id": "tmdb:287238",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
     },
     {
-      "id": "tmdb:108978",
+      "id": "tmdb:90972",
       "type": "series",
-      "name": "Reacher",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+      "name": "Station Eleven",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
+    },
+    {
+      "id": "tmdb:207333",
+      "type": "series",
+      "name": "Hundert Jahre Einsamkeit",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322601078/s592/Cien-anos-de-soledad.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-26T06:37:40.076Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-27T17:13:28.818Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -21,20 +21,6 @@
       "name": "Top 10 Trending Movies DE (7 Days)",
       "extra": [],
       "items": [
-        {
-          "id": "tmdb:414906",
-          "type": "movie",
-          "name": "Der Batman",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/219348475/s592/The-Batman.jpg"
-        },
-        {
-          "id": "tmdb:1380316",
-          "type": "movie",
-          "name": "Is God Is",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345624458/s592/is-god-is.jpg"
-        },
         {
           "id": "tmdb:97367",
           "type": "movie",
@@ -57,25 +43,11 @@
           "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
-          "id": "tmdb:446021",
-          "type": "movie",
-          "name": "Bad Times at the El Royale",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/100639585/s592/Bad-Times-at-the-el-Royale.jpg"
-        },
-        {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342918190/s592/der-astronaut.jpg"
-        },
-        {
-          "id": "tmdb:391713",
-          "type": "movie",
-          "name": "Lady Bird",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/41181377/s592/Lady-Bird.jpg"
+          "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:273481",
@@ -90,6 +62,27 @@
           "name": "Die Festnahme",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/348171183/s592/facing-el-chapo.jpg"
+        },
+        {
+          "id": "tmdb:1242419",
+          "type": "movie",
+          "name": "Der Hochstapler - Roofman",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/346695482/s592/roofman.jpg"
+        },
+        {
+          "id": "tmdb:49521",
+          "type": "movie",
+          "name": "Man of Steel",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/181568587/s592/Man-of-Steel.jpg"
+        },
+        {
+          "id": "tmdb:739405",
+          "type": "movie",
+          "name": "Operation Fortune",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/304006786/s592/Five-Eyes.jpg"
         }
       ]
     },
@@ -121,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/321319025/s592/Outer-Banks.jpg"
         },
         {
-          "id": "tmdb:90972",
-          "type": "series",
-          "name": "Station Eleven",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
-        },
-        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
@@ -149,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
-          "id": "tmdb:253391",
+          "id": "tmdb:108978",
           "type": "series",
-          "name": "Sheriff Country",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336775625/s592/sheriff-country.jpg"
+          "name": "Reacher",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:287238",
@@ -163,11 +149,18 @@
           "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
         },
         {
-          "id": "tmdb:108978",
+          "id": "tmdb:90972",
           "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+          "name": "Station Eleven",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
+        },
+        {
+          "id": "tmdb:207333",
+          "type": "series",
+          "name": "Hundert Jahre Einsamkeit",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/322601078/s592/Cien-anos-de-soledad.jpg"
         }
       ]
     }
@@ -177,32 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-26T06:37:40.076Z",
+    "generatedAt": "2026-08-27T17:13:28.818Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:414906",
-      "tmdb:1380316",
       "tmdb:97367",
       "tmdb:22824",
       "tmdb:570670",
-      "tmdb:446021",
       "tmdb:687163",
-      "tmdb:391713",
       "tmdb:273481",
-      "tmdb:1621552"
+      "tmdb:1621552",
+      "tmdb:1242419",
+      "tmdb:49521",
+      "tmdb:739405"
     ],
     "tmdbShows": [
       "tmdb:95350",
       "tmdb:303351",
       "tmdb:100757",
-      "tmdb:90972",
       "tmdb:125988",
       "tmdb:113962",
       "tmdb:97546",
-      "tmdb:253391",
+      "tmdb:108978",
       "tmdb:287238",
-      "tmdb:108978"
+      "tmdb:90972",
+      "tmdb:207333"
     ]
   }
 }
