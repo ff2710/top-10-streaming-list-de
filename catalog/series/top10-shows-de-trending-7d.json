@@ -22,18 +22,18 @@
       "poster": "https://images.justwatch.com/poster/321319025/s592/Outer-Banks.jpg"
     },
     {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
-    },
-    {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Special Ops: Lioness",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
     },
     {
       "id": "tmdb:97546",
@@ -50,25 +50,25 @@
       "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
+      "id": "tmdb:207333",
+      "type": "series",
+      "name": "Hundert Jahre Einsamkeit",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
+    },
+    {
+      "id": "tmdb:70391",
+      "type": "series",
+      "name": "Electric Dreams",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
+    },
+    {
       "id": "tmdb:287238",
       "type": "series",
       "name": "Furious",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
-    },
-    {
-      "id": "tmdb:90972",
-      "type": "series",
-      "name": "Station Eleven",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/256746037/s592/Station-Eleven.jpg"
-    },
-    {
-      "id": "tmdb:207333",
-      "type": "series",
-      "name": "Hundert Jahre Einsamkeit",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/322601078/s592/Cien-anos-de-soledad.jpg"
     }
   ]
 }

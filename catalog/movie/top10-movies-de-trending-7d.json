@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
     },
     {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
-    },
-    {
       "id": "tmdb:273481",
       "type": "movie",
       "name": "Sicario",
@@ -36,32 +29,46 @@
       "poster": "https://images.justwatch.com/poster/139217929/s592/Sicario.jpg"
     },
     {
+      "id": "tmdb:1383731",
+      "type": "movie",
+      "name": "Protector",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344579467/s592/protector.jpg"
+    },
+    {
       "id": "tmdb:1621552",
       "type": "movie",
       "name": "Die Festnahme",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348171183/s592/facing-el-chapo.jpg"
+      "poster": "https://images.justwatch.com/poster/348671954/s592/facing-el-chapo.jpg"
+    },
+    {
+      "id": "tmdb:1084199",
+      "type": "movie",
+      "name": "Companion - Die perfekte Begleitung",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/323603307/s592/companion-die-perfekte-begleitung.jpg"
     },
     {
       "id": "tmdb:1242419",
       "type": "movie",
       "name": "Der Hochstapler - Roofman",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/346695482/s592/roofman.jpg"
+      "poster": "https://images.justwatch.com/poster/342180787/s592/roofman.jpg"
     },
     {
-      "id": "tmdb:49521",
+      "id": "tmdb:687163",
       "type": "movie",
-      "name": "Man of Steel",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/181568587/s592/Man-of-Steel.jpg"
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:739405",
+      "id": "tmdb:339967",
       "type": "movie",
-      "name": "Operation Fortune",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/304006786/s592/Five-Eyes.jpg"
+      "name": "Colossal",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/142129783/s592/Colossal.jpg"
     }
   ]
 }
