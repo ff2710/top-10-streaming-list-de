@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-28T18:05:39.719Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-08-29T12:08:06.018Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,25 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:97367",
-          "type": "movie",
-          "name": "The Place Beyond the Pines",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/200746524/s592/The-Place-Beyond-the-Pines.jpg"
-        },
-        {
           "id": "tmdb:22824",
           "type": "movie",
           "name": "Die vierte Art",
           "year": 2009,
           "poster": "https://images.justwatch.com/poster/300562014/s592/Die-vierte-Art.jpg"
-        },
-        {
-          "id": "tmdb:570670",
-          "type": "movie",
-          "name": "Der Unsichtbare",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
         },
         {
           "id": "tmdb:273481",
@@ -54,14 +40,7 @@
           "type": "movie",
           "name": "Protector",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344579467/s592/protector.jpg"
-        },
-        {
-          "id": "tmdb:1621552",
-          "type": "movie",
-          "name": "Die Festnahme",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348671954/s592/facing-el-chapo.jpg"
+          "poster": "https://images.justwatch.com/poster/341204571/s592/protector.jpg"
         },
         {
           "id": "tmdb:1084199",
@@ -71,25 +50,46 @@
           "poster": "https://images.justwatch.com/poster/323603307/s592/companion-die-perfekte-begleitung.jpg"
         },
         {
-          "id": "tmdb:1242419",
+          "id": "tmdb:339967",
           "type": "movie",
-          "name": "Der Hochstapler - Roofman",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/342180787/s592/roofman.jpg"
+          "name": "Colossal",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/142129783/s592/Colossal.jpg"
+        },
+        {
+          "id": "tmdb:694",
+          "type": "movie",
+          "name": "Shining",
+          "year": 1980,
+          "poster": "https://images.justwatch.com/poster/320204653/s592/Shining.jpg"
+        },
+        {
+          "id": "tmdb:1516698",
+          "type": "movie",
+          "name": "The Last Sunrise",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/349932896/s592/the-last-sunrise.jpg"
+        },
+        {
+          "id": "tmdb:49521",
+          "type": "movie",
+          "name": "Man of Steel",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/181568587/s592/Man-of-Steel.jpg"
         },
         {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
+          "poster": "https://images.justwatch.com/poster/342918190/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:339967",
+          "id": "tmdb:901121",
           "type": "movie",
-          "name": "Colossal",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/142129783/s592/Colossal.jpg"
+          "name": "Spider Web - Once Upon A time in Seoul",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/321440243/s592/cobweb-2023-0.jpg"
         }
       ]
     },
@@ -107,46 +107,18 @@
           "poster": "https://images.justwatch.com/poster/348909471/s592/lanterns.jpg"
         },
         {
+          "id": "tmdb:70391",
+          "type": "series",
+          "name": "Electric Dreams",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
+        },
+        {
           "id": "tmdb:303351",
           "type": "series",
           "name": "Blutopfer",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348101181/s592/blodsoffer.jpg"
-        },
-        {
-          "id": "tmdb:100757",
-          "type": "series",
-          "name": "Outer Banks",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/321319025/s592/Outer-Banks.jpg"
-        },
-        {
-          "id": "tmdb:113962",
-          "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
-        },
-        {
-          "id": "tmdb:125988",
-          "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
-        },
-        {
-          "id": "tmdb:97546",
-          "type": "series",
-          "name": "Ted Lasso",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
-        },
-        {
-          "id": "tmdb:108978",
-          "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+          "poster": "https://images.justwatch.com/poster/346741514/s592/blodsoffer.jpg"
         },
         {
           "id": "tmdb:207333",
@@ -156,18 +128,46 @@
           "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
         },
         {
-          "id": "tmdb:70391",
+          "id": "tmdb:113962",
           "type": "series",
-          "name": "Electric Dreams",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
         },
         {
-          "id": "tmdb:287238",
+          "id": "tmdb:100757",
           "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+          "name": "Outer Banks",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/321319025/s592/Outer-Banks.jpg"
+        },
+        {
+          "id": "tmdb:97546",
+          "type": "series",
+          "name": "Ted Lasso",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
+        },
+        {
+          "id": "tmdb:108978",
+          "type": "series",
+          "name": "Reacher",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+        },
+        {
+          "id": "tmdb:196322",
+          "type": "series",
+          "name": "Dark Matter: Der Zeitenläufer",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/315312146/s592/dark-matter-2024.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-28T18:05:39.719Z",
+    "generatedAt": "2026-08-29T12:08:06.018Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:97367",
       "tmdb:22824",
-      "tmdb:570670",
       "tmdb:273481",
       "tmdb:1383731",
-      "tmdb:1621552",
       "tmdb:1084199",
-      "tmdb:1242419",
+      "tmdb:339967",
+      "tmdb:694",
+      "tmdb:1516698",
+      "tmdb:49521",
       "tmdb:687163",
-      "tmdb:339967"
+      "tmdb:901121"
     ],
     "tmdbShows": [
       "tmdb:95350",
-      "tmdb:303351",
-      "tmdb:100757",
-      "tmdb:113962",
-      "tmdb:125988",
-      "tmdb:97546",
-      "tmdb:108978",
-      "tmdb:207333",
       "tmdb:70391",
-      "tmdb:287238"
+      "tmdb:303351",
+      "tmdb:207333",
+      "tmdb:113962",
+      "tmdb:100757",
+      "tmdb:97546",
+      "tmdb:125988",
+      "tmdb:108978",
+      "tmdb:196322"
     ]
   }
 }
