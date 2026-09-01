@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-08-31T12:27:13.340Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-01T10:57:11.206Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,20 +36,6 @@
           "poster": "https://images.justwatch.com/poster/341204571/s592/protector.jpg"
         },
         {
-          "id": "tmdb:273481",
-          "type": "movie",
-          "name": "Sicario",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/139217929/s592/Sicario.jpg"
-        },
-        {
-          "id": "tmdb:1084199",
-          "type": "movie",
-          "name": "Companion - Die perfekte Begleitung",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/323603307/s592/companion-die-perfekte-begleitung.jpg"
-        },
-        {
           "id": "tmdb:508664",
           "type": "movie",
           "name": "Danger Close - Die Schlacht von Long Tan",
@@ -57,11 +43,11 @@
           "poster": "https://images.justwatch.com/poster/159320240/s592/Danger-Close-The-Battle-of-Long-Tan.jpg"
         },
         {
-          "id": "tmdb:694",
+          "id": "tmdb:1084199",
           "type": "movie",
-          "name": "Shining",
-          "year": 1980,
-          "poster": "https://images.justwatch.com/poster/320204653/s592/Shining.jpg"
+          "name": "Companion - Die perfekte Begleitung",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/350865220/s592/companion-die-perfekte-begleitung.jpg"
         },
         {
           "id": "tmdb:1124",
@@ -71,25 +57,39 @@
           "poster": "https://images.justwatch.com/poster/55085098/s592/Prestige-Die-Meister-der-Magie.jpg"
         },
         {
+          "id": "tmdb:694",
+          "type": "movie",
+          "name": "Shining",
+          "year": 1980,
+          "poster": "https://images.justwatch.com/poster/320204653/s592/Shining.jpg"
+        },
+        {
           "id": "tmdb:1516698",
           "type": "movie",
           "name": "The Last Sunrise",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/349932896/s592/the-last-sunrise.jpg"
+          "poster": "https://images.justwatch.com/poster/350371850/s592/the-last-sunrise.jpg"
         },
         {
-          "id": "tmdb:1327862",
+          "id": "tmdb:445954",
           "type": "movie",
-          "name": "All das Ungesagte zwischen uns - Regretting You",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/334094044/s592/regretting-you.jpg"
+          "name": "Pfad der Rache",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/141850399/s592/Pfad-der-Rache.jpg"
         },
         {
-          "id": "tmdb:901121",
+          "id": "tmdb:508138",
           "type": "movie",
-          "name": "Spider Web - Once Upon A time in Seoul",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/321440243/s592/cobweb-2023-0.jpg"
+          "name": "Burn - Hell of a Night",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/142580050/s592/Burn-2019.jpg"
+        },
+        {
+          "id": "tmdb:806368",
+          "type": "movie",
+          "name": "The Son",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/305206105/s592/The-Son-2022.jpg"
         }
       ]
     },
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
         },
         {
-          "id": "tmdb:113962",
-          "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
-        },
-        {
           "id": "tmdb:108978",
           "type": "series",
           "name": "Reacher",
@@ -135,11 +128,25 @@
           "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
         },
         {
+          "id": "tmdb:113962",
+          "type": "series",
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
+        },
+        {
           "id": "tmdb:97546",
           "type": "series",
           "name": "Ted Lasso",
           "year": 2020,
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+        },
+        {
+          "id": "tmdb:287238",
+          "type": "series",
+          "name": "Furious",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -156,13 +163,6 @@
           "poster": "https://images.justwatch.com/poster/348909471/s592/lanterns.jpg"
         },
         {
-          "id": "tmdb:287238",
-          "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
-        },
-        {
           "id": "tmdb:124364",
           "type": "series",
           "name": "From",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-08-31T12:27:13.340Z",
+    "generatedAt": "2026-09-01T10:57:11.206Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:860508",
       "tmdb:1383731",
-      "tmdb:273481",
-      "tmdb:1084199",
       "tmdb:508664",
-      "tmdb:694",
+      "tmdb:1084199",
       "tmdb:1124",
+      "tmdb:694",
       "tmdb:1516698",
-      "tmdb:1327862",
-      "tmdb:901121"
+      "tmdb:445954",
+      "tmdb:508138",
+      "tmdb:806368"
     ],
     "tmdbShows": [
       "tmdb:196322",
       "tmdb:207333",
       "tmdb:70391",
-      "tmdb:113962",
       "tmdb:108978",
+      "tmdb:113962",
       "tmdb:97546",
+      "tmdb:287238",
       "tmdb:125988",
       "tmdb:95350",
-      "tmdb:287238",
       "tmdb:124364"
     ]
   }

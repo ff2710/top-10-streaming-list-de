@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
     },
     {
-      "id": "tmdb:113962",
-      "type": "series",
-      "name": "Special Ops: Lioness",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
-    },
-    {
       "id": "tmdb:108978",
       "type": "series",
       "name": "Reacher",
@@ -36,11 +29,25 @@
       "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
+    },
+    {
       "id": "tmdb:97546",
       "type": "series",
       "name": "Ted Lasso",
       "year": 2020,
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+    },
+    {
+      "id": "tmdb:287238",
+      "type": "series",
+      "name": "Furious",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
     },
     {
       "id": "tmdb:125988",
@@ -55,13 +62,6 @@
       "name": "Lanterns",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348909471/s592/lanterns.jpg"
-    },
-    {
-      "id": "tmdb:287238",
-      "type": "series",
-      "name": "Furious",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
     },
     {
       "id": "tmdb:124364",
