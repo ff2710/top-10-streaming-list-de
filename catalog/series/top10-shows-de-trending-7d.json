@@ -29,11 +29,18 @@
       "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
+      "id": "tmdb:287238",
+      "type": "series",
+      "name": "Furious",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+    },
+    {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Special Ops: Lioness",
       "year": 2023,
-      "poster": "https://images.justwatch.com/poster/348495804/s592/special-ops-lioness.jpg"
+      "poster": "https://images.justwatch.com/poster/350956557/s592/special-ops-lioness.jpg"
     },
     {
       "id": "tmdb:97546",
@@ -43,13 +50,6 @@
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     },
     {
-      "id": "tmdb:287238",
-      "type": "series",
-      "name": "Furious",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
@@ -57,11 +57,11 @@
       "poster": "https://images.justwatch.com/poster/348411486/s592/silo.jpg"
     },
     {
-      "id": "tmdb:95350",
+      "id": "tmdb:64506",
       "type": "series",
-      "name": "Lanterns",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348909471/s592/lanterns.jpg"
+      "name": "Z: The Beginning of Everything",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/75353061/s592/Z-The-Beginning-of-Everything.jpg"
     },
     {
       "id": "tmdb:124364",
