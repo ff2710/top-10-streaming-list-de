@@ -8,18 +8,11 @@
       "poster": "https://images.justwatch.com/poster/347329182/s592/the-whisper-man.jpg"
     },
     {
-      "id": "tmdb:508664",
+      "id": "tmdb:574982",
       "type": "movie",
-      "name": "Danger Close - Die Schlacht von Long Tan",
+      "name": "The Blackout",
       "year": 2019,
-      "poster": "https://images.justwatch.com/poster/159320240/s592/Danger-Close-The-Battle-of-Long-Tan.jpg"
-    },
-    {
-      "id": "tmdb:1383731",
-      "type": "movie",
-      "name": "Protector",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341204571/s592/protector.jpg"
+      "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
     },
     {
       "id": "tmdb:1124",
@@ -29,25 +22,18 @@
       "poster": "https://images.justwatch.com/poster/55085098/s592/Prestige-Die-Meister-der-Magie.jpg"
     },
     {
+      "id": "tmdb:445954",
+      "type": "movie",
+      "name": "Pfad der Rache",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/324677047/s592/Pfad-der-Rache.jpg"
+    },
+    {
       "id": "tmdb:694",
       "type": "movie",
       "name": "Shining",
       "year": 1980,
       "poster": "https://images.justwatch.com/poster/320204653/s592/Shining.jpg"
-    },
-    {
-      "id": "tmdb:445954",
-      "type": "movie",
-      "name": "Pfad der Rache",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/141850399/s592/Pfad-der-Rache.jpg"
-    },
-    {
-      "id": "tmdb:1516698",
-      "type": "movie",
-      "name": "The Last Sunrise",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/349932896/s592/the-last-sunrise.jpg"
     },
     {
       "id": "tmdb:1083381",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/342063289/s592/backrooms.jpg"
     },
     {
-      "id": "tmdb:574982",
+      "id": "tmdb:508664",
       "type": "movie",
-      "name": "The Blackout",
+      "name": "Danger Close - Die Schlacht von Long Tan",
       "year": 2019,
-      "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+      "poster": "https://images.justwatch.com/poster/159320240/s592/Danger-Close-The-Battle-of-Long-Tan.jpg"
     },
     {
-      "id": "tmdb:806368",
+      "id": "tmdb:277546",
       "type": "movie",
-      "name": "The Son",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/305206105/s592/The-Son-2022.jpg"
+      "name": "Der Kandidat - Macht hat Ihren Preis",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/289258115/s592/Der-Kandidat-Macht-hat-Ihren-Preis.jpg"
+    },
+    {
+      "id": "tmdb:1315303",
+      "type": "movie",
+      "name": "Primate",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/336963850/s592/primate.jpg"
+    },
+    {
+      "id": "tmdb:493922",
+      "type": "movie",
+      "name": "Hereditary - Das Vermächtnis",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
     }
   ]
 }

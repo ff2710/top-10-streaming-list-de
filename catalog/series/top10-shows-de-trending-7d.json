@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/348572628/s592/dark-matter-2024.jpg"
     },
     {
-      "id": "tmdb:207333",
-      "type": "series",
-      "name": "Hundert Jahre Einsamkeit",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
-    },
-    {
       "id": "tmdb:70391",
       "type": "series",
       "name": "Electric Dreams",
       "year": 2017,
       "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
+    },
+    {
+      "id": "tmdb:207333",
+      "type": "series",
+      "name": "Hundert Jahre Einsamkeit",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
     },
     {
       "id": "tmdb:108978",
@@ -36,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
     },
     {
+      "id": "tmdb:41727",
+      "type": "series",
+      "name": "Banshee",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
+    },
+    {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Special Ops: Lioness",
@@ -43,18 +50,11 @@
       "poster": "https://images.justwatch.com/poster/350956557/s592/special-ops-lioness.jpg"
     },
     {
-      "id": "tmdb:97546",
-      "type": "series",
-      "name": "Ted Lasso",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
       "year": 2023,
-      "poster": "https://images.justwatch.com/poster/348411486/s592/silo.jpg"
+      "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
     },
     {
       "id": "tmdb:64506",
