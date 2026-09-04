@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-03T10:32:57.068Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-04T10:29:12.873Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -40,35 +40,21 @@
           "type": "movie",
           "name": "Prestige - Die Meister der Magie",
           "year": 2006,
-          "poster": "https://images.justwatch.com/poster/55085098/s592/Prestige-Die-Meister-der-Magie.jpg"
+          "poster": "https://images.justwatch.com/poster/346666447/s592/Prestige-Die-Meister-der-Magie.jpg"
         },
         {
-          "id": "tmdb:445954",
+          "id": "tmdb:1228710",
           "type": "movie",
-          "name": "Pfad der Rache",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/324677047/s592/Pfad-der-Rache.jpg"
-        },
-        {
-          "id": "tmdb:694",
-          "type": "movie",
-          "name": "Shining",
-          "year": 1980,
-          "poster": "https://images.justwatch.com/poster/320204653/s592/Shining.jpg"
-        },
-        {
-          "id": "tmdb:1083381",
-          "type": "movie",
-          "name": "Backrooms Everything Must Go",
+          "name": "The Mandalorian and Grogu",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342063289/s592/backrooms.jpg"
+          "poster": "https://images.justwatch.com/poster/336088085/s592/the-mandalorian-und-grogu.jpg"
         },
         {
-          "id": "tmdb:508664",
+          "id": "tmdb:1386315",
           "type": "movie",
-          "name": "Danger Close - Die Schlacht von Long Tan",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/159320240/s592/Danger-Close-The-Battle-of-Long-Tan.jpg"
+          "name": "The Runner",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347490591/s592/the-runner-2026-1.jpg"
         },
         {
           "id": "tmdb:277546",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/336963850/s592/primate.jpg"
         },
         {
+          "id": "tmdb:1083381",
+          "type": "movie",
+          "name": "Backrooms Everything Must Go",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342063289/s592/backrooms.jpg"
+        },
+        {
           "id": "tmdb:493922",
           "type": "movie",
           "name": "Hereditary - Das Vermächtnis",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
         }
       ]
     },
@@ -107,32 +107,11 @@
           "poster": "https://images.justwatch.com/poster/348572628/s592/dark-matter-2024.jpg"
         },
         {
-          "id": "tmdb:70391",
-          "type": "series",
-          "name": "Electric Dreams",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/25560186/s592/Philip-K-Dicks-Electric-Dreams.jpg"
-        },
-        {
-          "id": "tmdb:207333",
-          "type": "series",
-          "name": "Hundert Jahre Einsamkeit",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
-        },
-        {
           "id": "tmdb:108978",
           "type": "series",
           "name": "Reacher",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
-        },
-        {
-          "id": "tmdb:287238",
-          "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
         },
         {
           "id": "tmdb:41727",
@@ -142,11 +121,18 @@
           "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
         },
         {
-          "id": "tmdb:113962",
+          "id": "tmdb:287238",
           "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/350956557/s592/special-ops-lioness.jpg"
+          "name": "Furious",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+        },
+        {
+          "id": "tmdb:236235",
+          "type": "series",
+          "name": "The Gentlemen",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -156,18 +142,32 @@
           "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
         },
         {
-          "id": "tmdb:64506",
+          "id": "tmdb:4613",
           "type": "series",
-          "name": "Z: The Beginning of Everything",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/75353061/s592/Z-The-Beginning-of-Everything.jpg"
+          "name": "Band of Brothers - Wir waren wie Brüder",
+          "year": 2001,
+          "poster": "https://images.justwatch.com/poster/248240709/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
         },
         {
-          "id": "tmdb:124364",
+          "id": "tmdb:95057",
           "type": "series",
-          "name": "From",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/344518661/s592/From.jpg"
+          "name": "Superman and Lois",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
+        },
+        {
+          "id": "tmdb:113962",
+          "type": "series",
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/350956557/s592/special-ops-lioness.jpg"
+        },
+        {
+          "id": "tmdb:207333",
+          "type": "series",
+          "name": "Hundert Jahre Einsamkeit",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-03T10:32:57.068Z",
+    "generatedAt": "2026-09-04T10:29:12.873Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:860508",
       "tmdb:574982",
       "tmdb:1124",
-      "tmdb:445954",
-      "tmdb:694",
-      "tmdb:1083381",
-      "tmdb:508664",
+      "tmdb:1228710",
+      "tmdb:1386315",
       "tmdb:277546",
       "tmdb:1315303",
-      "tmdb:493922"
+      "tmdb:1083381",
+      "tmdb:493922",
+      "tmdb:687163"
     ],
     "tmdbShows": [
       "tmdb:196322",
-      "tmdb:70391",
-      "tmdb:207333",
       "tmdb:108978",
-      "tmdb:287238",
       "tmdb:41727",
-      "tmdb:113962",
+      "tmdb:287238",
+      "tmdb:236235",
       "tmdb:125988",
-      "tmdb:64506",
-      "tmdb:124364"
+      "tmdb:4613",
+      "tmdb:95057",
+      "tmdb:113962",
+      "tmdb:207333"
     ]
   }
 }
