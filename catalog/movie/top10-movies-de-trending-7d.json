@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
     },
     {
-      "id": "tmdb:1124",
-      "type": "movie",
-      "name": "Prestige - Die Meister der Magie",
-      "year": 2006,
-      "poster": "https://images.justwatch.com/poster/346666447/s592/Prestige-Die-Meister-der-Magie.jpg"
-    },
-    {
       "id": "tmdb:1228710",
       "type": "movie",
       "name": "The Mandalorian and Grogu",
@@ -43,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/289258115/s592/Der-Kandidat-Macht-hat-Ihren-Preis.jpg"
     },
     {
+      "id": "tmdb:493922",
+      "type": "movie",
+      "name": "Hereditary - Das Vermächtnis",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+    },
+    {
       "id": "tmdb:1315303",
       "type": "movie",
       "name": "Primate",
@@ -50,18 +50,18 @@
       "poster": "https://images.justwatch.com/poster/336963850/s592/primate.jpg"
     },
     {
-      "id": "tmdb:1083381",
+      "id": "tmdb:445954",
       "type": "movie",
-      "name": "Backrooms Everything Must Go",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342063289/s592/backrooms.jpg"
+      "name": "Pfad der Rache",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/324677047/s592/Pfad-der-Rache.jpg"
     },
     {
-      "id": "tmdb:493922",
+      "id": "tmdb:1122030",
       "type": "movie",
-      "name": "Hereditary - Das Vermächtnis",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+      "name": "Alpha",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346814027/s592/alpha-2025.jpg"
     },
     {
       "id": "tmdb:687163",

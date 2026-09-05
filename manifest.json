@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-04T10:29:12.873Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-05T09:50:12.980Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,13 +36,6 @@
           "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
         },
         {
-          "id": "tmdb:1124",
-          "type": "movie",
-          "name": "Prestige - Die Meister der Magie",
-          "year": 2006,
-          "poster": "https://images.justwatch.com/poster/346666447/s592/Prestige-Die-Meister-der-Magie.jpg"
-        },
-        {
           "id": "tmdb:1228710",
           "type": "movie",
           "name": "The Mandalorian and Grogu",
@@ -64,6 +57,13 @@
           "poster": "https://images.justwatch.com/poster/289258115/s592/Der-Kandidat-Macht-hat-Ihren-Preis.jpg"
         },
         {
+          "id": "tmdb:493922",
+          "type": "movie",
+          "name": "Hereditary - Das Vermächtnis",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+        },
+        {
           "id": "tmdb:1315303",
           "type": "movie",
           "name": "Primate",
@@ -71,18 +71,18 @@
           "poster": "https://images.justwatch.com/poster/336963850/s592/primate.jpg"
         },
         {
-          "id": "tmdb:1083381",
+          "id": "tmdb:445954",
           "type": "movie",
-          "name": "Backrooms Everything Must Go",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342063289/s592/backrooms.jpg"
+          "name": "Pfad der Rache",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/324677047/s592/Pfad-der-Rache.jpg"
         },
         {
-          "id": "tmdb:493922",
+          "id": "tmdb:1122030",
           "type": "movie",
-          "name": "Hereditary - Das Vermächtnis",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+          "name": "Alpha",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346814027/s592/alpha-2025.jpg"
         },
         {
           "id": "tmdb:687163",
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/348572628/s592/dark-matter-2024.jpg"
         },
         {
-          "id": "tmdb:108978",
+          "id": "tmdb:236235",
           "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+          "name": "The Gentlemen",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
         },
         {
           "id": "tmdb:41727",
@@ -121,18 +121,11 @@
           "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
         },
         {
-          "id": "tmdb:287238",
+          "id": "tmdb:108978",
           "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
-        },
-        {
-          "id": "tmdb:236235",
-          "type": "series",
-          "name": "The Gentlemen",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
+          "name": "Reacher",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -140,6 +133,13 @@
           "name": "Silo",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
+        },
+        {
+          "id": "tmdb:287238",
+          "type": "series",
+          "name": "Furious",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
         },
         {
           "id": "tmdb:4613",
@@ -156,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
         },
         {
-          "id": "tmdb:113962",
+          "id": "tmdb:247718",
           "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/350956557/s592/special-ops-lioness.jpg"
+          "name": "MobLand",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:207333",
+          "id": "tmdb:1891",
           "type": "series",
-          "name": "Hundert Jahre Einsamkeit",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/321442525/s592/Cien-anos-de-soledad.jpg"
+          "name": "Rom",
+          "year": 2005,
+          "poster": "https://images.justwatch.com/poster/199758175/s592/Rome.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-04T10:29:12.873Z",
+    "generatedAt": "2026-09-05T09:50:12.980Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:860508",
       "tmdb:574982",
-      "tmdb:1124",
       "tmdb:1228710",
       "tmdb:1386315",
       "tmdb:277546",
-      "tmdb:1315303",
-      "tmdb:1083381",
       "tmdb:493922",
+      "tmdb:1315303",
+      "tmdb:445954",
+      "tmdb:1122030",
       "tmdb:687163"
     ],
     "tmdbShows": [
       "tmdb:196322",
-      "tmdb:108978",
-      "tmdb:41727",
-      "tmdb:287238",
       "tmdb:236235",
+      "tmdb:41727",
+      "tmdb:108978",
       "tmdb:125988",
+      "tmdb:287238",
       "tmdb:4613",
       "tmdb:95057",
-      "tmdb:113962",
-      "tmdb:207333"
+      "tmdb:247718",
+      "tmdb:1891"
     ]
   }
 }
