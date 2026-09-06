@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:196322",
-      "type": "series",
-      "name": "Dark Matter – Der Zeitenläufer",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/348572628/s592/dark-matter-2024.jpg"
-    },
-    {
       "id": "tmdb:236235",
       "type": "series",
       "name": "The Gentlemen",
@@ -22,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
     },
     {
-      "id": "tmdb:108978",
-      "type": "series",
-      "name": "Reacher",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
@@ -36,11 +22,39 @@
       "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
     },
     {
+      "id": "tmdb:196322",
+      "type": "series",
+      "name": "Dark Matter – Der Zeitenläufer",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/348572628/s592/dark-matter-2024.jpg"
+    },
+    {
+      "id": "tmdb:108978",
+      "type": "series",
+      "name": "Reacher",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+    },
+    {
+      "id": "tmdb:247718",
+      "type": "series",
+      "name": "MobLand",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
       "id": "tmdb:287238",
       "type": "series",
       "name": "Furious",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
+    },
+    {
+      "id": "tmdb:53425",
+      "type": "series",
+      "name": "Wayward Pines",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/320893038/s592/Wayward-Pines.jpg"
     },
     {
       "id": "tmdb:4613",
@@ -54,21 +68,7 @@
       "type": "series",
       "name": "Superman and Lois",
       "year": 2021,
-      "poster": "https://images.justwatch.com/poster/245126565/s592/Superman-and-Lois.jpg"
-    },
-    {
-      "id": "tmdb:247718",
-      "type": "series",
-      "name": "MobLand",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-    },
-    {
-      "id": "tmdb:1891",
-      "type": "series",
-      "name": "Rom",
-      "year": 2005,
-      "poster": "https://images.justwatch.com/poster/199758175/s592/Rome.jpg"
+      "poster": "https://images.justwatch.com/poster/321209274/s592/Superman-and-Lois.jpg"
     }
   ]
 }

@@ -36,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/289258115/s592/Der-Kandidat-Macht-hat-Ihren-Preis.jpg"
     },
     {
+      "id": "tmdb:1137844",
+      "type": "movie",
+      "name": "Mayday",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347329247/s592/mayday-2026.jpg"
+    },
+    {
       "id": "tmdb:493922",
       "type": "movie",
       "name": "Hereditary - Das Vermächtnis",
@@ -43,25 +50,18 @@
       "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
     },
     {
-      "id": "tmdb:1315303",
+      "id": "tmdb:693134",
       "type": "movie",
-      "name": "Primate",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/336963850/s592/primate.jpg"
+      "name": "Dune: Part Two",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/311556128/s592/Dune-Part-Two.jpg"
     },
     {
-      "id": "tmdb:445954",
+      "id": "tmdb:1405616",
       "type": "movie",
-      "name": "Pfad der Rache",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/324677047/s592/Pfad-der-Rache.jpg"
-    },
-    {
-      "id": "tmdb:1122030",
-      "type": "movie",
-      "name": "Alpha",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346814027/s592/alpha-2025.jpg"
+      "name": "New Life",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/320712642/s592/new-life-2024.jpg"
     },
     {
       "id": "tmdb:687163",
