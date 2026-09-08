@@ -5,7 +5,7 @@
       "type": "series",
       "name": "The Gentlemen",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/320936470/s592/The-Gentlemen.jpg"
+      "poster": "https://images.justwatch.com/poster/354204489/s592/The-Gentlemen.jpg"
     },
     {
       "id": "tmdb:53425",
@@ -50,13 +50,6 @@
       "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
     },
     {
-      "id": "tmdb:287238",
-      "type": "series",
-      "name": "Furious",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
-    },
-    {
       "id": "tmdb:95057",
       "type": "series",
       "name": "Superman and Lois",
@@ -69,6 +62,13 @@
       "name": "Rom",
       "year": 2005,
       "poster": "https://images.justwatch.com/poster/199758175/s592/Rome.jpg"
+    },
+    {
+      "id": "tmdb:80335",
+      "type": "series",
+      "name": "Homecoming",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/178451208/s592/Homecoming.jpg"
     }
   ]
 }

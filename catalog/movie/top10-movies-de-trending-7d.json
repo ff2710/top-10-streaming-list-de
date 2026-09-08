@@ -8,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/346670161/s592/the-mandalorian-und-grogu.jpg"
     },
     {
-      "id": "tmdb:574982",
+      "id": "tmdb:1137844",
       "type": "movie",
-      "name": "The Blackout",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+      "name": "Mayday",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347434490/s592/mayday-2026.jpg"
     },
     {
       "id": "tmdb:1386315",
@@ -22,32 +22,11 @@
       "poster": "https://images.justwatch.com/poster/347490591/s592/the-runner-2026-1.jpg"
     },
     {
-      "id": "tmdb:1137844",
-      "type": "movie",
-      "name": "Mayday",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347329247/s592/mayday-2026.jpg"
-    },
-    {
-      "id": "tmdb:277546",
-      "type": "movie",
-      "name": "Der Kandidat - Macht hat Ihren Preis",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/289258115/s592/Der-Kandidat-Macht-hat-Ihren-Preis.jpg"
-    },
-    {
-      "id": "tmdb:860508",
-      "type": "movie",
-      "name": "Der Kinderflüsterer",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347329182/s592/the-whisper-man.jpg"
-    },
-    {
       "id": "tmdb:693134",
       "type": "movie",
       "name": "Dune: Part Two",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/311556128/s592/Dune-Part-Two.jpg"
+      "poster": "https://images.justwatch.com/poster/312362420/s592/Dune-Part-Two.jpg"
     },
     {
       "id": "tmdb:493922",
@@ -69,6 +48,27 @@
       "name": "Ready Player One",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/44693480/s592/Ready-Player-One.jpg"
+    },
+    {
+      "id": "tmdb:574982",
+      "type": "movie",
+      "name": "The Blackout",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+    },
+    {
+      "id": "tmdb:253412",
+      "type": "movie",
+      "name": "Everest",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
+    },
+    {
+      "id": "tmdb:1109534",
+      "type": "movie",
+      "name": "The Dive",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/321536881/s592/the-dive.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-07T11:22:23.664Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-08T10:26:40.592Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,11 +29,11 @@
           "poster": "https://images.justwatch.com/poster/346670161/s592/the-mandalorian-und-grogu.jpg"
         },
         {
-          "id": "tmdb:574982",
+          "id": "tmdb:1137844",
           "type": "movie",
-          "name": "The Blackout",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+          "name": "Mayday",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347434490/s592/mayday-2026.jpg"
         },
         {
           "id": "tmdb:1386315",
@@ -43,32 +43,11 @@
           "poster": "https://images.justwatch.com/poster/347490591/s592/the-runner-2026-1.jpg"
         },
         {
-          "id": "tmdb:1137844",
-          "type": "movie",
-          "name": "Mayday",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347329247/s592/mayday-2026.jpg"
-        },
-        {
-          "id": "tmdb:277546",
-          "type": "movie",
-          "name": "Der Kandidat - Macht hat Ihren Preis",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/289258115/s592/Der-Kandidat-Macht-hat-Ihren-Preis.jpg"
-        },
-        {
-          "id": "tmdb:860508",
-          "type": "movie",
-          "name": "Der Kinderflüsterer",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347329182/s592/the-whisper-man.jpg"
-        },
-        {
           "id": "tmdb:693134",
           "type": "movie",
           "name": "Dune: Part Two",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/311556128/s592/Dune-Part-Two.jpg"
+          "poster": "https://images.justwatch.com/poster/312362420/s592/Dune-Part-Two.jpg"
         },
         {
           "id": "tmdb:493922",
@@ -90,6 +69,27 @@
           "name": "Ready Player One",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/44693480/s592/Ready-Player-One.jpg"
+        },
+        {
+          "id": "tmdb:574982",
+          "type": "movie",
+          "name": "The Blackout",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+        },
+        {
+          "id": "tmdb:253412",
+          "type": "movie",
+          "name": "Everest",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
+        },
+        {
+          "id": "tmdb:1109534",
+          "type": "movie",
+          "name": "The Dive",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/321536881/s592/the-dive.jpg"
         }
       ]
     },
@@ -104,7 +104,7 @@
           "type": "series",
           "name": "The Gentlemen",
           "year": 2024,
-          "poster": "https://images.justwatch.com/poster/320936470/s592/The-Gentlemen.jpg"
+          "poster": "https://images.justwatch.com/poster/354204489/s592/The-Gentlemen.jpg"
         },
         {
           "id": "tmdb:53425",
@@ -149,13 +149,6 @@
           "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
         },
         {
-          "id": "tmdb:287238",
-          "type": "series",
-          "name": "Furious",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348297009/s592/furious.jpg"
-        },
-        {
           "id": "tmdb:95057",
           "type": "series",
           "name": "Superman and Lois",
@@ -168,6 +161,13 @@
           "name": "Rom",
           "year": 2005,
           "poster": "https://images.justwatch.com/poster/199758175/s592/Rome.jpg"
+        },
+        {
+          "id": "tmdb:80335",
+          "type": "series",
+          "name": "Homecoming",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/178451208/s592/Homecoming.jpg"
         }
       ]
     }
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-07T11:22:23.664Z",
+    "generatedAt": "2026-09-08T10:26:40.592Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1228710",
-      "tmdb:574982",
-      "tmdb:1386315",
       "tmdb:1137844",
-      "tmdb:277546",
-      "tmdb:860508",
+      "tmdb:1386315",
       "tmdb:693134",
       "tmdb:493922",
       "tmdb:1405616",
-      "tmdb:333339"
+      "tmdb:333339",
+      "tmdb:574982",
+      "tmdb:253412",
+      "tmdb:1109534"
     ],
     "tmdbShows": [
       "tmdb:236235",
@@ -200,9 +200,9 @@
       "tmdb:125988",
       "tmdb:108978",
       "tmdb:4613",
-      "tmdb:287238",
       "tmdb:95057",
-      "tmdb:1891"
+      "tmdb:1891",
+      "tmdb:80335"
     ]
   }
 }
