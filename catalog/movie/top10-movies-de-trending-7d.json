@@ -29,11 +29,11 @@
       "poster": "https://images.justwatch.com/poster/312362420/s592/Dune-Part-Two.jpg"
     },
     {
-      "id": "tmdb:493922",
+      "id": "tmdb:333339",
       "type": "movie",
-      "name": "Hereditary - Das Vermächtnis",
+      "name": "Ready Player One",
       "year": 2018,
-      "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+      "poster": "https://images.justwatch.com/poster/44693480/s592/Ready-Player-One.jpg"
     },
     {
       "id": "tmdb:1405616",
@@ -43,18 +43,11 @@
       "poster": "https://images.justwatch.com/poster/320712642/s592/new-life-2024.jpg"
     },
     {
-      "id": "tmdb:333339",
+      "id": "tmdb:1109534",
       "type": "movie",
-      "name": "Ready Player One",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/44693480/s592/Ready-Player-One.jpg"
-    },
-    {
-      "id": "tmdb:574982",
-      "type": "movie",
-      "name": "The Blackout",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+      "name": "The Dive",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/321536881/s592/the-dive.jpg"
     },
     {
       "id": "tmdb:253412",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
     },
     {
-      "id": "tmdb:1109534",
+      "id": "tmdb:438631",
       "type": "movie",
-      "name": "The Dive",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/321536881/s592/the-dive.jpg"
+      "name": "Dune",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/249473713/s592/Dune-2020.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
     }
   ]
 }

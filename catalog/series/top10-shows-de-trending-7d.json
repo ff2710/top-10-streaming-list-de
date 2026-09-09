@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
-      "id": "tmdb:41727",
-      "type": "series",
-      "name": "Banshee",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
@@ -43,25 +36,25 @@
       "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:4613",
+      "id": "tmdb:103516",
       "type": "series",
-      "name": "Band of Brothers - Wir waren wie Brüder",
-      "year": 2001,
-      "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
+      "name": "Star Trek: Strange New Worlds",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
     },
     {
-      "id": "tmdb:95057",
+      "id": "tmdb:41727",
       "type": "series",
-      "name": "Superman and Lois",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/321209274/s592/Superman-and-Lois.jpg"
+      "name": "Banshee",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
     },
     {
-      "id": "tmdb:1891",
+      "id": "tmdb:247168",
       "type": "series",
-      "name": "Rom",
-      "year": 2005,
-      "poster": "https://images.justwatch.com/poster/199758175/s592/Rome.jpg"
+      "name": "Chad Powers",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/354456393/s592/chad-powers.jpg"
     },
     {
       "id": "tmdb:80335",
@@ -69,6 +62,13 @@
       "name": "Homecoming",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/178451208/s592/Homecoming.jpg"
+    },
+    {
+      "id": "tmdb:4613",
+      "type": "series",
+      "name": "Band of Brothers - Wir waren wie Brüder",
+      "year": 2001,
+      "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
     }
   ]
 }

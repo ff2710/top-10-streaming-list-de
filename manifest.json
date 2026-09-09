@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-08T10:26:40.592Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-09T10:37:22.938Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/312362420/s592/Dune-Part-Two.jpg"
         },
         {
-          "id": "tmdb:493922",
+          "id": "tmdb:333339",
           "type": "movie",
-          "name": "Hereditary - Das Vermächtnis",
+          "name": "Ready Player One",
           "year": 2018,
-          "poster": "https://images.justwatch.com/poster/56425382/s592/Hereditary.jpg"
+          "poster": "https://images.justwatch.com/poster/44693480/s592/Ready-Player-One.jpg"
         },
         {
           "id": "tmdb:1405616",
@@ -64,18 +64,11 @@
           "poster": "https://images.justwatch.com/poster/320712642/s592/new-life-2024.jpg"
         },
         {
-          "id": "tmdb:333339",
+          "id": "tmdb:1109534",
           "type": "movie",
-          "name": "Ready Player One",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/44693480/s592/Ready-Player-One.jpg"
-        },
-        {
-          "id": "tmdb:574982",
-          "type": "movie",
-          "name": "The Blackout",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/249150483/s592/The-Blackout.jpg"
+          "name": "The Dive",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/321536881/s592/the-dive.jpg"
         },
         {
           "id": "tmdb:253412",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
         },
         {
-          "id": "tmdb:1109534",
+          "id": "tmdb:438631",
           "type": "movie",
-          "name": "The Dive",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/321536881/s592/the-dive.jpg"
+          "name": "Dune",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/249473713/s592/Dune-2020.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/332594610/s592/der-astronaut.jpg"
         }
       ]
     },
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:41727",
-          "type": "series",
-          "name": "Banshee",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
-        },
-        {
           "id": "tmdb:125988",
           "type": "series",
           "name": "Silo",
@@ -142,25 +135,25 @@
           "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
         },
         {
-          "id": "tmdb:4613",
+          "id": "tmdb:103516",
           "type": "series",
-          "name": "Band of Brothers - Wir waren wie Brüder",
-          "year": 2001,
-          "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
+          "name": "Star Trek: Strange New Worlds",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
         },
         {
-          "id": "tmdb:95057",
+          "id": "tmdb:41727",
           "type": "series",
-          "name": "Superman and Lois",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/321209274/s592/Superman-and-Lois.jpg"
+          "name": "Banshee",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
         },
         {
-          "id": "tmdb:1891",
+          "id": "tmdb:247168",
           "type": "series",
-          "name": "Rom",
-          "year": 2005,
-          "poster": "https://images.justwatch.com/poster/199758175/s592/Rome.jpg"
+          "name": "Chad Powers",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/354456393/s592/chad-powers.jpg"
         },
         {
           "id": "tmdb:80335",
@@ -168,6 +161,13 @@
           "name": "Homecoming",
           "year": 2018,
           "poster": "https://images.justwatch.com/poster/178451208/s592/Homecoming.jpg"
+        },
+        {
+          "id": "tmdb:4613",
+          "type": "series",
+          "name": "Band of Brothers - Wir waren wie Brüder",
+          "year": 2001,
+          "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-08T10:26:40.592Z",
+    "generatedAt": "2026-09-09T10:37:22.938Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,24 +185,24 @@
       "tmdb:1137844",
       "tmdb:1386315",
       "tmdb:693134",
-      "tmdb:493922",
-      "tmdb:1405616",
       "tmdb:333339",
-      "tmdb:574982",
+      "tmdb:1405616",
+      "tmdb:1109534",
       "tmdb:253412",
-      "tmdb:1109534"
+      "tmdb:438631",
+      "tmdb:687163"
     ],
     "tmdbShows": [
       "tmdb:236235",
       "tmdb:53425",
       "tmdb:247718",
-      "tmdb:41727",
       "tmdb:125988",
       "tmdb:108978",
-      "tmdb:4613",
-      "tmdb:95057",
-      "tmdb:1891",
-      "tmdb:80335"
+      "tmdb:103516",
+      "tmdb:41727",
+      "tmdb:247168",
+      "tmdb:80335",
+      "tmdb:4613"
     ]
   }
 }
