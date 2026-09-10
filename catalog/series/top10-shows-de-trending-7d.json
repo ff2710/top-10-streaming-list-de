@@ -5,14 +5,14 @@
       "type": "series",
       "name": "The Gentlemen",
       "year": 2024,
-      "poster": "https://images.justwatch.com/poster/354204489/s592/The-Gentlemen.jpg"
+      "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
     },
     {
       "id": "tmdb:53425",
       "type": "series",
       "name": "Wayward Pines",
       "year": 2015,
-      "poster": "https://images.justwatch.com/poster/320893038/s592/Wayward-Pines.jpg"
+      "poster": "https://images.justwatch.com/poster/177842727/s592/Wayward-Pines.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -22,25 +22,46 @@
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
+      "id": "tmdb:103516",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
+    },
+    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
       "year": 2023,
-      "poster": "https://images.justwatch.com/poster/346669772/s592/silo.jpg"
+      "poster": "https://images.justwatch.com/poster/346257608/s592/silo.jpg"
     },
     {
       "id": "tmdb:108978",
       "type": "series",
       "name": "Reacher",
       "year": 2022,
-      "poster": "https://images.justwatch.com/poster/327458937/s592/Jack-Reacher.jpg"
+      "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:103516",
+      "id": "tmdb:247168",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/305537670/s592/Star-Trek-Strange-New-Worlds.jpg"
+      "name": "Chad Powers",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338696955/s592/chad-powers.jpg"
+    },
+    {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+    },
+    {
+      "id": "tmdb:69557",
+      "type": "series",
+      "name": "Fauda",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/278946953/s592/Fauda.jpg"
     },
     {
       "id": "tmdb:41727",
@@ -48,27 +69,6 @@
       "name": "Banshee",
       "year": 2013,
       "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
-    },
-    {
-      "id": "tmdb:247168",
-      "type": "series",
-      "name": "Chad Powers",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/354456393/s592/chad-powers.jpg"
-    },
-    {
-      "id": "tmdb:80335",
-      "type": "series",
-      "name": "Homecoming",
-      "year": 2018,
-      "poster": "https://images.justwatch.com/poster/178451208/s592/Homecoming.jpg"
-    },
-    {
-      "id": "tmdb:4613",
-      "type": "series",
-      "name": "Band of Brothers - Wir waren wie Brüder",
-      "year": 2001,
-      "poster": "https://images.justwatch.com/poster/176597099/s592/Band-of-Brothers-Wir-waren-wie-Brueder.jpg"
     }
   ]
 }
