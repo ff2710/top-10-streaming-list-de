@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-10T10:24:53.453Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-11T10:27:15.307Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -27,13 +27,6 @@
           "name": "Mayday",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347434482/s592/mayday-2026.jpg"
-        },
-        {
-          "id": "tmdb:1228710",
-          "type": "movie",
-          "name": "The Mandalorian and Grogu",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348291436/s592/the-mandalorian-und-grogu.jpg"
         },
         {
           "id": "tmdb:693134",
@@ -64,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/320712642/s592/new-life-2024.jpg"
         },
         {
-          "id": "tmdb:1386315",
+          "id": "tmdb:753453",
           "type": "movie",
-          "name": "The Runner",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/353492492/s592/the-runner-2026-1.jpg"
+          "name": "V/H/S/94",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
         },
         {
           "id": "tmdb:253412",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
         },
         {
-          "id": "tmdb:438631",
+          "id": "tmdb:1228710",
           "type": "movie",
-          "name": "Dune",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/253886605/s592/Dune-2020.jpg"
+          "name": "The Mandalorian and Grogu",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348291436/s592/the-mandalorian-und-grogu.jpg"
         },
         {
-          "id": "tmdb:489",
+          "id": "tmdb:1440098",
           "type": "movie",
-          "name": "Good Will Hunting: Der gute Will Hunting",
-          "year": 1997,
-          "poster": "https://images.justwatch.com/poster/427298/s592/Good-Will-Hunting-Der-gute-Will-Hunting.jpg"
+          "name": "Drawn Together",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354109599/s592/drawn-together.jpg"
+        },
+        {
+          "id": "tmdb:1081003",
+          "type": "movie",
+          "name": "Supergirl: Woman of Tomorrow",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
         }
       ]
     },
@@ -100,18 +100,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:236235",
-          "type": "series",
-          "name": "The Gentlemen",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
-        },
-        {
           "id": "tmdb:53425",
           "type": "series",
           "name": "Wayward Pines",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/177842727/s592/Wayward-Pines.jpg"
+        },
+        {
+          "id": "tmdb:236235",
+          "type": "series",
+          "name": "The Gentlemen",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
         },
         {
           "id": "tmdb:247718",
@@ -142,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
-          "id": "tmdb:247168",
+          "id": "tmdb:66980",
           "type": "series",
-          "name": "Chad Powers",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338696955/s592/chad-powers.jpg"
+          "name": "Babylon Berlin",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
         },
         {
           "id": "tmdb:113962",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/278946953/s592/Fauda.jpg"
         },
         {
-          "id": "tmdb:41727",
+          "id": "tmdb:247168",
           "type": "series",
-          "name": "Banshee",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/340709100/s592/Banshee-Small-Town-Big-Secrets.jpg"
+          "name": "Chad Powers",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338696955/s592/chad-powers.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-10T10:24:53.453Z",
+    "generatedAt": "2026-09-11T10:27:15.307Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1137844",
-      "tmdb:1228710",
       "tmdb:693134",
       "tmdb:333339",
       "tmdb:1109534",
       "tmdb:1405616",
-      "tmdb:1386315",
+      "tmdb:753453",
       "tmdb:253412",
-      "tmdb:438631",
-      "tmdb:489"
+      "tmdb:1228710",
+      "tmdb:1440098",
+      "tmdb:1081003"
     ],
     "tmdbShows": [
-      "tmdb:236235",
       "tmdb:53425",
+      "tmdb:236235",
       "tmdb:247718",
       "tmdb:103516",
       "tmdb:125988",
       "tmdb:108978",
-      "tmdb:247168",
+      "tmdb:66980",
       "tmdb:113962",
       "tmdb:69557",
-      "tmdb:41727"
+      "tmdb:247168"
     ]
   }
 }
