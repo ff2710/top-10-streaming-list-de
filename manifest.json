@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-11T10:27:15.307Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-12T09:56:19.855Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,11 +29,11 @@
           "poster": "https://images.justwatch.com/poster/347434482/s592/mayday-2026.jpg"
         },
         {
-          "id": "tmdb:693134",
+          "id": "tmdb:753453",
           "type": "movie",
-          "name": "Dune: Part Two",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/335919365/s592/Dune-Part-Two.jpg"
+          "name": "V/H/S/94",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
         },
         {
           "id": "tmdb:333339",
@@ -50,20 +50,6 @@
           "poster": "https://images.justwatch.com/poster/314182759/s592/the-dive.jpg"
         },
         {
-          "id": "tmdb:1405616",
-          "type": "movie",
-          "name": "New Life",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/320712642/s592/new-life-2024.jpg"
-        },
-        {
-          "id": "tmdb:753453",
-          "type": "movie",
-          "name": "V/H/S/94",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
-        },
-        {
           "id": "tmdb:253412",
           "type": "movie",
           "name": "Everest",
@@ -71,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
         },
         {
-          "id": "tmdb:1228710",
+          "id": "tmdb:1081003",
           "type": "movie",
-          "name": "The Mandalorian and Grogu",
+          "name": "Supergirl: Woman of Tomorrow",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348291436/s592/the-mandalorian-und-grogu.jpg"
+          "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
         },
         {
           "id": "tmdb:1440098",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/354109599/s592/drawn-together.jpg"
         },
         {
-          "id": "tmdb:1081003",
+          "id": "tmdb:1228710",
           "type": "movie",
-          "name": "Supergirl: Woman of Tomorrow",
+          "name": "The Mandalorian and Grogu",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
+          "poster": "https://images.justwatch.com/poster/348291436/s592/the-mandalorian-und-grogu.jpg"
+        },
+        {
+          "id": "tmdb:489",
+          "type": "movie",
+          "name": "Good Will Hunting: Der gute Will Hunting",
+          "year": 1997,
+          "poster": "https://images.justwatch.com/poster/427298/s592/Good-Will-Hunting-Der-gute-Will-Hunting.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         }
       ]
     },
@@ -107,6 +107,13 @@
           "poster": "https://images.justwatch.com/poster/177842727/s592/Wayward-Pines.jpg"
         },
         {
+          "id": "tmdb:103516",
+          "type": "series",
+          "name": "Star Trek: Strange New Worlds",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
+        },
+        {
           "id": "tmdb:236235",
           "type": "series",
           "name": "The Gentlemen",
@@ -121,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:103516",
+          "id": "tmdb:108978",
           "type": "series",
-          "name": "Star Trek: Strange New Worlds",
+          "name": "Reacher",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
+          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:125988",
@@ -135,25 +142,11 @@
           "poster": "https://images.justwatch.com/poster/346257608/s592/silo.jpg"
         },
         {
-          "id": "tmdb:108978",
-          "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
-        },
-        {
           "id": "tmdb:66980",
           "type": "series",
           "name": "Babylon Berlin",
           "year": 2017,
           "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
-        },
-        {
-          "id": "tmdb:113962",
-          "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
         },
         {
           "id": "tmdb:69557",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/278946953/s592/Fauda.jpg"
         },
         {
-          "id": "tmdb:247168",
+          "id": "tmdb:325755",
           "type": "series",
-          "name": "Chad Powers",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338696955/s592/chad-powers.jpg"
+          "name": "Und hüte dich vor dem Bösen",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
+        },
+        {
+          "id": "tmdb:113962",
+          "type": "series",
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-11T10:27:15.307Z",
+    "generatedAt": "2026-09-12T09:56:19.855Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1137844",
-      "tmdb:693134",
+      "tmdb:753453",
       "tmdb:333339",
       "tmdb:1109534",
-      "tmdb:1405616",
-      "tmdb:753453",
       "tmdb:253412",
-      "tmdb:1228710",
+      "tmdb:1081003",
       "tmdb:1440098",
-      "tmdb:1081003"
+      "tmdb:1228710",
+      "tmdb:489",
+      "tmdb:1339713"
     ],
     "tmdbShows": [
       "tmdb:53425",
+      "tmdb:103516",
       "tmdb:236235",
       "tmdb:247718",
-      "tmdb:103516",
-      "tmdb:125988",
       "tmdb:108978",
+      "tmdb:125988",
       "tmdb:66980",
-      "tmdb:113962",
       "tmdb:69557",
-      "tmdb:247168"
+      "tmdb:325755",
+      "tmdb:113962"
     ]
   }
 }
