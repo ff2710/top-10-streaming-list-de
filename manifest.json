@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-13T10:57:18.669Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-14T11:31:23.288Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,27 +29,6 @@
           "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
         },
         {
-          "id": "tmdb:1137844",
-          "type": "movie",
-          "name": "Mayday",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347434482/s592/mayday-2026.jpg"
-        },
-        {
-          "id": "tmdb:333339",
-          "type": "movie",
-          "name": "Ready Player One",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/77965553/s592/Ready-Player-One.jpg"
-        },
-        {
-          "id": "tmdb:1109534",
-          "type": "movie",
-          "name": "The Dive",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/314182759/s592/the-dive.jpg"
-        },
-        {
           "id": "tmdb:1081003",
           "type": "movie",
           "name": "Supergirl: Woman of Tomorrow",
@@ -57,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
         },
         {
-          "id": "tmdb:253412",
+          "id": "tmdb:1109534",
           "type": "movie",
-          "name": "Everest",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/201272409/s592/Everest.jpg"
+          "name": "The Dive",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/314182759/s592/the-dive.jpg"
         },
         {
           "id": "tmdb:1440098",
@@ -78,6 +57,13 @@
           "poster": "https://images.justwatch.com/poster/304522326/s592/Rheingold-2022.jpg"
         },
         {
+          "id": "tmdb:1137844",
+          "type": "movie",
+          "name": "Mayday",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347434482/s592/mayday-2026.jpg"
+        },
+        {
           "id": "tmdb:1339713",
           "type": "movie",
           "name": "Obsession - Du sollst mich lieben",
@@ -90,6 +76,20 @@
           "name": "Shot Caller",
           "year": 2017,
           "poster": "https://images.justwatch.com/poster/22427034/s592/Shot-Caller.jpg"
+        },
+        {
+          "id": "tmdb:615457",
+          "type": "movie",
+          "name": "Nobody",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/331376212/s592/Nobody-2021.jpg"
+        },
+        {
+          "id": "tmdb:1083381",
+          "type": "movie",
+          "name": "Backrooms Everything Must Go",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347350359/s592/backrooms.jpg"
         }
       ]
     },
@@ -114,20 +114,6 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:236235",
-          "type": "series",
-          "name": "The Gentlemen",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
-        },
-        {
-          "id": "tmdb:53425",
-          "type": "series",
-          "name": "Wayward Pines",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/177842727/s592/Wayward-Pines.jpg"
-        },
-        {
           "id": "tmdb:108978",
           "type": "series",
           "name": "Reacher",
@@ -142,18 +128,11 @@
           "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
         },
         {
-          "id": "tmdb:125988",
+          "id": "tmdb:236235",
           "type": "series",
-          "name": "Silo",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/346257608/s592/silo.jpg"
-        },
-        {
-          "id": "tmdb:69557",
-          "type": "series",
-          "name": "Fauda",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/278946953/s592/Fauda.jpg"
+          "name": "The Gentlemen",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
         },
         {
           "id": "tmdb:66980",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
         },
         {
+          "id": "tmdb:69557",
+          "type": "series",
+          "name": "Fauda",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/278946953/s592/Fauda.jpg"
+        },
+        {
           "id": "tmdb:331586",
           "type": "series",
           "name": "LOL Next",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/348329813/s592/lol-next.jpg"
+        },
+        {
+          "id": "tmdb:53425",
+          "type": "series",
+          "name": "Wayward Pines",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/177842727/s592/Wayward-Pines.jpg"
+        },
+        {
+          "id": "tmdb:125988",
+          "type": "series",
+          "name": "Silo",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/346257608/s592/silo.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-13T10:57:18.669Z",
+    "generatedAt": "2026-09-14T11:31:23.288Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:753453",
-      "tmdb:1137844",
-      "tmdb:333339",
-      "tmdb:1109534",
       "tmdb:1081003",
-      "tmdb:253412",
+      "tmdb:1109534",
       "tmdb:1440098",
       "tmdb:912726",
+      "tmdb:1137844",
       "tmdb:1339713",
-      "tmdb:339692"
+      "tmdb:339692",
+      "tmdb:615457",
+      "tmdb:1083381"
     ],
     "tmdbShows": [
       "tmdb:103516",
       "tmdb:247718",
-      "tmdb:236235",
-      "tmdb:53425",
       "tmdb:108978",
       "tmdb:325755",
-      "tmdb:125988",
-      "tmdb:69557",
+      "tmdb:236235",
       "tmdb:66980",
-      "tmdb:331586"
+      "tmdb:69557",
+      "tmdb:331586",
+      "tmdb:53425",
+      "tmdb:125988"
     ]
   }
 }
