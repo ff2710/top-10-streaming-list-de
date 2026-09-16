@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
     },
     {
+      "id": "tmdb:1440098",
+      "type": "movie",
+      "name": "Drawn Together",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354109599/s592/drawn-together.jpg"
+    },
+    {
       "id": "tmdb:1081003",
       "type": "movie",
       "name": "Supergirl: Woman of Tomorrow",
@@ -15,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
     },
     {
-      "id": "tmdb:1440098",
+      "id": "tmdb:340666",
       "type": "movie",
-      "name": "Drawn Together",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354109599/s592/drawn-together.jpg"
+      "name": "Nocturnal Animals",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/313344132/s592/Nocturnal-Animals.jpg"
     },
     {
       "id": "tmdb:912726",
@@ -36,18 +43,18 @@
       "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
     },
     {
-      "id": "tmdb:1137844",
+      "id": "tmdb:7978",
       "type": "movie",
-      "name": "Mayday",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347434482/s592/mayday-2026.jpg"
+      "name": "Wolfman",
+      "year": 2010,
+      "poster": "https://images.justwatch.com/poster/10637357/s592/Wolfman.jpg"
     },
     {
-      "id": "tmdb:339692",
+      "id": "tmdb:846778",
       "type": "movie",
-      "name": "Shot Caller",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/22427034/s592/Shot-Caller.jpg"
+      "name": "Margaux",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/300705883/s592/margaux.jpg"
     },
     {
       "id": "tmdb:1083381",
@@ -57,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/347350359/s592/backrooms.jpg"
     },
     {
-      "id": "tmdb:687163",
+      "id": "tmdb:6435",
       "type": "movie",
-      "name": "Der Astronaut – Project Hail Mary",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+      "name": "Zauberhafte Schwestern",
+      "year": 1998,
+      "poster": "https://images.justwatch.com/poster/302507532/s592/Practical-Magic-Zauberhafte-Schwestern.jpg"
     }
   ]
 }
