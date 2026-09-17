@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-16T10:41:32.839Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-17T10:49:22.745Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,27 +22,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:753453",
-          "type": "movie",
-          "name": "V/H/S/94",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
-        },
-        {
-          "id": "tmdb:1440098",
-          "type": "movie",
-          "name": "Drawn Together",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354109599/s592/drawn-together.jpg"
-        },
-        {
-          "id": "tmdb:1081003",
-          "type": "movie",
-          "name": "Supergirl: Woman of Tomorrow",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
-        },
-        {
           "id": "tmdb:340666",
           "type": "movie",
           "name": "Nocturnal Animals",
@@ -57,11 +36,18 @@
           "poster": "https://images.justwatch.com/poster/304522326/s592/Rheingold-2022.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1081003",
           "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
+          "name": "Supergirl: Woman of Tomorrow",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
+        },
+        {
+          "id": "tmdb:1368337",
+          "type": "movie",
+          "name": "Die Odyssee",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         },
         {
           "id": "tmdb:7978",
@@ -69,6 +55,13 @@
           "name": "Wolfman",
           "year": 2010,
           "poster": "https://images.justwatch.com/poster/10637357/s592/Wolfman.jpg"
+        },
+        {
+          "id": "tmdb:1339713",
+          "type": "movie",
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:846778",
@@ -83,6 +76,13 @@
           "name": "Backrooms Everything Must Go",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347350359/s592/backrooms.jpg"
+        },
+        {
+          "id": "tmdb:753453",
+          "type": "movie",
+          "name": "V/H/S/94",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
         },
         {
           "id": "tmdb:6435",
@@ -107,13 +107,6 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:103516",
-          "type": "series",
-          "name": "Star Trek: Strange New Worlds",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
-        },
-        {
           "id": "tmdb:325755",
           "type": "series",
           "name": "Und hüte dich vor dem Bösen",
@@ -121,18 +114,18 @@
           "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
         },
         {
-          "id": "tmdb:108978",
-          "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
-        },
-        {
           "id": "tmdb:66980",
           "type": "series",
           "name": "Babylon Berlin",
           "year": 2017,
           "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
+        },
+        {
+          "id": "tmdb:108978",
+          "type": "series",
+          "name": "Reacher",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
           "id": "tmdb:270476",
@@ -156,18 +149,25 @@
           "poster": "https://images.justwatch.com/poster/346552888/s592/crew-girl.jpg"
         },
         {
-          "id": "tmdb:258230",
+          "id": "tmdb:103516",
           "type": "series",
-          "name": "Last Seen",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348320393/s592/last-seen.jpg"
+          "name": "Star Trek: Strange New Worlds",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
         },
         {
-          "id": "tmdb:69557",
+          "id": "tmdb:46896",
           "type": "series",
-          "name": "Fauda",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/278946953/s592/Fauda.jpg"
+          "name": "The Originals",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
+        },
+        {
+          "id": "tmdb:273207",
+          "type": "series",
+          "name": "Neagley",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-16T10:41:32.839Z",
+    "generatedAt": "2026-09-17T10:49:22.745Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:753453",
-      "tmdb:1440098",
-      "tmdb:1081003",
       "tmdb:340666",
       "tmdb:912726",
-      "tmdb:1339713",
+      "tmdb:1081003",
+      "tmdb:1368337",
       "tmdb:7978",
+      "tmdb:1339713",
       "tmdb:846778",
       "tmdb:1083381",
+      "tmdb:753453",
       "tmdb:6435"
     ],
     "tmdbShows": [
       "tmdb:247718",
-      "tmdb:103516",
       "tmdb:325755",
-      "tmdb:108978",
       "tmdb:66980",
+      "tmdb:108978",
       "tmdb:270476",
       "tmdb:331586",
       "tmdb:300507",
-      "tmdb:258230",
-      "tmdb:69557"
+      "tmdb:103516",
+      "tmdb:46896",
+      "tmdb:273207"
     ]
   }
 }
