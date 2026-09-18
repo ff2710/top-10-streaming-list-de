@@ -8,18 +8,11 @@
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
-      "id": "tmdb:325755",
+      "id": "tmdb:270476",
       "type": "series",
-      "name": "Und hüte dich vor dem Bösen",
+      "name": "Widow's Bay",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
-    },
-    {
-      "id": "tmdb:66980",
-      "type": "series",
-      "name": "Babylon Berlin",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
+      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
     },
     {
       "id": "tmdb:108978",
@@ -29,32 +22,32 @@
       "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:270476",
+      "id": "tmdb:273207",
       "type": "series",
-      "name": "Widow's Bay",
+      "name": "Neagley",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+      "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
     },
     {
-      "id": "tmdb:331586",
+      "id": "tmdb:66980",
       "type": "series",
-      "name": "LOL Next",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348329813/s592/lol-next.jpg"
+      "name": "Babylon Berlin",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
     },
     {
-      "id": "tmdb:300507",
+      "id": "tmdb:325755",
       "type": "series",
-      "name": "Crew Girl",
+      "name": "Und hüte dich vor dem Bösen",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346552888/s592/crew-girl.jpg"
+      "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
     },
     {
-      "id": "tmdb:103516",
+      "id": "tmdb:95480",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
+      "name": "Slow Horses - Ein Fall für Jackson Lamb",
       "year": 2022,
-      "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
+      "poster": "https://images.justwatch.com/poster/269735614/s592/Slow-Horses.jpg"
     },
     {
       "id": "tmdb:46896",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
     },
     {
-      "id": "tmdb:273207",
+      "id": "tmdb:95350",
       "type": "series",
-      "name": "Neagley",
+      "name": "Lanterns",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
+      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
+    },
+    {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": " The Pitt",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
     }
   ]
 }

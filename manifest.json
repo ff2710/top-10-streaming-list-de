@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-17T10:49:22.745Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-18T10:24:45.619Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,20 +29,6 @@
           "poster": "https://images.justwatch.com/poster/313344132/s592/Nocturnal-Animals.jpg"
         },
         {
-          "id": "tmdb:912726",
-          "type": "movie",
-          "name": "Rheingold",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/304522326/s592/Rheingold-2022.jpg"
-        },
-        {
-          "id": "tmdb:1081003",
-          "type": "movie",
-          "name": "Supergirl: Woman of Tomorrow",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346900629/s592/supergirl-woman-of-tomorrow.jpg"
-        },
-        {
           "id": "tmdb:1368337",
           "type": "movie",
           "name": "Die Odyssee",
@@ -57,11 +43,11 @@
           "poster": "https://images.justwatch.com/poster/10637357/s592/Wolfman.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1198984",
           "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
+          "name": "We Bury the Dead",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/336744758/s592/we-bury-the-dead.jpg"
         },
         {
           "id": "tmdb:846778",
@@ -71,25 +57,32 @@
           "poster": "https://images.justwatch.com/poster/300705883/s592/margaux.jpg"
         },
         {
-          "id": "tmdb:1083381",
+          "id": "tmdb:1339713",
           "type": "movie",
-          "name": "Backrooms Everything Must Go",
+          "name": "Obsession - Du sollst mich lieben",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347350359/s592/backrooms.jpg"
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
-          "id": "tmdb:753453",
+          "id": "tmdb:423",
           "type": "movie",
-          "name": "V/H/S/94",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/252855640/s592/V-H-S-94.jpg"
+          "name": "Der Pianist",
+          "year": 2002,
+          "poster": "https://images.justwatch.com/poster/102327271/s592/Der-Pianist.jpg"
         },
         {
-          "id": "tmdb:6435",
+          "id": "tmdb:912726",
           "type": "movie",
-          "name": "Zauberhafte Schwestern",
-          "year": 1998,
-          "poster": "https://images.justwatch.com/poster/302507532/s592/Practical-Magic-Zauberhafte-Schwestern.jpg"
+          "name": "Rheingold",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/304522326/s592/Rheingold-2022.jpg"
+        },
+        {
+          "id": "tmdb:1257009",
+          "type": "movie",
+          "name": "Primitive War",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/344238354/s592/primitive-war.jpg"
         }
       ]
     },
@@ -107,18 +100,11 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:325755",
+          "id": "tmdb:270476",
           "type": "series",
-          "name": "Und hüte dich vor dem Bösen",
+          "name": "Widow's Bay",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
-        },
-        {
-          "id": "tmdb:66980",
-          "type": "series",
-          "name": "Babylon Berlin",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
+          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
         },
         {
           "id": "tmdb:108978",
@@ -128,32 +114,32 @@
           "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
-          "id": "tmdb:270476",
+          "id": "tmdb:273207",
           "type": "series",
-          "name": "Widow's Bay",
+          "name": "Neagley",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
         },
         {
-          "id": "tmdb:331586",
+          "id": "tmdb:66980",
           "type": "series",
-          "name": "LOL Next",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348329813/s592/lol-next.jpg"
+          "name": "Babylon Berlin",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
         },
         {
-          "id": "tmdb:300507",
+          "id": "tmdb:325755",
           "type": "series",
-          "name": "Crew Girl",
+          "name": "Und hüte dich vor dem Bösen",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346552888/s592/crew-girl.jpg"
+          "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
         },
         {
-          "id": "tmdb:103516",
+          "id": "tmdb:95480",
           "type": "series",
-          "name": "Star Trek: Strange New Worlds",
+          "name": "Slow Horses - Ein Fall für Jackson Lamb",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320031/s592/Star-Trek-Strange-New-Worlds.jpg"
+          "poster": "https://images.justwatch.com/poster/269735614/s592/Slow-Horses.jpg"
         },
         {
           "id": "tmdb:46896",
@@ -163,11 +149,18 @@
           "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
         },
         {
-          "id": "tmdb:273207",
+          "id": "tmdb:95350",
           "type": "series",
-          "name": "Neagley",
+          "name": "Lanterns",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
+          "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
+        },
+        {
+          "id": "tmdb:250307",
+          "type": "series",
+          "name": " The Pitt",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         }
       ]
     }
@@ -177,32 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-17T10:49:22.745Z",
+    "generatedAt": "2026-09-18T10:24:45.619Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:340666",
-      "tmdb:912726",
-      "tmdb:1081003",
       "tmdb:1368337",
       "tmdb:7978",
-      "tmdb:1339713",
+      "tmdb:1198984",
       "tmdb:846778",
-      "tmdb:1083381",
-      "tmdb:753453",
-      "tmdb:6435"
+      "tmdb:1339713",
+      "tmdb:423",
+      "tmdb:912726",
+      "tmdb:1257009"
     ],
     "tmdbShows": [
       "tmdb:247718",
-      "tmdb:325755",
-      "tmdb:66980",
-      "tmdb:108978",
       "tmdb:270476",
-      "tmdb:331586",
-      "tmdb:300507",
-      "tmdb:103516",
+      "tmdb:108978",
+      "tmdb:273207",
+      "tmdb:66980",
+      "tmdb:325755",
+      "tmdb:95480",
       "tmdb:46896",
-      "tmdb:273207"
+      "tmdb:95350",
+      "tmdb:250307"
     ]
   }
 }
