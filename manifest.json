@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-18T10:24:45.619Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-19T10:09:12.275Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -57,32 +57,39 @@
           "poster": "https://images.justwatch.com/poster/300705883/s592/margaux.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:344",
           "type": "movie",
-          "name": "Obsession - Du sollst mich lieben",
+          "name": "Bang Boom Bang - Ein todsicheres Ding",
+          "year": 1999,
+          "poster": "https://images.justwatch.com/poster/10945926/s592/Bang-Boom-Bang-Ein-todsicheres-Ding.jpg"
+        },
+        {
+          "id": "tmdb:1159559",
+          "type": "movie",
+          "name": "Scream 7",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/342145259/s592/scream-7.jpg"
         },
         {
-          "id": "tmdb:423",
+          "id": "tmdb:1656489",
           "type": "movie",
-          "name": "Der Pianist",
-          "year": 2002,
-          "poster": "https://images.justwatch.com/poster/102327271/s592/Der-Pianist.jpg"
+          "name": "Sultana",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354696648/s592/sultana.jpg"
         },
         {
-          "id": "tmdb:912726",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "Rheingold",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/304522326/s592/Rheingold-2022.jpg"
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:1257009",
+          "id": "tmdb:1128655",
           "type": "movie",
-          "name": "Primitive War",
+          "name": "The Surfer",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/344238354/s592/primitive-war.jpg"
+          "poster": "https://images.justwatch.com/poster/332080055/s592/the-surfer.jpg"
         }
       ]
     },
@@ -100,6 +107,13 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
+          "id": "tmdb:273207",
+          "type": "series",
+          "name": "Neagley",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
+        },
+        {
           "id": "tmdb:270476",
           "type": "series",
           "name": "Widow's Bay",
@@ -114,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
-          "id": "tmdb:273207",
+          "id": "tmdb:299939",
           "type": "series",
-          "name": "Neagley",
+          "name": "Monster: Die Geschichte von Lizzie Borden",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
+          "poster": "https://images.justwatch.com/poster/350565136/s592/monster-the-lizzie-borden-story.jpg"
         },
         {
           "id": "tmdb:66980",
@@ -128,18 +142,11 @@
           "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
         },
         {
-          "id": "tmdb:325755",
-          "type": "series",
-          "name": "Und hüte dich vor dem Bösen",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/350610296/s592/the-perfect-lie.jpg"
-        },
-        {
           "id": "tmdb:95480",
           "type": "series",
-          "name": "Slow Horses - Ein Fall für Jackson Lamb",
+          "name": "Slow Horses – Ein Fall für Jackson Lamb",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/269735614/s592/Slow-Horses.jpg"
+          "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         },
         {
           "id": "tmdb:46896",
@@ -149,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
         },
         {
+          "id": "tmdb:332401",
+          "type": "series",
+          "name": "City of Blood",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
+        },
+        {
           "id": "tmdb:95350",
           "type": "series",
           "name": "Lanterns",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
-        },
-        {
-          "id": "tmdb:250307",
-          "type": "series",
-          "name": " The Pitt",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/341619842/s592/the-pitt.jpg"
         }
       ]
     }
@@ -170,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-18T10:24:45.619Z",
+    "generatedAt": "2026-09-19T10:09:12.275Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -179,22 +186,23 @@
       "tmdb:7978",
       "tmdb:1198984",
       "tmdb:846778",
-      "tmdb:1339713",
-      "tmdb:423",
-      "tmdb:912726",
-      "tmdb:1257009"
+      "tmdb:344",
+      "tmdb:1159559",
+      "tmdb:1656489",
+      "tmdb:687163",
+      "tmdb:1128655"
     ],
     "tmdbShows": [
       "tmdb:247718",
+      "tmdb:273207",
       "tmdb:270476",
       "tmdb:108978",
-      "tmdb:273207",
+      "tmdb:299939",
       "tmdb:66980",
-      "tmdb:325755",
       "tmdb:95480",
       "tmdb:46896",
-      "tmdb:95350",
-      "tmdb:250307"
+      "tmdb:332401",
+      "tmdb:95350"
     ]
   }
 }

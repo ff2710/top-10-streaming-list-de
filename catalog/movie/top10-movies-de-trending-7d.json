@@ -36,32 +36,39 @@
       "poster": "https://images.justwatch.com/poster/300705883/s592/margaux.jpg"
     },
     {
-      "id": "tmdb:1339713",
+      "id": "tmdb:344",
       "type": "movie",
-      "name": "Obsession - Du sollst mich lieben",
+      "name": "Bang Boom Bang - Ein todsicheres Ding",
+      "year": 1999,
+      "poster": "https://images.justwatch.com/poster/10945926/s592/Bang-Boom-Bang-Ein-todsicheres-Ding.jpg"
+    },
+    {
+      "id": "tmdb:1159559",
+      "type": "movie",
+      "name": "Scream 7",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/342145259/s592/scream-7.jpg"
     },
     {
-      "id": "tmdb:423",
+      "id": "tmdb:1656489",
       "type": "movie",
-      "name": "Der Pianist",
-      "year": 2002,
-      "poster": "https://images.justwatch.com/poster/102327271/s592/Der-Pianist.jpg"
+      "name": "Sultana",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354696648/s592/sultana.jpg"
     },
     {
-      "id": "tmdb:912726",
+      "id": "tmdb:687163",
       "type": "movie",
-      "name": "Rheingold",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/304522326/s592/Rheingold-2022.jpg"
+      "name": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:1257009",
+      "id": "tmdb:1128655",
       "type": "movie",
-      "name": "Primitive War",
+      "name": "The Surfer",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/344238354/s592/primitive-war.jpg"
+      "poster": "https://images.justwatch.com/poster/332080055/s592/the-surfer.jpg"
     }
   ]
 }
