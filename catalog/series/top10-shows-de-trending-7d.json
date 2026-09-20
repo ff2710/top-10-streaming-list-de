@@ -15,6 +15,13 @@
       "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
     },
     {
+      "id": "tmdb:299939",
+      "type": "series",
+      "name": "Monster: Die Geschichte von Lizzie Borden",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/350565136/s592/monster-the-lizzie-borden-story.jpg"
+    },
+    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay",
@@ -29,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:299939",
+      "id": "tmdb:95480",
       "type": "series",
-      "name": "Monster: Die Geschichte von Lizzie Borden",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350565136/s592/monster-the-lizzie-borden-story.jpg"
+      "name": "Slow Horses – Ein Fall für Jackson Lamb",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     },
     {
       "id": "tmdb:66980",
@@ -41,13 +48,6 @@
       "name": "Babylon Berlin",
       "year": 2017,
       "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
-    },
-    {
-      "id": "tmdb:95480",
-      "type": "series",
-      "name": "Slow Horses – Ein Fall für Jackson Lamb",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     },
     {
       "id": "tmdb:46896",
