@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-20T10:27:32.849Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-21T11:45:22.857Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,18 +29,18 @@
           "poster": "https://images.justwatch.com/poster/313344132/s592/Nocturnal-Animals.jpg"
         },
         {
+          "id": "tmdb:64690",
+          "type": "movie",
+          "name": "Drive",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/8646885/s592/Drive-2011.jpg"
+        },
+        {
           "id": "tmdb:1198984",
           "type": "movie",
           "name": "We Bury the Dead",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/336744758/s592/we-bury-the-dead.jpg"
-        },
-        {
-          "id": "tmdb:1368337",
-          "type": "movie",
-          "name": "Die Odyssee",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         },
         {
           "id": "tmdb:7978",
@@ -50,32 +50,18 @@
           "poster": "https://images.justwatch.com/poster/10637357/s592/Wolfman.jpg"
         },
         {
-          "id": "tmdb:64690",
+          "id": "tmdb:1368337",
           "type": "movie",
-          "name": "Drive",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/8646885/s592/Drive-2011.jpg"
+          "name": "Die Odyssee",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         },
         {
           "id": "tmdb:1656489",
           "type": "movie",
           "name": "Sultana",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354696648/s592/sultana.jpg"
-        },
-        {
-          "id": "tmdb:344",
-          "type": "movie",
-          "name": "Bang Boom Bang - Ein todsicheres Ding",
-          "year": 1999,
-          "poster": "https://images.justwatch.com/poster/10945926/s592/Bang-Boom-Bang-Ein-todsicheres-Ding.jpg"
-        },
-        {
-          "id": "tmdb:1159559",
-          "type": "movie",
-          "name": "Scream 7",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342145259/s592/scream-7.jpg"
+          "poster": "https://images.justwatch.com/poster/354779742/s592/sultana.jpg"
         },
         {
           "id": "tmdb:1423191",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/348291221/s592/resident-evil.jpg"
         },
         {
+          "id": "tmdb:344",
+          "type": "movie",
+          "name": "Bang Boom Bang - Ein todsicheres Ding",
+          "year": 1999,
+          "poster": "https://images.justwatch.com/poster/10945926/s592/Bang-Boom-Bang-Ein-todsicheres-Ding.jpg"
+        },
+        {
           "id": "tmdb:6552",
           "type": "movie",
           "name": "Die Killerhand",
           "year": 1999,
           "poster": "https://images.justwatch.com/poster/254289394/s592/Die-Killerhand.jpg"
+        },
+        {
+          "id": "tmdb:460465",
+          "type": "movie",
+          "name": "Mortal Kombat",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/354387791/s592/Mortal-Kombat-2021.jpg"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "type": "series",
           "name": "Monster: Die Geschichte von Lizzie Borden",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/350565136/s592/monster-the-lizzie-borden-story.jpg"
+          "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
         },
         {
           "id": "tmdb:270476",
@@ -142,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         },
         {
-          "id": "tmdb:66980",
+          "id": "tmdb:332401",
           "type": "series",
-          "name": "Babylon Berlin",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
+          "name": "City of Blood",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
         },
         {
           "id": "tmdb:46896",
@@ -156,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
         },
         {
-          "id": "tmdb:332401",
+          "id": "tmdb:66980",
           "type": "series",
-          "name": "City of Blood",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
+          "name": "Babylon Berlin",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
         },
         {
-          "id": "tmdb:95350",
+          "id": "tmdb:224263",
           "type": "series",
-          "name": "Lanterns",
+          "name": "Stranger Things: Tales from '85",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
+          "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
         }
       ]
     }
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-20T10:27:32.849Z",
+    "generatedAt": "2026-09-21T11:45:22.857Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:340666",
-      "tmdb:1198984",
-      "tmdb:1368337",
-      "tmdb:7978",
       "tmdb:64690",
+      "tmdb:1198984",
+      "tmdb:7978",
+      "tmdb:1368337",
       "tmdb:1656489",
-      "tmdb:344",
-      "tmdb:1159559",
       "tmdb:1423191",
-      "tmdb:6552"
+      "tmdb:344",
+      "tmdb:6552",
+      "tmdb:460465"
     ],
     "tmdbShows": [
       "tmdb:247718",
@@ -199,10 +199,10 @@
       "tmdb:270476",
       "tmdb:108978",
       "tmdb:95480",
-      "tmdb:66980",
-      "tmdb:46896",
       "tmdb:332401",
-      "tmdb:95350"
+      "tmdb:46896",
+      "tmdb:66980",
+      "tmdb:224263"
     ]
   }
 }
