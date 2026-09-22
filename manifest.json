@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-21T11:45:22.857Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-22T10:47:52.657Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/336744758/s592/we-bury-the-dead.jpg"
         },
         {
-          "id": "tmdb:7978",
-          "type": "movie",
-          "name": "Wolfman",
-          "year": 2010,
-          "poster": "https://images.justwatch.com/poster/10637357/s592/Wolfman.jpg"
-        },
-        {
           "id": "tmdb:1368337",
           "type": "movie",
           "name": "Die Odyssee",
@@ -64,18 +57,18 @@
           "poster": "https://images.justwatch.com/poster/354779742/s592/sultana.jpg"
         },
         {
-          "id": "tmdb:1423191",
-          "type": "movie",
-          "name": "Resident Evil",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348291221/s592/resident-evil.jpg"
-        },
-        {
           "id": "tmdb:344",
           "type": "movie",
           "name": "Bang Boom Bang - Ein todsicheres Ding",
           "year": 1999,
           "poster": "https://images.justwatch.com/poster/10945926/s592/Bang-Boom-Bang-Ein-todsicheres-Ding.jpg"
+        },
+        {
+          "id": "tmdb:1423191",
+          "type": "movie",
+          "name": "Resident Evil",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348291221/s592/resident-evil.jpg"
         },
         {
           "id": "tmdb:6552",
@@ -90,6 +83,13 @@
           "name": "Mortal Kombat",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/354387791/s592/Mortal-Kombat-2021.jpg"
+        },
+        {
+          "id": "tmdb:942199",
+          "type": "movie",
+          "name": "Simulant",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/308630949/s592/simulant.jpg"
         }
       ]
     },
@@ -149,25 +149,25 @@
           "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
         },
         {
-          "id": "tmdb:46896",
-          "type": "series",
-          "name": "The Originals",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
-        },
-        {
-          "id": "tmdb:66980",
-          "type": "series",
-          "name": "Babylon Berlin",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
-        },
-        {
           "id": "tmdb:224263",
           "type": "series",
           "name": "Stranger Things: Tales from '85",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
+        },
+        {
+          "id": "tmdb:295089",
+          "type": "series",
+          "name": "Die Puppe",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346742472/s592/the-doll.jpg"
+        },
+        {
+          "id": "tmdb:28315",
+          "type": "series",
+          "name": "Der Unsichtbare",
+          "year": 1958,
+          "poster": "https://images.justwatch.com/poster/76314630/s592/Der-Unsichtbare.jpg"
         }
       ]
     }
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-21T11:45:22.857Z",
+    "generatedAt": "2026-09-22T10:47:52.657Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:340666",
       "tmdb:64690",
       "tmdb:1198984",
-      "tmdb:7978",
       "tmdb:1368337",
       "tmdb:1656489",
-      "tmdb:1423191",
       "tmdb:344",
+      "tmdb:1423191",
       "tmdb:6552",
-      "tmdb:460465"
+      "tmdb:460465",
+      "tmdb:942199"
     ],
     "tmdbShows": [
       "tmdb:247718",
@@ -200,9 +200,9 @@
       "tmdb:108978",
       "tmdb:95480",
       "tmdb:332401",
-      "tmdb:46896",
-      "tmdb:66980",
-      "tmdb:224263"
+      "tmdb:224263",
+      "tmdb:295089",
+      "tmdb:28315"
     ]
   }
 }

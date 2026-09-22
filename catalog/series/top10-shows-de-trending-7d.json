@@ -50,25 +50,25 @@
       "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
     },
     {
-      "id": "tmdb:46896",
-      "type": "series",
-      "name": "The Originals",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/312160629/s592/The-Originals.jpg"
-    },
-    {
-      "id": "tmdb:66980",
-      "type": "series",
-      "name": "Babylon Berlin",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
-    },
-    {
       "id": "tmdb:224263",
       "type": "series",
       "name": "Stranger Things: Tales from '85",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
+    },
+    {
+      "id": "tmdb:295089",
+      "type": "series",
+      "name": "Die Puppe",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346742472/s592/the-doll.jpg"
+    },
+    {
+      "id": "tmdb:28315",
+      "type": "series",
+      "name": "Der Unsichtbare",
+      "year": 1958,
+      "poster": "https://images.justwatch.com/poster/76314630/s592/Der-Unsichtbare.jpg"
     }
   ]
 }
