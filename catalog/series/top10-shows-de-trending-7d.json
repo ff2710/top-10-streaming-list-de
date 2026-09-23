@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:247718",
-      "type": "series",
-      "name": "MobLand",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-    },
-    {
       "id": "tmdb:273207",
       "type": "series",
       "name": "Neagley",
@@ -22,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
     },
     {
-      "id": "tmdb:270476",
+      "id": "tmdb:247718",
       "type": "series",
-      "name": "Widow's Bay",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346339373/s592/widows-bay.jpg"
+      "name": "MobLand",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
       "id": "tmdb:108978",
@@ -50,6 +43,13 @@
       "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
     },
     {
+      "id": "tmdb:239618",
+      "type": "series",
+      "name": "American Hostage",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
+    },
+    {
       "id": "tmdb:224263",
       "type": "series",
       "name": "Stranger Things: Tales from '85",
@@ -59,7 +59,7 @@
     {
       "id": "tmdb:295089",
       "type": "series",
-      "name": "Die Puppe",
+      "name": "The Doll",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346742472/s592/the-doll.jpg"
     },
