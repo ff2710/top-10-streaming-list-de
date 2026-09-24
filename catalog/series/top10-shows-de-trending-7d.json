@@ -1,18 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:273207",
-      "type": "series",
-      "name": "Neagley",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
-    },
-    {
       "id": "tmdb:299939",
       "type": "series",
       "name": "Monster: Die Geschichte von Lizzie Borden",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
+    },
+    {
+      "id": "tmdb:273207",
+      "type": "series",
+      "name": "Neagley",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -29,6 +29,13 @@
       "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
+      "id": "tmdb:239618",
+      "type": "series",
+      "name": "American Hostage",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
+    },
+    {
       "id": "tmdb:95480",
       "type": "series",
       "name": "Slow Horses – Ein Fall für Jackson Lamb",
@@ -43,11 +50,11 @@
       "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
     },
     {
-      "id": "tmdb:239618",
+      "id": "tmdb:113962",
       "type": "series",
-      "name": "American Hostage",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
+      "name": "Special Ops: Lioness",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
     },
     {
       "id": "tmdb:224263",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
     },
     {
-      "id": "tmdb:295089",
+      "id": "tmdb:312557",
       "type": "series",
-      "name": "The Doll",
+      "name": "Die Minverva-Akademie",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346742472/s592/the-doll.jpg"
-    },
-    {
-      "id": "tmdb:28315",
-      "type": "series",
-      "name": "Der Unsichtbare",
-      "year": 1958,
-      "poster": "https://images.justwatch.com/poster/76314630/s592/Der-Unsichtbare.jpg"
+      "poster": "https://images.justwatch.com/poster/354498611/s592/minerva-la-scuola.jpg"
     }
   ]
 }
