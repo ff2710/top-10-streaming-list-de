@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:299939",
+      "id": "tmdb:247718",
       "type": "series",
-      "name": "Monster: Die Geschichte von Lizzie Borden",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
+      "name": "MobLand",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
       "id": "tmdb:273207",
@@ -15,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
     },
     {
-      "id": "tmdb:247718",
+      "id": "tmdb:299939",
       "type": "series",
-      "name": "MobLand",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+      "name": "Monster: Die Geschichte von Lizzie Borden",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
     },
     {
       "id": "tmdb:108978",
@@ -43,11 +43,11 @@
       "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     },
     {
-      "id": "tmdb:332401",
+      "id": "tmdb:250203",
       "type": "series",
-      "name": "City of Blood",
+      "name": "Brothers",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
+      "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
     },
     {
       "id": "tmdb:113962",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
     },
     {
-      "id": "tmdb:224263",
-      "type": "series",
-      "name": "Stranger Things: Tales from '85",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/338401825/s592/stranger-things-tales-from-85.jpg"
-    },
-    {
       "id": "tmdb:312557",
       "type": "series",
       "name": "Die Minverva-Akademie",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/354498611/s592/minerva-la-scuola.jpg"
+    },
+    {
+      "id": "tmdb:332401",
+      "type": "series",
+      "name": "City of Blood",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
     }
   ]
 }
