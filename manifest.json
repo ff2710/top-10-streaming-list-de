@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-25T10:58:30.556Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-26T10:39:23.957Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,13 +22,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:64690",
-          "type": "movie",
-          "name": "Drive",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/8646885/s592/Drive-2011.jpg"
-        },
-        {
           "id": "tmdb:696506",
           "type": "movie",
           "name": "Mickey 17",
@@ -43,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/332006365/s592/mr-no-pain.jpg"
         },
         {
-          "id": "tmdb:1423191",
+          "id": "tmdb:1032863",
           "type": "movie",
-          "name": "Resident Evil",
+          "name": "Die theoretische Unwahrscheinlichkeit von Liebe",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348291221/s592/resident-evil.jpg"
+          "poster": "https://images.justwatch.com/poster/354594077/s592/the-love-hypothesis.jpg"
         },
         {
           "id": "tmdb:137528",
@@ -57,6 +50,13 @@
           "poster": "https://images.justwatch.com/poster/309340432/s592/You-Cant-Kill-Stephen-King.jpg"
         },
         {
+          "id": "tmdb:64690",
+          "type": "movie",
+          "name": "Drive",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/8646885/s592/Drive-2011.jpg"
+        },
+        {
           "id": "tmdb:22970",
           "type": "movie",
           "name": "The Cabin in the Woods",
@@ -64,32 +64,32 @@
           "poster": "https://images.justwatch.com/poster/241756215/s592/The-Cabin-in-the-Woods.jpg"
         },
         {
-          "id": "tmdb:1032863",
+          "id": "tmdb:1423191",
           "type": "movie",
-          "name": "Die theoretische Unwahrscheinlichkeit von Liebe",
+          "name": "Resident Evil",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354594077/s592/the-love-hypothesis.jpg"
+          "poster": "https://images.justwatch.com/poster/348291221/s592/resident-evil.jpg"
         },
         {
-          "id": "tmdb:340666",
+          "id": "tmdb:1492640",
           "type": "movie",
-          "name": "Nocturnal Animals",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/313344132/s592/Nocturnal-Animals.jpg"
-        },
-        {
-          "id": "tmdb:942199",
-          "type": "movie",
-          "name": "Simulant",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/308630949/s592/simulant.jpg"
-        },
-        {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut - Project Hail Mary",
+          "name": "Unabomber",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/344212302/s592/der-astronaut.jpg"
+          "poster": "https://images.justwatch.com/poster/354939438/s592/unabomber.jpg"
+        },
+        {
+          "id": "tmdb:8681",
+          "type": "movie",
+          "name": "96 Hours",
+          "year": 2008,
+          "poster": "https://images.justwatch.com/poster/324608594/s592/96-Hours.jpg"
+        },
+        {
+          "id": "tmdb:614372",
+          "type": "movie",
+          "name": "Landing Lake",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/156839342/s592/Landing-Lake.jpg"
         }
       ]
     },
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
         },
         {
-          "id": "tmdb:108978",
-          "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
-        },
-        {
           "id": "tmdb:239618",
           "type": "series",
           "name": "American Hostage",
@@ -135,18 +128,18 @@
           "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
         },
         {
-          "id": "tmdb:95480",
-          "type": "series",
-          "name": "Slow Horses – Ein Fall für Jackson Lamb",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
-        },
-        {
           "id": "tmdb:250203",
           "type": "series",
           "name": "Brothers",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
+        },
+        {
+          "id": "tmdb:95480",
+          "type": "series",
+          "name": "Slow Horses – Ein Fall für Jackson Lamb",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         },
         {
           "id": "tmdb:113962",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/354498611/s592/minerva-la-scuola.jpg"
         },
         {
-          "id": "tmdb:332401",
+          "id": "tmdb:108978",
           "type": "series",
-          "name": "City of Blood",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
+          "name": "Reacher",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
+        },
+        {
+          "id": "tmdb:66980",
+          "type": "series",
+          "name": "Babylon Berlin",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-25T10:58:30.556Z",
+    "generatedAt": "2026-09-26T10:39:23.957Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:64690",
       "tmdb:696506",
       "tmdb:1195506",
-      "tmdb:1423191",
-      "tmdb:137528",
-      "tmdb:22970",
       "tmdb:1032863",
-      "tmdb:340666",
-      "tmdb:942199",
-      "tmdb:687163"
+      "tmdb:137528",
+      "tmdb:64690",
+      "tmdb:22970",
+      "tmdb:1423191",
+      "tmdb:1492640",
+      "tmdb:8681",
+      "tmdb:614372"
     ],
     "tmdbShows": [
       "tmdb:247718",
       "tmdb:273207",
       "tmdb:299939",
-      "tmdb:108978",
       "tmdb:239618",
-      "tmdb:95480",
       "tmdb:250203",
+      "tmdb:95480",
       "tmdb:113962",
       "tmdb:312557",
-      "tmdb:332401"
+      "tmdb:108978",
+      "tmdb:66980"
     ]
   }
 }

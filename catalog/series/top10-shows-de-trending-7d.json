@@ -22,13 +22,6 @@
       "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
     },
     {
-      "id": "tmdb:108978",
-      "type": "series",
-      "name": "Reacher",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
-    },
-    {
       "id": "tmdb:239618",
       "type": "series",
       "name": "American Hostage",
@@ -36,18 +29,18 @@
       "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
     },
     {
-      "id": "tmdb:95480",
-      "type": "series",
-      "name": "Slow Horses – Ein Fall für Jackson Lamb",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
-    },
-    {
       "id": "tmdb:250203",
       "type": "series",
       "name": "Brothers",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
+    },
+    {
+      "id": "tmdb:95480",
+      "type": "series",
+      "name": "Slow Horses – Ein Fall für Jackson Lamb",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     },
     {
       "id": "tmdb:113962",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/354498611/s592/minerva-la-scuola.jpg"
     },
     {
-      "id": "tmdb:332401",
+      "id": "tmdb:108978",
       "type": "series",
-      "name": "City of Blood",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348776741/s592/city-of-blood.jpg"
+      "name": "Reacher",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
+    },
+    {
+      "id": "tmdb:66980",
+      "type": "series",
+      "name": "Babylon Berlin",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
     }
   ]
 }
