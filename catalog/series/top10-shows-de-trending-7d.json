@@ -15,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
     },
     {
-      "id": "tmdb:299939",
+      "id": "tmdb:250203",
       "type": "series",
-      "name": "Monster: Die Geschichte von Lizzie Borden",
+      "name": "Brothers",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
+      "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
     },
     {
       "id": "tmdb:239618",
@@ -27,13 +27,6 @@
       "name": "American Hostage",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
-    },
-    {
-      "id": "tmdb:250203",
-      "type": "series",
-      "name": "Brothers",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
     },
     {
       "id": "tmdb:95480",
@@ -50,6 +43,13 @@
       "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
     },
     {
+      "id": "tmdb:305357",
+      "type": "series",
+      "name": "A Different World",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
+    },
+    {
       "id": "tmdb:312557",
       "type": "series",
       "name": "Die Minverva-Akademie",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:66980",
+      "id": "tmdb:299939",
       "type": "series",
-      "name": "Babylon Berlin",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/301092655/s592/Babylon-Berlin.jpg"
+      "name": "Monster: Die Geschichte von Lizzie Borden",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
     }
   ]
 }
