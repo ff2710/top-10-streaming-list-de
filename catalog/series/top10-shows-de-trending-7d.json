@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
     },
     {
-      "id": "tmdb:239618",
+      "id": "tmdb:305357",
       "type": "series",
-      "name": "American Hostage",
+      "name": "A Different World",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
+      "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
     },
     {
       "id": "tmdb:95480",
@@ -43,18 +43,11 @@
       "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
     },
     {
-      "id": "tmdb:305357",
-      "type": "series",
-      "name": "A Different World",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
-    },
-    {
       "id": "tmdb:312557",
       "type": "series",
-      "name": "Die Minverva-Akademie",
+      "name": "Die Minerva-Akademie",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354498611/s592/minerva-la-scuola.jpg"
+      "poster": "https://images.justwatch.com/poster/354990670/s592/minerva-la-scuola.jpg"
     },
     {
       "id": "tmdb:108978",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     },
     {
-      "id": "tmdb:299939",
+      "id": "tmdb:97546",
       "type": "series",
-      "name": "Monster: Die Geschichte von Lizzie Borden",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
+      "name": "Ted Lasso",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+    },
+    {
+      "id": "tmdb:77236",
+      "type": "series",
+      "name": "A Discovery of Witches",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/259327319/s592/A-Discovery-of-Witches.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-27T11:13:25.012Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-28T12:40:36.692Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,6 +29,13 @@
           "poster": "https://images.justwatch.com/poster/328851746/s592/mickey-17.jpg"
         },
         {
+          "id": "tmdb:1492640",
+          "type": "movie",
+          "name": "Unabomber",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354976666/s592/unabomber.jpg"
+        },
+        {
           "id": "tmdb:1032863",
           "type": "movie",
           "name": "Die theoretische Unwahrscheinlichkeit von Liebe",
@@ -43,25 +50,11 @@
           "poster": "https://images.justwatch.com/poster/332006365/s592/mr-no-pain.jpg"
         },
         {
-          "id": "tmdb:1492640",
-          "type": "movie",
-          "name": "Unabomber",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354976666/s592/unabomber.jpg"
-        },
-        {
           "id": "tmdb:137528",
           "type": "movie",
           "name": "You Can't Kill Stephen King",
           "year": 2012,
           "poster": "https://images.justwatch.com/poster/309340432/s592/You-Cant-Kill-Stephen-King.jpg"
-        },
-        {
-          "id": "tmdb:22970",
-          "type": "movie",
-          "name": "The Cabin in the Woods",
-          "year": 2012,
-          "poster": "https://images.justwatch.com/poster/241756215/s592/The-Cabin-in-the-Woods.jpg"
         },
         {
           "id": "tmdb:614372",
@@ -71,13 +64,6 @@
           "poster": "https://images.justwatch.com/poster/156839342/s592/Landing-Lake.jpg"
         },
         {
-          "id": "tmdb:8681",
-          "type": "movie",
-          "name": "96 Hours",
-          "year": 2008,
-          "poster": "https://images.justwatch.com/poster/324608594/s592/96-Hours.jpg"
-        },
-        {
           "id": "tmdb:1084244",
           "type": "movie",
           "name": "Toy Story 5",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/346592032/s592/toy-story-5.jpg"
         },
         {
-          "id": "tmdb:1423191",
+          "id": "tmdb:8681",
           "type": "movie",
-          "name": "Resident Evil",
+          "name": "96 Hours",
+          "year": 2008,
+          "poster": "https://images.justwatch.com/poster/324608594/s592/96-Hours.jpg"
+        },
+        {
+          "id": "tmdb:1512084",
+          "type": "movie",
+          "name": "Baby Do Die Do",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348291221/s592/resident-evil.jpg"
+          "poster": "https://images.justwatch.com/poster/346827389/s592/baby-do-die-do.jpg"
+        },
+        {
+          "id": "tmdb:302",
+          "type": "movie",
+          "name": "Swimming Pool",
+          "year": 2003,
+          "poster": "https://images.justwatch.com/poster/286210337/s592/Swimming-Pool.jpg"
         }
       ]
     },
@@ -121,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
         },
         {
-          "id": "tmdb:239618",
+          "id": "tmdb:305357",
           "type": "series",
-          "name": "American Hostage",
+          "name": "A Different World",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346423370/s592/american-hostage.jpg"
+          "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
         },
         {
           "id": "tmdb:95480",
@@ -142,18 +142,11 @@
           "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
         },
         {
-          "id": "tmdb:305357",
-          "type": "series",
-          "name": "A Different World",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
-        },
-        {
           "id": "tmdb:312557",
           "type": "series",
-          "name": "Die Minverva-Akademie",
+          "name": "Die Minerva-Akademie",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354498611/s592/minerva-la-scuola.jpg"
+          "poster": "https://images.justwatch.com/poster/354990670/s592/minerva-la-scuola.jpg"
         },
         {
           "id": "tmdb:108978",
@@ -163,11 +156,18 @@
           "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         },
         {
-          "id": "tmdb:299939",
+          "id": "tmdb:97546",
           "type": "series",
-          "name": "Monster: Die Geschichte von Lizzie Borden",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354782140/s592/monster-the-lizzie-borden-story.jpg"
+          "name": "Ted Lasso",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+        },
+        {
+          "id": "tmdb:77236",
+          "type": "series",
+          "name": "A Discovery of Witches",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/259327319/s592/A-Discovery-of-Witches.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-27T11:13:25.012Z",
+    "generatedAt": "2026-09-28T12:40:36.692Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:696506",
+      "tmdb:1492640",
       "tmdb:1032863",
       "tmdb:1195506",
-      "tmdb:1492640",
       "tmdb:137528",
-      "tmdb:22970",
       "tmdb:614372",
-      "tmdb:8681",
       "tmdb:1084244",
-      "tmdb:1423191"
+      "tmdb:8681",
+      "tmdb:1512084",
+      "tmdb:302"
     ],
     "tmdbShows": [
       "tmdb:247718",
       "tmdb:273207",
       "tmdb:250203",
-      "tmdb:239618",
+      "tmdb:305357",
       "tmdb:95480",
       "tmdb:113962",
-      "tmdb:305357",
       "tmdb:312557",
       "tmdb:108978",
-      "tmdb:299939"
+      "tmdb:97546",
+      "tmdb:77236"
     ]
   }
 }
