@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-28T12:40:36.692Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-09-29T11:58:25.688Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,25 +43,11 @@
           "poster": "https://images.justwatch.com/poster/354594077/s592/the-love-hypothesis.jpg"
         },
         {
-          "id": "tmdb:1195506",
+          "id": "tmdb:792307",
           "type": "movie",
-          "name": "Mr. No Pain",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/332006365/s592/mr-no-pain.jpg"
-        },
-        {
-          "id": "tmdb:137528",
-          "type": "movie",
-          "name": "You Can't Kill Stephen King",
-          "year": 2012,
-          "poster": "https://images.justwatch.com/poster/309340432/s592/You-Cant-Kill-Stephen-King.jpg"
-        },
-        {
-          "id": "tmdb:614372",
-          "type": "movie",
-          "name": "Landing Lake",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/156839342/s592/Landing-Lake.jpg"
+          "name": "Poor Things",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/312118753/s592/poor-things.jpg"
         },
         {
           "id": "tmdb:1084244",
@@ -71,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/346592032/s592/toy-story-5.jpg"
         },
         {
-          "id": "tmdb:8681",
+          "id": "tmdb:137528",
           "type": "movie",
-          "name": "96 Hours",
-          "year": 2008,
-          "poster": "https://images.justwatch.com/poster/324608594/s592/96-Hours.jpg"
+          "name": "You Can't Kill Stephen King",
+          "year": 2012,
+          "poster": "https://images.justwatch.com/poster/309340432/s592/You-Cant-Kill-Stephen-King.jpg"
         },
         {
           "id": "tmdb:1512084",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/346827389/s592/baby-do-die-do.jpg"
         },
         {
+          "id": "tmdb:455980",
+          "type": "movie",
+          "name": "Catch Me!",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/89617944/s592/Catch-Me.jpg"
+        },
+        {
           "id": "tmdb:302",
           "type": "movie",
           "name": "Swimming Pool",
           "year": 2003,
           "poster": "https://images.justwatch.com/poster/286210337/s592/Swimming-Pool.jpg"
+        },
+        {
+          "id": "tmdb:17501",
+          "type": "movie",
+          "name": "Don - Das Spiel beginnt",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/251035279/s592/Don-Das-Spiel-beginnt.jpg"
         }
       ]
     },
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:273207",
+          "id": "tmdb:305357",
           "type": "series",
-          "name": "Neagley",
+          "name": "A Different World",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
+          "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
         },
         {
           "id": "tmdb:250203",
@@ -121,13 +121,6 @@
           "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
         },
         {
-          "id": "tmdb:305357",
-          "type": "series",
-          "name": "A Different World",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
-        },
-        {
           "id": "tmdb:95480",
           "type": "series",
           "name": "Slow Horses – Ein Fall für Jackson Lamb",
@@ -135,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         },
         {
-          "id": "tmdb:113962",
+          "id": "tmdb:273207",
           "type": "series",
-          "name": "Special Ops: Lioness",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+          "name": "Neagley",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
         },
         {
           "id": "tmdb:312557",
@@ -149,11 +142,18 @@
           "poster": "https://images.justwatch.com/poster/354990670/s592/minerva-la-scuola.jpg"
         },
         {
-          "id": "tmdb:108978",
+          "id": "tmdb:113962",
           "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
+          "name": "Special Ops: Lioness",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
+        },
+        {
+          "id": "tmdb:77236",
+          "type": "series",
+          "name": "A Discovery of Witches",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/259327319/s592/A-Discovery-of-Witches.jpg"
         },
         {
           "id": "tmdb:97546",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
-          "id": "tmdb:77236",
+          "id": "tmdb:290720",
           "type": "series",
-          "name": "A Discovery of Witches",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/259327319/s592/A-Discovery-of-Witches.jpg"
+          "name": "Das letzte Problem",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347188694/s592/el-problema-final.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-28T12:40:36.692Z",
+    "generatedAt": "2026-09-29T11:58:25.688Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:696506",
       "tmdb:1492640",
       "tmdb:1032863",
-      "tmdb:1195506",
-      "tmdb:137528",
-      "tmdb:614372",
+      "tmdb:792307",
       "tmdb:1084244",
-      "tmdb:8681",
+      "tmdb:137528",
       "tmdb:1512084",
-      "tmdb:302"
+      "tmdb:455980",
+      "tmdb:302",
+      "tmdb:17501"
     ],
     "tmdbShows": [
       "tmdb:247718",
-      "tmdb:273207",
-      "tmdb:250203",
       "tmdb:305357",
+      "tmdb:250203",
       "tmdb:95480",
-      "tmdb:113962",
+      "tmdb:273207",
       "tmdb:312557",
-      "tmdb:108978",
+      "tmdb:113962",
+      "tmdb:77236",
       "tmdb:97546",
-      "tmdb:77236"
+      "tmdb:290720"
     ]
   }
 }
