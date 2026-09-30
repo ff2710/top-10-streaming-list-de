@@ -29,32 +29,25 @@
       "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     },
     {
-      "id": "tmdb:273207",
-      "type": "series",
-      "name": "Neagley",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
-    },
-    {
-      "id": "tmdb:312557",
-      "type": "series",
-      "name": "Die Minerva-Akademie",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354990670/s592/minerva-la-scuola.jpg"
-    },
-    {
-      "id": "tmdb:113962",
-      "type": "series",
-      "name": "Special Ops: Lioness",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/331456801/s592/special-ops-lioness.jpg"
-    },
-    {
       "id": "tmdb:77236",
       "type": "series",
       "name": "A Discovery of Witches",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/259327319/s592/A-Discovery-of-Witches.jpg"
+    },
+    {
+      "id": "tmdb:1438",
+      "type": "series",
+      "name": "The Wire",
+      "year": 2002,
+      "poster": "https://images.justwatch.com/poster/327067601/s592/The-Wire.jpg"
+    },
+    {
+      "id": "tmdb:290720",
+      "type": "series",
+      "name": "Das letzte Problem",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347188694/s592/el-problema-final.jpg"
     },
     {
       "id": "tmdb:97546",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     },
     {
-      "id": "tmdb:290720",
+      "id": "tmdb:310133",
       "type": "series",
-      "name": "Das letzte Problem",
+      "name": "4 Blocks Zero",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347188694/s592/el-problema-final.jpg"
+      "poster": "https://images.justwatch.com/poster/342176627/s592/4-blocks-zero.jpg"
+    },
+    {
+      "id": "tmdb:236235",
+      "type": "series",
+      "name": "The Gentlemen",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
     }
   ]
 }
