@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-09-30T11:46:36.855Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-01T12:15:45.690Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,6 +29,13 @@
           "poster": "https://images.justwatch.com/poster/354976666/s592/unabomber.jpg"
         },
         {
+          "id": "tmdb:792307",
+          "type": "movie",
+          "name": "Poor Things",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/312118753/s592/poor-things.jpg"
+        },
+        {
           "id": "tmdb:1032863",
           "type": "movie",
           "name": "Die theoretische Unwahrscheinlichkeit von Liebe",
@@ -41,20 +48,6 @@
           "name": "Mickey 17",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/328851746/s592/mickey-17.jpg"
-        },
-        {
-          "id": "tmdb:792307",
-          "type": "movie",
-          "name": "Poor Things",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/312118753/s592/poor-things.jpg"
-        },
-        {
-          "id": "tmdb:1084244",
-          "type": "movie",
-          "name": "Toy Story 5",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346592032/s592/toy-story-5.jpg"
         },
         {
           "id": "tmdb:1311031",
@@ -71,11 +64,18 @@
           "poster": "https://images.justwatch.com/poster/89617944/s592/Catch-Me.jpg"
         },
         {
-          "id": "tmdb:1512084",
+          "id": "tmdb:1101383",
           "type": "movie",
-          "name": "Baby Do Die Do",
+          "name": "The End of Oak Street",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346827389/s592/baby-do-die-do.jpg"
+          "poster": "https://images.justwatch.com/poster/354584799/s592/flowervale-street.jpg"
+        },
+        {
+          "id": "tmdb:884605",
+          "type": "movie",
+          "name": "No Hard Feelings",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/306912060/s592/No-Hard-Feelings.jpg"
         },
         {
           "id": "tmdb:302",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/286210337/s592/Swimming-Pool.jpg"
         },
         {
-          "id": "tmdb:17501",
+          "id": "tmdb:1339713",
           "type": "movie",
-          "name": "Don - Das Spiel beginnt",
-          "year": 2006,
-          "poster": "https://images.justwatch.com/poster/251035279/s592/Don-Das-Spiel-beginnt.jpg"
+          "name": "Obsession - Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         }
       ]
     },
@@ -100,25 +100,18 @@
       "extra": [],
       "items": [
         {
+          "id": "tmdb:305357",
+          "type": "series",
+          "name": "A Different World",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355071042/s592/a-different-world-1.jpg"
+        },
+        {
           "id": "tmdb:247718",
           "type": "series",
           "name": "MobLand",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-        },
-        {
-          "id": "tmdb:305357",
-          "type": "series",
-          "name": "A Different World",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346670308/s592/a-different-world-1.jpg"
-        },
-        {
-          "id": "tmdb:250203",
-          "type": "series",
-          "name": "Brothers",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/350958192/s592/brothers-1.jpg"
         },
         {
           "id": "tmdb:95480",
@@ -128,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         },
         {
-          "id": "tmdb:77236",
+          "id": "tmdb:290720",
           "type": "series",
-          "name": "A Discovery of Witches",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/259327319/s592/A-Discovery-of-Witches.jpg"
+          "name": "Das letzte Problem",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347188694/s592/el-problema-final.jpg"
         },
         {
           "id": "tmdb:1438",
@@ -142,11 +135,18 @@
           "poster": "https://images.justwatch.com/poster/327067601/s592/The-Wire.jpg"
         },
         {
-          "id": "tmdb:290720",
+          "id": "tmdb:66276",
           "type": "series",
-          "name": "Das letzte Problem",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347188694/s592/el-problema-final.jpg"
+          "name": "The Night Of - Die Wahrheit einer Nacht",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
+        },
+        {
+          "id": "tmdb:271855",
+          "type": "series",
+          "name": "Sandokan",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
         },
         {
           "id": "tmdb:97546",
@@ -156,18 +156,18 @@
           "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
         },
         {
+          "id": "tmdb:273207",
+          "type": "series",
+          "name": "Neagley",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348270701/s592/neagley.jpg"
+        },
+        {
           "id": "tmdb:310133",
           "type": "series",
           "name": "4 Blocks Zero",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/342176627/s592/4-blocks-zero.jpg"
-        },
-        {
-          "id": "tmdb:236235",
-          "type": "series",
-          "name": "The Gentlemen",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-09-30T11:46:36.855Z",
+    "generatedAt": "2026-10-01T12:15:45.690Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1492640",
+      "tmdb:792307",
       "tmdb:1032863",
       "tmdb:696506",
-      "tmdb:792307",
-      "tmdb:1084244",
       "tmdb:1311031",
       "tmdb:455980",
-      "tmdb:1512084",
+      "tmdb:1101383",
+      "tmdb:884605",
       "tmdb:302",
-      "tmdb:17501"
+      "tmdb:1339713"
     ],
     "tmdbShows": [
-      "tmdb:247718",
       "tmdb:305357",
-      "tmdb:250203",
+      "tmdb:247718",
       "tmdb:95480",
-      "tmdb:77236",
-      "tmdb:1438",
       "tmdb:290720",
+      "tmdb:1438",
+      "tmdb:66276",
+      "tmdb:271855",
       "tmdb:97546",
-      "tmdb:310133",
-      "tmdb:236235"
+      "tmdb:273207",
+      "tmdb:310133"
     ]
   }
 }
