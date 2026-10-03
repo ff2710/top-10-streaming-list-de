@@ -8,25 +8,11 @@
       "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
     },
     {
-      "id": "tmdb:305357",
+      "id": "tmdb:258165",
       "type": "series",
-      "name": "A Different World",
+      "name": "East of Eden",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355071042/s592/a-different-world-1.jpg"
-    },
-    {
-      "id": "tmdb:290720",
-      "type": "series",
-      "name": "Das letzte Problem",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355121865/s592/el-problema-final.jpg"
-    },
-    {
-      "id": "tmdb:1438",
-      "type": "series",
-      "name": "The Wire",
-      "year": 2002,
-      "poster": "https://images.justwatch.com/poster/327067601/s592/The-Wire.jpg"
+      "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
     },
     {
       "id": "tmdb:271855",
@@ -36,25 +22,32 @@
       "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
     },
     {
+      "id": "tmdb:1438",
+      "type": "series",
+      "name": "The Wire",
+      "year": 2002,
+      "poster": "https://images.justwatch.com/poster/327067601/s592/The-Wire.jpg"
+    },
+    {
+      "id": "tmdb:333016",
+      "type": "series",
+      "name": "Outside",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
+    },
+    {
+      "id": "tmdb:56296",
+      "type": "series",
+      "name": "Orphan Black",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/241539235/s592/Orphan-Black.jpg"
+    },
+    {
       "id": "tmdb:247718",
       "type": "series",
-      "name": "MobLand",
+      "name": "MobLand: Familie bis aufs Blut",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-    },
-    {
-      "id": "tmdb:95480",
-      "type": "series",
-      "name": "Slow Horses – Ein Fall für Jackson Lamb",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
-    },
-    {
-      "id": "tmdb:310133",
-      "type": "series",
-      "name": "4 Blocks Zero",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342176627/s592/4-blocks-zero.jpg"
     },
     {
       "id": "tmdb:236235",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
     },
     {
-      "id": "tmdb:97546",
+      "id": "tmdb:290720",
       "type": "series",
-      "name": "Ted Lasso",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+      "name": "Das letzte Problem",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355121865/s592/el-problema-final.jpg"
+    },
+    {
+      "id": "tmdb:95480",
+      "type": "series",
+      "name": "Slow Horses – Ein Fall für Jackson Lamb",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     }
   ]
 }
