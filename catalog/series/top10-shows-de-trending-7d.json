@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:66276",
-      "type": "series",
-      "name": "The Night Of - Die Wahrheit einer Nacht",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
-    },
-    {
       "id": "tmdb:258165",
       "type": "series",
       "name": "East of Eden",
@@ -15,18 +8,11 @@
       "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
     },
     {
-      "id": "tmdb:271855",
+      "id": "tmdb:66276",
       "type": "series",
-      "name": "Sandokan",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
-    },
-    {
-      "id": "tmdb:1438",
-      "type": "series",
-      "name": "The Wire",
-      "year": 2002,
-      "poster": "https://images.justwatch.com/poster/327067601/s592/The-Wire.jpg"
+      "name": "The Night Of - Die Wahrheit einer Nacht",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
     },
     {
       "id": "tmdb:333016",
@@ -36,6 +22,20 @@
       "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
     },
     {
+      "id": "tmdb:284558",
+      "type": "series",
+      "name": "KILL JACKIE",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
+    },
+    {
+      "id": "tmdb:271855",
+      "type": "series",
+      "name": "Sandokan",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
+    },
+    {
       "id": "tmdb:56296",
       "type": "series",
       "name": "Orphan Black",
@@ -43,32 +43,32 @@
       "poster": "https://images.justwatch.com/poster/241539235/s592/Orphan-Black.jpg"
     },
     {
-      "id": "tmdb:247718",
+      "id": "tmdb:39279",
       "type": "series",
-      "name": "MobLand: Familie bis aufs Blut",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+      "name": "Hart of Dixie",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/300678864/s592/Hart-of-Dixie.jpg"
     },
     {
-      "id": "tmdb:236235",
+      "id": "tmdb:1429",
       "type": "series",
-      "name": "The Gentlemen",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
+      "name": "Attack on Titan",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
     },
     {
-      "id": "tmdb:290720",
+      "id": "tmdb:4087",
       "type": "series",
-      "name": "Das letzte Problem",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355121865/s592/el-problema-final.jpg"
+      "name": "Akte X: Die unheimlichen Fälle des FBI",
+      "year": 1993,
+      "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
     },
     {
-      "id": "tmdb:95480",
+      "id": "tmdb:64230",
       "type": "series",
-      "name": "Slow Horses – Ein Fall für Jackson Lamb",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
+      "name": "Preacher",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/140818889/s592/Preacher.jpg"
     }
   ]
 }

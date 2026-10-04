@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-03T10:57:57.987Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-04T11:40:11.163Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1492640",
-          "type": "movie",
-          "name": "Unabomber",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354976666/s592/unabomber.jpg"
-        },
-        {
           "id": "tmdb:792307",
           "type": "movie",
           "name": "Poor Things",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/312118753/s592/poor-things.jpg"
+        },
+        {
+          "id": "tmdb:1492640",
+          "type": "movie",
+          "name": "Unabomber",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354976666/s592/unabomber.jpg"
         },
         {
           "id": "tmdb:1311031",
@@ -43,6 +43,13 @@
           "poster": "https://images.justwatch.com/poster/331745112/s592/demon-slayer-kimetsu-no-yaiba-infinity-castle.jpg"
         },
         {
+          "id": "tmdb:680593",
+          "type": "movie",
+          "name": "The Dark and the Wicked",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/327079352/s592/The-Dark-and-the-Wicked.jpg"
+        },
+        {
           "id": "tmdb:1101383",
           "type": "movie",
           "name": "The End of Oak Street",
@@ -50,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/354584799/s592/flowervale-street.jpg"
         },
         {
-          "id": "tmdb:455980",
+          "id": "tmdb:634649",
           "type": "movie",
-          "name": "Catch Me!",
-          "year": 2018,
-          "poster": "https://images.justwatch.com/poster/89617944/s592/Catch-Me.jpg"
+          "name": "Spider-Man: No Way Home",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         },
         {
           "id": "tmdb:1339713",
@@ -64,18 +71,18 @@
           "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
-          "id": "tmdb:696506",
+          "id": "tmdb:204082",
           "type": "movie",
-          "name": "Mickey 17",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/328851746/s592/mickey-17.jpg"
+          "name": "Homefront",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/194321646/s592/Homefront.jpg"
         },
         {
-          "id": "tmdb:680593",
+          "id": "tmdb:687163",
           "type": "movie",
-          "name": "The Dark and the Wicked",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/327079352/s592/The-Dark-and-the-Wicked.jpg"
+          "name": "Der Astronaut – Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355132102/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:1245993",
@@ -83,13 +90,6 @@
           "name": "Caught Stealing",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/336317327/s592/caught-stealing.jpg"
-        },
-        {
-          "id": "tmdb:634649",
-          "type": "movie",
-          "name": "Spider-Man: No Way Home",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         }
       ]
     },
@@ -100,13 +100,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:66276",
-          "type": "series",
-          "name": "The Night Of - Die Wahrheit einer Nacht",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
-        },
-        {
           "id": "tmdb:258165",
           "type": "series",
           "name": "East of Eden",
@@ -114,18 +107,11 @@
           "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
         },
         {
-          "id": "tmdb:271855",
+          "id": "tmdb:66276",
           "type": "series",
-          "name": "Sandokan",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
-        },
-        {
-          "id": "tmdb:1438",
-          "type": "series",
-          "name": "The Wire",
-          "year": 2002,
-          "poster": "https://images.justwatch.com/poster/327067601/s592/The-Wire.jpg"
+          "name": "The Night Of - Die Wahrheit einer Nacht",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
         },
         {
           "id": "tmdb:333016",
@@ -135,6 +121,20 @@
           "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
         },
         {
+          "id": "tmdb:284558",
+          "type": "series",
+          "name": "KILL JACKIE",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
+        },
+        {
+          "id": "tmdb:271855",
+          "type": "series",
+          "name": "Sandokan",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
+        },
+        {
           "id": "tmdb:56296",
           "type": "series",
           "name": "Orphan Black",
@@ -142,32 +142,32 @@
           "poster": "https://images.justwatch.com/poster/241539235/s592/Orphan-Black.jpg"
         },
         {
-          "id": "tmdb:247718",
+          "id": "tmdb:39279",
           "type": "series",
-          "name": "MobLand: Familie bis aufs Blut",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+          "name": "Hart of Dixie",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/300678864/s592/Hart-of-Dixie.jpg"
         },
         {
-          "id": "tmdb:236235",
+          "id": "tmdb:1429",
           "type": "series",
-          "name": "The Gentlemen",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/312658395/s592/The-Gentlemen.jpg"
+          "name": "Attack on Titan",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
         },
         {
-          "id": "tmdb:290720",
+          "id": "tmdb:4087",
           "type": "series",
-          "name": "Das letzte Problem",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355121865/s592/el-problema-final.jpg"
+          "name": "Akte X: Die unheimlichen Fälle des FBI",
+          "year": 1993,
+          "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
         },
         {
-          "id": "tmdb:95480",
+          "id": "tmdb:64230",
           "type": "series",
-          "name": "Slow Horses – Ein Fall für Jackson Lamb",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
+          "name": "Preacher",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/140818889/s592/Preacher.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-03T10:57:57.987Z",
+    "generatedAt": "2026-10-04T11:40:11.163Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1492640",
       "tmdb:792307",
+      "tmdb:1492640",
       "tmdb:1311031",
-      "tmdb:1101383",
-      "tmdb:455980",
-      "tmdb:1339713",
-      "tmdb:696506",
       "tmdb:680593",
-      "tmdb:1245993",
-      "tmdb:634649"
+      "tmdb:1101383",
+      "tmdb:634649",
+      "tmdb:1339713",
+      "tmdb:204082",
+      "tmdb:687163",
+      "tmdb:1245993"
     ],
     "tmdbShows": [
-      "tmdb:66276",
       "tmdb:258165",
-      "tmdb:271855",
-      "tmdb:1438",
+      "tmdb:66276",
       "tmdb:333016",
+      "tmdb:284558",
+      "tmdb:271855",
       "tmdb:56296",
-      "tmdb:247718",
-      "tmdb:236235",
-      "tmdb:290720",
-      "tmdb:95480"
+      "tmdb:39279",
+      "tmdb:1429",
+      "tmdb:4087",
+      "tmdb:64230"
     ]
   }
 }
