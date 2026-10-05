@@ -36,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
     },
     {
+      "id": "tmdb:1429",
+      "type": "series",
+      "name": "Attack on Titan",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
+    },
+    {
       "id": "tmdb:56296",
       "type": "series",
       "name": "Orphan Black",
@@ -50,13 +57,6 @@
       "poster": "https://images.justwatch.com/poster/300678864/s592/Hart-of-Dixie.jpg"
     },
     {
-      "id": "tmdb:1429",
-      "type": "series",
-      "name": "Attack on Titan",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
-    },
-    {
       "id": "tmdb:4087",
       "type": "series",
       "name": "Akte X: Die unheimlichen Fälle des FBI",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
     },
     {
-      "id": "tmdb:64230",
+      "id": "tmdb:284792",
       "type": "series",
-      "name": "Preacher",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/140818889/s592/Preacher.jpg"
+      "name": "Medusa",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/326975167/s592/medusa.jpg"
     }
   ]
 }
