@@ -43,20 +43,6 @@
       "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
     },
     {
-      "id": "tmdb:56296",
-      "type": "series",
-      "name": "Orphan Black",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/241539235/s592/Orphan-Black.jpg"
-    },
-    {
-      "id": "tmdb:39279",
-      "type": "series",
-      "name": "Hart of Dixie",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/300678864/s592/Hart-of-Dixie.jpg"
-    },
-    {
       "id": "tmdb:4087",
       "type": "series",
       "name": "Akte X: Die unheimlichen Fälle des FBI",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
     },
     {
-      "id": "tmdb:284792",
+      "id": "tmdb:298505",
       "type": "series",
-      "name": "Medusa",
+      "name": "Coven Academy",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348408700/s592/coven-academy.jpg"
+    },
+    {
+      "id": "tmdb:203667",
+      "type": "series",
+      "name": "Die rote Königin",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/318080072/s592/reina-roja.jpg"
+    },
+    {
+      "id": "tmdb:244447",
+      "type": "series",
+      "name": "The Hunting Wives",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/326975167/s592/medusa.jpg"
+      "poster": "https://images.justwatch.com/poster/333893699/s592/the-hunting-wives.jpg"
     }
   ]
 }
