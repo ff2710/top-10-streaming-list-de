@@ -17,7 +17,7 @@
     {
       "id": "tmdb:333016",
       "type": "series",
-      "name": "Outside",
+      "name": "Sidemen: Outside",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
     },
@@ -29,11 +29,18 @@
       "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
     },
     {
-      "id": "tmdb:271855",
+      "id": "tmdb:97951",
       "type": "series",
-      "name": "Sandokan",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/338976518/s592/sandokan-2025.jpg"
+      "name": "Mayor of Kingstown",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/338092074/s592/Mayor-of-Kingstown.jpg"
+    },
+    {
+      "id": "tmdb:95350",
+      "type": "series",
+      "name": "Lanterns",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
     },
     {
       "id": "tmdb:1429",
@@ -62,13 +69,6 @@
       "name": "Die rote Königin",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/318080072/s592/reina-roja.jpg"
-    },
-    {
-      "id": "tmdb:244447",
-      "type": "series",
-      "name": "The Hunting Wives",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/333893699/s592/the-hunting-wives.jpg"
     }
   ]
 }

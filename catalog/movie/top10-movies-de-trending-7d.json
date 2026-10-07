@@ -15,25 +15,11 @@
       "poster": "https://images.justwatch.com/poster/194321646/s592/Homefront.jpg"
     },
     {
-      "id": "tmdb:1311031",
+      "id": "tmdb:969681",
       "type": "movie",
-      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331745112/s592/demon-slayer-kimetsu-no-yaiba-infinity-castle.jpg"
-    },
-    {
-      "id": "tmdb:1101383",
-      "type": "movie",
-      "name": "The End of Oak Street",
+      "name": "Spider-Man 4",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354584799/s592/flowervale-street.jpg"
-    },
-    {
-      "id": "tmdb:1492640",
-      "type": "movie",
-      "name": "Unabomber",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354976666/s592/unabomber.jpg"
+      "poster": "https://images.justwatch.com/poster/355176085/s592/spider-man-4.jpg"
     },
     {
       "id": "tmdb:687163",
@@ -43,18 +29,18 @@
       "poster": "https://images.justwatch.com/poster/355132102/s592/der-astronaut.jpg"
     },
     {
-      "id": "tmdb:634649",
-      "type": "movie",
-      "name": "Spider-Man: No Way Home",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
-    },
-    {
       "id": "tmdb:1307118",
       "type": "movie",
       "name": "Soulm8te",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355192617/s592/soulm8te.jpg"
+    },
+    {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
     },
     {
       "id": "tmdb:1248832",
@@ -69,6 +55,20 @@
       "name": "Obsession – Du sollst mich lieben",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+    },
+    {
+      "id": "tmdb:1101383",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354584799/s592/flowervale-street.jpg"
+    },
+    {
+      "id": "tmdb:1226863",
+      "type": "movie",
+      "name": "Der Super Mario Galaxy Film",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/343260410/s592/super-mario-world.jpg"
     }
   ]
 }
