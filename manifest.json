@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-07T12:29:37.705Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-08T12:39:20.674Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,18 +43,18 @@
           "poster": "https://images.justwatch.com/poster/355176085/s592/spider-man-4.jpg"
         },
         {
-          "id": "tmdb:687163",
-          "type": "movie",
-          "name": "Der Astronaut – Project Hail Mary",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355132102/s592/der-astronaut.jpg"
-        },
-        {
           "id": "tmdb:1307118",
           "type": "movie",
           "name": "Soulm8te",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/355192617/s592/soulm8te.jpg"
+        },
+        {
+          "id": "tmdb:687163",
+          "type": "movie",
+          "name": "Der Astronaut - Project Hail Mary",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355132102/s592/der-astronaut.jpg"
         },
         {
           "id": "tmdb:634649",
@@ -64,25 +64,18 @@
           "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
         },
         {
-          "id": "tmdb:1248832",
+          "id": "tmdb:602223",
           "type": "movie",
-          "name": "Digger",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355090877/s592/digger-2026.jpg"
+          "name": "The Forever Purge",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/256166370/s592/The-Forever-Purge.jpg"
         },
         {
-          "id": "tmdb:1339713",
+          "id": "tmdb:1013601",
           "type": "movie",
-          "name": "Obsession – Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
-        },
-        {
-          "id": "tmdb:1101383",
-          "type": "movie",
-          "name": "The End of Oak Street",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354584799/s592/flowervale-street.jpg"
+          "name": "The Alto Knights",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/339122057/s592/wise-guys.jpg"
         },
         {
           "id": "tmdb:1226863",
@@ -90,6 +83,13 @@
           "name": "Der Super Mario Galaxy Film",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/343260410/s592/super-mario-world.jpg"
+        },
+        {
+          "id": "tmdb:1248832",
+          "type": "movie",
+          "name": "Digger",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355090877/s592/digger-2026.jpg"
         }
       ]
     },
@@ -107,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
         },
         {
-          "id": "tmdb:66276",
+          "id": "tmdb:284558",
           "type": "series",
-          "name": "The Night Of - Die Wahrheit einer Nacht",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
+          "name": "KILL JACKIE",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
         },
         {
           "id": "tmdb:333016",
@@ -121,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
         },
         {
-          "id": "tmdb:284558",
+          "id": "tmdb:95350",
           "type": "series",
-          "name": "KILL JACKIE",
+          "name": "Lanterns",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
+          "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
         },
         {
           "id": "tmdb:97951",
@@ -135,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/338092074/s592/Mayor-of-Kingstown.jpg"
         },
         {
-          "id": "tmdb:95350",
+          "id": "tmdb:288673",
           "type": "series",
-          "name": "Lanterns",
+          "name": "Carrie",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
+          "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
         },
         {
           "id": "tmdb:1429",
@@ -149,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
         },
         {
-          "id": "tmdb:4087",
+          "id": "tmdb:66276",
           "type": "series",
-          "name": "Akte X: Die unheimlichen Fälle des FBI",
-          "year": 1993,
-          "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
+          "name": "The Night Of: Die Wahrheit einer Nacht",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
         },
         {
           "id": "tmdb:298505",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/348408700/s592/coven-academy.jpg"
         },
         {
-          "id": "tmdb:203667",
+          "id": "tmdb:4087",
           "type": "series",
-          "name": "Die rote Königin",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/318080072/s592/reina-roja.jpg"
+          "name": "Akte X: Die unheimlichen Fälle des FBI",
+          "year": 1993,
+          "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-07T12:29:37.705Z",
+    "generatedAt": "2026-10-08T12:39:20.674Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:680593",
       "tmdb:204082",
       "tmdb:969681",
-      "tmdb:687163",
       "tmdb:1307118",
+      "tmdb:687163",
       "tmdb:634649",
-      "tmdb:1248832",
-      "tmdb:1339713",
-      "tmdb:1101383",
-      "tmdb:1226863"
+      "tmdb:602223",
+      "tmdb:1013601",
+      "tmdb:1226863",
+      "tmdb:1248832"
     ],
     "tmdbShows": [
       "tmdb:258165",
-      "tmdb:66276",
-      "tmdb:333016",
       "tmdb:284558",
-      "tmdb:97951",
+      "tmdb:333016",
       "tmdb:95350",
+      "tmdb:97951",
+      "tmdb:288673",
       "tmdb:1429",
-      "tmdb:4087",
+      "tmdb:66276",
       "tmdb:298505",
-      "tmdb:203667"
+      "tmdb:4087"
     ]
   }
 }
