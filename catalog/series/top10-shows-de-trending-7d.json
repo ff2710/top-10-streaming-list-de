@@ -15,11 +15,11 @@
       "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
     },
     {
-      "id": "tmdb:333016",
+      "id": "tmdb:288673",
       "type": "series",
-      "name": "Sidemen: Outside",
+      "name": "Carrie",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
+      "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
     },
     {
       "id": "tmdb:95350",
@@ -36,25 +36,18 @@
       "poster": "https://images.justwatch.com/poster/338092074/s592/Mayor-of-Kingstown.jpg"
     },
     {
-      "id": "tmdb:288673",
+      "id": "tmdb:333016",
       "type": "series",
-      "name": "Carrie",
+      "name": "Sidemen: Outside",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
+      "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
     },
     {
-      "id": "tmdb:1429",
+      "id": "tmdb:285322",
       "type": "series",
-      "name": "Attack on Titan",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
-    },
-    {
-      "id": "tmdb:66276",
-      "type": "series",
-      "name": "The Night Of: Die Wahrheit einer Nacht",
-      "year": 2016,
-      "poster": "https://images.justwatch.com/poster/341406692/s592/The-Night-Of.jpg"
+      "name": "Below",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
     },
     {
       "id": "tmdb:298505",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/348408700/s592/coven-academy.jpg"
     },
     {
-      "id": "tmdb:4087",
+      "id": "tmdb:244447",
       "type": "series",
-      "name": "Akte X: Die unheimlichen Fälle des FBI",
-      "year": 1993,
-      "poster": "https://images.justwatch.com/poster/342097814/s592/Akte-X-Die-unheimlichen-Faelle-des-FBI.jpg"
+      "name": "The Hunting Wives",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/333893699/s592/the-hunting-wives.jpg"
+    },
+    {
+      "id": "tmdb:203667",
+      "type": "series",
+      "name": "Die rote Königin",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/318080072/s592/reina-roja.jpg"
     }
   ]
 }

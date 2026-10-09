@@ -22,25 +22,11 @@
       "poster": "https://images.justwatch.com/poster/355176085/s592/spider-man-4.jpg"
     },
     {
-      "id": "tmdb:1307118",
-      "type": "movie",
-      "name": "Soulm8te",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355192617/s592/soulm8te.jpg"
-    },
-    {
       "id": "tmdb:687163",
       "type": "movie",
       "name": "Der Astronaut - Project Hail Mary",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355132102/s592/der-astronaut.jpg"
-    },
-    {
-      "id": "tmdb:634649",
-      "type": "movie",
-      "name": "Spider-Man: No Way Home",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/257194135/s592/Spider-Man-No-Way-Home.jpg"
     },
     {
       "id": "tmdb:602223",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/343260410/s592/super-mario-world.jpg"
     },
     {
-      "id": "tmdb:1248832",
+      "id": "tmdb:37799",
       "type": "movie",
-      "name": "Digger",
+      "name": "The Social Network",
+      "year": 2010,
+      "poster": "https://images.justwatch.com/poster/8716701/s592/The-Social-Network.jpg"
+    },
+    {
+      "id": "tmdb:1439109",
+      "type": "movie",
+      "name": "Eiserner Winter",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355090877/s592/digger-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/327356738/s592/eiserner-winter.jpg"
+    },
+    {
+      "id": "tmdb:443791",
+      "type": "movie",
+      "name": "Underwater - Es ist erwacht",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/334020040/s592/Underwater.jpg"
     }
   ]
 }
