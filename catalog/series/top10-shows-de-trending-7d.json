@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
     },
     {
-      "id": "tmdb:284558",
-      "type": "series",
-      "name": "KILL JACKIE",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
-    },
-    {
       "id": "tmdb:288673",
       "type": "series",
       "name": "Carrie",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
+    },
+    {
+      "id": "tmdb:285322",
+      "type": "series",
+      "name": "Below",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
     },
     {
       "id": "tmdb:95350",
@@ -36,25 +36,11 @@
       "poster": "https://images.justwatch.com/poster/338092074/s592/Mayor-of-Kingstown.jpg"
     },
     {
-      "id": "tmdb:333016",
+      "id": "tmdb:284558",
       "type": "series",
-      "name": "Sidemen: Outside",
+      "name": "KILL JACKIE",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
-    },
-    {
-      "id": "tmdb:285322",
-      "type": "series",
-      "name": "Below",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
-    },
-    {
-      "id": "tmdb:298505",
-      "type": "series",
-      "name": "Coven Academy",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348408700/s592/coven-academy.jpg"
+      "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
     },
     {
       "id": "tmdb:244447",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/333893699/s592/the-hunting-wives.jpg"
     },
     {
-      "id": "tmdb:203667",
+      "id": "tmdb:97546",
       "type": "series",
-      "name": "Die rote Königin",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/318080072/s592/reina-roja.jpg"
+      "name": "Ted Lasso",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+    },
+    {
+      "id": "tmdb:298505",
+      "type": "series",
+      "name": "Coven Academy",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348408700/s592/coven-academy.jpg"
+    },
+    {
+      "id": "tmdb:333016",
+      "type": "series",
+      "name": "Sidemen: Outside",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
     }
   ]
 }
