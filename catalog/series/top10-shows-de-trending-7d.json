@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:258165",
-      "type": "series",
-      "name": "East of Eden",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
-    },
-    {
       "id": "tmdb:288673",
       "type": "series",
       "name": "Carrie",
@@ -20,6 +13,13 @@
       "name": "Below",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
+    },
+    {
+      "id": "tmdb:258165",
+      "type": "series",
+      "name": "East of Eden",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
     },
     {
       "id": "tmdb:95350",
@@ -36,20 +36,6 @@
       "poster": "https://images.justwatch.com/poster/338092074/s592/Mayor-of-Kingstown.jpg"
     },
     {
-      "id": "tmdb:284558",
-      "type": "series",
-      "name": "KILL JACKIE",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354826463/s592/kill-jackie.jpg"
-    },
-    {
-      "id": "tmdb:244447",
-      "type": "series",
-      "name": "The Hunting Wives",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/333893699/s592/the-hunting-wives.jpg"
-    },
-    {
       "id": "tmdb:97546",
       "type": "series",
       "name": "Ted Lasso",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     },
     {
-      "id": "tmdb:298505",
+      "id": "tmdb:103540",
       "type": "series",
-      "name": "Coven Academy",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348408700/s592/coven-academy.jpg"
+      "name": "Percy Jackson: Die Serie",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/346660752/s592/Percy-Jackson-and-the-Olympians.jpg"
     },
     {
-      "id": "tmdb:333016",
+      "id": "tmdb:312693",
       "type": "series",
-      "name": "Sidemen: Outside",
+      "name": "Small Prophets",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350514030/s592/outside.jpg"
+      "poster": "https://images.justwatch.com/poster/341651287/s592/small-prophets.jpg"
+    },
+    {
+      "id": "tmdb:39276",
+      "type": "series",
+      "name": "Unforgettable",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
+    },
+    {
+      "id": "tmdb:108978",
+      "type": "series",
+      "name": "Reacher",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
     }
   ]
 }
