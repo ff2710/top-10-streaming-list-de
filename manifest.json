@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-11T11:57:52.771Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-12T14:11:00.504Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:969681",
-          "type": "movie",
-          "name": "Spider-Man 4",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355176085/s592/spider-man-4.jpg"
-        },
-        {
           "id": "tmdb:1236045",
           "type": "movie",
           "name": "Animals",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354728610/s592/animals-2026.jpg"
+        },
+        {
+          "id": "tmdb:969681",
+          "type": "movie",
+          "name": "Spider-Man 4",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355176085/s592/spider-man-4.jpg"
         },
         {
           "id": "tmdb:602223",
@@ -48,6 +48,13 @@
           "name": "The Alto Knights",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/339122057/s592/wise-guys.jpg"
+        },
+        {
+          "id": "tmdb:1148365",
+          "type": "movie",
+          "name": "Matchbox: Der Film",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354938785/s592/matchbox.jpg"
         },
         {
           "id": "tmdb:37799",
@@ -71,13 +78,6 @@
           "poster": "https://images.justwatch.com/poster/327356738/s592/eiserner-winter.jpg"
         },
         {
-          "id": "tmdb:443791",
-          "type": "movie",
-          "name": "Underwater - Es ist erwacht",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/334020040/s592/Underwater.jpg"
-        },
-        {
           "id": "tmdb:687163",
           "type": "movie",
           "name": "Der Astronaut - Project Hail Mary",
@@ -85,11 +85,11 @@
           "poster": "https://images.justwatch.com/poster/355132102/s592/der-astronaut.jpg"
         },
         {
-          "id": "tmdb:1148365",
+          "id": "tmdb:696393",
           "type": "movie",
-          "name": "Matchbox: Der Film",
+          "name": "Cold Storage",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354938785/s592/matchbox.jpg"
+          "poster": "https://images.justwatch.com/poster/342794387/s592/cold-storage.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
         },
         {
-          "id": "tmdb:258165",
-          "type": "series",
-          "name": "East of Eden",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
-        },
-        {
           "id": "tmdb:95350",
           "type": "series",
           "name": "Lanterns",
@@ -133,6 +126,27 @@
           "name": "Mayor of Kingstown",
           "year": 2021,
           "poster": "https://images.justwatch.com/poster/338092074/s592/Mayor-of-Kingstown.jpg"
+        },
+        {
+          "id": "tmdb:258165",
+          "type": "series",
+          "name": "East of Eden",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
+        },
+        {
+          "id": "tmdb:4541",
+          "type": "series",
+          "name": "Total Recall 2070",
+          "year": 1999,
+          "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
+        },
+        {
+          "id": "tmdb:39276",
+          "type": "series",
+          "name": "Unforgettable",
+          "year": 2011,
+          "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
         },
         {
           "id": "tmdb:97546",
@@ -154,20 +168,6 @@
           "name": "Small Prophets",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/341651287/s592/small-prophets.jpg"
-        },
-        {
-          "id": "tmdb:39276",
-          "type": "series",
-          "name": "Unforgettable",
-          "year": 2011,
-          "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
-        },
-        {
-          "id": "tmdb:108978",
-          "type": "series",
-          "name": "Reacher",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/348320065/s592/Jack-Reacher.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-11T11:57:52.771Z",
+    "generatedAt": "2026-10-12T14:11:00.504Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:969681",
       "tmdb:1236045",
+      "tmdb:969681",
       "tmdb:602223",
       "tmdb:1013601",
+      "tmdb:1148365",
       "tmdb:37799",
       "tmdb:9092",
       "tmdb:1439109",
-      "tmdb:443791",
       "tmdb:687163",
-      "tmdb:1148365"
+      "tmdb:696393"
     ],
     "tmdbShows": [
       "tmdb:288673",
       "tmdb:285322",
-      "tmdb:258165",
       "tmdb:95350",
       "tmdb:97951",
+      "tmdb:258165",
+      "tmdb:4541",
+      "tmdb:39276",
       "tmdb:97546",
       "tmdb:103540",
-      "tmdb:312693",
-      "tmdb:39276",
-      "tmdb:108978"
+      "tmdb:312693"
     ]
   }
 }
