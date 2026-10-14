@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:288673",
-      "type": "series",
-      "name": "Carrie",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
-    },
-    {
       "id": "tmdb:285322",
       "type": "series",
       "name": "Below",
@@ -15,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
     },
     {
-      "id": "tmdb:95350",
+      "id": "tmdb:288673",
       "type": "series",
-      "name": "Lanterns",
+      "name": "Carrie",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
+      "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
     },
     {
       "id": "tmdb:4541",
@@ -29,11 +22,18 @@
       "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
     },
     {
-      "id": "tmdb:258165",
+      "id": "tmdb:247718",
       "type": "series",
-      "name": "East of Eden",
+      "name": "MobLand: Familie bis aufs Blut",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
+      "id": "tmdb:95350",
+      "type": "series",
+      "name": "Lanterns",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/345990721/s592/east-of-eden.jpg"
+      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
     },
     {
       "id": "tmdb:39276",
@@ -41,6 +41,13 @@
       "name": "Unforgettable",
       "year": 2011,
       "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
+    },
+    {
+      "id": "tmdb:283371",
+      "type": "series",
+      "name": "Die Falle",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
     },
     {
       "id": "tmdb:312693",
@@ -57,18 +64,11 @@
       "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
     },
     {
-      "id": "tmdb:286732",
+      "id": "tmdb:48866",
       "type": "series",
-      "name": "After the Quake",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/329569290/s592/after-the-quake.jpg"
-    },
-    {
-      "id": "tmdb:290856",
-      "type": "series",
-      "name": "Marshals",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+      "name": "The 100",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/54371191/s592/The-100.jpg"
     }
   ]
 }
