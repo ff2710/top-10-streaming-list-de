@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Below",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354781830/s592/below.jpg"
+      "poster": "https://images.justwatch.com/poster/355537039/s592/below.jpg"
     },
     {
       "id": "tmdb:288673",
@@ -15,32 +15,11 @@
       "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
     },
     {
-      "id": "tmdb:4541",
-      "type": "series",
-      "name": "Total Recall 2070",
-      "year": 1999,
-      "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
-    },
-    {
       "id": "tmdb:247718",
       "type": "series",
       "name": "MobLand: Familie bis aufs Blut",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-    },
-    {
-      "id": "tmdb:95350",
-      "type": "series",
-      "name": "Lanterns",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
-    },
-    {
-      "id": "tmdb:39276",
-      "type": "series",
-      "name": "Unforgettable",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
     },
     {
       "id": "tmdb:283371",
@@ -50,18 +29,25 @@
       "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
     },
     {
-      "id": "tmdb:312693",
+      "id": "tmdb:4541",
       "type": "series",
-      "name": "Small Prophets",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/341651287/s592/small-prophets.jpg"
+      "name": "Total Recall 2070",
+      "year": 1999,
+      "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
     },
     {
-      "id": "tmdb:97546",
+      "id": "tmdb:39276",
       "type": "series",
-      "name": "Ted Lasso",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/331279712/s592/Ted-Lasso.jpg"
+      "name": "Unforgettable",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
+    },
+    {
+      "id": "tmdb:213375",
+      "type": "series",
+      "name": "VisionQuest",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
     },
     {
       "id": "tmdb:48866",
@@ -69,6 +55,20 @@
       "name": "The 100",
       "year": 2014,
       "poster": "https://images.justwatch.com/poster/54371191/s592/The-100.jpg"
+    },
+    {
+      "id": "tmdb:284833",
+      "type": "series",
+      "name": "Avatar - Die sieben Häfen",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355536978/s592/avatar-seven-havens.jpg"
+    },
+    {
+      "id": "tmdb:95350",
+      "type": "series",
+      "name": "Lanterns",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
     }
   ]
 }
