@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
     },
     {
-      "id": "tmdb:247718",
-      "type": "series",
-      "name": "MobLand: Familie bis aufs Blut",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-    },
-    {
       "id": "tmdb:283371",
       "type": "series",
       "name": "Die Falle",
@@ -29,18 +22,11 @@
       "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
     },
     {
-      "id": "tmdb:4541",
+      "id": "tmdb:247718",
       "type": "series",
-      "name": "Total Recall 2070",
-      "year": 1999,
-      "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
-    },
-    {
-      "id": "tmdb:39276",
-      "type": "series",
-      "name": "Unforgettable",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/306909728/s592/Unforgettable.jpg"
+      "name": "MobLand: Familie bis aufs Blut",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
       "id": "tmdb:213375",
@@ -50,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
     },
     {
-      "id": "tmdb:48866",
+      "id": "tmdb:4541",
       "type": "series",
-      "name": "The 100",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/54371191/s592/The-100.jpg"
+      "name": "Total Recall 2070",
+      "year": 1999,
+      "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
     },
     {
       "id": "tmdb:284833",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/355536978/s592/avatar-seven-havens.jpg"
     },
     {
-      "id": "tmdb:95350",
+      "id": "tmdb:48866",
       "type": "series",
-      "name": "Lanterns",
+      "name": "The 100",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/54371191/s592/The-100.jpg"
+    },
+    {
+      "id": "tmdb:290856",
+      "type": "series",
+      "name": "Marshals",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347103107/s592/lanterns.jpg"
+      "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+    },
+    {
+      "id": "tmdb:213562",
+      "type": "series",
+      "name": "Crystal Lake",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
     }
   ]
 }
