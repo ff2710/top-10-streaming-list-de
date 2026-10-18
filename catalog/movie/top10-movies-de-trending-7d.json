@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/348205840/s592/animals-2026.jpg"
     },
     {
-      "id": "tmdb:696393",
-      "type": "movie",
-      "name": "Cold Storage",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/342794387/s592/cold-storage.jpg"
-    },
-    {
       "id": "tmdb:1124620",
       "type": "movie",
       "name": "The Monkey",
@@ -22,18 +15,11 @@
       "poster": "https://images.justwatch.com/poster/326255879/s592/the-monkey.jpg"
     },
     {
-      "id": "tmdb:570670",
+      "id": "tmdb:696393",
       "type": "movie",
-      "name": "Der Unsichtbare",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
-    },
-    {
-      "id": "tmdb:10316",
-      "type": "movie",
-      "name": "The Ides of March - Tage des Verrats",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/8663258/s592/Die-Iden-des-Maerz.jpg"
+      "name": "Cold Storage",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/342794387/s592/cold-storage.jpg"
     },
     {
       "id": "tmdb:786892",
@@ -43,18 +29,39 @@
       "poster": "https://images.justwatch.com/poster/316152514/s592/furiosa.jpg"
     },
     {
-      "id": "tmdb:1148365",
+      "id": "tmdb:1427838",
       "type": "movie",
-      "name": "Matchbox: Der Film",
+      "name": "Extrawurst",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354938785/s592/matchbox.jpg"
+      "poster": "https://images.justwatch.com/poster/336190767/s592/extrawurst.jpg"
     },
     {
-      "id": "tmdb:1182222",
+      "id": "tmdb:1561726",
       "type": "movie",
-      "name": "15 Jahre",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/309089485/s592/15-jahre.jpg"
+      "name": "Masterplan",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355637284/s592/masterplan.jpg"
+    },
+    {
+      "id": "tmdb:10316",
+      "type": "movie",
+      "name": "The Ides of March - Tage des Verrats",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/8663258/s592/Die-Iden-des-Maerz.jpg"
+    },
+    {
+      "id": "tmdb:570670",
+      "type": "movie",
+      "name": "Der Unsichtbare",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
+    },
+    {
+      "id": "tmdb:1212763",
+      "type": "movie",
+      "name": "Evil Dead Burn",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/349318356/s592/evil-dead-burn.jpg"
     },
     {
       "id": "tmdb:1381078",
@@ -62,13 +69,6 @@
       "name": "Love of Your Life",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/354522082/s592/love-of-your-life.jpg"
-    },
-    {
-      "id": "tmdb:164457",
-      "type": "movie",
-      "name": "Auge um Auge",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/293930763/s592/Auge-um-Auge-2013.jpg"
     }
   ]
 }
