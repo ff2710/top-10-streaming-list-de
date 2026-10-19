@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-18T10:13:41.561Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-19T11:51:32.830Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,13 +22,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1236045",
-          "type": "movie",
-          "name": "Animals",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348205840/s592/animals-2026.jpg"
-        },
-        {
           "id": "tmdb:1124620",
           "type": "movie",
           "name": "The Monkey",
@@ -36,18 +29,11 @@
           "poster": "https://images.justwatch.com/poster/326255879/s592/the-monkey.jpg"
         },
         {
-          "id": "tmdb:696393",
+          "id": "tmdb:1212763",
           "type": "movie",
-          "name": "Cold Storage",
+          "name": "Evil Dead Burn",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/342794387/s592/cold-storage.jpg"
-        },
-        {
-          "id": "tmdb:786892",
-          "type": "movie",
-          "name": "Furiosa: A Mad Max Saga",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/316152514/s592/furiosa.jpg"
+          "poster": "https://images.justwatch.com/poster/349318356/s592/evil-dead-burn.jpg"
         },
         {
           "id": "tmdb:1427838",
@@ -64,6 +50,13 @@
           "poster": "https://images.justwatch.com/poster/355637284/s592/masterplan.jpg"
         },
         {
+          "id": "tmdb:786892",
+          "type": "movie",
+          "name": "Furiosa: A Mad Max Saga",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/316152514/s592/furiosa.jpg"
+        },
+        {
           "id": "tmdb:10316",
           "type": "movie",
           "name": "The Ides of March - Tage des Verrats",
@@ -71,25 +64,32 @@
           "poster": "https://images.justwatch.com/poster/8663258/s592/Die-Iden-des-Maerz.jpg"
         },
         {
-          "id": "tmdb:570670",
-          "type": "movie",
-          "name": "Der Unsichtbare",
-          "year": 2020,
-          "poster": "https://images.justwatch.com/poster/157884280/s592/Der-Unsichtbare.jpg"
-        },
-        {
-          "id": "tmdb:1212763",
-          "type": "movie",
-          "name": "Evil Dead Burn",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/349318356/s592/evil-dead-burn.jpg"
-        },
-        {
           "id": "tmdb:1381078",
           "type": "movie",
           "name": "Love of Your Life",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354522082/s592/love-of-your-life.jpg"
+        },
+        {
+          "id": "tmdb:696393",
+          "type": "movie",
+          "name": "Cold Storage",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/342794387/s592/cold-storage.jpg"
+        },
+        {
+          "id": "tmdb:1236045",
+          "type": "movie",
+          "name": "Animals",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348205840/s592/animals-2026.jpg"
+        },
+        {
+          "id": "tmdb:1288069",
+          "type": "movie",
+          "name": "Tenzing",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354677229/s592/tenzing.jpg"
         }
       ]
     },
@@ -100,11 +100,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:247718",
+          "id": "tmdb:213562",
           "type": "series",
-          "name": "MobLand: Familie bis aufs Blut",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+          "name": "Crystal Lake",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
         },
         {
           "id": "tmdb:213375",
@@ -114,18 +114,18 @@
           "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
         },
         {
+          "id": "tmdb:247718",
+          "type": "series",
+          "name": "MobLand: Familie bis aufs Blut",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+        },
+        {
           "id": "tmdb:283371",
           "type": "series",
           "name": "Die Falle",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
-        },
-        {
-          "id": "tmdb:213562",
-          "type": "series",
-          "name": "Crystal Lake",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
         },
         {
           "id": "tmdb:285322",
@@ -135,11 +135,18 @@
           "poster": "https://images.justwatch.com/poster/355537039/s592/below.jpg"
         },
         {
-          "id": "tmdb:288673",
+          "id": "tmdb:203857",
           "type": "series",
-          "name": "Carrie",
+          "name": "La Diplomate",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/338464501/s592/the-diplomat.jpg"
+        },
+        {
+          "id": "tmdb:333101",
+          "type": "series",
+          "name": "Die Schatzinsel",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
+          "poster": "https://images.justwatch.com/poster/355201345/s592/die-schatzinsel-2026.jpg"
         },
         {
           "id": "tmdb:48866",
@@ -149,25 +156,18 @@
           "poster": "https://images.justwatch.com/poster/54371191/s592/The-100.jpg"
         },
         {
-          "id": "tmdb:203857",
+          "id": "tmdb:235769",
           "type": "series",
-          "name": "La Diplomate",
+          "name": "Obituary",
           "year": 2023,
-          "poster": "https://images.justwatch.com/poster/338464501/s592/the-diplomat.jpg"
+          "poster": "https://images.justwatch.com/poster/324984546/s592/obituary.jpg"
         },
         {
-          "id": "tmdb:4541",
+          "id": "tmdb:298550",
           "type": "series",
-          "name": "Total Recall 2070",
-          "year": 1999,
-          "poster": "https://images.justwatch.com/poster/215515931/s592/total-recall-2070.jpg"
-        },
-        {
-          "id": "tmdb:290856",
-          "type": "series",
-          "name": "Marshals",
+          "name": "Friends Sex and Games",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343816878/s592/marshals.jpg"
+          "poster": "https://images.justwatch.com/poster/354961531/s592/friends-sex-and-games.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-18T10:13:41.561Z",
+    "generatedAt": "2026-10-19T11:51:32.830Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1236045",
       "tmdb:1124620",
-      "tmdb:696393",
-      "tmdb:786892",
+      "tmdb:1212763",
       "tmdb:1427838",
       "tmdb:1561726",
+      "tmdb:786892",
       "tmdb:10316",
-      "tmdb:570670",
-      "tmdb:1212763",
-      "tmdb:1381078"
+      "tmdb:1381078",
+      "tmdb:696393",
+      "tmdb:1236045",
+      "tmdb:1288069"
     ],
     "tmdbShows": [
-      "tmdb:247718",
-      "tmdb:213375",
-      "tmdb:283371",
       "tmdb:213562",
+      "tmdb:213375",
+      "tmdb:247718",
+      "tmdb:283371",
       "tmdb:285322",
-      "tmdb:288673",
-      "tmdb:48866",
       "tmdb:203857",
-      "tmdb:4541",
-      "tmdb:290856"
+      "tmdb:333101",
+      "tmdb:48866",
+      "tmdb:235769",
+      "tmdb:298550"
     ]
   }
 }
