@@ -15,25 +15,18 @@
       "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
     },
     {
-      "id": "tmdb:283371",
-      "type": "series",
-      "name": "Die Falle",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
-    },
-    {
-      "id": "tmdb:247718",
-      "type": "series",
-      "name": "MobLand: Familie bis aufs Blut",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-    },
-    {
       "id": "tmdb:333101",
       "type": "series",
       "name": "Die Schatzinsel",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355201345/s592/die-schatzinsel-2026.jpg"
+    },
+    {
+      "id": "tmdb:283371",
+      "type": "series",
+      "name": "Die Falle",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
     },
     {
       "id": "tmdb:203857",
@@ -43,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/338464501/s592/the-diplomat.jpg"
     },
     {
+      "id": "tmdb:247718",
+      "type": "series",
+      "name": "MobLand: Familie bis aufs Blut",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
       "id": "tmdb:235769",
       "type": "series",
       "name": "Obituary",
@@ -50,11 +50,11 @@
       "poster": "https://images.justwatch.com/poster/324984546/s592/obituary.jpg"
     },
     {
-      "id": "tmdb:285322",
+      "id": "tmdb:153312",
       "type": "series",
-      "name": "Below",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355537039/s592/below.jpg"
+      "name": "Tulsa King",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
     },
     {
       "id": "tmdb:298550",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/354961531/s592/friends-sex-and-games.jpg"
     },
     {
-      "id": "tmdb:153312",
+      "id": "tmdb:105248",
       "type": "series",
-      "name": "Tulsa King",
+      "name": "Cyberpunk: Edgerunners",
       "year": 2022,
-      "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
+      "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
     }
   ]
 }
