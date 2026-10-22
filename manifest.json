@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-21T11:01:02.703Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-22T10:59:28.025Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -50,20 +50,6 @@
           "poster": "https://images.justwatch.com/poster/316152514/s592/furiosa.jpg"
         },
         {
-          "id": "tmdb:1288069",
-          "type": "movie",
-          "name": "Tenzing",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354677229/s592/tenzing.jpg"
-        },
-        {
-          "id": "tmdb:1381078",
-          "type": "movie",
-          "name": "Love of Your Life",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354522082/s592/love-of-your-life.jpg"
-        },
-        {
           "id": "tmdb:1765072",
           "type": "movie",
           "name": "You Can See Everything",
@@ -71,11 +57,18 @@
           "poster": "https://images.justwatch.com/poster/355337192/s592/you-can-see-everything.jpg"
         },
         {
-          "id": "tmdb:1255833",
+          "id": "tmdb:1288069",
           "type": "movie",
-          "name": "Whalefall",
+          "name": "Tenzing",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346712500/s592/whalefall.jpg"
+          "poster": "https://images.justwatch.com/poster/354677229/s592/tenzing.jpg"
+        },
+        {
+          "id": "tmdb:430231",
+          "type": "movie",
+          "name": "The Endless",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/248859944/s592/The-Endless.jpg"
         },
         {
           "id": "tmdb:876079",
@@ -90,6 +83,13 @@
           "name": "Bring Her Back",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/335428187/s592/bring-her-back.jpg"
+        },
+        {
+          "id": "tmdb:1948",
+          "type": "movie",
+          "name": "Crank",
+          "year": 2006,
+          "poster": "https://images.justwatch.com/poster/177914064/s592/Crank.jpg"
         }
       ]
     },
@@ -121,18 +121,18 @@
           "poster": "https://images.justwatch.com/poster/355201345/s592/die-schatzinsel-2026.jpg"
         },
         {
-          "id": "tmdb:283371",
-          "type": "series",
-          "name": "Die Falle",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
-        },
-        {
           "id": "tmdb:203857",
           "type": "series",
-          "name": "La Diplomate",
+          "name": "Diplomatische Beziehungen",
           "year": 2023,
           "poster": "https://images.justwatch.com/poster/338464501/s592/the-diplomat.jpg"
+        },
+        {
+          "id": "tmdb:105248",
+          "type": "series",
+          "name": "Cyberpunk: Edgerunners",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
         },
         {
           "id": "tmdb:247718",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/354961531/s592/friends-sex-and-games.jpg"
         },
         {
-          "id": "tmdb:105248",
+          "id": "tmdb:95480",
           "type": "series",
-          "name": "Cyberpunk: Edgerunners",
+          "name": "Slow Horses – Ein Fall für Jackson Lamb",
           "year": 2022,
-          "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
+          "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         }
       ]
     }
@@ -177,7 +177,7 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-21T11:01:02.703Z",
+    "generatedAt": "2026-10-22T10:59:28.025Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
@@ -185,24 +185,24 @@
       "tmdb:1427838",
       "tmdb:1561726",
       "tmdb:786892",
-      "tmdb:1288069",
-      "tmdb:1381078",
       "tmdb:1765072",
-      "tmdb:1255833",
+      "tmdb:1288069",
+      "tmdb:430231",
       "tmdb:876079",
-      "tmdb:1151031"
+      "tmdb:1151031",
+      "tmdb:1948"
     ],
     "tmdbShows": [
       "tmdb:213562",
       "tmdb:213375",
       "tmdb:333101",
-      "tmdb:283371",
       "tmdb:203857",
+      "tmdb:105248",
       "tmdb:247718",
       "tmdb:235769",
       "tmdb:153312",
       "tmdb:298550",
-      "tmdb:105248"
+      "tmdb:95480"
     ]
   }
 }

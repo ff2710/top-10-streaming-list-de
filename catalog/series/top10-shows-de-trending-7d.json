@@ -22,18 +22,18 @@
       "poster": "https://images.justwatch.com/poster/355201345/s592/die-schatzinsel-2026.jpg"
     },
     {
-      "id": "tmdb:283371",
-      "type": "series",
-      "name": "Die Falle",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/333915965/s592/die-falle.jpg"
-    },
-    {
       "id": "tmdb:203857",
       "type": "series",
-      "name": "La Diplomate",
+      "name": "Diplomatische Beziehungen",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/338464501/s592/the-diplomat.jpg"
+    },
+    {
+      "id": "tmdb:105248",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/354961531/s592/friends-sex-and-games.jpg"
     },
     {
-      "id": "tmdb:105248",
+      "id": "tmdb:95480",
       "type": "series",
-      "name": "Cyberpunk: Edgerunners",
+      "name": "Slow Horses – Ein Fall für Jackson Lamb",
       "year": 2022,
-      "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
+      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
     }
   ]
 }
