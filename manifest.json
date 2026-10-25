@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-24T10:07:06.382Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-25T10:32:49.629Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,6 +22,13 @@
       "extra": [],
       "items": [
         {
+          "id": "tmdb:430231",
+          "type": "movie",
+          "name": "The Endless",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/248859944/s592/The-Endless.jpg"
+        },
+        {
           "id": "tmdb:1212763",
           "type": "movie",
           "name": "Evil Dead Burn",
@@ -34,20 +41,6 @@
           "name": "You Can See Everything",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/355337192/s592/you-can-see-everything.jpg"
-        },
-        {
-          "id": "tmdb:430231",
-          "type": "movie",
-          "name": "The Endless",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/248859944/s592/The-Endless.jpg"
-        },
-        {
-          "id": "tmdb:1427838",
-          "type": "movie",
-          "name": "Extrawurst",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/336190767/s592/extrawurst.jpg"
         },
         {
           "id": "tmdb:1948",
@@ -64,18 +57,11 @@
           "poster": "https://images.justwatch.com/poster/354518866/s592/moana-2025.jpg"
         },
         {
-          "id": "tmdb:1151031",
+          "id": "tmdb:1427838",
           "type": "movie",
-          "name": "Bring Her Back",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/335428187/s592/bring-her-back.jpg"
-        },
-        {
-          "id": "tmdb:1288069",
-          "type": "movie",
-          "name": "Tenzing",
+          "name": "Extrawurst",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354677229/s592/tenzing.jpg"
+          "poster": "https://images.justwatch.com/poster/336190767/s592/extrawurst.jpg"
         },
         {
           "id": "tmdb:950387",
@@ -90,6 +76,20 @@
           "name": "Civil War",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/314301486/s592/civil-war-2024-0.jpg"
+        },
+        {
+          "id": "tmdb:179538",
+          "type": "movie",
+          "name": "Witching & Bitching",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/293126650/s592/Witching-und-Bitching.jpg"
+        },
+        {
+          "id": "tmdb:372058",
+          "type": "movie",
+          "name": "Your Name.",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/63398447/s592/Kimi-no-Na-wa.jpg"
         }
       ]
     },
@@ -100,18 +100,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:213562",
-          "type": "series",
-          "name": "Crystal Lake",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
-        },
-        {
           "id": "tmdb:120911",
           "type": "series",
           "name": "The Terminal List - Die Abschussliste",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
+        },
+        {
+          "id": "tmdb:213562",
+          "type": "series",
+          "name": "Crystal Lake",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
         },
         {
           "id": "tmdb:333101",
@@ -128,11 +128,11 @@
           "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
         },
         {
-          "id": "tmdb:153312",
+          "id": "tmdb:96677",
           "type": "series",
-          "name": "Tulsa King",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
+          "name": "Lupin",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
         },
         {
           "id": "tmdb:95480",
@@ -142,25 +142,11 @@
           "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
         },
         {
-          "id": "tmdb:213375",
+          "id": "tmdb:153312",
           "type": "series",
-          "name": "VisionQuest",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
-        },
-        {
-          "id": "tmdb:96677",
-          "type": "series",
-          "name": "Lupin",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
-        },
-        {
-          "id": "tmdb:203857",
-          "type": "series",
-          "name": "Diplomatische Beziehungen",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/338464501/s592/the-diplomat.jpg"
+          "name": "Tulsa King",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
         },
         {
           "id": "tmdb:88803",
@@ -168,6 +154,20 @@
           "name": "Vinland Saga",
           "year": 2019,
           "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
+        },
+        {
+          "id": "tmdb:213375",
+          "type": "series",
+          "name": "VisionQuest",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
+        },
+        {
+          "id": "tmdb:1104",
+          "type": "series",
+          "name": "Mad Men",
+          "year": 2007,
+          "poster": "https://images.justwatch.com/poster/331473010/s592/Mad-Men.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-24T10:07:06.382Z",
+    "generatedAt": "2026-10-25T10:32:49.629Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
+      "tmdb:430231",
       "tmdb:1212763",
       "tmdb:1765072",
-      "tmdb:430231",
-      "tmdb:1427838",
       "tmdb:1948",
       "tmdb:1108427",
-      "tmdb:1151031",
-      "tmdb:1288069",
+      "tmdb:1427838",
       "tmdb:950387",
-      "tmdb:929590"
+      "tmdb:929590",
+      "tmdb:179538",
+      "tmdb:372058"
     ],
     "tmdbShows": [
-      "tmdb:213562",
       "tmdb:120911",
+      "tmdb:213562",
       "tmdb:333101",
       "tmdb:105248",
-      "tmdb:153312",
-      "tmdb:95480",
-      "tmdb:213375",
       "tmdb:96677",
-      "tmdb:203857",
-      "tmdb:88803"
+      "tmdb:95480",
+      "tmdb:153312",
+      "tmdb:88803",
+      "tmdb:213375",
+      "tmdb:1104"
     ]
   }
 }
