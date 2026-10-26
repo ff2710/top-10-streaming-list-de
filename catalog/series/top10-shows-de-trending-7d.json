@@ -8,18 +8,11 @@
       "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
     },
     {
-      "id": "tmdb:213562",
+      "id": "tmdb:96677",
       "type": "series",
-      "name": "Crystal Lake",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
-    },
-    {
-      "id": "tmdb:333101",
-      "type": "series",
-      "name": "Die Schatzinsel",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355201345/s592/die-schatzinsel-2026.jpg"
+      "name": "Lupin",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
     },
     {
       "id": "tmdb:105248",
@@ -27,13 +20,6 @@
       "name": "Cyberpunk: Edgerunners",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
-    },
-    {
-      "id": "tmdb:96677",
-      "type": "series",
-      "name": "Lupin",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
     },
     {
       "id": "tmdb:95480",
@@ -57,11 +43,25 @@
       "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
     },
     {
+      "id": "tmdb:213562",
+      "type": "series",
+      "name": "Crystal Lake",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354826679/s592/crystal-lake.jpg"
+    },
+    {
       "id": "tmdb:213375",
       "type": "series",
       "name": "VisionQuest",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
+    },
+    {
+      "id": "tmdb:288673",
+      "type": "series",
+      "name": "Carrie",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
     },
     {
       "id": "tmdb:1104",
