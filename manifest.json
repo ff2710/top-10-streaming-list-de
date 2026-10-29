@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-28T11:58:13.341Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-29T12:07:46.951Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,32 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1108427",
-          "type": "movie",
-          "name": "Vaiana",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354518866/s592/moana-2025.jpg"
-        },
-        {
           "id": "tmdb:1376856",
           "type": "movie",
           "name": "The Paradise",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354818331/s592/the-paradise.jpg"
-        },
-        {
-          "id": "tmdb:179538",
-          "type": "movie",
-          "name": "Witching & Bitching",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/293126650/s592/Witching-und-Bitching.jpg"
-        },
-        {
-          "id": "tmdb:1339713",
-          "type": "movie",
-          "name": "Obsession – Du sollst mich lieben",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
         },
         {
           "id": "tmdb:1329016",
@@ -64,11 +43,18 @@
           "poster": "https://images.justwatch.com/poster/300910512/s592/The-Reef-Stalked.jpg"
         },
         {
-          "id": "tmdb:372058",
+          "id": "tmdb:1339713",
           "type": "movie",
-          "name": "Your Name.",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/63398447/s592/Kimi-no-Na-wa.jpg"
+          "name": "Obsession – Du sollst mich lieben",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+        },
+        {
+          "id": "tmdb:1108427",
+          "type": "movie",
+          "name": "Vaiana",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354518866/s592/moana-2025.jpg"
         },
         {
           "id": "tmdb:262165",
@@ -78,6 +64,13 @@
           "poster": "https://images.justwatch.com/poster/185594240/s592/The-Unwanted.jpg"
         },
         {
+          "id": "tmdb:560128",
+          "type": "movie",
+          "name": "Midway between life and death",
+          "year": 2013,
+          "poster": "https://images.justwatch.com/poster/250069274/s592/midway-between-life-and-death.jpg"
+        },
+        {
           "id": "tmdb:989473",
           "type": "movie",
           "name": "Einladung zum Mord",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/337245242/s592/invitation-to-a-murder.jpg"
         },
         {
-          "id": "tmdb:560128",
+          "id": "tmdb:1400940",
           "type": "movie",
-          "name": "Midway between life and death",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/250069274/s592/midway-between-life-and-death.jpg"
+          "name": "Clayface",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/356243373/s592/clayface.jpg"
+        },
+        {
+          "id": "tmdb:1279493",
+          "type": "movie",
+          "name": "Bear Country",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354978471/s592/bear-country.jpg"
         }
       ]
     },
@@ -100,13 +100,6 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:120911",
-          "type": "series",
-          "name": "The Terminal List - Die Abschussliste",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
-        },
-        {
           "id": "tmdb:96677",
           "type": "series",
           "name": "Lupin",
@@ -114,11 +107,11 @@
           "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
         },
         {
-          "id": "tmdb:88803",
+          "id": "tmdb:120911",
           "type": "series",
-          "name": "Vinland Saga",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
+          "name": "The Terminal List - Die Abschussliste",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
         },
         {
           "id": "tmdb:153312",
@@ -128,18 +121,18 @@
           "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
         },
         {
+          "id": "tmdb:88803",
+          "type": "series",
+          "name": "Vinland Saga",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
+        },
+        {
           "id": "tmdb:95480",
           "type": "series",
           "name": "Slow Horses – Ein Fall für Jackson Lamb",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
-        },
-        {
-          "id": "tmdb:105248",
-          "type": "series",
-          "name": "Cyberpunk: Edgerunners",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
         },
         {
           "id": "tmdb:250923",
@@ -149,11 +142,11 @@
           "poster": "https://images.justwatch.com/poster/337837451/s592/nobody-wants-this.jpg"
         },
         {
-          "id": "tmdb:2985",
+          "id": "tmdb:105248",
           "type": "series",
-          "name": "Andromeda",
-          "year": 2000,
-          "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
+          "name": "Cyberpunk: Edgerunners",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
         },
         {
           "id": "tmdb:62710",
@@ -161,6 +154,13 @@
           "name": "Blindspot",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
+        },
+        {
+          "id": "tmdb:2985",
+          "type": "series",
+          "name": "Andromeda",
+          "year": 2000,
+          "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
         },
         {
           "id": "tmdb:288673",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-28T11:58:13.341Z",
+    "generatedAt": "2026-10-29T12:07:46.951Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1108427",
       "tmdb:1376856",
-      "tmdb:179538",
-      "tmdb:1339713",
       "tmdb:1329016",
       "tmdb:730167",
-      "tmdb:372058",
+      "tmdb:1339713",
+      "tmdb:1108427",
       "tmdb:262165",
+      "tmdb:560128",
       "tmdb:989473",
-      "tmdb:560128"
+      "tmdb:1400940",
+      "tmdb:1279493"
     ],
     "tmdbShows": [
-      "tmdb:120911",
       "tmdb:96677",
-      "tmdb:88803",
+      "tmdb:120911",
       "tmdb:153312",
+      "tmdb:88803",
       "tmdb:95480",
-      "tmdb:105248",
       "tmdb:250923",
-      "tmdb:2985",
+      "tmdb:105248",
       "tmdb:62710",
+      "tmdb:2985",
       "tmdb:288673"
     ]
   }
