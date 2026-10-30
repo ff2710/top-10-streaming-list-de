@@ -22,32 +22,18 @@
       "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
     },
     {
+      "id": "tmdb:313699",
+      "type": "series",
+      "name": "Balaraw: Blood Island",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
+    },
+    {
       "id": "tmdb:88803",
       "type": "series",
       "name": "Vinland Saga",
       "year": 2019,
       "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
-    },
-    {
-      "id": "tmdb:95480",
-      "type": "series",
-      "name": "Slow Horses – Ein Fall für Jackson Lamb",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
-    },
-    {
-      "id": "tmdb:250923",
-      "type": "series",
-      "name": "Nobody Wants This",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/337837451/s592/nobody-wants-this.jpg"
-    },
-    {
-      "id": "tmdb:105248",
-      "type": "series",
-      "name": "Cyberpunk: Edgerunners",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/318127979/s592/Cyberpunk-Edgerunners.jpg"
     },
     {
       "id": "tmdb:62710",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
     },
     {
-      "id": "tmdb:2985",
+      "id": "tmdb:46511",
       "type": "series",
-      "name": "Andromeda",
-      "year": 2000,
-      "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
+      "name": "Utopia",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/324538841/s592/Utopia-2013.jpg"
     },
     {
-      "id": "tmdb:288673",
+      "id": "tmdb:213375",
       "type": "series",
-      "name": "Carrie",
+      "name": "VisionQuest",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/350899399/s592/carrie.jpg"
+      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
+    },
+    {
+      "id": "tmdb:95480",
+      "type": "series",
+      "name": "Slow Horses – Ein Fall für Jackson Lamb",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
+    },
+    {
+      "id": "tmdb:314360",
+      "type": "series",
+      "name": "Yaga",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355553600/s592/yaga.jpg"
     }
   ]
 }
