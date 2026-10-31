@@ -8,6 +8,13 @@
       "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
     },
     {
+      "id": "tmdb:313699",
+      "type": "series",
+      "name": "Balaraw: Blood Island",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
+    },
+    {
       "id": "tmdb:120911",
       "type": "series",
       "name": "The Terminal List - Die Abschussliste",
@@ -22,25 +29,18 @@
       "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
     },
     {
-      "id": "tmdb:313699",
-      "type": "series",
-      "name": "Balaraw: Blood Island",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
-    },
-    {
-      "id": "tmdb:88803",
-      "type": "series",
-      "name": "Vinland Saga",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
-    },
-    {
       "id": "tmdb:62710",
       "type": "series",
       "name": "Blindspot",
       "year": 2015,
       "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
+    },
+    {
+      "id": "tmdb:247718",
+      "type": "series",
+      "name": "MobLand: Familie bis aufs Blut",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
       "id": "tmdb:46511",
@@ -57,18 +57,18 @@
       "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
     },
     {
-      "id": "tmdb:95480",
+      "id": "tmdb:88803",
       "type": "series",
-      "name": "Slow Horses – Ein Fall für Jackson Lamb",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
+      "name": "Vinland Saga",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
     },
     {
-      "id": "tmdb:314360",
+      "id": "tmdb:79744",
       "type": "series",
-      "name": "Yaga",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355553600/s592/yaga.jpg"
+      "name": "The Rookie",
+      "year": 2018,
+      "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     }
   ]
 }

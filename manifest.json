@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-10-30T11:59:08.798Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-10-31T11:33:38.004Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,11 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1376856",
+          "id": "tmdb:1727734",
           "type": "movie",
-          "name": "The Paradise",
+          "name": "Ali G - Who Iz I?",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354818331/s592/the-paradise.jpg"
+          "poster": "https://images.justwatch.com/poster/356407350/s592/ali-g-who-iz-i-2026.jpg"
         },
         {
           "id": "tmdb:1329016",
@@ -36,25 +36,11 @@
           "poster": "https://images.justwatch.com/poster/344830147/s592/tony-2026.jpg"
         },
         {
-          "id": "tmdb:1727734",
-          "type": "movie",
-          "name": "Ali G: Who Iz I?",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355491757/s592/ali-g-who-iz-i-2026.jpg"
-        },
-        {
           "id": "tmdb:1596275",
           "type": "movie",
           "name": "Drive - The Pretenders",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/356210434/s592/drive-the-pretenders.jpg"
-        },
-        {
-          "id": "tmdb:262165",
-          "type": "movie",
-          "name": "Dark Romance - Dunkles Geheimnis",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/185594240/s592/The-Unwanted.jpg"
         },
         {
           "id": "tmdb:989473",
@@ -78,11 +64,25 @@
           "poster": "https://images.justwatch.com/poster/134074453/s592/Green-Book.jpg"
         },
         {
+          "id": "tmdb:1376856",
+          "type": "movie",
+          "name": "The Paradise",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354818331/s592/the-paradise.jpg"
+        },
+        {
           "id": "tmdb:1279493",
           "type": "movie",
           "name": "Bear Country",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354978471/s592/bear-country.jpg"
+        },
+        {
+          "id": "tmdb:1400837",
+          "type": "movie",
+          "name": "Other Mommy",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355141001/s592/other-mommy.jpg"
         }
       ]
     },
@@ -100,6 +100,13 @@
           "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
         },
         {
+          "id": "tmdb:313699",
+          "type": "series",
+          "name": "Balaraw: Blood Island",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
+        },
+        {
           "id": "tmdb:120911",
           "type": "series",
           "name": "The Terminal List - Die Abschussliste",
@@ -114,25 +121,18 @@
           "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
         },
         {
-          "id": "tmdb:313699",
-          "type": "series",
-          "name": "Balaraw: Blood Island",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
-        },
-        {
-          "id": "tmdb:88803",
-          "type": "series",
-          "name": "Vinland Saga",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
-        },
-        {
           "id": "tmdb:62710",
           "type": "series",
           "name": "Blindspot",
           "year": 2015,
           "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
+        },
+        {
+          "id": "tmdb:247718",
+          "type": "series",
+          "name": "MobLand: Familie bis aufs Blut",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
           "id": "tmdb:46511",
@@ -149,18 +149,18 @@
           "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
         },
         {
-          "id": "tmdb:95480",
+          "id": "tmdb:88803",
           "type": "series",
-          "name": "Slow Horses – Ein Fall für Jackson Lamb",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/354752394/s592/Slow-Horses.jpg"
+          "name": "Vinland Saga",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
         },
         {
-          "id": "tmdb:314360",
+          "id": "tmdb:79744",
           "type": "series",
-          "name": "Yaga",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355553600/s592/yaga.jpg"
+          "name": "The Rookie",
+          "year": 2018,
+          "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
         }
       ]
     }
@@ -170,31 +170,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-10-30T11:59:08.798Z",
+    "generatedAt": "2026-10-31T11:33:38.004Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1376856",
-      "tmdb:1329016",
       "tmdb:1727734",
+      "tmdb:1329016",
       "tmdb:1596275",
-      "tmdb:262165",
       "tmdb:989473",
       "tmdb:1339713",
       "tmdb:490132",
-      "tmdb:1279493"
+      "tmdb:1376856",
+      "tmdb:1279493",
+      "tmdb:1400837"
     ],
     "tmdbShows": [
       "tmdb:96677",
+      "tmdb:313699",
       "tmdb:120911",
       "tmdb:153312",
-      "tmdb:313699",
-      "tmdb:88803",
       "tmdb:62710",
+      "tmdb:247718",
       "tmdb:46511",
       "tmdb:213375",
-      "tmdb:95480",
-      "tmdb:314360"
+      "tmdb:88803",
+      "tmdb:79744"
     ]
   }
 }
