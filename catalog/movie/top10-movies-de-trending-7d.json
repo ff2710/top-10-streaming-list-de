@@ -17,9 +17,16 @@
     {
       "id": "tmdb:1596275",
       "type": "movie",
-      "name": "Drive - The Pretenders",
+      "name": "Drive – The Pretenders",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356210434/s592/drive-the-pretenders.jpg"
+      "poster": "https://images.justwatch.com/poster/356416131/s592/drive-the-pretenders.jpg"
+    },
+    {
+      "id": "tmdb:1507696",
+      "type": "movie",
+      "name": "Apokalypse Z - Neue Welt",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/356429424/s592/apokalypse-z-neue-welt.jpg"
     },
     {
       "id": "tmdb:989473",
@@ -43,25 +50,18 @@
       "poster": "https://images.justwatch.com/poster/134074453/s592/Green-Book.jpg"
     },
     {
-      "id": "tmdb:1376856",
+      "id": "tmdb:1226578",
       "type": "movie",
-      "name": "The Paradise",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354818331/s592/the-paradise.jpg"
+      "name": "Longlegs",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/319718083/s592/longlegs.jpg"
     },
     {
-      "id": "tmdb:1279493",
+      "id": "tmdb:1384216",
       "type": "movie",
-      "name": "Bear Country",
+      "name": "Das Ende der Sterne wie Big Hig sie kannte",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354978471/s592/bear-country.jpg"
-    },
-    {
-      "id": "tmdb:1400837",
-      "type": "movie",
-      "name": "Other Mommy",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355141001/s592/other-mommy.jpg"
+      "poster": "https://images.justwatch.com/poster/356318520/s592/the-dog-stars.jpg"
     }
   ]
 }

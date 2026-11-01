@@ -1,18 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:96677",
-      "type": "series",
-      "name": "Lupin",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
-    },
-    {
       "id": "tmdb:313699",
       "type": "series",
       "name": "Balaraw: Blood Island",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
+    },
+    {
+      "id": "tmdb:96677",
+      "type": "series",
+      "name": "Lupin",
+      "year": 2021,
+      "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
     },
     {
       "id": "tmdb:120911",
@@ -22,18 +22,11 @@
       "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
     },
     {
-      "id": "tmdb:153312",
+      "id": "tmdb:292741",
       "type": "series",
-      "name": "Tulsa King",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
-    },
-    {
-      "id": "tmdb:62710",
-      "type": "series",
-      "name": "Blindspot",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
+      "name": "Nocturne",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -43,6 +36,20 @@
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
+      "id": "tmdb:62710",
+      "type": "series",
+      "name": "Blindspot",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
+    },
+    {
+      "id": "tmdb:259909",
+      "type": "series",
+      "name": "Dexter: Wiedererwachen",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+    },
+    {
       "id": "tmdb:46511",
       "type": "series",
       "name": "Utopia",
@@ -50,25 +57,18 @@
       "poster": "https://images.justwatch.com/poster/324538841/s592/Utopia-2013.jpg"
     },
     {
-      "id": "tmdb:213375",
-      "type": "series",
-      "name": "VisionQuest",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
-    },
-    {
-      "id": "tmdb:88803",
-      "type": "series",
-      "name": "Vinland Saga",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/140303029/s592/Vinland-Saga.jpg"
-    },
-    {
       "id": "tmdb:79744",
       "type": "series",
       "name": "The Rookie",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
+    },
+    {
+      "id": "tmdb:153312",
+      "type": "series",
+      "name": "Tulsa King",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
     }
   ]
 }
