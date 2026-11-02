@@ -15,18 +15,18 @@
       "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
     },
     {
-      "id": "tmdb:120911",
-      "type": "series",
-      "name": "The Terminal List - Die Abschussliste",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
-    },
-    {
       "id": "tmdb:292741",
       "type": "series",
       "name": "Nocturne",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
+    },
+    {
+      "id": "tmdb:259909",
+      "type": "series",
+      "name": "Dexter: Wiedererwachen",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -43,18 +43,18 @@
       "poster": "https://images.justwatch.com/poster/186418410/s592/Blindspot.jpg"
     },
     {
-      "id": "tmdb:259909",
-      "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
-    },
-    {
       "id": "tmdb:46511",
       "type": "series",
       "name": "Utopia",
       "year": 2013,
       "poster": "https://images.justwatch.com/poster/324538841/s592/Utopia-2013.jpg"
+    },
+    {
+      "id": "tmdb:289517",
+      "type": "series",
+      "name": "Dead-End Job",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
     },
     {
       "id": "tmdb:79744",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/109005818/s592/The-Rookie.jpg"
     },
     {
-      "id": "tmdb:153312",
+      "id": "tmdb:120911",
       "type": "series",
-      "name": "Tulsa King",
+      "name": "The Terminal List - Die Abschussliste",
       "year": 2022,
-      "poster": "https://images.justwatch.com/poster/337316136/s592/Tulsa-King.jpg"
+      "poster": "https://images.justwatch.com/poster/298183163/s592/The-Terminal-List.jpg"
     }
   ]
 }

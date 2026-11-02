@@ -29,18 +29,11 @@
       "poster": "https://images.justwatch.com/poster/356429424/s592/apokalypse-z-neue-welt.jpg"
     },
     {
-      "id": "tmdb:989473",
+      "id": "tmdb:8329",
       "type": "movie",
-      "name": "Einladung zum Mord",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/337245242/s592/invitation-to-a-murder.jpg"
-    },
-    {
-      "id": "tmdb:1339713",
-      "type": "movie",
-      "name": "Obsession – Du sollst mich lieben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+      "name": "[Rec]",
+      "year": 2007,
+      "poster": "https://images.justwatch.com/poster/330715857/s592/REC-Ein-Albtraum-aus-Blut-Angst-und-Terror.jpg"
     },
     {
       "id": "tmdb:490132",
@@ -48,6 +41,13 @@
       "name": "Green Book - Eine besondere Freundschaft",
       "year": 2018,
       "poster": "https://images.justwatch.com/poster/134074453/s592/Green-Book.jpg"
+    },
+    {
+      "id": "tmdb:1339713",
+      "type": "movie",
+      "name": "Obsession – Du sollst mich lieben",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
     },
     {
       "id": "tmdb:1226578",
