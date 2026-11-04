@@ -40,14 +40,14 @@
       "type": "movie",
       "name": "Das Geschenk",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356300083/s592/das-geschenk-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/356514721/s592/das-geschenk-2026.jpg"
     },
     {
-      "id": "tmdb:1339713",
+      "id": "tmdb:1233413",
       "type": "movie",
-      "name": "Obsession – Du sollst mich lieben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+      "name": "Blood & Sinners",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
     },
     {
       "id": "tmdb:1175174",
@@ -57,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/345761930/s592/fackham-hall.jpg"
     },
     {
-      "id": "tmdb:1384216",
+      "id": "tmdb:9298",
       "type": "movie",
-      "name": "Das Ende der Sterne wie Big Hig sie kannte",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356318520/s592/the-dog-stars.jpg"
+      "name": "Ali G in da House",
+      "year": 2002,
+      "poster": "https://images.justwatch.com/poster/293705856/s592/Ali-G-in-da-House.jpg"
+    },
+    {
+      "id": "tmdb:1249213",
+      "type": "movie",
+      "name": "Tödliches Date",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/330456985/s592/drop-toedliches-date.jpg"
     }
   ]
 }

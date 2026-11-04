@@ -15,27 +15,6 @@
       "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
     },
     {
-      "id": "tmdb:259909",
-      "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
-    },
-    {
-      "id": "tmdb:96677",
-      "type": "series",
-      "name": "Lupin",
-      "year": 2021,
-      "poster": "https://images.justwatch.com/poster/308778262/s592/Lupin.jpg"
-    },
-    {
-      "id": "tmdb:289517",
-      "type": "series",
-      "name": "Dead-End Job",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
-    },
-    {
       "id": "tmdb:47665",
       "type": "series",
       "name": "Black Sails",
@@ -43,18 +22,18 @@
       "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
     },
     {
-      "id": "tmdb:46511",
+      "id": "tmdb:259909",
       "type": "series",
-      "name": "Utopia",
-      "year": 2013,
-      "poster": "https://images.justwatch.com/poster/324538841/s592/Utopia-2013.jpg"
+      "name": "Dexter: Wiedererwachen",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
     },
     {
-      "id": "tmdb:247718",
+      "id": "tmdb:289517",
       "type": "series",
-      "name": "MobLand: Familie bis aufs Blut",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+      "name": "Dead-End Job",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
     },
     {
       "id": "tmdb:79744",
@@ -69,6 +48,27 @@
       "name": "Raumschiff Enterprise: Das nächste Jahrhundert",
       "year": 1987,
       "poster": "https://images.justwatch.com/poster/338948434/s592/Raumschiff-Enterprise-Das-naechste-Jahrhundert.jpg"
+    },
+    {
+      "id": "tmdb:247718",
+      "type": "series",
+      "name": "MobLand: Familie bis aufs Blut",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
+      "id": "tmdb:241099",
+      "type": "series",
+      "name": "Passenger",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/322100585/s592/passenger.jpg"
+    },
+    {
+      "id": "tmdb:73550",
+      "type": "series",
+      "name": "Gunpowder",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
     }
   ]
 }
