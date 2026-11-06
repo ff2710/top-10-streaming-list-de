@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/330715857/s592/REC-Ein-Albtraum-aus-Blut-Angst-und-Terror.jpg"
     },
     {
-      "id": "tmdb:1262983",
-      "type": "movie",
-      "name": "MadS - Im Rausch der Nacht",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/329802977/s592/mads.jpg"
-    },
-    {
       "id": "tmdb:1233413",
       "type": "movie",
       "name": "Blood & Sinners",
@@ -29,11 +22,32 @@
       "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
     },
     {
+      "id": "tmdb:1262983",
+      "type": "movie",
+      "name": "MadS - Im Rausch der Nacht",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/329802977/s592/mads.jpg"
+    },
+    {
       "id": "tmdb:1042834",
       "type": "movie",
       "name": "Eden",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/332702507/s592/eden-2025.jpg"
+    },
+    {
+      "id": "tmdb:950237",
+      "type": "movie",
+      "name": "The 90s Club",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/354611712/s592/the-90s-club.jpg"
+    },
+    {
+      "id": "tmdb:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347360147/s592/the-mongoose.jpg"
     },
     {
       "id": "tmdb:1789549",
@@ -50,25 +64,11 @@
       "poster": "https://images.justwatch.com/poster/8679117/s592/Der-Dunkle-Turm.jpg"
     },
     {
-      "id": "tmdb:1727734",
+      "id": "tmdb:791523",
       "type": "movie",
-      "name": "Ali G - Who Iz I?",
+      "name": "Wildwood",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356407350/s592/ali-g-who-iz-i-2026.jpg"
-    },
-    {
-      "id": "tmdb:1249213",
-      "type": "movie",
-      "name": "Tödliches Date",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/330456985/s592/drop-toedliches-date.jpg"
-    },
-    {
-      "id": "tmdb:1339713",
-      "type": "movie",
-      "name": "Obsession – Du sollst mich lieben",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/346904016/s592/obsession-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/354539728/s592/wildwood.jpg"
     }
   ]
 }
