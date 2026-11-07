@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-06T13:37:08.646Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-07T12:17:24.793Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,32 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1507696",
-          "type": "movie",
-          "name": "Apokalypse Z - Neue Welt",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356429424/s592/apokalypse-z-neue-welt.jpg"
-        },
-        {
-          "id": "tmdb:8329",
-          "type": "movie",
-          "name": "[Rec]",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/330715857/s592/REC-Ein-Albtraum-aus-Blut-Angst-und-Terror.jpg"
-        },
-        {
           "id": "tmdb:1233413",
           "type": "movie",
           "name": "Blood & Sinners",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/331456487/s592/sinners-2025.jpg"
-        },
-        {
-          "id": "tmdb:1262983",
-          "type": "movie",
-          "name": "MadS - Im Rausch der Nacht",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/329802977/s592/mads.jpg"
         },
         {
           "id": "tmdb:1042834",
@@ -57,11 +36,11 @@
           "poster": "https://images.justwatch.com/poster/332702507/s592/eden-2025.jpg"
         },
         {
-          "id": "tmdb:950237",
+          "id": "tmdb:1262983",
           "type": "movie",
-          "name": "The 90s Club",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/354611712/s592/the-90s-club.jpg"
+          "name": "MadS - Im Rausch der Nacht",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/329802977/s592/mads.jpg"
         },
         {
           "id": "tmdb:1294189",
@@ -71,11 +50,18 @@
           "poster": "https://images.justwatch.com/poster/347360147/s592/the-mongoose.jpg"
         },
         {
-          "id": "tmdb:1789549",
+          "id": "tmdb:8329",
           "type": "movie",
-          "name": "Das Geschenk",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356514721/s592/das-geschenk-2026.jpg"
+          "name": "[Rec]",
+          "year": 2007,
+          "poster": "https://images.justwatch.com/poster/330715857/s592/REC-Ein-Albtraum-aus-Blut-Angst-und-Terror.jpg"
+        },
+        {
+          "id": "tmdb:950237",
+          "type": "movie",
+          "name": "The 90s Club",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/354611712/s592/the-90s-club.jpg"
         },
         {
           "id": "tmdb:353491",
@@ -90,6 +76,20 @@
           "name": "Wildwood",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354539728/s592/wildwood.jpg"
+        },
+        {
+          "id": "tmdb:1249213",
+          "type": "movie",
+          "name": "Tödliches Date",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/330456985/s592/drop-toedliches-date.jpg"
+        },
+        {
+          "id": "tmdb:1507696",
+          "type": "movie",
+          "name": "Apokalypse Z - Neue Welt",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/356429424/s592/apokalypse-z-neue-welt.jpg"
         }
       ]
     },
@@ -107,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
         },
         {
+          "id": "tmdb:225385",
+          "type": "series",
+          "name": "Black Doves",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
+        },
+        {
           "id": "tmdb:292741",
           "type": "series",
           "name": "Nocturne",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-        },
-        {
-          "id": "tmdb:289517",
-          "type": "series",
-          "name": "Dead-End Job",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
         },
         {
           "id": "tmdb:259909",
@@ -128,20 +128,6 @@
           "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
         },
         {
-          "id": "tmdb:313699",
-          "type": "series",
-          "name": "Balaraw: Blood Island",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
-        },
-        {
-          "id": "tmdb:225385",
-          "type": "series",
-          "name": "Black Doves",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
-        },
-        {
           "id": "tmdb:73550",
           "type": "series",
           "name": "Gunpowder",
@@ -149,11 +135,18 @@
           "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
         },
         {
-          "id": "tmdb:241099",
+          "id": "tmdb:289517",
           "type": "series",
-          "name": "Passenger",
-          "year": 2024,
-          "poster": "https://images.justwatch.com/poster/322100585/s592/passenger.jpg"
+          "name": "Dead-End Job",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
+        },
+        {
+          "id": "tmdb:248830",
+          "type": "series",
+          "name": "Stick",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
         },
         {
           "id": "tmdb:316702",
@@ -161,6 +154,13 @@
           "name": "Der letzte Tisch",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/356366559/s592/final-table.jpg"
+        },
+        {
+          "id": "tmdb:253372",
+          "type": "series",
+          "name": "The Institute",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/354540186/s592/the-institute.jpg"
         },
         {
           "id": "tmdb:247718",
@@ -177,31 +177,31 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-06T13:37:08.646Z",
+    "generatedAt": "2026-11-07T12:17:24.793Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1507696",
-      "tmdb:8329",
       "tmdb:1233413",
-      "tmdb:1262983",
       "tmdb:1042834",
-      "tmdb:950237",
+      "tmdb:1262983",
       "tmdb:1294189",
-      "tmdb:1789549",
+      "tmdb:8329",
+      "tmdb:950237",
       "tmdb:353491",
-      "tmdb:791523"
+      "tmdb:791523",
+      "tmdb:1249213",
+      "tmdb:1507696"
     ],
     "tmdbShows": [
       "tmdb:47665",
-      "tmdb:292741",
-      "tmdb:289517",
-      "tmdb:259909",
-      "tmdb:313699",
       "tmdb:225385",
+      "tmdb:292741",
+      "tmdb:259909",
       "tmdb:73550",
-      "tmdb:241099",
+      "tmdb:289517",
+      "tmdb:248830",
       "tmdb:316702",
+      "tmdb:253372",
       "tmdb:247718"
     ]
   }

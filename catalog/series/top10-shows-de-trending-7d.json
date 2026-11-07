@@ -8,18 +8,18 @@
       "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
     },
     {
+      "id": "tmdb:225385",
+      "type": "series",
+      "name": "Black Doves",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
+    },
+    {
       "id": "tmdb:292741",
       "type": "series",
       "name": "Nocturne",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-    },
-    {
-      "id": "tmdb:289517",
-      "type": "series",
-      "name": "Dead-End Job",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
     },
     {
       "id": "tmdb:259909",
@@ -29,20 +29,6 @@
       "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
     },
     {
-      "id": "tmdb:313699",
-      "type": "series",
-      "name": "Balaraw: Blood Island",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354877326/s592/balaraw-blood-island.jpg"
-    },
-    {
-      "id": "tmdb:225385",
-      "type": "series",
-      "name": "Black Doves",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
-    },
-    {
       "id": "tmdb:73550",
       "type": "series",
       "name": "Gunpowder",
@@ -50,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
     },
     {
-      "id": "tmdb:241099",
+      "id": "tmdb:289517",
       "type": "series",
-      "name": "Passenger",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/322100585/s592/passenger.jpg"
+      "name": "Dead-End Job",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
+    },
+    {
+      "id": "tmdb:248830",
+      "type": "series",
+      "name": "Stick",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
     },
     {
       "id": "tmdb:316702",
@@ -62,6 +55,13 @@
       "name": "Der letzte Tisch",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/356366559/s592/final-table.jpg"
+    },
+    {
+      "id": "tmdb:253372",
+      "type": "series",
+      "name": "The Institute",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/354540186/s592/the-institute.jpg"
     },
     {
       "id": "tmdb:247718",
