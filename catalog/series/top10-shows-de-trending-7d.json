@@ -15,18 +15,18 @@
       "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
     },
     {
-      "id": "tmdb:292741",
-      "type": "series",
-      "name": "Nocturne",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-    },
-    {
       "id": "tmdb:259909",
       "type": "series",
       "name": "Dexter: Wiedererwachen",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+    },
+    {
+      "id": "tmdb:292741",
+      "type": "series",
+      "name": "Nocturne",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
     },
     {
       "id": "tmdb:73550",
@@ -36,11 +36,11 @@
       "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
     },
     {
-      "id": "tmdb:289517",
+      "id": "tmdb:84773",
       "type": "series",
-      "name": "Dead-End Job",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
+      "name": "Der Herr der Ringe: Die Ringe der Macht",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
     },
     {
       "id": "tmdb:248830",
@@ -50,11 +50,11 @@
       "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
     },
     {
-      "id": "tmdb:316702",
+      "id": "tmdb:297491",
       "type": "series",
-      "name": "Der letzte Tisch",
+      "name": "Palace",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356366559/s592/final-table.jpg"
+      "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
     },
     {
       "id": "tmdb:253372",
@@ -64,11 +64,11 @@
       "poster": "https://images.justwatch.com/poster/354540186/s592/the-institute.jpg"
     },
     {
-      "id": "tmdb:247718",
+      "id": "tmdb:314271",
       "type": "series",
-      "name": "MobLand: Familie bis aufs Blut",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+      "name": "Bass X Machina",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354524515/s592/bass-x-machina.jpg"
     }
   ]
 }

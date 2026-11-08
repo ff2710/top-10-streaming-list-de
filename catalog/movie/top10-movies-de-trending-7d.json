@@ -15,32 +15,18 @@
       "poster": "https://images.justwatch.com/poster/332702507/s592/eden-2025.jpg"
     },
     {
+      "id": "tmdb:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/356703608/s592/the-mongoose.jpg"
+    },
+    {
       "id": "tmdb:1262983",
       "type": "movie",
       "name": "MadS - Im Rausch der Nacht",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/329802977/s592/mads.jpg"
-    },
-    {
-      "id": "tmdb:1294189",
-      "type": "movie",
-      "name": "The Mongoose",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347360147/s592/the-mongoose.jpg"
-    },
-    {
-      "id": "tmdb:8329",
-      "type": "movie",
-      "name": "[Rec]",
-      "year": 2007,
-      "poster": "https://images.justwatch.com/poster/330715857/s592/REC-Ein-Albtraum-aus-Blut-Angst-und-Terror.jpg"
-    },
-    {
-      "id": "tmdb:950237",
-      "type": "movie",
-      "name": "The 90s Club",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/354611712/s592/the-90s-club.jpg"
     },
     {
       "id": "tmdb:353491",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/354539728/s592/wildwood.jpg"
     },
     {
-      "id": "tmdb:1249213",
+      "id": "tmdb:1330610",
       "type": "movie",
-      "name": "Tödliches Date",
+      "name": "Bikini Nuns",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/330456985/s592/drop-toedliches-date.jpg"
+      "poster": "https://images.justwatch.com/poster/336608879/s592/bikini-nuns.jpg"
     },
     {
-      "id": "tmdb:1507696",
+      "id": "tmdb:1483525",
       "type": "movie",
-      "name": "Apokalypse Z - Neue Welt",
+      "name": "Possible Love",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356429424/s592/apokalypse-z-neue-welt.jpg"
+      "poster": "https://images.justwatch.com/poster/347600686/s592/possible-love.jpg"
+    },
+    {
+      "id": "tmdb:1341137",
+      "type": "movie",
+      "name": "A Great Awakening",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/345456330/s592/a-great-awakening.jpg"
+    },
+    {
+      "id": "tmdb:1101383",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355424069/s592/flowervale-street.jpg"
     }
   ]
 }

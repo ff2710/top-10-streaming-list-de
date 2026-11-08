@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-07T12:17:24.793Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-08T12:37:26.564Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,32 +36,18 @@
           "poster": "https://images.justwatch.com/poster/332702507/s592/eden-2025.jpg"
         },
         {
+          "id": "tmdb:1294189",
+          "type": "movie",
+          "name": "The Mongoose",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/356703608/s592/the-mongoose.jpg"
+        },
+        {
           "id": "tmdb:1262983",
           "type": "movie",
           "name": "MadS - Im Rausch der Nacht",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/329802977/s592/mads.jpg"
-        },
-        {
-          "id": "tmdb:1294189",
-          "type": "movie",
-          "name": "The Mongoose",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347360147/s592/the-mongoose.jpg"
-        },
-        {
-          "id": "tmdb:8329",
-          "type": "movie",
-          "name": "[Rec]",
-          "year": 2007,
-          "poster": "https://images.justwatch.com/poster/330715857/s592/REC-Ein-Albtraum-aus-Blut-Angst-und-Terror.jpg"
-        },
-        {
-          "id": "tmdb:950237",
-          "type": "movie",
-          "name": "The 90s Club",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/354611712/s592/the-90s-club.jpg"
         },
         {
           "id": "tmdb:353491",
@@ -78,18 +64,32 @@
           "poster": "https://images.justwatch.com/poster/354539728/s592/wildwood.jpg"
         },
         {
-          "id": "tmdb:1249213",
+          "id": "tmdb:1330610",
           "type": "movie",
-          "name": "Tödliches Date",
+          "name": "Bikini Nuns",
           "year": 2025,
-          "poster": "https://images.justwatch.com/poster/330456985/s592/drop-toedliches-date.jpg"
+          "poster": "https://images.justwatch.com/poster/336608879/s592/bikini-nuns.jpg"
         },
         {
-          "id": "tmdb:1507696",
+          "id": "tmdb:1483525",
           "type": "movie",
-          "name": "Apokalypse Z - Neue Welt",
+          "name": "Possible Love",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356429424/s592/apokalypse-z-neue-welt.jpg"
+          "poster": "https://images.justwatch.com/poster/347600686/s592/possible-love.jpg"
+        },
+        {
+          "id": "tmdb:1341137",
+          "type": "movie",
+          "name": "A Great Awakening",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/345456330/s592/a-great-awakening.jpg"
+        },
+        {
+          "id": "tmdb:1101383",
+          "type": "movie",
+          "name": "The End of Oak Street",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355424069/s592/flowervale-street.jpg"
         }
       ]
     },
@@ -114,18 +114,18 @@
           "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
         },
         {
-          "id": "tmdb:292741",
-          "type": "series",
-          "name": "Nocturne",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-        },
-        {
           "id": "tmdb:259909",
           "type": "series",
           "name": "Dexter: Wiedererwachen",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+        },
+        {
+          "id": "tmdb:292741",
+          "type": "series",
+          "name": "Nocturne",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
         },
         {
           "id": "tmdb:73550",
@@ -135,11 +135,11 @@
           "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
         },
         {
-          "id": "tmdb:289517",
+          "id": "tmdb:84773",
           "type": "series",
-          "name": "Dead-End Job",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347833685/s592/dead-end-job.jpg"
+          "name": "Der Herr der Ringe: Die Ringe der Macht",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
         },
         {
           "id": "tmdb:248830",
@@ -149,11 +149,11 @@
           "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
         },
         {
-          "id": "tmdb:316702",
+          "id": "tmdb:297491",
           "type": "series",
-          "name": "Der letzte Tisch",
+          "name": "Palace",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356366559/s592/final-table.jpg"
+          "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
         },
         {
           "id": "tmdb:253372",
@@ -163,11 +163,11 @@
           "poster": "https://images.justwatch.com/poster/354540186/s592/the-institute.jpg"
         },
         {
-          "id": "tmdb:247718",
+          "id": "tmdb:314271",
           "type": "series",
-          "name": "MobLand: Familie bis aufs Blut",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+          "name": "Bass X Machina",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/354524515/s592/bass-x-machina.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-07T12:17:24.793Z",
+    "generatedAt": "2026-11-08T12:37:26.564Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1233413",
       "tmdb:1042834",
-      "tmdb:1262983",
       "tmdb:1294189",
-      "tmdb:8329",
-      "tmdb:950237",
+      "tmdb:1262983",
       "tmdb:353491",
       "tmdb:791523",
-      "tmdb:1249213",
-      "tmdb:1507696"
+      "tmdb:1330610",
+      "tmdb:1483525",
+      "tmdb:1341137",
+      "tmdb:1101383"
     ],
     "tmdbShows": [
       "tmdb:47665",
       "tmdb:225385",
-      "tmdb:292741",
       "tmdb:259909",
+      "tmdb:292741",
       "tmdb:73550",
-      "tmdb:289517",
+      "tmdb:84773",
       "tmdb:248830",
-      "tmdb:316702",
+      "tmdb:297491",
       "tmdb:253372",
-      "tmdb:247718"
+      "tmdb:314271"
     ]
   }
 }
