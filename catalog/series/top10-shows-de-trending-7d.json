@@ -15,27 +15,6 @@
       "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
     },
     {
-      "id": "tmdb:259909",
-      "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
-    },
-    {
-      "id": "tmdb:292741",
-      "type": "series",
-      "name": "Nocturne",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-    },
-    {
-      "id": "tmdb:73550",
-      "type": "series",
-      "name": "Gunpowder",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
-    },
-    {
       "id": "tmdb:84773",
       "type": "series",
       "name": "Der Herr der Ringe: Die Ringe der Macht",
@@ -43,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
     },
     {
-      "id": "tmdb:248830",
+      "id": "tmdb:259909",
       "type": "series",
-      "name": "Stick",
+      "name": "Dexter: Wiedererwachen",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
+      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
     },
     {
       "id": "tmdb:297491",
@@ -57,11 +36,32 @@
       "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
     },
     {
-      "id": "tmdb:253372",
+      "id": "tmdb:73550",
       "type": "series",
-      "name": "The Institute",
+      "name": "Gunpowder",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
+    },
+    {
+      "id": "tmdb:248830",
+      "type": "series",
+      "name": "Stick",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/354540186/s592/the-institute.jpg"
+      "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
+    },
+    {
+      "id": "tmdb:1413",
+      "type": "series",
+      "name": "American Horror Story - Die dunkle Seite in dir",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
+    },
+    {
+      "id": "tmdb:292741",
+      "type": "series",
+      "name": "Nocturne",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
     },
     {
       "id": "tmdb:314271",
