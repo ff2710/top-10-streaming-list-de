@@ -1,18 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:47665",
-      "type": "series",
-      "name": "Black Sails",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
-    },
-    {
       "id": "tmdb:225385",
       "type": "series",
       "name": "Black Doves",
       "year": 2024,
       "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
+    },
+    {
+      "id": "tmdb:47665",
+      "type": "series",
+      "name": "Black Sails",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
     },
     {
       "id": "tmdb:84773",
@@ -36,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
     },
     {
-      "id": "tmdb:73550",
-      "type": "series",
-      "name": "Gunpowder",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
-    },
-    {
       "id": "tmdb:248830",
       "type": "series",
       "name": "Stick",
@@ -57,18 +50,25 @@
       "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
     },
     {
-      "id": "tmdb:292741",
-      "type": "series",
-      "name": "Nocturne",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-    },
-    {
       "id": "tmdb:314271",
       "type": "series",
       "name": "Bass X Machina",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/354524515/s592/bass-x-machina.jpg"
+    },
+    {
+      "id": "tmdb:208569",
+      "type": "series",
+      "name": "Will Trent",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/331347971/s592/will-trent.jpg"
+    },
+    {
+      "id": "tmdb:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/318907080/s592/the-greatest.jpg"
     }
   ]
 }

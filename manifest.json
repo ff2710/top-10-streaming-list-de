@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-09T14:55:57.988Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-10T14:08:55.579Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,20 +43,6 @@
           "poster": "https://images.justwatch.com/poster/332702507/s592/eden-2025.jpg"
         },
         {
-          "id": "tmdb:353491",
-          "type": "movie",
-          "name": "Der Dunkle Turm",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/8679117/s592/Der-Dunkle-Turm.jpg"
-        },
-        {
-          "id": "tmdb:791523",
-          "type": "movie",
-          "name": "Wildwood",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/354539728/s592/wildwood.jpg"
-        },
-        {
           "id": "tmdb:1101383",
           "type": "movie",
           "name": "The End of Oak Street",
@@ -64,11 +50,11 @@
           "poster": "https://images.justwatch.com/poster/355424069/s592/flowervale-street.jpg"
         },
         {
-          "id": "tmdb:1330610",
+          "id": "tmdb:353491",
           "type": "movie",
-          "name": "Bikini Nuns",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/336608879/s592/bikini-nuns.jpg"
+          "name": "Der Dunkle Turm",
+          "year": 2017,
+          "poster": "https://images.justwatch.com/poster/8679117/s592/Der-Dunkle-Turm.jpg"
         },
         {
           "id": "tmdb:1472668",
@@ -78,6 +64,13 @@
           "poster": "https://images.justwatch.com/poster/330474764/s592/wick-is-pain.jpg"
         },
         {
+          "id": "tmdb:1330610",
+          "type": "movie",
+          "name": "Bikini Nuns",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/336608879/s592/bikini-nuns.jpg"
+        },
+        {
           "id": "tmdb:1483525",
           "type": "movie",
           "name": "Possible Love",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/347600686/s592/possible-love.jpg"
         },
         {
-          "id": "tmdb:1341137",
+          "id": "tmdb:1634902",
           "type": "movie",
-          "name": "A Great Awakening",
+          "name": "The Train",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/345456330/s592/a-great-awakening.jpg"
+          "poster": "https://images.justwatch.com/poster/356693884/s592/the-train-2026.jpg"
+        },
+        {
+          "id": "tmdb:1029235",
+          "type": "movie",
+          "name": "Azrael - Angel of Death",
+          "year": 2024,
+          "poster": "https://images.justwatch.com/poster/326195741/s592/azrael.jpg"
         }
       ]
     },
@@ -100,18 +100,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:47665",
-          "type": "series",
-          "name": "Black Sails",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
-        },
-        {
           "id": "tmdb:225385",
           "type": "series",
           "name": "Black Doves",
           "year": 2024,
           "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
+        },
+        {
+          "id": "tmdb:47665",
+          "type": "series",
+          "name": "Black Sails",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
         },
         {
           "id": "tmdb:84773",
@@ -135,13 +135,6 @@
           "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
         },
         {
-          "id": "tmdb:73550",
-          "type": "series",
-          "name": "Gunpowder",
-          "year": 2017,
-          "poster": "https://images.justwatch.com/poster/27368667/s592/Gunpowder.jpg"
-        },
-        {
           "id": "tmdb:248830",
           "type": "series",
           "name": "Stick",
@@ -156,18 +149,25 @@
           "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
         },
         {
-          "id": "tmdb:292741",
-          "type": "series",
-          "name": "Nocturne",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355257001/s592/lazarus.jpg"
-        },
-        {
           "id": "tmdb:314271",
           "type": "series",
           "name": "Bass X Machina",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354524515/s592/bass-x-machina.jpg"
+        },
+        {
+          "id": "tmdb:208569",
+          "type": "series",
+          "name": "Will Trent",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/331347971/s592/will-trent.jpg"
+        },
+        {
+          "id": "tmdb:258989",
+          "type": "series",
+          "name": "The Greatest",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/318907080/s592/the-greatest.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-09T14:55:57.988Z",
+    "generatedAt": "2026-11-10T14:08:55.579Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1233413",
       "tmdb:1294189",
       "tmdb:1042834",
-      "tmdb:353491",
-      "tmdb:791523",
       "tmdb:1101383",
-      "tmdb:1330610",
+      "tmdb:353491",
       "tmdb:1472668",
+      "tmdb:1330610",
       "tmdb:1483525",
-      "tmdb:1341137"
+      "tmdb:1634902",
+      "tmdb:1029235"
     ],
     "tmdbShows": [
-      "tmdb:47665",
       "tmdb:225385",
+      "tmdb:47665",
       "tmdb:84773",
       "tmdb:259909",
       "tmdb:297491",
-      "tmdb:73550",
       "tmdb:248830",
       "tmdb:1413",
-      "tmdb:292741",
-      "tmdb:314271"
+      "tmdb:314271",
+      "tmdb:208569",
+      "tmdb:258989"
     ]
   }
 }
