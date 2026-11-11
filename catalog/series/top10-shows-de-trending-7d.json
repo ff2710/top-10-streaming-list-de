@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
     },
     {
-      "id": "tmdb:47665",
-      "type": "series",
-      "name": "Black Sails",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
-    },
-    {
       "id": "tmdb:84773",
       "type": "series",
       "name": "Der Herr der Ringe: Die Ringe der Macht",
@@ -50,18 +43,18 @@
       "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
     },
     {
-      "id": "tmdb:314271",
+      "id": "tmdb:47665",
       "type": "series",
-      "name": "Bass X Machina",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/354524515/s592/bass-x-machina.jpg"
+      "name": "Black Sails",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
     },
     {
-      "id": "tmdb:208569",
+      "id": "tmdb:54650",
       "type": "series",
-      "name": "Will Trent",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/331347971/s592/will-trent.jpg"
+      "name": "Power",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
     },
     {
       "id": "tmdb:258989",
@@ -69,6 +62,13 @@
       "name": "The Greatest",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/318907080/s592/the-greatest.jpg"
+    },
+    {
+      "id": "tmdb:303044",
+      "type": "series",
+      "name": "Campus Drivers",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355300564/s592/campus-drivers.jpg"
     }
   ]
 }
