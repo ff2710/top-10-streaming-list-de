@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:225385",
-      "type": "series",
-      "name": "Black Doves",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
-    },
-    {
       "id": "tmdb:84773",
       "type": "series",
       "name": "Der Herr der Ringe: Die Ringe der Macht",
@@ -15,11 +8,11 @@
       "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
     },
     {
-      "id": "tmdb:259909",
+      "id": "tmdb:225385",
       "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+      "name": "Black Doves",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
     },
     {
       "id": "tmdb:297491",
@@ -29,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
     },
     {
-      "id": "tmdb:248830",
+      "id": "tmdb:259909",
       "type": "series",
-      "name": "Stick",
+      "name": "Dexter: Wiedererwachen",
       "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356207863/s592/stick.jpg"
+      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
     },
     {
       "id": "tmdb:1413",
@@ -43,13 +36,6 @@
       "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
     },
     {
-      "id": "tmdb:47665",
-      "type": "series",
-      "name": "Black Sails",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/176075761/s592/Black-Sails.jpg"
-    },
-    {
       "id": "tmdb:54650",
       "type": "series",
       "name": "Power",
@@ -57,18 +43,32 @@
       "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
     },
     {
-      "id": "tmdb:258989",
-      "type": "series",
-      "name": "The Greatest",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/318907080/s592/the-greatest.jpg"
-    },
-    {
       "id": "tmdb:303044",
       "type": "series",
       "name": "Campus Drivers",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355300564/s592/campus-drivers.jpg"
+    },
+    {
+      "id": "tmdb:213375",
+      "type": "series",
+      "name": "VisionQuest",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
+    },
+    {
+      "id": "tmdb:1429",
+      "type": "series",
+      "name": "Attack on Titan",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
+    },
+    {
+      "id": "tmdb:113828",
+      "type": "series",
+      "name": "Spy City",
+      "year": 2020,
+      "poster": "https://images.justwatch.com/poster/243988383/s592/Spy-City.jpg"
     }
   ]
 }
