@@ -43,11 +43,18 @@
       "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
     },
     {
+      "id": "tmdb:291507",
+      "type": "series",
+      "name": "The Body",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
+    },
+    {
       "id": "tmdb:303044",
       "type": "series",
       "name": "Campus Drivers",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355300564/s592/campus-drivers.jpg"
+      "poster": "https://images.justwatch.com/poster/357092225/s592/campus-drivers.jpg"
     },
     {
       "id": "tmdb:213375",
@@ -62,13 +69,6 @@
       "name": "Attack on Titan",
       "year": 2013,
       "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
-    },
-    {
-      "id": "tmdb:113828",
-      "type": "series",
-      "name": "Spy City",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/243988383/s592/Spy-City.jpg"
     }
   ]
 }
