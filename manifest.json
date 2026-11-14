@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-13T13:46:59.663Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-14T12:51:10.772Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -43,13 +43,6 @@
           "poster": "https://images.justwatch.com/poster/356693884/s592/the-train-2026.jpg"
         },
         {
-          "id": "tmdb:1472668",
-          "type": "movie",
-          "name": "Wick Is Pain",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/330474764/s592/wick-is-pain.jpg"
-        },
-        {
           "id": "tmdb:1263337",
           "type": "movie",
           "name": "Eiserne Wildnis – Heart of the Beast",
@@ -71,25 +64,32 @@
           "poster": "https://images.justwatch.com/poster/257237048/s592/Two.jpg"
         },
         {
-          "id": "tmdb:1483525",
-          "type": "movie",
-          "name": "Possible Love",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347600686/s592/possible-love.jpg"
-        },
-        {
-          "id": "tmdb:294793",
-          "type": "movie",
-          "name": "Der Anruf",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/271461070/s592/All-the-Old-Knives.jpg"
-        },
-        {
           "id": "tmdb:891621",
           "type": "movie",
           "name": "Wild Horse Nine",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/356514753/s592/wild-horse-nine.jpg"
+        },
+        {
+          "id": "tmdb:1472668",
+          "type": "movie",
+          "name": "Wick Is Pain",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/330474764/s592/wick-is-pain.jpg"
+        },
+        {
+          "id": "tmdb:188161",
+          "type": "movie",
+          "name": "A Million Ways To Die In The West",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/254161658/s592/A-Million-Ways-to-Die-in-the-West.jpg"
+        },
+        {
+          "id": "tmdb:467244",
+          "type": "movie",
+          "name": "The Zone of Interest",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/318533548/s592/the-zone-of-interest.jpg"
         }
       ]
     },
@@ -114,18 +114,11 @@
           "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
         },
         {
-          "id": "tmdb:297491",
+          "id": "tmdb:291507",
           "type": "series",
-          "name": "Palace",
+          "name": "The Body",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355366590/s592/palace.jpg"
-        },
-        {
-          "id": "tmdb:259909",
-          "type": "series",
-          "name": "Dexter: Wiedererwachen",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+          "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
         },
         {
           "id": "tmdb:1413",
@@ -142,20 +135,6 @@
           "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
         },
         {
-          "id": "tmdb:291507",
-          "type": "series",
-          "name": "The Body",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
-        },
-        {
-          "id": "tmdb:303044",
-          "type": "series",
-          "name": "Campus Drivers",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357092225/s592/campus-drivers.jpg"
-        },
-        {
           "id": "tmdb:213375",
           "type": "series",
           "name": "VisionQuest",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
         },
         {
-          "id": "tmdb:1429",
+          "id": "tmdb:259909",
           "type": "series",
-          "name": "Attack on Titan",
-          "year": 2013,
-          "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
+          "name": "Dexter: Wiedererwachen",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+        },
+        {
+          "id": "tmdb:297491",
+          "type": "series",
+          "name": "Palacio - Im Belagerungszustand",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357103972/s592/palace.jpg"
+        },
+        {
+          "id": "tmdb:235685",
+          "type": "series",
+          "name": "The Pendragon Cycle: Rise of the Merlin",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.jpg"
+        },
+        {
+          "id": "tmdb:303044",
+          "type": "series",
+          "name": "Campus Drivers",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357092225/s592/campus-drivers.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-13T13:46:59.663Z",
+    "generatedAt": "2026-11-14T12:51:10.772Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:467905",
       "tmdb:1101383",
       "tmdb:1634902",
-      "tmdb:1472668",
       "tmdb:1263337",
       "tmdb:1029235",
       "tmdb:811072",
-      "tmdb:1483525",
-      "tmdb:294793",
-      "tmdb:891621"
+      "tmdb:891621",
+      "tmdb:1472668",
+      "tmdb:188161",
+      "tmdb:467244"
     ],
     "tmdbShows": [
       "tmdb:84773",
       "tmdb:225385",
-      "tmdb:297491",
-      "tmdb:259909",
+      "tmdb:291507",
       "tmdb:1413",
       "tmdb:54650",
-      "tmdb:291507",
-      "tmdb:303044",
       "tmdb:213375",
-      "tmdb:1429"
+      "tmdb:259909",
+      "tmdb:297491",
+      "tmdb:235685",
+      "tmdb:303044"
     ]
   }
 }
