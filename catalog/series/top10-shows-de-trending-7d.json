@@ -8,25 +8,11 @@
       "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
     },
     {
-      "id": "tmdb:225385",
-      "type": "series",
-      "name": "Black Doves",
-      "year": 2024,
-      "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
-    },
-    {
       "id": "tmdb:291507",
       "type": "series",
       "name": "The Body",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
-    },
-    {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story - Die dunkle Seite in dir",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
     },
     {
       "id": "tmdb:54650",
@@ -36,6 +22,13 @@
       "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
     },
     {
+      "id": "tmdb:1413",
+      "type": "series",
+      "name": "American Horror Story - Die dunkle Seite in dir",
+      "year": 2011,
+      "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
+    },
+    {
       "id": "tmdb:213375",
       "type": "series",
       "name": "VisionQuest",
@@ -43,18 +36,18 @@
       "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
     },
     {
-      "id": "tmdb:259909",
+      "id": "tmdb:225385",
       "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+      "name": "Black Doves",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/323408766/s592/black-doves.jpg"
     },
     {
-      "id": "tmdb:297491",
+      "id": "tmdb:254630",
       "type": "series",
-      "name": "Palacio - Im Belagerungszustand",
+      "name": "12 12 12",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/357103972/s592/palace.jpg"
+      "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
     },
     {
       "id": "tmdb:235685",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.jpg"
     },
     {
-      "id": "tmdb:303044",
+      "id": "tmdb:72755",
       "type": "series",
-      "name": "Campus Drivers",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/357092225/s592/campus-drivers.jpg"
+      "name": "Absentia",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/339972781/s592/Absentia.jpg"
+    },
+    {
+      "id": "tmdb:1429",
+      "type": "series",
+      "name": "Attack on Titan",
+      "year": 2013,
+      "poster": "https://images.justwatch.com/poster/306747132/s592/Attack-on-Titan.jpg"
     }
   ]
 }
