@@ -15,18 +15,18 @@
       "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
     },
     {
-      "id": "tmdb:54650",
-      "type": "series",
-      "name": "Power",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
-    },
-    {
       "id": "tmdb:254630",
       "type": "series",
       "name": "12 12 12",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
+    },
+    {
+      "id": "tmdb:253372",
+      "type": "series",
+      "name": "The Institute",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
     },
     {
       "id": "tmdb:213375",
@@ -43,6 +43,13 @@
       "poster": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.jpg"
     },
     {
+      "id": "tmdb:54650",
+      "type": "series",
+      "name": "Power",
+      "year": 2014,
+      "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
+    },
+    {
       "id": "tmdb:72755",
       "type": "series",
       "name": "Absentia",
@@ -50,25 +57,18 @@
       "poster": "https://images.justwatch.com/poster/339972781/s592/Absentia.jpg"
     },
     {
-      "id": "tmdb:113828",
-      "type": "series",
-      "name": "Spy City",
-      "year": 2020,
-      "poster": "https://images.justwatch.com/poster/243988383/s592/Spy-City.jpg"
-    },
-    {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story - Die dunkle Seite in dir",
-      "year": 2011,
-      "poster": "https://images.justwatch.com/poster/307082535/s592/American-Horror-Story.jpg"
-    },
-    {
       "id": "tmdb:247718",
       "type": "series",
       "name": "MobLand: Familie bis aufs Blut",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
+      "id": "tmdb:131488",
+      "type": "series",
+      "name": "Die Kaiserin",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/300770560/s592/Die-Kaiserin.jpg"
     }
   ]
 }
