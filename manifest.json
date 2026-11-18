@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-17T15:22:33.004Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-18T14:57:17.557Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,32 +29,11 @@
           "poster": "https://images.justwatch.com/poster/346029353/s592/fall-2-deadpoint.jpg"
         },
         {
-          "id": "tmdb:467905",
-          "type": "movie",
-          "name": "How to Make a Killing: Todsicheres Erbe",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346650440/s592/huntington.jpg"
-        },
-        {
-          "id": "tmdb:811072",
-          "type": "movie",
-          "name": "Zwei",
-          "year": 2021,
-          "poster": "https://images.justwatch.com/poster/257237048/s592/Two.jpg"
-        },
-        {
           "id": "tmdb:1543469",
           "type": "movie",
           "name": "Heartland",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/357150127/s592/heartland-2026.jpg"
-        },
-        {
-          "id": "tmdb:891621",
-          "type": "movie",
-          "name": "Wild Horse Nine",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356514753/s592/wild-horse-nine.jpg"
         },
         {
           "id": "tmdb:1233575",
@@ -64,11 +43,25 @@
           "poster": "https://images.justwatch.com/poster/334024446/s592/black-bag-doppeltes-spiel.jpg"
         },
         {
-          "id": "tmdb:1263337",
+          "id": "tmdb:258230",
           "type": "movie",
-          "name": "Eiserne Wildnis – Heart of the Beast",
+          "name": "Sieben Minuten nach Mitternacht",
+          "year": 2016,
+          "poster": "https://images.justwatch.com/poster/147879516/s592/Sieben-Minuten-nach-Mitternacht.jpg"
+        },
+        {
+          "id": "tmdb:891621",
+          "type": "movie",
+          "name": "Wild Horse Nine",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356663981/s592/eiserne-wildnis-heart-of-the-beast.jpg"
+          "poster": "https://images.justwatch.com/poster/356514753/s592/wild-horse-nine.jpg"
+        },
+        {
+          "id": "tmdb:1518204",
+          "type": "movie",
+          "name": "Allen",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357182840/s592/allen.jpg"
         },
         {
           "id": "tmdb:1101383",
@@ -78,18 +71,25 @@
           "poster": "https://images.justwatch.com/poster/355424069/s592/flowervale-street.jpg"
         },
         {
-          "id": "tmdb:258230",
+          "id": "tmdb:1153714",
           "type": "movie",
-          "name": "Sieben Minuten nach Mitternacht",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/147879516/s592/Sieben-Minuten-nach-Mitternacht.jpg"
+          "name": "Death of a Unicorn",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
         },
         {
-          "id": "tmdb:1518204",
+          "id": "tmdb:188161",
           "type": "movie",
-          "name": "Allen",
+          "name": "A Million Ways To Die In The West",
+          "year": 2014,
+          "poster": "https://images.justwatch.com/poster/254161658/s592/A-Million-Ways-to-Die-in-the-West.jpg"
+        },
+        {
+          "id": "tmdb:1368337",
+          "type": "movie",
+          "name": "Die Odyssee",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357182840/s592/allen.jpg"
+          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         }
       ]
     },
@@ -142,13 +142,6 @@
           "poster": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.jpg"
         },
         {
-          "id": "tmdb:54650",
-          "type": "series",
-          "name": "Power",
-          "year": 2014,
-          "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
-        },
-        {
           "id": "tmdb:72755",
           "type": "series",
           "name": "Absentia",
@@ -161,6 +154,13 @@
           "name": "MobLand: Familie bis aufs Blut",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+        },
+        {
+          "id": "tmdb:335981",
+          "type": "series",
+          "name": "Cunk on Cinema",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.jpg"
         },
         {
           "id": "tmdb:131488",
@@ -177,20 +177,20 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-17T15:22:33.004Z",
+    "generatedAt": "2026-11-18T14:57:17.557Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1101412",
-      "tmdb:467905",
-      "tmdb:811072",
       "tmdb:1543469",
-      "tmdb:891621",
       "tmdb:1233575",
-      "tmdb:1263337",
-      "tmdb:1101383",
       "tmdb:258230",
-      "tmdb:1518204"
+      "tmdb:891621",
+      "tmdb:1518204",
+      "tmdb:1101383",
+      "tmdb:1153714",
+      "tmdb:188161",
+      "tmdb:1368337"
     ],
     "tmdbShows": [
       "tmdb:84773",
@@ -199,9 +199,9 @@
       "tmdb:253372",
       "tmdb:213375",
       "tmdb:235685",
-      "tmdb:54650",
       "tmdb:72755",
       "tmdb:247718",
+      "tmdb:335981",
       "tmdb:131488"
     ]
   }

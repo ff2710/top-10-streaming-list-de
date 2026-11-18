@@ -43,13 +43,6 @@
       "poster": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.jpg"
     },
     {
-      "id": "tmdb:54650",
-      "type": "series",
-      "name": "Power",
-      "year": 2014,
-      "poster": "https://images.justwatch.com/poster/61127298/s592/Power.jpg"
-    },
-    {
       "id": "tmdb:72755",
       "type": "series",
       "name": "Absentia",
@@ -62,6 +55,13 @@
       "name": "MobLand: Familie bis aufs Blut",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
+      "id": "tmdb:335981",
+      "type": "series",
+      "name": "Cunk on Cinema",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.jpg"
     },
     {
       "id": "tmdb:131488",
