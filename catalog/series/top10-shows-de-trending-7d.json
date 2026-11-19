@@ -29,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
     },
     {
-      "id": "tmdb:213375",
-      "type": "series",
-      "name": "VisionQuest",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
-    },
-    {
       "id": "tmdb:235685",
       "type": "series",
       "name": "The Pendragon Cycle: Rise of the Merlin",
@@ -43,18 +36,18 @@
       "poster": "https://images.justwatch.com/poster/339887859/s592/the-pendragon-cycle-rise-of-the-merlin.jpg"
     },
     {
-      "id": "tmdb:72755",
-      "type": "series",
-      "name": "Absentia",
-      "year": 2017,
-      "poster": "https://images.justwatch.com/poster/339972781/s592/Absentia.jpg"
-    },
-    {
       "id": "tmdb:247718",
       "type": "series",
       "name": "MobLand: Familie bis aufs Blut",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
+      "id": "tmdb:213375",
+      "type": "series",
+      "name": "VisionQuest",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
     },
     {
       "id": "tmdb:335981",
@@ -69,6 +62,13 @@
       "name": "Die Kaiserin",
       "year": 2022,
       "poster": "https://images.justwatch.com/poster/300770560/s592/Die-Kaiserin.jpg"
+    },
+    {
+      "id": "tmdb:72755",
+      "type": "series",
+      "name": "Absentia",
+      "year": 2017,
+      "poster": "https://images.justwatch.com/poster/339972781/s592/Absentia.jpg"
     }
   ]
 }
