@@ -1,25 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:84773",
-      "type": "series",
-      "name": "Der Herr der Ringe: Die Ringe der Macht",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
-    },
-    {
-      "id": "tmdb:254630",
-      "type": "series",
-      "name": "12 12 12",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
-    },
-    {
       "id": "tmdb:253372",
       "type": "series",
       "name": "The Institute",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
+    },
+    {
+      "id": "tmdb:84773",
+      "type": "series",
+      "name": "Der Herr der Ringe: Die Ringe der Macht",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
     },
     {
       "id": "tmdb:291507",
@@ -29,11 +22,25 @@
       "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
     },
     {
+      "id": "tmdb:254630",
+      "type": "series",
+      "name": "12 12 12",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
+    },
+    {
       "id": "tmdb:247718",
       "type": "series",
       "name": "MobLand: Familie bis aufs Blut",
       "year": 2025,
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+    },
+    {
+      "id": "tmdb:62717",
+      "type": "series",
+      "name": "Jonathan Strange & Mr Norrell",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
     },
     {
       "id": "tmdb:340280",
@@ -50,25 +57,18 @@
       "poster": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.jpg"
     },
     {
-      "id": "tmdb:62717",
-      "type": "series",
-      "name": "Jonathan Strange & Mr Norrell",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
-    },
-    {
-      "id": "tmdb:213375",
-      "type": "series",
-      "name": "VisionQuest",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
-    },
-    {
       "id": "tmdb:332839",
       "type": "series",
       "name": "Das Bestiengesetz",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/357272350/s592/the-law-of-beasts.jpg"
+    },
+    {
+      "id": "tmdb:85077",
+      "type": "series",
+      "name": "The Chosen - Der Auserwählte",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
     }
   ]
 }

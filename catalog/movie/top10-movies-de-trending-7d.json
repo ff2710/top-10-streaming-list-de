@@ -8,13 +8,6 @@
       "poster": "https://images.justwatch.com/poster/346029353/s592/fall-2-deadpoint.jpg"
     },
     {
-      "id": "tmdb:1543469",
-      "type": "movie",
-      "name": "Heartland",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/357150127/s592/heartland-2026.jpg"
-    },
-    {
       "id": "tmdb:1368337",
       "type": "movie",
       "name": "Die Odyssee",
@@ -36,13 +29,6 @@
       "poster": "https://images.justwatch.com/poster/147879516/s592/Sieben-Minuten-nach-Mitternacht.jpg"
     },
     {
-      "id": "tmdb:1153714",
-      "type": "movie",
-      "name": "Death of a Unicorn",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
-    },
-    {
       "id": "tmdb:1290821",
       "type": "movie",
       "name": "Shelter",
@@ -50,11 +36,18 @@
       "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
     },
     {
-      "id": "tmdb:1101383",
+      "id": "tmdb:1153714",
       "type": "movie",
-      "name": "The End of Oak Street",
+      "name": "Death of a Unicorn",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
+    },
+    {
+      "id": "tmdb:1131943",
+      "type": "movie",
+      "name": "Madden",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355424069/s592/flowervale-street.jpg"
+      "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
     },
     {
       "id": "tmdb:1083968",
@@ -64,11 +57,18 @@
       "poster": "https://images.justwatch.com/poster/333348318/s592/locked.jpg"
     },
     {
-      "id": "tmdb:1131943",
+      "id": "tmdb:744857",
       "type": "movie",
-      "name": "Madden",
+      "name": "When Evil Lurks",
+      "year": 2023,
+      "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
+    },
+    {
+      "id": "tmdb:1283515",
+      "type": "movie",
+      "name": "Verity – Dunkle Geheimnisse",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
     }
   ]
 }

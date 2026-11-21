@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-20T14:45:40.550Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-21T14:01:07.205Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -29,13 +29,6 @@
           "poster": "https://images.justwatch.com/poster/346029353/s592/fall-2-deadpoint.jpg"
         },
         {
-          "id": "tmdb:1543469",
-          "type": "movie",
-          "name": "Heartland",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357150127/s592/heartland-2026.jpg"
-        },
-        {
           "id": "tmdb:1368337",
           "type": "movie",
           "name": "Die Odyssee",
@@ -57,13 +50,6 @@
           "poster": "https://images.justwatch.com/poster/147879516/s592/Sieben-Minuten-nach-Mitternacht.jpg"
         },
         {
-          "id": "tmdb:1153714",
-          "type": "movie",
-          "name": "Death of a Unicorn",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
-        },
-        {
           "id": "tmdb:1290821",
           "type": "movie",
           "name": "Shelter",
@@ -71,11 +57,18 @@
           "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
         },
         {
-          "id": "tmdb:1101383",
+          "id": "tmdb:1153714",
           "type": "movie",
-          "name": "The End of Oak Street",
+          "name": "Death of a Unicorn",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
+        },
+        {
+          "id": "tmdb:1131943",
+          "type": "movie",
+          "name": "Madden",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355424069/s592/flowervale-street.jpg"
+          "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
         },
         {
           "id": "tmdb:1083968",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/333348318/s592/locked.jpg"
         },
         {
-          "id": "tmdb:1131943",
+          "id": "tmdb:744857",
           "type": "movie",
-          "name": "Madden",
+          "name": "When Evil Lurks",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
+        },
+        {
+          "id": "tmdb:1283515",
+          "type": "movie",
+          "name": "Verity – Dunkle Geheimnisse",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
+          "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
         }
       ]
     },
@@ -100,25 +100,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:84773",
-          "type": "series",
-          "name": "Der Herr der Ringe: Die Ringe der Macht",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
-        },
-        {
-          "id": "tmdb:254630",
-          "type": "series",
-          "name": "12 12 12",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
-        },
-        {
           "id": "tmdb:253372",
           "type": "series",
           "name": "The Institute",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
+        },
+        {
+          "id": "tmdb:84773",
+          "type": "series",
+          "name": "Der Herr der Ringe: Die Ringe der Macht",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
         },
         {
           "id": "tmdb:291507",
@@ -128,11 +121,25 @@
           "poster": "https://images.justwatch.com/poster/348311748/s592/the-body.jpg"
         },
         {
+          "id": "tmdb:254630",
+          "type": "series",
+          "name": "12 12 12",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
+        },
+        {
           "id": "tmdb:247718",
           "type": "series",
           "name": "MobLand: Familie bis aufs Blut",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
+        },
+        {
+          "id": "tmdb:62717",
+          "type": "series",
+          "name": "Jonathan Strange & Mr Norrell",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
         },
         {
           "id": "tmdb:340280",
@@ -149,25 +156,18 @@
           "poster": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.jpg"
         },
         {
-          "id": "tmdb:62717",
-          "type": "series",
-          "name": "Jonathan Strange & Mr Norrell",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
-        },
-        {
-          "id": "tmdb:213375",
-          "type": "series",
-          "name": "VisionQuest",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/348281318/s592/visionquest-1.jpg"
-        },
-        {
           "id": "tmdb:332839",
           "type": "series",
           "name": "Das Bestiengesetz",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/357272350/s592/the-law-of-beasts.jpg"
+        },
+        {
+          "id": "tmdb:85077",
+          "type": "series",
+          "name": "The Chosen - Der Auserwählte",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-20T14:45:40.550Z",
+    "generatedAt": "2026-11-21T14:01:07.205Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1101412",
-      "tmdb:1543469",
       "tmdb:1368337",
       "tmdb:1233575",
       "tmdb:258230",
-      "tmdb:1153714",
       "tmdb:1290821",
-      "tmdb:1101383",
+      "tmdb:1153714",
+      "tmdb:1131943",
       "tmdb:1083968",
-      "tmdb:1131943"
+      "tmdb:744857",
+      "tmdb:1283515"
     ],
     "tmdbShows": [
-      "tmdb:84773",
-      "tmdb:254630",
       "tmdb:253372",
+      "tmdb:84773",
       "tmdb:291507",
+      "tmdb:254630",
       "tmdb:247718",
+      "tmdb:62717",
       "tmdb:340280",
       "tmdb:335981",
-      "tmdb:62717",
-      "tmdb:213375",
-      "tmdb:332839"
+      "tmdb:332839",
+      "tmdb:85077"
     ]
   }
 }
