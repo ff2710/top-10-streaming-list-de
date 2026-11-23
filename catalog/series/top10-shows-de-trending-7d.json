@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:253372",
+      "id": "tmdb:2985",
       "type": "series",
-      "name": "The Institute",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
+      "name": "Andromeda",
+      "year": 2000,
+      "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -29,6 +29,13 @@
       "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
     },
     {
+      "id": "tmdb:253372",
+      "type": "series",
+      "name": "The Institute",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
+    },
+    {
       "id": "tmdb:291507",
       "type": "series",
       "name": "The Body",
@@ -43,20 +50,6 @@
       "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
     },
     {
-      "id": "tmdb:2985",
-      "type": "series",
-      "name": "Andromeda",
-      "year": 2000,
-      "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
-    },
-    {
-      "id": "tmdb:254630",
-      "type": "series",
-      "name": "12 12 12",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
-    },
-    {
       "id": "tmdb:332839",
       "type": "series",
       "name": "Das Bestiengesetz",
@@ -69,6 +62,13 @@
       "name": "Cunk on Cinema",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.jpg"
+    },
+    {
+      "id": "tmdb:308007",
+      "type": "series",
+      "name": "The Altruists",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/357109853/s592/the-altruists.jpg"
     }
   ]
 }

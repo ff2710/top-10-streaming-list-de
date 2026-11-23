@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-22T13:55:14.023Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-23T17:07:47.863Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -36,18 +36,11 @@
           "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
         },
         {
-          "id": "tmdb:258230",
+          "id": "tmdb:1131943",
           "type": "movie",
-          "name": "Sieben Minuten nach Mitternacht",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/147879516/s592/Sieben-Minuten-nach-Mitternacht.jpg"
-        },
-        {
-          "id": "tmdb:1233575",
-          "type": "movie",
-          "name": "Black Bag - Doppeltes Spiel",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/334024446/s592/black-bag-doppeltes-spiel.jpg"
+          "name": "Madden",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
         },
         {
           "id": "tmdb:1153714",
@@ -57,13 +50,6 @@
           "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
         },
         {
-          "id": "tmdb:1131943",
-          "type": "movie",
-          "name": "Madden",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
-        },
-        {
           "id": "tmdb:744857",
           "type": "movie",
           "name": "When Evil Lurks",
@@ -71,11 +57,11 @@
           "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
         },
         {
-          "id": "tmdb:1101412",
+          "id": "tmdb:1283515",
           "type": "movie",
-          "name": "Fall 2: Deadpoint",
+          "name": "Verity – Dunkle Geheimnisse",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/346029353/s592/fall-2-deadpoint.jpg"
+          "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
         },
         {
           "id": "tmdb:1083968",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/333348318/s592/locked.jpg"
         },
         {
-          "id": "tmdb:1283515",
+          "id": "tmdb:1606527",
           "type": "movie",
-          "name": "Verity – Dunkle Geheimnisse",
+          "name": "418",
           "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
+          "poster": "https://images.justwatch.com/poster/354594106/s592/418.jpg"
+        },
+        {
+          "id": "tmdb:70160",
+          "type": "movie",
+          "name": "Die Tribute von Panem - The Hunger Games",
+          "year": 2012,
+          "poster": "https://images.justwatch.com/poster/178011393/s592/Die-Tribute-von-Panem-The-Hunger-Games.jpg"
+        },
+        {
+          "id": "tmdb:1551025",
+          "type": "movie",
+          "name": "Guarding Stars",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357372608/s592/guarding-stars.jpg"
         }
       ]
     },
@@ -100,11 +100,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:253372",
+          "id": "tmdb:2985",
           "type": "series",
-          "name": "The Institute",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
+          "name": "Andromeda",
+          "year": 2000,
+          "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
         },
         {
           "id": "tmdb:247718",
@@ -128,6 +128,13 @@
           "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
         },
         {
+          "id": "tmdb:253372",
+          "type": "series",
+          "name": "The Institute",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/356937332/s592/the-institute.jpg"
+        },
+        {
           "id": "tmdb:291507",
           "type": "series",
           "name": "The Body",
@@ -142,20 +149,6 @@
           "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
         },
         {
-          "id": "tmdb:2985",
-          "type": "series",
-          "name": "Andromeda",
-          "year": 2000,
-          "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
-        },
-        {
-          "id": "tmdb:254630",
-          "type": "series",
-          "name": "12 12 12",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/355644205/s592/12-12-12.jpg"
-        },
-        {
           "id": "tmdb:332839",
           "type": "series",
           "name": "Das Bestiengesetz",
@@ -168,6 +161,13 @@
           "name": "Cunk on Cinema",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/356995715/s592/cunk-on-cinema.jpg"
+        },
+        {
+          "id": "tmdb:308007",
+          "type": "series",
+          "name": "The Altruists",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357109853/s592/the-altruists.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-22T13:55:14.023Z",
+    "generatedAt": "2026-11-23T17:07:47.863Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
       "tmdb:1368337",
       "tmdb:1290821",
-      "tmdb:258230",
-      "tmdb:1233575",
-      "tmdb:1153714",
       "tmdb:1131943",
+      "tmdb:1153714",
       "tmdb:744857",
-      "tmdb:1101412",
+      "tmdb:1283515",
       "tmdb:1083968",
-      "tmdb:1283515"
+      "tmdb:1606527",
+      "tmdb:70160",
+      "tmdb:1551025"
     ],
     "tmdbShows": [
-      "tmdb:253372",
+      "tmdb:2985",
       "tmdb:247718",
       "tmdb:62717",
       "tmdb:340280",
+      "tmdb:253372",
       "tmdb:291507",
       "tmdb:84773",
-      "tmdb:2985",
-      "tmdb:254630",
       "tmdb:332839",
-      "tmdb:335981"
+      "tmdb:335981",
+      "tmdb:308007"
     ]
   }
 }
