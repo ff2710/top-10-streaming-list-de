@@ -22,32 +22,11 @@
       "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
     },
     {
-      "id": "tmdb:1153714",
-      "type": "movie",
-      "name": "Death of a Unicorn",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/332951337/s592/death-of-a-unicorn.jpg"
-    },
-    {
       "id": "tmdb:744857",
       "type": "movie",
       "name": "When Evil Lurks",
       "year": 2023,
       "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
-    },
-    {
-      "id": "tmdb:1283515",
-      "type": "movie",
-      "name": "Verity – Dunkle Geheimnisse",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
-    },
-    {
-      "id": "tmdb:1083968",
-      "type": "movie",
-      "name": "Locked",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/333348318/s592/locked.jpg"
     },
     {
       "id": "tmdb:1606527",
@@ -57,6 +36,13 @@
       "poster": "https://images.justwatch.com/poster/354594106/s592/418.jpg"
     },
     {
+      "id": "tmdb:1283515",
+      "type": "movie",
+      "name": "Verity – Dunkle Geheimnisse",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
+    },
+    {
       "id": "tmdb:70160",
       "type": "movie",
       "name": "Die Tribute von Panem - The Hunger Games",
@@ -64,11 +50,25 @@
       "poster": "https://images.justwatch.com/poster/178011393/s592/Die-Tribute-von-Panem-The-Hunger-Games.jpg"
     },
     {
+      "id": "tmdb:1083968",
+      "type": "movie",
+      "name": "Locked",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/333348318/s592/locked.jpg"
+    },
+    {
       "id": "tmdb:1551025",
       "type": "movie",
       "name": "Guarding Stars",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/357372608/s592/guarding-stars.jpg"
+    },
+    {
+      "id": "tmdb:334524",
+      "type": "movie",
+      "name": "Gold: Gier hat eine neue Farbe",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/24087064/s592/Gold-2016.jpg"
     }
   ]
 }
