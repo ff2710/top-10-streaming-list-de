@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-24T16:51:31.714Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-25T16:39:40.671Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,18 +22,18 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1368337",
-          "type": "movie",
-          "name": "Die Odyssee",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-        },
-        {
           "id": "tmdb:1290821",
           "type": "movie",
           "name": "Shelter",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
+        },
+        {
+          "id": "tmdb:1368337",
+          "type": "movie",
+          "name": "Die Odyssee",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
         },
         {
           "id": "tmdb:1131943",
@@ -43,18 +43,18 @@
           "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
         },
         {
-          "id": "tmdb:744857",
-          "type": "movie",
-          "name": "When Evil Lurks",
-          "year": 2023,
-          "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
-        },
-        {
           "id": "tmdb:1606527",
           "type": "movie",
           "name": "418",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/354594106/s592/418.jpg"
+        },
+        {
+          "id": "tmdb:744857",
+          "type": "movie",
+          "name": "When Evil Lurks",
+          "year": 2023,
+          "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
         },
         {
           "id": "tmdb:1283515",
@@ -71,13 +71,6 @@
           "poster": "https://images.justwatch.com/poster/178011393/s592/Die-Tribute-von-Panem-The-Hunger-Games.jpg"
         },
         {
-          "id": "tmdb:1083968",
-          "type": "movie",
-          "name": "Locked",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/333348318/s592/locked.jpg"
-        },
-        {
           "id": "tmdb:1551025",
           "type": "movie",
           "name": "Guarding Stars",
@@ -85,11 +78,18 @@
           "poster": "https://images.justwatch.com/poster/357372608/s592/guarding-stars.jpg"
         },
         {
-          "id": "tmdb:334524",
+          "id": "tmdb:1611767",
           "type": "movie",
-          "name": "Gold: Gier hat eine neue Farbe",
-          "year": 2016,
-          "poster": "https://images.justwatch.com/poster/24087064/s592/Gold-2016.jpg"
+          "name": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/356845970/s592/clashing-through-the-snow.jpg"
+        },
+        {
+          "id": "tmdb:610363",
+          "type": "movie",
+          "name": "The One - Die einzige Überlebende",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/301091209/s592/Odna.jpg"
         }
       ]
     },
@@ -114,13 +114,6 @@
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
         },
         {
-          "id": "tmdb:62717",
-          "type": "series",
-          "name": "Jonathan Strange & Mr Norrell",
-          "year": 2015,
-          "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
-        },
-        {
           "id": "tmdb:340280",
           "type": "series",
           "name": "Gordon",
@@ -128,11 +121,11 @@
           "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
         },
         {
-          "id": "tmdb:84773",
+          "id": "tmdb:62717",
           "type": "series",
-          "name": "Der Herr der Ringe: Die Ringe der Macht",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
+          "name": "Jonathan Strange & Mr Norrell",
+          "year": 2015,
+          "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
         },
         {
           "id": "tmdb:332839",
@@ -142,20 +135,6 @@
           "poster": "https://images.justwatch.com/poster/357272350/s592/the-law-of-beasts.jpg"
         },
         {
-          "id": "tmdb:85077",
-          "type": "series",
-          "name": "The Chosen - Der Auserwählte",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
-        },
-        {
-          "id": "tmdb:259909",
-          "type": "series",
-          "name": "Dexter: Wiedererwachen",
-          "year": 2025,
-          "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
-        },
-        {
           "id": "tmdb:103540",
           "type": "series",
           "name": "Percy Jackson: Die Serie",
@@ -163,11 +142,32 @@
           "poster": "https://images.justwatch.com/poster/346660752/s592/Percy-Jackson-and-the-Olympians.jpg"
         },
         {
+          "id": "tmdb:84773",
+          "type": "series",
+          "name": "Der Herr der Ringe: Die Ringe der Macht",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
+        },
+        {
+          "id": "tmdb:85077",
+          "type": "series",
+          "name": "The Chosen - Der Auserwählte",
+          "year": 2019,
+          "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
+        },
+        {
           "id": "tmdb:308007",
           "type": "series",
           "name": "The Altruists",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/357109853/s592/the-altruists.jpg"
+        },
+        {
+          "id": "tmdb:259909",
+          "type": "series",
+          "name": "Dexter: Wiedererwachen",
+          "year": 2025,
+          "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-24T16:51:31.714Z",
+    "generatedAt": "2026-11-25T16:39:40.671Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1368337",
       "tmdb:1290821",
+      "tmdb:1368337",
       "tmdb:1131943",
-      "tmdb:744857",
       "tmdb:1606527",
+      "tmdb:744857",
       "tmdb:1283515",
       "tmdb:70160",
-      "tmdb:1083968",
       "tmdb:1551025",
-      "tmdb:334524"
+      "tmdb:1611767",
+      "tmdb:610363"
     ],
     "tmdbShows": [
       "tmdb:2985",
       "tmdb:247718",
-      "tmdb:62717",
       "tmdb:340280",
-      "tmdb:84773",
+      "tmdb:62717",
       "tmdb:332839",
-      "tmdb:85077",
-      "tmdb:259909",
       "tmdb:103540",
-      "tmdb:308007"
+      "tmdb:84773",
+      "tmdb:85077",
+      "tmdb:308007",
+      "tmdb:259909"
     ]
   }
 }

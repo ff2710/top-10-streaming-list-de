@@ -15,13 +15,6 @@
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
-      "id": "tmdb:62717",
-      "type": "series",
-      "name": "Jonathan Strange & Mr Norrell",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
-    },
-    {
       "id": "tmdb:340280",
       "type": "series",
       "name": "Gordon",
@@ -29,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
     },
     {
-      "id": "tmdb:84773",
+      "id": "tmdb:62717",
       "type": "series",
-      "name": "Der Herr der Ringe: Die Ringe der Macht",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
+      "name": "Jonathan Strange & Mr Norrell",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
     },
     {
       "id": "tmdb:332839",
@@ -43,20 +36,6 @@
       "poster": "https://images.justwatch.com/poster/357272350/s592/the-law-of-beasts.jpg"
     },
     {
-      "id": "tmdb:85077",
-      "type": "series",
-      "name": "The Chosen - Der Auserwählte",
-      "year": 2019,
-      "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
-    },
-    {
-      "id": "tmdb:259909",
-      "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
-    },
-    {
       "id": "tmdb:103540",
       "type": "series",
       "name": "Percy Jackson: Die Serie",
@@ -64,11 +43,32 @@
       "poster": "https://images.justwatch.com/poster/346660752/s592/Percy-Jackson-and-the-Olympians.jpg"
     },
     {
+      "id": "tmdb:84773",
+      "type": "series",
+      "name": "Der Herr der Ringe: Die Ringe der Macht",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
+    },
+    {
+      "id": "tmdb:85077",
+      "type": "series",
+      "name": "The Chosen - Der Auserwählte",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
+    },
+    {
       "id": "tmdb:308007",
       "type": "series",
       "name": "The Altruists",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/357109853/s592/the-altruists.jpg"
+    },
+    {
+      "id": "tmdb:259909",
+      "type": "series",
+      "name": "Dexter: Wiedererwachen",
+      "year": 2025,
+      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
     }
   ]
 }
