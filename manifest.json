@@ -2,7 +2,7 @@
   "id": "de.justwatch.top10-7days",
   "version": "1.0.0",
   "name": "JustWatch Top 10 Trending DE (7 Days)",
-  "description": "Auto-generated 2026-11-25T16:39:40.671Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
+  "description": "Auto-generated 2026-11-26T16:13:22.617Z. Top 10 Trending Movies & Shows in Germany – last 7 days.",
   "logo": "https://www.justwatch.com/appassets/img/logo/JustWatch-logo-large.webp",
   "resources": [
     "catalog"
@@ -22,25 +22,11 @@
       "extra": [],
       "items": [
         {
-          "id": "tmdb:1290821",
-          "type": "movie",
-          "name": "Shelter",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
-        },
-        {
           "id": "tmdb:1368337",
           "type": "movie",
           "name": "Die Odyssee",
           "year": 2026,
           "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-        },
-        {
-          "id": "tmdb:1131943",
-          "type": "movie",
-          "name": "Madden",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
         },
         {
           "id": "tmdb:1606527",
@@ -64,18 +50,18 @@
           "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
         },
         {
+          "id": "tmdb:1290821",
+          "type": "movie",
+          "name": "Shelter",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
+        },
+        {
           "id": "tmdb:70160",
           "type": "movie",
           "name": "Die Tribute von Panem - The Hunger Games",
           "year": 2012,
           "poster": "https://images.justwatch.com/poster/178011393/s592/Die-Tribute-von-Panem-The-Hunger-Games.jpg"
-        },
-        {
-          "id": "tmdb:1551025",
-          "type": "movie",
-          "name": "Guarding Stars",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357372608/s592/guarding-stars.jpg"
         },
         {
           "id": "tmdb:1611767",
@@ -85,11 +71,25 @@
           "poster": "https://images.justwatch.com/poster/356845970/s592/clashing-through-the-snow.jpg"
         },
         {
+          "id": "tmdb:1131943",
+          "type": "movie",
+          "name": "Madden",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
+        },
+        {
           "id": "tmdb:610363",
           "type": "movie",
           "name": "The One - Die einzige Überlebende",
           "year": 2022,
           "poster": "https://images.justwatch.com/poster/301091209/s592/Odna.jpg"
+        },
+        {
+          "id": "tmdb:582014",
+          "type": "movie",
+          "name": "Promising Young Woman",
+          "year": 2020,
+          "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
         }
       ]
     },
@@ -107,18 +107,18 @@
           "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
         },
         {
+          "id": "tmdb:171802",
+          "type": "series",
+          "name": "Blade Runner 2099",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/347616853/s592/blade-runner-2099.jpg"
+        },
+        {
           "id": "tmdb:247718",
           "type": "series",
           "name": "MobLand: Familie bis aufs Blut",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
-        },
-        {
-          "id": "tmdb:340280",
-          "type": "series",
-          "name": "Gordon",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
         },
         {
           "id": "tmdb:62717",
@@ -128,13 +128,6 @@
           "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
         },
         {
-          "id": "tmdb:332839",
-          "type": "series",
-          "name": "Das Bestiengesetz",
-          "year": 2026,
-          "poster": "https://images.justwatch.com/poster/357272350/s592/the-law-of-beasts.jpg"
-        },
-        {
           "id": "tmdb:103540",
           "type": "series",
           "name": "Percy Jackson: Die Serie",
@@ -142,18 +135,18 @@
           "poster": "https://images.justwatch.com/poster/346660752/s592/Percy-Jackson-and-the-Olympians.jpg"
         },
         {
-          "id": "tmdb:84773",
+          "id": "tmdb:340280",
           "type": "series",
-          "name": "Der Herr der Ringe: Die Ringe der Macht",
-          "year": 2022,
-          "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
+          "name": "Gordon",
+          "year": 2026,
+          "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
         },
         {
-          "id": "tmdb:85077",
+          "id": "tmdb:124364",
           "type": "series",
-          "name": "The Chosen - Der Auserwählte",
-          "year": 2019,
-          "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
+          "name": "From",
+          "year": 2022,
+          "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
         },
         {
           "id": "tmdb:308007",
@@ -168,6 +161,13 @@
           "name": "Dexter: Wiedererwachen",
           "year": 2025,
           "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+        },
+        {
+          "id": "tmdb:117488",
+          "type": "series",
+          "name": "Yellowjackets",
+          "year": 2021,
+          "poster": "https://images.justwatch.com/poster/259067422/s592/Yellowjackets.jpg"
         }
       ]
     }
@@ -177,32 +177,32 @@
     "adult": false
   },
   "_meta": {
-    "generatedAt": "2026-11-25T16:39:40.671Z",
+    "generatedAt": "2026-11-26T16:13:22.617Z",
     "source": "https://www.justwatch.com/de/streaming-charts",
     "country": "DE",
     "tmdbMovies": [
-      "tmdb:1290821",
       "tmdb:1368337",
-      "tmdb:1131943",
       "tmdb:1606527",
       "tmdb:744857",
       "tmdb:1283515",
+      "tmdb:1290821",
       "tmdb:70160",
-      "tmdb:1551025",
       "tmdb:1611767",
-      "tmdb:610363"
+      "tmdb:1131943",
+      "tmdb:610363",
+      "tmdb:582014"
     ],
     "tmdbShows": [
       "tmdb:2985",
+      "tmdb:171802",
       "tmdb:247718",
-      "tmdb:340280",
       "tmdb:62717",
-      "tmdb:332839",
       "tmdb:103540",
-      "tmdb:84773",
-      "tmdb:85077",
+      "tmdb:340280",
+      "tmdb:124364",
       "tmdb:308007",
-      "tmdb:259909"
+      "tmdb:259909",
+      "tmdb:117488"
     ]
   }
 }
