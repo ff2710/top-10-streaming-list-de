@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1368337",
-      "type": "movie",
-      "name": "Die Odyssee",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
-    },
-    {
       "id": "tmdb:1606527",
       "type": "movie",
       "name": "418",
@@ -15,25 +8,18 @@
       "poster": "https://images.justwatch.com/poster/354594106/s592/418.jpg"
     },
     {
-      "id": "tmdb:744857",
+      "id": "tmdb:969681",
       "type": "movie",
-      "name": "When Evil Lurks",
-      "year": 2023,
-      "poster": "https://images.justwatch.com/poster/326229820/s592/when-evil-lurks.jpg"
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/355176085/s592/spider-man-4.jpg"
     },
     {
-      "id": "tmdb:1283515",
+      "id": "tmdb:1368337",
       "type": "movie",
-      "name": "Verity – Dunkle Geheimnisse",
+      "name": "Die Odyssee",
       "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
-    },
-    {
-      "id": "tmdb:1290821",
-      "type": "movie",
-      "name": "Shelter",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/343792951/s592/shelter-2026.jpg"
+      "poster": "https://images.justwatch.com/poster/347235406/s592/the-odyssey-2026.jpg"
     },
     {
       "id": "tmdb:70160",
@@ -43,18 +29,25 @@
       "poster": "https://images.justwatch.com/poster/178011393/s592/Die-Tribute-von-Panem-The-Hunger-Games.jpg"
     },
     {
+      "id": "tmdb:1283515",
+      "type": "movie",
+      "name": "Verity – Dunkle Geheimnisse",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/356319186/s592/verity.jpg"
+    },
+    {
+      "id": "tmdb:1458300",
+      "type": "movie",
+      "name": "The Mosquito Bowl",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/354524787/s592/the-mosquito-bowl.jpg"
+    },
+    {
       "id": "tmdb:1611767",
       "type": "movie",
       "name": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/356845970/s592/clashing-through-the-snow.jpg"
-    },
-    {
-      "id": "tmdb:1131943",
-      "type": "movie",
-      "name": "Madden",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/357568917/s592/madden-2026.jpg"
     },
     {
       "id": "tmdb:610363",
@@ -69,6 +62,13 @@
       "name": "Promising Young Woman",
       "year": 2020,
       "poster": "https://images.justwatch.com/poster/257420275/s592/Promising-Young-Woman.jpg"
+    },
+    {
+      "id": "tmdb:334524",
+      "type": "movie",
+      "name": "Gold: Gier hat eine neue Farbe",
+      "year": 2016,
+      "poster": "https://images.justwatch.com/poster/24087064/s592/Gold-2016.jpg"
     }
   ]
 }

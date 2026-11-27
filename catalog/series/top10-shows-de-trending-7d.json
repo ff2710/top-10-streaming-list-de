@@ -1,18 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:2985",
-      "type": "series",
-      "name": "Andromeda",
-      "year": 2000,
-      "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
-    },
-    {
       "id": "tmdb:171802",
       "type": "series",
       "name": "Blade Runner 2099",
       "year": 2026,
       "poster": "https://images.justwatch.com/poster/347616853/s592/blade-runner-2099.jpg"
+    },
+    {
+      "id": "tmdb:2985",
+      "type": "series",
+      "name": "Andromeda",
+      "year": 2000,
+      "poster": "https://images.justwatch.com/poster/244252880/s592/Andromeda.jpg"
     },
     {
       "id": "tmdb:247718",
@@ -22,11 +22,11 @@
       "poster": "https://images.justwatch.com/poster/331097126/s592/mobland.jpg"
     },
     {
-      "id": "tmdb:62717",
+      "id": "tmdb:124364",
       "type": "series",
-      "name": "Jonathan Strange & Mr Norrell",
-      "year": 2015,
-      "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
+      "name": "From",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
     },
     {
       "id": "tmdb:103540",
@@ -36,32 +36,11 @@
       "poster": "https://images.justwatch.com/poster/346660752/s592/Percy-Jackson-and-the-Olympians.jpg"
     },
     {
-      "id": "tmdb:340280",
+      "id": "tmdb:62717",
       "type": "series",
-      "name": "Gordon",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/356465760/s592/gordon.jpg"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From",
-      "year": 2022,
-      "poster": "https://images.justwatch.com/poster/321587621/s592/From.jpg"
-    },
-    {
-      "id": "tmdb:308007",
-      "type": "series",
-      "name": "The Altruists",
-      "year": 2026,
-      "poster": "https://images.justwatch.com/poster/357109853/s592/the-altruists.jpg"
-    },
-    {
-      "id": "tmdb:259909",
-      "type": "series",
-      "name": "Dexter: Wiedererwachen",
-      "year": 2025,
-      "poster": "https://images.justwatch.com/poster/356418646/s592/dexter-resurrection.jpg"
+      "name": "Jonathan Strange & Mr Norrell",
+      "year": 2015,
+      "poster": "https://images.justwatch.com/poster/355712488/s592/Jonathan-Strange-und-Mr-Norrell.jpg"
     },
     {
       "id": "tmdb:117488",
@@ -69,6 +48,27 @@
       "name": "Yellowjackets",
       "year": 2021,
       "poster": "https://images.justwatch.com/poster/259067422/s592/Yellowjackets.jpg"
+    },
+    {
+      "id": "tmdb:84773",
+      "type": "series",
+      "name": "Der Herr der Ringe: Die Ringe der Macht",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/356559058/s592/The-Lord-of-the-Rings.jpg"
+    },
+    {
+      "id": "tmdb:85077",
+      "type": "series",
+      "name": "The Chosen - Der Auserwählte",
+      "year": 2019,
+      "poster": "https://images.justwatch.com/poster/355654334/s592/the-chosen-der-auserwaehlte.jpg"
+    },
+    {
+      "id": "tmdb:308007",
+      "type": "series",
+      "name": "The Altruists",
+      "year": 2026,
+      "poster": "https://images.justwatch.com/poster/357109853/s592/the-altruists.jpg"
     }
   ]
 }
